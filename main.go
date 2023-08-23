@@ -20,7 +20,7 @@ import (
 	"gopkg.in/yaml.v3"
 )
 
-const DEFAULT_CONCURRENCY = 5 // 10 = too much? Binary search?
+const DEFAULT_CONCURRENCY = 10 // 5 = seemed to have little to no effect
 const DEFAULT_MAX_RETRIES = 10
 
 const indexFile = "huggingface.yaml"
@@ -128,10 +128,10 @@ func getModel(modelID string) (HFModel, error) {
 	var files HFModel
 
 	resp, err := http.Get(fmt.Sprintf("https://huggingface.co/api/models/%s", modelID))
-	defer resp.Body.Close()
 	if err != nil {
 		return files, err
 	}
+	defer resp.Body.Close()
 
 	err = json.NewDecoder(resp.Body).Decode(&files)
 	if err != nil {
@@ -144,23 +144,26 @@ func getModel(modelID string) (HFModel, error) {
 func getUrlUntilMaxOrBackoff(url string, max int, backoff *backoff.Backoff) ([]byte, error) {
 	var lastErr error
 
+	// TODO: clean this up once it works.
 	for retries := 0; retries < max; {
 		resp, err := http.Get(url)
-		defer resp.Body.Close()
 
 		if err != nil {
 			d := backoff.Duration()
 			lastErr = fmt.Errorf("retry [%d]: failed to fetch the web page: %v\nretrying in %s", retries, err, d)
 			fmt.Println(lastErr) // TODO: Test on github actions with these extra prints in place initially.
 			time.Sleep(d)
+			retries++
 			continue
 		}
+		defer resp.Body.Close()
 
 		if resp.StatusCode != 200 {
 			d := backoff.Duration()
 			lastErr = fmt.Errorf("retry [%d]: non-200 status code response: %d\nretrying in %s", retries, resp.StatusCode, d)
 			fmt.Println(lastErr) // TODO: Test on github actions with these extra prints in place initially.
 			time.Sleep(d)
+			retries++
 			continue
 		}
 
@@ -270,9 +273,9 @@ func scraperWorker(wg *sync.WaitGroup, c chan string, g chan GalleryModel) {
 
 	defer wg.Done()
 	backoff := &backoff.Backoff{
-		Min:    10 * time.Second,
-		Max:    5 * time.Minute, // Let it get _really_ slow
-		Factor: 4,               // relatively hard ?
+		Min:    30 * time.Second,
+		Max:    5 * time.Minute,
+		Factor: 3,
 		Jitter: true,
 	}
 
