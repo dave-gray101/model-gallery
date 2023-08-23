@@ -166,6 +166,7 @@ func getUrlUntilMaxOrBackoff(url string, max int, backoff *backoff.Backoff) ([]b
 
 		htmlData, err := io.ReadAll(resp.Body)
 		if err == nil {
+			backoff.Reset()
 			return htmlData, nil
 		}
 		d := backoff.Duration()
