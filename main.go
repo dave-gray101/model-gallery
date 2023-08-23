@@ -152,6 +152,7 @@ func getUrlUntilMaxOrBackoff(url string, max int, backoff *backoff.Backoff) ([]b
 			lastErr = fmt.Errorf("retry [%d]: failed to fetch the web page: %v\nretrying in %s", retries, err, d)
 			fmt.Println(lastErr) // TODO: Test on github actions with these extra prints in place initially.
 			time.Sleep(d)
+			continue
 		}
 
 		if resp.StatusCode != 200 {
@@ -159,6 +160,7 @@ func getUrlUntilMaxOrBackoff(url string, max int, backoff *backoff.Backoff) ([]b
 			lastErr = fmt.Errorf("retry [%d]: non-200 status code response: %d\nretrying in %s", retries, resp.StatusCode, d)
 			fmt.Println(lastErr) // TODO: Test on github actions with these extra prints in place initially.
 			time.Sleep(d)
+			continue
 		}
 
 		htmlData, err := io.ReadAll(resp.Body)
