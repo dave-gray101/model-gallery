@@ -13,10 +13,14 @@ import (
 	"strconv"
 	"strings"
 	"sync"
+	"time"
 
 	. "github.com/go-skynet/LocalAI/pkg/gallery"
+	"github.com/jpillora/backoff"
 	"gopkg.in/yaml.v3"
 )
+
+const EXP_MAX_RETRIES = 10
 
 const indexFile = "huggingface.yaml"
 
@@ -123,10 +127,10 @@ func getModel(modelID string) (HFModel, error) {
 	var files HFModel
 
 	resp, err := http.Get(fmt.Sprintf("https://huggingface.co/api/models/%s", modelID))
+	defer resp.Body.Close()
 	if err != nil {
 		return files, err
 	}
-	defer resp.Body.Close()
 
 	err = json.NewDecoder(resp.Body).Decode(&files)
 	if err != nil {
@@ -136,30 +140,59 @@ func getModel(modelID string) (HFModel, error) {
 	return files, nil
 }
 
-func getSHA256(url string) (string, error) {
+func getUrlUntilMaxOrBackoff(url string, max int, backoff *backoff.Backoff) ([]byte, error) {
+	var lastErr error
 
-	resp, err := http.Get(url)
-	if err != nil {
-		return "", fmt.Errorf("failed to fetch the web page: %v\n", err)
+	for retries := 0; retries < max; {
+		resp, err := http.Get(url)
+		defer resp.Body.Close()
+
+		if err != nil {
+			d := backoff.Duration()
+			lastErr = fmt.Errorf("retry [%d]: failed to fetch the web page: %v\nretrying in %s", retries, err, d)
+			fmt.Println(lastErr) // TODO: Test on github actions with these extra prints in place initially.
+			time.Sleep(d)
+		}
+
+		if resp.StatusCode != 200 {
+			d := backoff.Duration()
+			lastErr = fmt.Errorf("retry [%d]: non-200 status code response: %d\nretrying in %s", retries, resp.StatusCode, d)
+			fmt.Println(lastErr) // TODO: Test on github actions with these extra prints in place initially.
+			time.Sleep(d)
+		}
+
+		htmlData, err := io.ReadAll(resp.Body)
+		if err == nil {
+			return htmlData, nil
+		}
+		d := backoff.Duration()
+		lastErr = fmt.Errorf("retry [%d]: failed to read body: %v\nretrying in %s", retries, err, d)
+		fmt.Println(lastErr) // TODO: Test on github actions with these extra prints in place initially.
+		time.Sleep(d)
+		retries++
 	}
-	defer resp.Body.Close()
 
-	htmlData, err := io.ReadAll(resp.Body)
+	return nil, lastErr
+}
+
+func getSHA256(url string, backoff *backoff.Backoff) (string, error) {
+
+	htmlData, err := getUrlUntilMaxOrBackoff(url, EXP_MAX_RETRIES, backoff)
 	if err != nil {
-		return "", fmt.Errorf("failed to read the response body: %v\n", err)
+		return "", err
 	}
 
 	shaRegex := regexp.MustCompile(`(?s)<strong>SHA256:</strong>\s+(.+?)</li>`)
 	match := shaRegex.FindSubmatch(htmlData)
 	if len(match) < 2 {
-		return "", fmt.Errorf("SHA256 value not found in the HTML. HTTP Status: %d", resp.StatusCode)
+		return "", fmt.Errorf("SHA256 value not found in the HTML.")
 	}
 
 	sha := string(match[1])
 	return sha, nil
 }
 
-func getModelFiles(repository string, modelFiles HFModel) (HFModel, error) {
+func getModelFiles(repository string, modelFiles HFModel, backoff *backoff.Backoff) (HFModel, error) {
 	f := []File{}
 	for _, sibling := range modelFiles.Siblings {
 		if !strings.HasSuffix(sibling.RFileName, ".bin") {
@@ -171,7 +204,7 @@ func getModelFiles(repository string, modelFiles HFModel) (HFModel, error) {
 		}
 		fileURL := fmt.Sprintf("https://huggingface.co/%s/resolve/main/%s", repository, sibling.RFileName)
 		shaURL := fmt.Sprintf("https://huggingface.co/%s/blob/main/%s", repository, sibling.RFileName)
-		sha, err := getSHA256(shaURL)
+		sha, err := getSHA256(shaURL, backoff)
 		if err != nil {
 			fmt.Println("Failed to get SHA for", sibling.RFileName, err)
 			continue
@@ -232,6 +265,13 @@ func scrape(concurrency int, modelIDs []string) []GalleryModel {
 func scraperWorker(wg *sync.WaitGroup, c chan string, g chan GalleryModel) {
 
 	defer wg.Done()
+	backoff := &backoff.Backoff{
+		Min:    10 * time.Second,
+		Max:    5 * time.Minute, // Let it get _really_ slow
+		Factor: 4,               // relatively hard ?
+		Jitter: true,
+	}
+
 	for model := range c {
 		// Step 3: Retrieve model files (siblings)
 		m, err := getModel(model)
@@ -241,7 +281,7 @@ func scraperWorker(wg *sync.WaitGroup, c chan string, g chan GalleryModel) {
 		}
 
 		// Step 4: Save the model files
-		mm, err := getModelFiles(model, m)
+		mm, err := getModelFiles(model, m, backoff)
 		if err != nil {
 			log.Println("Failed to save files for model", model)
 			continue
