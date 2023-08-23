@@ -20,7 +20,8 @@ import (
 	"gopkg.in/yaml.v3"
 )
 
-const EXP_MAX_RETRIES = 10
+const DEFAULT_CONCURRENCY = 5 // 10 = too much? Binary search?
+const DEFAULT_MAX_RETRIES = 10
 
 const indexFile = "huggingface.yaml"
 
@@ -179,7 +180,7 @@ func getUrlUntilMaxOrBackoff(url string, max int, backoff *backoff.Backoff) ([]b
 
 func getSHA256(url string, backoff *backoff.Backoff) (string, error) {
 
-	htmlData, err := getUrlUntilMaxOrBackoff(url, EXP_MAX_RETRIES, backoff)
+	htmlData, err := getUrlUntilMaxOrBackoff(url, DEFAULT_MAX_RETRIES, backoff)
 	if err != nil {
 		return "", err
 	}
@@ -398,7 +399,7 @@ func parallelSearch(terms []string, concurrency int, indexFile string) {
 }
 
 func main() {
-	concurrency := 10
+	concurrency := DEFAULT_CONCURRENCY
 	c := os.Getenv("CONCURRENCY")
 	parallelism, err := strconv.Atoi(c)
 	if err == nil {
