@@ -1,4 +1,4 @@
-from typing import Callable, Set
+from typing import Callable, Set, List
 from functools import partial
 from huggingface_hub.hf_api import ModelInfo
 
@@ -44,5 +44,24 @@ def _multi_author_model_info_filter(authors: Set[str], model: ModelInfo) -> bool
 
 def build_multi_author_model_info_filter(authors: Set[str]) -> ModelInfoFilterFn:
     return partial(_multi_author_model_info_filter, authors)
+
+###
+
+def _model_id_regex_filter(idRegex: str, modelInfo: ModelInfo) -> bool:
+    return regex.match(idRegex, modelInfo.modelId) != None
+
+def build_regex_model_info_filter(idRegex: str) -> ModelInfoFilterFn:
+    return partial(_model_id_regex_filter, idRegex)
+
+###
+
+def _multi_model_info_filter(filters: List[ModelInfoFilterFn], modelInfo: ModelInfo) -> bool:
+    for filter in filters:
+        if not filter(modelInfo):
+            return False
+    return True
+
+def build_multi_model_info_filter(filters: List[ModelInfoFilterFn]) -> ModelInfoFilterFn:
+    return partial(_multi_model_info_filter, filters)
 
 ###

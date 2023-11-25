@@ -9,7 +9,7 @@
   description: TheBloke/Dolphin-Llama-13B-GGML - llama configuration
   files:
   - filename: Orca-Vicuna.tmpl
-    sha256: 075f13184a2f3b1abf633f04395bfb9fa859e954c72624376866eb65bbcfb8f3
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
       https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
   - filename: dolphin-llama-13b.ggmlv3.q2_K.bin
@@ -18,11 +18,12 @@
       https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q2_K.bin
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
-  name: TheBloke__Dolphin-Llama-13B-GGML__dolphin-llama-13b.ggmlv3.q2_K.bin
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q2_K.bin
   tags:
   - transformers
   - llama
   - license:other
+  - has_space
   - text-generation-inference
   - region:us
   urls:
@@ -38,7 +39,7 @@
   description: TheBloke/Dolphin-Llama-13B-GGML - llama configuration
   files:
   - filename: Orca-Vicuna.tmpl
-    sha256: 075f13184a2f3b1abf633f04395bfb9fa859e954c72624376866eb65bbcfb8f3
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
       https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
   - filename: dolphin-llama-13b.ggmlv3.q3_K_L.bin
@@ -47,11 +48,12 @@
       https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q3_K_L.bin
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
-  name: TheBloke__Dolphin-Llama-13B-GGML__dolphin-llama-13b.ggmlv3.q3_K_L.bin
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q3_K_L.bin
   tags:
   - transformers
   - llama
   - license:other
+  - has_space
   - text-generation-inference
   - region:us
   urls:
@@ -67,7 +69,7 @@
   description: TheBloke/Dolphin-Llama-13B-GGML - llama configuration
   files:
   - filename: Orca-Vicuna.tmpl
-    sha256: 075f13184a2f3b1abf633f04395bfb9fa859e954c72624376866eb65bbcfb8f3
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
       https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
   - filename: dolphin-llama-13b.ggmlv3.q3_K_M.bin
@@ -76,11 +78,12 @@
       https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q3_K_M.bin
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
-  name: TheBloke__Dolphin-Llama-13B-GGML__dolphin-llama-13b.ggmlv3.q3_K_M.bin
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q3_K_M.bin
   tags:
   - transformers
   - llama
   - license:other
+  - has_space
   - text-generation-inference
   - region:us
   urls:
@@ -96,7 +99,7 @@
   description: TheBloke/Dolphin-Llama-13B-GGML - llama configuration
   files:
   - filename: Orca-Vicuna.tmpl
-    sha256: 075f13184a2f3b1abf633f04395bfb9fa859e954c72624376866eb65bbcfb8f3
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
       https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
   - filename: dolphin-llama-13b.ggmlv3.q3_K_S.bin
@@ -105,11 +108,12 @@
       https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q3_K_S.bin
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
-  name: TheBloke__Dolphin-Llama-13B-GGML__dolphin-llama-13b.ggmlv3.q3_K_S.bin
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q3_K_S.bin
   tags:
   - transformers
   - llama
   - license:other
+  - has_space
   - text-generation-inference
   - region:us
   urls:
@@ -125,7 +129,7 @@
   description: TheBloke/Dolphin-Llama-13B-GGML - llama configuration
   files:
   - filename: Orca-Vicuna.tmpl
-    sha256: 075f13184a2f3b1abf633f04395bfb9fa859e954c72624376866eb65bbcfb8f3
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
       https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
   - filename: dolphin-llama-13b.ggmlv3.q4_0.bin
@@ -134,11 +138,12 @@
       https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q4_0.bin
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
-  name: TheBloke__Dolphin-Llama-13B-GGML__dolphin-llama-13b.ggmlv3.q4_0.bin
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q4_0.bin
   tags:
   - transformers
   - llama
   - license:other
+  - has_space
   - text-generation-inference
   - region:us
   urls:
@@ -154,7 +159,7 @@
   description: TheBloke/Dolphin-Llama-13B-GGML - llama configuration
   files:
   - filename: Orca-Vicuna.tmpl
-    sha256: 075f13184a2f3b1abf633f04395bfb9fa859e954c72624376866eb65bbcfb8f3
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
       https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
   - filename: dolphin-llama-13b.ggmlv3.q4_1.bin
@@ -163,11 +168,12 @@
       https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q4_1.bin
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
-  name: TheBloke__Dolphin-Llama-13B-GGML__dolphin-llama-13b.ggmlv3.q4_1.bin
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q4_1.bin
   tags:
   - transformers
   - llama
   - license:other
+  - has_space
   - text-generation-inference
   - region:us
   urls:
@@ -183,7 +189,7 @@
   description: TheBloke/Dolphin-Llama-13B-GGML - llama configuration
   files:
   - filename: Orca-Vicuna.tmpl
-    sha256: 075f13184a2f3b1abf633f04395bfb9fa859e954c72624376866eb65bbcfb8f3
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
       https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
   - filename: dolphin-llama-13b.ggmlv3.q4_K_M.bin
@@ -192,11 +198,12 @@
       https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q4_K_M.bin
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
-  name: TheBloke__Dolphin-Llama-13B-GGML__dolphin-llama-13b.ggmlv3.q4_K_M.bin
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q4_K_M.bin
   tags:
   - transformers
   - llama
   - license:other
+  - has_space
   - text-generation-inference
   - region:us
   urls:
@@ -212,7 +219,7 @@
   description: TheBloke/Dolphin-Llama-13B-GGML - llama configuration
   files:
   - filename: Orca-Vicuna.tmpl
-    sha256: 075f13184a2f3b1abf633f04395bfb9fa859e954c72624376866eb65bbcfb8f3
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
       https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
   - filename: dolphin-llama-13b.ggmlv3.q4_K_S.bin
@@ -221,11 +228,12 @@
       https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q4_K_S.bin
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
-  name: TheBloke__Dolphin-Llama-13B-GGML__dolphin-llama-13b.ggmlv3.q4_K_S.bin
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q4_K_S.bin
   tags:
   - transformers
   - llama
   - license:other
+  - has_space
   - text-generation-inference
   - region:us
   urls:
@@ -241,7 +249,7 @@
   description: TheBloke/Dolphin-Llama-13B-GGML - llama configuration
   files:
   - filename: Orca-Vicuna.tmpl
-    sha256: 075f13184a2f3b1abf633f04395bfb9fa859e954c72624376866eb65bbcfb8f3
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
       https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
   - filename: dolphin-llama-13b.ggmlv3.q5_0.bin
@@ -250,11 +258,12 @@
       https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q5_0.bin
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
-  name: TheBloke__Dolphin-Llama-13B-GGML__dolphin-llama-13b.ggmlv3.q5_0.bin
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q5_0.bin
   tags:
   - transformers
   - llama
   - license:other
+  - has_space
   - text-generation-inference
   - region:us
   urls:
@@ -270,7 +279,7 @@
   description: TheBloke/Dolphin-Llama-13B-GGML - llama configuration
   files:
   - filename: Orca-Vicuna.tmpl
-    sha256: 075f13184a2f3b1abf633f04395bfb9fa859e954c72624376866eb65bbcfb8f3
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
       https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
   - filename: dolphin-llama-13b.ggmlv3.q5_1.bin
@@ -279,11 +288,12 @@
       https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q5_1.bin
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
-  name: TheBloke__Dolphin-Llama-13B-GGML__dolphin-llama-13b.ggmlv3.q5_1.bin
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q5_1.bin
   tags:
   - transformers
   - llama
   - license:other
+  - has_space
   - text-generation-inference
   - region:us
   urls:
@@ -299,7 +309,7 @@
   description: TheBloke/Dolphin-Llama-13B-GGML - llama configuration
   files:
   - filename: Orca-Vicuna.tmpl
-    sha256: 075f13184a2f3b1abf633f04395bfb9fa859e954c72624376866eb65bbcfb8f3
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
       https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
   - filename: dolphin-llama-13b.ggmlv3.q5_K_M.bin
@@ -308,11 +318,12 @@
       https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q5_K_M.bin
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
-  name: TheBloke__Dolphin-Llama-13B-GGML__dolphin-llama-13b.ggmlv3.q5_K_M.bin
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q5_K_M.bin
   tags:
   - transformers
   - llama
   - license:other
+  - has_space
   - text-generation-inference
   - region:us
   urls:
@@ -328,7 +339,7 @@
   description: TheBloke/Dolphin-Llama-13B-GGML - llama configuration
   files:
   - filename: Orca-Vicuna.tmpl
-    sha256: 075f13184a2f3b1abf633f04395bfb9fa859e954c72624376866eb65bbcfb8f3
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
       https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
   - filename: dolphin-llama-13b.ggmlv3.q5_K_S.bin
@@ -337,11 +348,12 @@
       https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q5_K_S.bin
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
-  name: TheBloke__Dolphin-Llama-13B-GGML__dolphin-llama-13b.ggmlv3.q5_K_S.bin
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q5_K_S.bin
   tags:
   - transformers
   - llama
   - license:other
+  - has_space
   - text-generation-inference
   - region:us
   urls:
@@ -357,7 +369,7 @@
   description: TheBloke/Dolphin-Llama-13B-GGML - llama configuration
   files:
   - filename: Orca-Vicuna.tmpl
-    sha256: 075f13184a2f3b1abf633f04395bfb9fa859e954c72624376866eb65bbcfb8f3
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
       https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
   - filename: dolphin-llama-13b.ggmlv3.q6_K.bin
@@ -366,11 +378,12 @@
       https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q6_K.bin
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
-  name: TheBloke__Dolphin-Llama-13B-GGML__dolphin-llama-13b.ggmlv3.q6_K.bin
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q6_K.bin
   tags:
   - transformers
   - llama
   - license:other
+  - has_space
   - text-generation-inference
   - region:us
   urls:
@@ -386,7 +399,7 @@
   description: TheBloke/Dolphin-Llama-13B-GGML - llama configuration
   files:
   - filename: Orca-Vicuna.tmpl
-    sha256: 075f13184a2f3b1abf633f04395bfb9fa859e954c72624376866eb65bbcfb8f3
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
       https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
   - filename: dolphin-llama-13b.ggmlv3.q8_0.bin
@@ -395,11 +408,432 @@
       https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q8_0.bin
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
-  name: TheBloke__Dolphin-Llama-13B-GGML__dolphin-llama-13b.ggmlv3.q8_0.bin
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q8_0.bin
   tags:
   - transformers
   - llama
   - license:other
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: dolphin-llama-13b.ggmlv3.q2_K.bin
+    template:
+      chat: Orca-Vicuna
+      completion: Orca-Vicuna
+  description: TheBloke/Dolphin-Llama-13B-GGML - llamaFileFormatFallback configuration
+  files:
+  - filename: Orca-Vicuna.tmpl
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+  - filename: dolphin-llama-13b.ggmlv3.q2_K.bin
+    sha256: 86fc495886cee8b54578a641097ab69f0a5bcf7b79cba66576f4e6706a865a23
+    uri: 
+      https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q2_K.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q2_K.bin
+  tags:
+  - transformers
+  - llama
+  - license:other
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: dolphin-llama-13b.ggmlv3.q3_K_L.bin
+    template:
+      chat: Orca-Vicuna
+      completion: Orca-Vicuna
+  description: TheBloke/Dolphin-Llama-13B-GGML - llamaFileFormatFallback configuration
+  files:
+  - filename: Orca-Vicuna.tmpl
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+  - filename: dolphin-llama-13b.ggmlv3.q3_K_L.bin
+    sha256: 0c432621e57f00c245821e1e6dda204c3770b4493482788ea721820702b3b56e
+    uri: 
+      https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q3_K_L.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q3_K_L.bin
+  tags:
+  - transformers
+  - llama
+  - license:other
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: dolphin-llama-13b.ggmlv3.q3_K_M.bin
+    template:
+      chat: Orca-Vicuna
+      completion: Orca-Vicuna
+  description: TheBloke/Dolphin-Llama-13B-GGML - llamaFileFormatFallback configuration
+  files:
+  - filename: Orca-Vicuna.tmpl
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+  - filename: dolphin-llama-13b.ggmlv3.q3_K_M.bin
+    sha256: 97db4fc86a8b0fc3573715f19e5eb65f9f7a3224905c0fbb2fa3857a27459b11
+    uri: 
+      https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q3_K_M.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q3_K_M.bin
+  tags:
+  - transformers
+  - llama
+  - license:other
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: dolphin-llama-13b.ggmlv3.q3_K_S.bin
+    template:
+      chat: Orca-Vicuna
+      completion: Orca-Vicuna
+  description: TheBloke/Dolphin-Llama-13B-GGML - llamaFileFormatFallback configuration
+  files:
+  - filename: Orca-Vicuna.tmpl
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+  - filename: dolphin-llama-13b.ggmlv3.q3_K_S.bin
+    sha256: 706e4525ae7958d239bbb691e1641a91627436ee8877dbad4e2829b1d2a4cfe8
+    uri: 
+      https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q3_K_S.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q3_K_S.bin
+  tags:
+  - transformers
+  - llama
+  - license:other
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: dolphin-llama-13b.ggmlv3.q4_0.bin
+    template:
+      chat: Orca-Vicuna
+      completion: Orca-Vicuna
+  description: TheBloke/Dolphin-Llama-13B-GGML - llamaFileFormatFallback configuration
+  files:
+  - filename: Orca-Vicuna.tmpl
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+  - filename: dolphin-llama-13b.ggmlv3.q4_0.bin
+    sha256: eb1c71d49fd9182a959446576c956ab1527a6b1927b253164eb877fa3f3f3c20
+    uri: 
+      https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q4_0.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q4_0.bin
+  tags:
+  - transformers
+  - llama
+  - license:other
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: dolphin-llama-13b.ggmlv3.q4_1.bin
+    template:
+      chat: Orca-Vicuna
+      completion: Orca-Vicuna
+  description: TheBloke/Dolphin-Llama-13B-GGML - llamaFileFormatFallback configuration
+  files:
+  - filename: Orca-Vicuna.tmpl
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+  - filename: dolphin-llama-13b.ggmlv3.q4_1.bin
+    sha256: c42a4cceae7416bafd9c40276133d0b0e986f90b166011bfa4940decc0a9f49f
+    uri: 
+      https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q4_1.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q4_1.bin
+  tags:
+  - transformers
+  - llama
+  - license:other
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: dolphin-llama-13b.ggmlv3.q4_K_M.bin
+    template:
+      chat: Orca-Vicuna
+      completion: Orca-Vicuna
+  description: TheBloke/Dolphin-Llama-13B-GGML - llamaFileFormatFallback configuration
+  files:
+  - filename: Orca-Vicuna.tmpl
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+  - filename: dolphin-llama-13b.ggmlv3.q4_K_M.bin
+    sha256: c59ee09e4ae1236355a713999b70228a8de0becf9fc0d5d8ee79f7f2df7853e8
+    uri: 
+      https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q4_K_M.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q4_K_M.bin
+  tags:
+  - transformers
+  - llama
+  - license:other
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: dolphin-llama-13b.ggmlv3.q4_K_S.bin
+    template:
+      chat: Orca-Vicuna
+      completion: Orca-Vicuna
+  description: TheBloke/Dolphin-Llama-13B-GGML - llamaFileFormatFallback configuration
+  files:
+  - filename: Orca-Vicuna.tmpl
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+  - filename: dolphin-llama-13b.ggmlv3.q4_K_S.bin
+    sha256: b3063f445343699b232c4652527530895780c477339ba742a4b8401167f67380
+    uri: 
+      https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q4_K_S.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q4_K_S.bin
+  tags:
+  - transformers
+  - llama
+  - license:other
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: dolphin-llama-13b.ggmlv3.q5_0.bin
+    template:
+      chat: Orca-Vicuna
+      completion: Orca-Vicuna
+  description: TheBloke/Dolphin-Llama-13B-GGML - llamaFileFormatFallback configuration
+  files:
+  - filename: Orca-Vicuna.tmpl
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+  - filename: dolphin-llama-13b.ggmlv3.q5_0.bin
+    sha256: dd891760b091aca28a8df6e33856bc55e8018e416cdb8bc23dccc846fd8c0ae8
+    uri: 
+      https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q5_0.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q5_0.bin
+  tags:
+  - transformers
+  - llama
+  - license:other
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: dolphin-llama-13b.ggmlv3.q5_1.bin
+    template:
+      chat: Orca-Vicuna
+      completion: Orca-Vicuna
+  description: TheBloke/Dolphin-Llama-13B-GGML - llamaFileFormatFallback configuration
+  files:
+  - filename: Orca-Vicuna.tmpl
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+  - filename: dolphin-llama-13b.ggmlv3.q5_1.bin
+    sha256: d5c73e9afe977fadb532ef038d2055ef3f9b5a11aab98ae750edb9fda79de2eb
+    uri: 
+      https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q5_1.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q5_1.bin
+  tags:
+  - transformers
+  - llama
+  - license:other
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: dolphin-llama-13b.ggmlv3.q5_K_M.bin
+    template:
+      chat: Orca-Vicuna
+      completion: Orca-Vicuna
+  description: TheBloke/Dolphin-Llama-13B-GGML - llamaFileFormatFallback configuration
+  files:
+  - filename: Orca-Vicuna.tmpl
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+  - filename: dolphin-llama-13b.ggmlv3.q5_K_M.bin
+    sha256: 44a2f6565e0d2a8f9b1b4d17966c80811fb715a5ec27c2e459442ad419b6820f
+    uri: 
+      https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q5_K_M.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q5_K_M.bin
+  tags:
+  - transformers
+  - llama
+  - license:other
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: dolphin-llama-13b.ggmlv3.q5_K_S.bin
+    template:
+      chat: Orca-Vicuna
+      completion: Orca-Vicuna
+  description: TheBloke/Dolphin-Llama-13B-GGML - llamaFileFormatFallback configuration
+  files:
+  - filename: Orca-Vicuna.tmpl
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+  - filename: dolphin-llama-13b.ggmlv3.q5_K_S.bin
+    sha256: 12a1c9e263583060b7ae03fc812799b5973d1e765be000fcaf08e89b871131ca
+    uri: 
+      https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q5_K_S.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q5_K_S.bin
+  tags:
+  - transformers
+  - llama
+  - license:other
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: dolphin-llama-13b.ggmlv3.q6_K.bin
+    template:
+      chat: Orca-Vicuna
+      completion: Orca-Vicuna
+  description: TheBloke/Dolphin-Llama-13B-GGML - llamaFileFormatFallback configuration
+  files:
+  - filename: Orca-Vicuna.tmpl
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+  - filename: dolphin-llama-13b.ggmlv3.q6_K.bin
+    sha256: 8258f8c014a939ce93519bca658eb714202dacbee8f5df05b2dee0f02472460d
+    uri: 
+      https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q6_K.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q6_K.bin
+  tags:
+  - transformers
+  - llama
+  - license:other
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: dolphin-llama-13b.ggmlv3.q8_0.bin
+    template:
+      chat: Orca-Vicuna
+      completion: Orca-Vicuna
+  description: TheBloke/Dolphin-Llama-13B-GGML - llamaFileFormatFallback configuration
+  files:
+  - filename: Orca-Vicuna.tmpl
+    sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+  - filename: dolphin-llama-13b.ggmlv3.q8_0.bin
+    sha256: ed05922501dfed5612d1fef01179bf98b57e0c2b46f7b0e6c58e9d8bea2d27a9
+    uri: 
+      https://huggingface.co/TheBloke/Dolphin-Llama-13B-GGML/resolve/main/dolphin-llama-13b.ggmlv3.q8_0.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: thebloke__dolphin-llama-13b-ggml__dolphin-llama-13b.ggmlv3.q8_0.bin
+  tags:
+  - transformers
+  - llama
+  - license:other
+  - has_space
   - text-generation-inference
   - region:us
   urls:

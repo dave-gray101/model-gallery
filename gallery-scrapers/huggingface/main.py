@@ -15,7 +15,7 @@ from lib.prompt_templating import PromptTemplateCache, AutoPromptTemplateConfig
 from lib.gallery_scraper import HFGalleryScraper
 from lib.utils import purge_folder
 
-from config_recognizers.llama import llamaConfigRecognizer, llama2ChatConfigRecognizer, mistralConfigRecognizer, llamaFallbackConfigRecognizer
+from config_recognizers.llama import llamaConfigRecognizer, llama2ChatConfigRecognizer, mistralConfigRecognizer, llamaFallbackConfigRecognizer, llamaFileFormatFallbackConfigRecognizer
 from config_recognizers.bert import bertCppConfigRecognizer
 from config_recognizers.rwkv import rwkvConfigRecognizer
 
@@ -33,6 +33,7 @@ ALL_CONFIG_RECOGNIZERS: List[ConfigRecognizer] = [
     llamaConfigRecognizer,
     mistralConfigRecognizer,
     llamaFallbackConfigRecognizer,
+    llamaFileFormatFallbackConfigRecognizer,
     bertCppConfigRecognizer,
     rwkvConfigRecognizer
 ]

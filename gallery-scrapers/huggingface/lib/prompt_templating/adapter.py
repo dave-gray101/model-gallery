@@ -34,7 +34,8 @@ _adapt_prompt_template_variable_names_default_substitutions = {
     r"{system}": r"{{.SystemPrompt}}",
     r"{system_message}": r"{{.SystemPrompt}}",
     # todo: is this next one a good idea?
-    r"{input}": r"{{.Input}}"
+    r"{input}": r"{{.Input}}",
+    r"{{function_string}}": r"{{Functions}}"
 }
 
 adapt_prompt_template_simple_defaults_replacements = build_adapt_prompt_template_simple_replace_variable_names(_adapt_prompt_template_variable_names_default_substitutions)

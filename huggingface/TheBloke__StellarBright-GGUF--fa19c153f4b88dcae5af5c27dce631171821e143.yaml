@@ -4,23 +4,24 @@
     parameters:
       model: stellarbright.Q2_K.gguf
     template:
-      chat: TheBloke__StellarBright-GGUF
-      completion: TheBloke__StellarBright-GGUF
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
   description: TheBloke/StellarBright-GGUF - llama configuration
   files:
-  - filename: TheBloke__StellarBright-GGUF.tmpl
+  - filename: thebloke__stellarbright-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__StellarBright-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
   - filename: stellarbright.Q2_K.gguf
     sha256: 7be3c8c8d590334bb615c395ad807eaec16aabf217320d35c8a9fc9b7219d0bc
     uri: 
       https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q2_K.gguf
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
-  name: TheBloke__StellarBright-GGUF__stellarbright.Q2_K.gguf
+  name: thebloke__stellarbright-gguf__stellarbright.Q2_K.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - stellar-bright
   - llama-2
@@ -40,23 +41,24 @@
     parameters:
       model: stellarbright.Q3_K_L.gguf
     template:
-      chat: TheBloke__StellarBright-GGUF
-      completion: TheBloke__StellarBright-GGUF
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
   description: TheBloke/StellarBright-GGUF - llama configuration
   files:
-  - filename: TheBloke__StellarBright-GGUF.tmpl
+  - filename: thebloke__stellarbright-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__StellarBright-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
   - filename: stellarbright.Q3_K_L.gguf
     sha256: 15850f5e409463785df94e4483c0233bf89fde64375f78084971d3ca2243276e
     uri: 
       https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q3_K_L.gguf
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
-  name: TheBloke__StellarBright-GGUF__stellarbright.Q3_K_L.gguf
+  name: thebloke__stellarbright-gguf__stellarbright.Q3_K_L.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - stellar-bright
   - llama-2
@@ -76,23 +78,24 @@
     parameters:
       model: stellarbright.Q3_K_M.gguf
     template:
-      chat: TheBloke__StellarBright-GGUF
-      completion: TheBloke__StellarBright-GGUF
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
   description: TheBloke/StellarBright-GGUF - llama configuration
   files:
-  - filename: TheBloke__StellarBright-GGUF.tmpl
+  - filename: thebloke__stellarbright-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__StellarBright-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
   - filename: stellarbright.Q3_K_M.gguf
     sha256: 58b1971a936c7894378371caeba2dd64a7e63adb7c4d9cd88025951087d3038d
     uri: 
       https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q3_K_M.gguf
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
-  name: TheBloke__StellarBright-GGUF__stellarbright.Q3_K_M.gguf
+  name: thebloke__stellarbright-gguf__stellarbright.Q3_K_M.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - stellar-bright
   - llama-2
@@ -112,23 +115,24 @@
     parameters:
       model: stellarbright.Q3_K_S.gguf
     template:
-      chat: TheBloke__StellarBright-GGUF
-      completion: TheBloke__StellarBright-GGUF
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
   description: TheBloke/StellarBright-GGUF - llama configuration
   files:
-  - filename: TheBloke__StellarBright-GGUF.tmpl
+  - filename: thebloke__stellarbright-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__StellarBright-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
   - filename: stellarbright.Q3_K_S.gguf
     sha256: 8a29748df7b80a68e446f9fb87dab5bda3daba6707ba9a2db172188a69c40646
     uri: 
       https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q3_K_S.gguf
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
-  name: TheBloke__StellarBright-GGUF__stellarbright.Q3_K_S.gguf
+  name: thebloke__stellarbright-gguf__stellarbright.Q3_K_S.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - stellar-bright
   - llama-2
@@ -148,23 +152,24 @@
     parameters:
       model: stellarbright.Q4_0.gguf
     template:
-      chat: TheBloke__StellarBright-GGUF
-      completion: TheBloke__StellarBright-GGUF
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
   description: TheBloke/StellarBright-GGUF - llama configuration
   files:
-  - filename: TheBloke__StellarBright-GGUF.tmpl
+  - filename: thebloke__stellarbright-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__StellarBright-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
   - filename: stellarbright.Q4_0.gguf
     sha256: aefca2cb6c722fe00f24f0444a55939507df814ab5b3370b4dac30c8921775f3
     uri: 
       https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q4_0.gguf
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
-  name: TheBloke__StellarBright-GGUF__stellarbright.Q4_0.gguf
+  name: thebloke__stellarbright-gguf__stellarbright.Q4_0.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - stellar-bright
   - llama-2
@@ -184,23 +189,24 @@
     parameters:
       model: stellarbright.Q4_K_M.gguf
     template:
-      chat: TheBloke__StellarBright-GGUF
-      completion: TheBloke__StellarBright-GGUF
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
   description: TheBloke/StellarBright-GGUF - llama configuration
   files:
-  - filename: TheBloke__StellarBright-GGUF.tmpl
+  - filename: thebloke__stellarbright-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__StellarBright-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
   - filename: stellarbright.Q4_K_M.gguf
     sha256: c8cb0c22d3bf7b3a4c91f3cb99419a13e4b40530af0b419eef14e3d055d1d22d
     uri: 
       https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q4_K_M.gguf
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
-  name: TheBloke__StellarBright-GGUF__stellarbright.Q4_K_M.gguf
+  name: thebloke__stellarbright-gguf__stellarbright.Q4_K_M.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - stellar-bright
   - llama-2
@@ -220,23 +226,24 @@
     parameters:
       model: stellarbright.Q4_K_S.gguf
     template:
-      chat: TheBloke__StellarBright-GGUF
-      completion: TheBloke__StellarBright-GGUF
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
   description: TheBloke/StellarBright-GGUF - llama configuration
   files:
-  - filename: TheBloke__StellarBright-GGUF.tmpl
+  - filename: thebloke__stellarbright-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__StellarBright-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
   - filename: stellarbright.Q4_K_S.gguf
     sha256: 1960b78634d450df559c496cd21c686c38a05266ce86362beb0c57391cda0e34
     uri: 
       https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q4_K_S.gguf
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
-  name: TheBloke__StellarBright-GGUF__stellarbright.Q4_K_S.gguf
+  name: thebloke__stellarbright-gguf__stellarbright.Q4_K_S.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - stellar-bright
   - llama-2
@@ -256,23 +263,24 @@
     parameters:
       model: stellarbright.Q5_0.gguf
     template:
-      chat: TheBloke__StellarBright-GGUF
-      completion: TheBloke__StellarBright-GGUF
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
   description: TheBloke/StellarBright-GGUF - llama configuration
   files:
-  - filename: TheBloke__StellarBright-GGUF.tmpl
+  - filename: thebloke__stellarbright-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__StellarBright-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
   - filename: stellarbright.Q5_0.gguf
     sha256: 96054d6c2194d9abc8cd8ecf0b055b42ddce9a717766367dfeeb33aa6c7088e8
     uri: 
       https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q5_0.gguf
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
-  name: TheBloke__StellarBright-GGUF__stellarbright.Q5_0.gguf
+  name: thebloke__stellarbright-gguf__stellarbright.Q5_0.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - stellar-bright
   - llama-2
@@ -292,23 +300,24 @@
     parameters:
       model: stellarbright.Q5_K_M.gguf
     template:
-      chat: TheBloke__StellarBright-GGUF
-      completion: TheBloke__StellarBright-GGUF
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
   description: TheBloke/StellarBright-GGUF - llama configuration
   files:
-  - filename: TheBloke__StellarBright-GGUF.tmpl
+  - filename: thebloke__stellarbright-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__StellarBright-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
   - filename: stellarbright.Q5_K_M.gguf
     sha256: 427559424fff4767a59b244355359d7148c07700e3532fc43bce9be51515f080
     uri: 
       https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q5_K_M.gguf
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
-  name: TheBloke__StellarBright-GGUF__stellarbright.Q5_K_M.gguf
+  name: thebloke__stellarbright-gguf__stellarbright.Q5_K_M.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - stellar-bright
   - llama-2
@@ -328,23 +337,24 @@
     parameters:
       model: stellarbright.Q5_K_S.gguf
     template:
-      chat: TheBloke__StellarBright-GGUF
-      completion: TheBloke__StellarBright-GGUF
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
   description: TheBloke/StellarBright-GGUF - llama configuration
   files:
-  - filename: TheBloke__StellarBright-GGUF.tmpl
+  - filename: thebloke__stellarbright-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__StellarBright-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
   - filename: stellarbright.Q5_K_S.gguf
     sha256: 08962bc6eee6111e0d0bab1b7ba6dbcb8958bed733fcf3e9ecec636b2842724c
     uri: 
       https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q5_K_S.gguf
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
-  name: TheBloke__StellarBright-GGUF__stellarbright.Q5_K_S.gguf
+  name: thebloke__stellarbright-gguf__stellarbright.Q5_K_S.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - stellar-bright
   - llama-2
@@ -364,23 +374,24 @@
     parameters:
       model: stellarbright.Q2_K.gguf
     template:
-      chat: TheBloke__StellarBright-GGUF
-      completion: TheBloke__StellarBright-GGUF
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
   description: TheBloke/StellarBright-GGUF - llamaFallback configuration
   files:
-  - filename: TheBloke__StellarBright-GGUF.tmpl
+  - filename: thebloke__stellarbright-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__StellarBright-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
   - filename: stellarbright.Q2_K.gguf
     sha256: 7be3c8c8d590334bb615c395ad807eaec16aabf217320d35c8a9fc9b7219d0bc
     uri: 
       https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q2_K.gguf
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
-  name: TheBloke__StellarBright-GGUF__stellarbright.Q2_K.gguf
+  name: thebloke__stellarbright-gguf__stellarbright.Q2_K.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - stellar-bright
   - llama-2
@@ -400,23 +411,24 @@
     parameters:
       model: stellarbright.Q3_K_L.gguf
     template:
-      chat: TheBloke__StellarBright-GGUF
-      completion: TheBloke__StellarBright-GGUF
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
   description: TheBloke/StellarBright-GGUF - llamaFallback configuration
   files:
-  - filename: TheBloke__StellarBright-GGUF.tmpl
+  - filename: thebloke__stellarbright-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__StellarBright-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
   - filename: stellarbright.Q3_K_L.gguf
     sha256: 15850f5e409463785df94e4483c0233bf89fde64375f78084971d3ca2243276e
     uri: 
       https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q3_K_L.gguf
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
-  name: TheBloke__StellarBright-GGUF__stellarbright.Q3_K_L.gguf
+  name: thebloke__stellarbright-gguf__stellarbright.Q3_K_L.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - stellar-bright
   - llama-2
@@ -436,23 +448,24 @@
     parameters:
       model: stellarbright.Q3_K_M.gguf
     template:
-      chat: TheBloke__StellarBright-GGUF
-      completion: TheBloke__StellarBright-GGUF
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
   description: TheBloke/StellarBright-GGUF - llamaFallback configuration
   files:
-  - filename: TheBloke__StellarBright-GGUF.tmpl
+  - filename: thebloke__stellarbright-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__StellarBright-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
   - filename: stellarbright.Q3_K_M.gguf
     sha256: 58b1971a936c7894378371caeba2dd64a7e63adb7c4d9cd88025951087d3038d
     uri: 
       https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q3_K_M.gguf
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
-  name: TheBloke__StellarBright-GGUF__stellarbright.Q3_K_M.gguf
+  name: thebloke__stellarbright-gguf__stellarbright.Q3_K_M.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - stellar-bright
   - llama-2
@@ -472,23 +485,24 @@
     parameters:
       model: stellarbright.Q3_K_S.gguf
     template:
-      chat: TheBloke__StellarBright-GGUF
-      completion: TheBloke__StellarBright-GGUF
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
   description: TheBloke/StellarBright-GGUF - llamaFallback configuration
   files:
-  - filename: TheBloke__StellarBright-GGUF.tmpl
+  - filename: thebloke__stellarbright-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__StellarBright-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
   - filename: stellarbright.Q3_K_S.gguf
     sha256: 8a29748df7b80a68e446f9fb87dab5bda3daba6707ba9a2db172188a69c40646
     uri: 
       https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q3_K_S.gguf
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
-  name: TheBloke__StellarBright-GGUF__stellarbright.Q3_K_S.gguf
+  name: thebloke__stellarbright-gguf__stellarbright.Q3_K_S.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - stellar-bright
   - llama-2
@@ -508,23 +522,24 @@
     parameters:
       model: stellarbright.Q4_0.gguf
     template:
-      chat: TheBloke__StellarBright-GGUF
-      completion: TheBloke__StellarBright-GGUF
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
   description: TheBloke/StellarBright-GGUF - llamaFallback configuration
   files:
-  - filename: TheBloke__StellarBright-GGUF.tmpl
+  - filename: thebloke__stellarbright-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__StellarBright-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
   - filename: stellarbright.Q4_0.gguf
     sha256: aefca2cb6c722fe00f24f0444a55939507df814ab5b3370b4dac30c8921775f3
     uri: 
       https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q4_0.gguf
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
-  name: TheBloke__StellarBright-GGUF__stellarbright.Q4_0.gguf
+  name: thebloke__stellarbright-gguf__stellarbright.Q4_0.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - stellar-bright
   - llama-2
@@ -544,23 +559,24 @@
     parameters:
       model: stellarbright.Q4_K_M.gguf
     template:
-      chat: TheBloke__StellarBright-GGUF
-      completion: TheBloke__StellarBright-GGUF
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
   description: TheBloke/StellarBright-GGUF - llamaFallback configuration
   files:
-  - filename: TheBloke__StellarBright-GGUF.tmpl
+  - filename: thebloke__stellarbright-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__StellarBright-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
   - filename: stellarbright.Q4_K_M.gguf
     sha256: c8cb0c22d3bf7b3a4c91f3cb99419a13e4b40530af0b419eef14e3d055d1d22d
     uri: 
       https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q4_K_M.gguf
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
-  name: TheBloke__StellarBright-GGUF__stellarbright.Q4_K_M.gguf
+  name: thebloke__stellarbright-gguf__stellarbright.Q4_K_M.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - stellar-bright
   - llama-2
@@ -580,23 +596,24 @@
     parameters:
       model: stellarbright.Q4_K_S.gguf
     template:
-      chat: TheBloke__StellarBright-GGUF
-      completion: TheBloke__StellarBright-GGUF
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
   description: TheBloke/StellarBright-GGUF - llamaFallback configuration
   files:
-  - filename: TheBloke__StellarBright-GGUF.tmpl
+  - filename: thebloke__stellarbright-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__StellarBright-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
   - filename: stellarbright.Q4_K_S.gguf
     sha256: 1960b78634d450df559c496cd21c686c38a05266ce86362beb0c57391cda0e34
     uri: 
       https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q4_K_S.gguf
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
-  name: TheBloke__StellarBright-GGUF__stellarbright.Q4_K_S.gguf
+  name: thebloke__stellarbright-gguf__stellarbright.Q4_K_S.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - stellar-bright
   - llama-2
@@ -616,23 +633,24 @@
     parameters:
       model: stellarbright.Q5_0.gguf
     template:
-      chat: TheBloke__StellarBright-GGUF
-      completion: TheBloke__StellarBright-GGUF
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
   description: TheBloke/StellarBright-GGUF - llamaFallback configuration
   files:
-  - filename: TheBloke__StellarBright-GGUF.tmpl
+  - filename: thebloke__stellarbright-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__StellarBright-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
   - filename: stellarbright.Q5_0.gguf
     sha256: 96054d6c2194d9abc8cd8ecf0b055b42ddce9a717766367dfeeb33aa6c7088e8
     uri: 
       https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q5_0.gguf
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
-  name: TheBloke__StellarBright-GGUF__stellarbright.Q5_0.gguf
+  name: thebloke__stellarbright-gguf__stellarbright.Q5_0.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - stellar-bright
   - llama-2
@@ -652,23 +670,24 @@
     parameters:
       model: stellarbright.Q5_K_M.gguf
     template:
-      chat: TheBloke__StellarBright-GGUF
-      completion: TheBloke__StellarBright-GGUF
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
   description: TheBloke/StellarBright-GGUF - llamaFallback configuration
   files:
-  - filename: TheBloke__StellarBright-GGUF.tmpl
+  - filename: thebloke__stellarbright-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__StellarBright-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
   - filename: stellarbright.Q5_K_M.gguf
     sha256: 427559424fff4767a59b244355359d7148c07700e3532fc43bce9be51515f080
     uri: 
       https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q5_K_M.gguf
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
-  name: TheBloke__StellarBright-GGUF__stellarbright.Q5_K_M.gguf
+  name: thebloke__stellarbright-gguf__stellarbright.Q5_K_M.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - stellar-bright
   - llama-2
@@ -688,23 +707,394 @@
     parameters:
       model: stellarbright.Q5_K_S.gguf
     template:
-      chat: TheBloke__StellarBright-GGUF
-      completion: TheBloke__StellarBright-GGUF
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
   description: TheBloke/StellarBright-GGUF - llamaFallback configuration
   files:
-  - filename: TheBloke__StellarBright-GGUF.tmpl
+  - filename: thebloke__stellarbright-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__StellarBright-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
   - filename: stellarbright.Q5_K_S.gguf
     sha256: 08962bc6eee6111e0d0bab1b7ba6dbcb8958bed733fcf3e9ecec636b2842724c
     uri: 
       https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q5_K_S.gguf
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
-  name: TheBloke__StellarBright-GGUF__stellarbright.Q5_K_S.gguf
+  name: thebloke__stellarbright-gguf__stellarbright.Q5_K_S.gguf
   tags:
   - transformers
+  - gguf
+  - llama
+  - stellar-bright
+  - llama-2
+  - llama-2-chat
+  - 70b
+  - text-generation
+  - en
+  - base_model:sequelbox/StellarBright
+  - license:llama2
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/StellarBright-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: stellarbright.Q2_K.gguf
+    template:
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
+  description: TheBloke/StellarBright-GGUF - llamaFileFormatFallback configuration
+  files:
+  - filename: thebloke__stellarbright-gguf.tmpl
+    sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
+  - filename: stellarbright.Q2_K.gguf
+    sha256: 7be3c8c8d590334bb615c395ad807eaec16aabf217320d35c8a9fc9b7219d0bc
+    uri: 
+      https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q2_K.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: thebloke__stellarbright-gguf__stellarbright.Q2_K.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - stellar-bright
+  - llama-2
+  - llama-2-chat
+  - 70b
+  - text-generation
+  - en
+  - base_model:sequelbox/StellarBright
+  - license:llama2
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/StellarBright-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: stellarbright.Q3_K_L.gguf
+    template:
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
+  description: TheBloke/StellarBright-GGUF - llamaFileFormatFallback configuration
+  files:
+  - filename: thebloke__stellarbright-gguf.tmpl
+    sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
+  - filename: stellarbright.Q3_K_L.gguf
+    sha256: 15850f5e409463785df94e4483c0233bf89fde64375f78084971d3ca2243276e
+    uri: 
+      https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q3_K_L.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: thebloke__stellarbright-gguf__stellarbright.Q3_K_L.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - stellar-bright
+  - llama-2
+  - llama-2-chat
+  - 70b
+  - text-generation
+  - en
+  - base_model:sequelbox/StellarBright
+  - license:llama2
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/StellarBright-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: stellarbright.Q3_K_M.gguf
+    template:
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
+  description: TheBloke/StellarBright-GGUF - llamaFileFormatFallback configuration
+  files:
+  - filename: thebloke__stellarbright-gguf.tmpl
+    sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
+  - filename: stellarbright.Q3_K_M.gguf
+    sha256: 58b1971a936c7894378371caeba2dd64a7e63adb7c4d9cd88025951087d3038d
+    uri: 
+      https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q3_K_M.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: thebloke__stellarbright-gguf__stellarbright.Q3_K_M.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - stellar-bright
+  - llama-2
+  - llama-2-chat
+  - 70b
+  - text-generation
+  - en
+  - base_model:sequelbox/StellarBright
+  - license:llama2
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/StellarBright-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: stellarbright.Q3_K_S.gguf
+    template:
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
+  description: TheBloke/StellarBright-GGUF - llamaFileFormatFallback configuration
+  files:
+  - filename: thebloke__stellarbright-gguf.tmpl
+    sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
+  - filename: stellarbright.Q3_K_S.gguf
+    sha256: 8a29748df7b80a68e446f9fb87dab5bda3daba6707ba9a2db172188a69c40646
+    uri: 
+      https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q3_K_S.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: thebloke__stellarbright-gguf__stellarbright.Q3_K_S.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - stellar-bright
+  - llama-2
+  - llama-2-chat
+  - 70b
+  - text-generation
+  - en
+  - base_model:sequelbox/StellarBright
+  - license:llama2
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/StellarBright-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: stellarbright.Q4_0.gguf
+    template:
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
+  description: TheBloke/StellarBright-GGUF - llamaFileFormatFallback configuration
+  files:
+  - filename: thebloke__stellarbright-gguf.tmpl
+    sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
+  - filename: stellarbright.Q4_0.gguf
+    sha256: aefca2cb6c722fe00f24f0444a55939507df814ab5b3370b4dac30c8921775f3
+    uri: 
+      https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q4_0.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: thebloke__stellarbright-gguf__stellarbright.Q4_0.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - stellar-bright
+  - llama-2
+  - llama-2-chat
+  - 70b
+  - text-generation
+  - en
+  - base_model:sequelbox/StellarBright
+  - license:llama2
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/StellarBright-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: stellarbright.Q4_K_M.gguf
+    template:
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
+  description: TheBloke/StellarBright-GGUF - llamaFileFormatFallback configuration
+  files:
+  - filename: thebloke__stellarbright-gguf.tmpl
+    sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
+  - filename: stellarbright.Q4_K_M.gguf
+    sha256: c8cb0c22d3bf7b3a4c91f3cb99419a13e4b40530af0b419eef14e3d055d1d22d
+    uri: 
+      https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q4_K_M.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: thebloke__stellarbright-gguf__stellarbright.Q4_K_M.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - stellar-bright
+  - llama-2
+  - llama-2-chat
+  - 70b
+  - text-generation
+  - en
+  - base_model:sequelbox/StellarBright
+  - license:llama2
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/StellarBright-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: stellarbright.Q4_K_S.gguf
+    template:
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
+  description: TheBloke/StellarBright-GGUF - llamaFileFormatFallback configuration
+  files:
+  - filename: thebloke__stellarbright-gguf.tmpl
+    sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
+  - filename: stellarbright.Q4_K_S.gguf
+    sha256: 1960b78634d450df559c496cd21c686c38a05266ce86362beb0c57391cda0e34
+    uri: 
+      https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q4_K_S.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: thebloke__stellarbright-gguf__stellarbright.Q4_K_S.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - stellar-bright
+  - llama-2
+  - llama-2-chat
+  - 70b
+  - text-generation
+  - en
+  - base_model:sequelbox/StellarBright
+  - license:llama2
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/StellarBright-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: stellarbright.Q5_0.gguf
+    template:
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
+  description: TheBloke/StellarBright-GGUF - llamaFileFormatFallback configuration
+  files:
+  - filename: thebloke__stellarbright-gguf.tmpl
+    sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
+  - filename: stellarbright.Q5_0.gguf
+    sha256: 96054d6c2194d9abc8cd8ecf0b055b42ddce9a717766367dfeeb33aa6c7088e8
+    uri: 
+      https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q5_0.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: thebloke__stellarbright-gguf__stellarbright.Q5_0.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - stellar-bright
+  - llama-2
+  - llama-2-chat
+  - 70b
+  - text-generation
+  - en
+  - base_model:sequelbox/StellarBright
+  - license:llama2
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/StellarBright-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: stellarbright.Q5_K_M.gguf
+    template:
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
+  description: TheBloke/StellarBright-GGUF - llamaFileFormatFallback configuration
+  files:
+  - filename: thebloke__stellarbright-gguf.tmpl
+    sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
+  - filename: stellarbright.Q5_K_M.gguf
+    sha256: 427559424fff4767a59b244355359d7148c07700e3532fc43bce9be51515f080
+    uri: 
+      https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q5_K_M.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: thebloke__stellarbright-gguf__stellarbright.Q5_K_M.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - stellar-bright
+  - llama-2
+  - llama-2-chat
+  - 70b
+  - text-generation
+  - en
+  - base_model:sequelbox/StellarBright
+  - license:llama2
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/StellarBright-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: stellarbright.Q5_K_S.gguf
+    template:
+      chat: thebloke__stellarbright-gguf
+      completion: thebloke__stellarbright-gguf
+  description: TheBloke/StellarBright-GGUF - llamaFileFormatFallback configuration
+  files:
+  - filename: thebloke__stellarbright-gguf.tmpl
+    sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__stellarbright-gguf.tmpl
+  - filename: stellarbright.Q5_K_S.gguf
+    sha256: 08962bc6eee6111e0d0bab1b7ba6dbcb8958bed733fcf3e9ecec636b2842724c
+    uri: 
+      https://huggingface.co/TheBloke/StellarBright-GGUF/resolve/main/stellarbright.Q5_K_S.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: thebloke__stellarbright-gguf__stellarbright.Q5_K_S.gguf
+  tags:
+  - transformers
+  - gguf
   - llama
   - stellar-bright
   - llama-2

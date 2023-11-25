@@ -4,14 +4,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q2_K.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llama configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q2_K.gguf
     sha256: 08496b5cb4246f4b4d9a5f428aea5ac2054aff402f22f61b04d1c3172384f0f7
     uri: 
@@ -19,9 +19,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q2_K.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q2_K.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -45,14 +46,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q3_K_L.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llama configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q3_K_L.gguf
     sha256: 04d1bf7905812afb3f4eb67f0f4279bc76b2e99859edbdeead58ac90a81d2da4
     uri: 
@@ -60,9 +61,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q3_K_L.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q3_K_L.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -86,14 +88,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q3_K_M.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llama configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q3_K_M.gguf
     sha256: 4c26ed1db4d89d8bbf2b1b9dd8cfdfda3291082380ad90e87172de75ffc79165
     uri: 
@@ -101,9 +103,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q3_K_M.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q3_K_M.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -127,14 +130,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q3_K_S.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llama configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q3_K_S.gguf
     sha256: e930e6faf3d2cf2c7a85467943bb4aa7669fffd7b6a6459ff89589b9a3b5685c
     uri: 
@@ -142,9 +145,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q3_K_S.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q3_K_S.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -168,14 +172,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q4_0.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llama configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q4_0.gguf
     sha256: b4869a05bbab1c8efd0991dfe40cdf2283267ca62d945d8d1be7a7a491fbd301
     uri: 
@@ -183,9 +187,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q4_0.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q4_0.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -209,14 +214,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q4_K_M.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llama configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q4_K_M.gguf
     sha256: d391b5a3326e67815ed8da65e93095ac0459e9bdb347e5e82eab8ab40f3c5531
     uri: 
@@ -224,9 +229,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q4_K_M.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q4_K_M.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -250,14 +256,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q4_K_S.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llama configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q4_K_S.gguf
     sha256: c87d80ace48a4fecd8eccff545dbf0591c9658e98f2dbb9d504801300caf5358
     uri: 
@@ -265,9 +271,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q4_K_S.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q4_K_S.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -291,14 +298,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q5_0.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llama configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q5_0.gguf
     sha256: 22a2ac4931d53b05bb54c55ab9843e381d7511ae1edcf42e12c3f1195d7c43f8
     uri: 
@@ -306,9 +313,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q5_0.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q5_0.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -332,14 +340,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q5_K_M.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llama configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q5_K_M.gguf
     sha256: 558f573ab33ccc1b4853aed65ee029802fdcdc09d134620aeff67bfb8826f719
     uri: 
@@ -347,9 +355,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q5_K_M.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q5_K_M.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -373,14 +382,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q5_K_S.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llama configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q5_K_S.gguf
     sha256: 55b1e98063e338d8bd95530b8612e6a027e27246c9437c610b6f12fd07f28840
     uri: 
@@ -388,9 +397,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q5_K_S.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q5_K_S.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -414,14 +424,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q6_K.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llama configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q6_K.gguf
     sha256: d89165de21be9ccc564678097040e2429f7169364d84fd29aa1c3367efc35234
     uri: 
@@ -429,9 +439,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q6_K.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q6_K.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -455,14 +466,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q8_0.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llama configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q8_0.gguf
     sha256: 17efd7354d3b9c747a4f118793c16a993dd4624eab4dd83a61c134748b29b55e
     uri: 
@@ -470,9 +481,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q8_0.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q8_0.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -496,14 +508,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q2_K.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFallback configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q2_K.gguf
     sha256: 08496b5cb4246f4b4d9a5f428aea5ac2054aff402f22f61b04d1c3172384f0f7
     uri: 
@@ -511,9 +523,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q2_K.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q2_K.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -537,14 +550,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q3_K_L.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFallback configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q3_K_L.gguf
     sha256: 04d1bf7905812afb3f4eb67f0f4279bc76b2e99859edbdeead58ac90a81d2da4
     uri: 
@@ -552,9 +565,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q3_K_L.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q3_K_L.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -578,14 +592,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q3_K_M.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFallback configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q3_K_M.gguf
     sha256: 4c26ed1db4d89d8bbf2b1b9dd8cfdfda3291082380ad90e87172de75ffc79165
     uri: 
@@ -593,9 +607,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q3_K_M.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q3_K_M.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -619,14 +634,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q3_K_S.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFallback configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q3_K_S.gguf
     sha256: e930e6faf3d2cf2c7a85467943bb4aa7669fffd7b6a6459ff89589b9a3b5685c
     uri: 
@@ -634,9 +649,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q3_K_S.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q3_K_S.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -660,14 +676,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q4_0.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFallback configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q4_0.gguf
     sha256: b4869a05bbab1c8efd0991dfe40cdf2283267ca62d945d8d1be7a7a491fbd301
     uri: 
@@ -675,9 +691,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q4_0.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q4_0.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -701,14 +718,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q4_K_M.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFallback configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q4_K_M.gguf
     sha256: d391b5a3326e67815ed8da65e93095ac0459e9bdb347e5e82eab8ab40f3c5531
     uri: 
@@ -716,9 +733,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q4_K_M.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q4_K_M.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -742,14 +760,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q4_K_S.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFallback configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q4_K_S.gguf
     sha256: c87d80ace48a4fecd8eccff545dbf0591c9658e98f2dbb9d504801300caf5358
     uri: 
@@ -757,9 +775,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q4_K_S.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q4_K_S.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -783,14 +802,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q5_0.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFallback configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q5_0.gguf
     sha256: 22a2ac4931d53b05bb54c55ab9843e381d7511ae1edcf42e12c3f1195d7c43f8
     uri: 
@@ -798,9 +817,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q5_0.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q5_0.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -824,14 +844,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q5_K_M.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFallback configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q5_K_M.gguf
     sha256: 558f573ab33ccc1b4853aed65ee029802fdcdc09d134620aeff67bfb8826f719
     uri: 
@@ -839,9 +859,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q5_K_M.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q5_K_M.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -865,14 +886,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q5_K_S.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFallback configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q5_K_S.gguf
     sha256: 55b1e98063e338d8bd95530b8612e6a027e27246c9437c610b6f12fd07f28840
     uri: 
@@ -880,9 +901,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q5_K_S.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q5_K_S.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -906,14 +928,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q6_K.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFallback configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q6_K.gguf
     sha256: d89165de21be9ccc564678097040e2429f7169364d84fd29aa1c3367efc35234
     uri: 
@@ -921,9 +943,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q6_K.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q6_K.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - llama-2
   - code
@@ -947,14 +970,14 @@
     parameters:
       model: speechless-codellama-34b-v2.0.Q8_0.gguf
     template:
-      chat: TheBloke__speechless-codellama-34b-v2.0-GGUF
-      completion: TheBloke__speechless-codellama-34b-v2.0-GGUF
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
   description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFallback configuration
   files:
-  - filename: TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
     sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TheBloke__speechless-codellama-34b-v2.0-GGUF.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
   - filename: speechless-codellama-34b-v2.0.Q8_0.gguf
     sha256: 17efd7354d3b9c747a4f118793c16a993dd4624eab4dd83a61c134748b29b55e
     uri: 
@@ -962,9 +985,526 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-codellama-34b-v2.0-GGUF__speechless-codellama-34b-v2.0.Q8_0.gguf
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q8_0.gguf
   tags:
   - transformers
+  - gguf
+  - llama
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:WizardLM/WizardLM_evol_instruct_V2_196k
+  - arxiv:2308.12950
+  - base_model:uukuguy/speechless-codellama-34b-v2.0
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-codellama-34b-v2.0.Q2_K.gguf
+    template:
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
+  description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+    sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+  - filename: speechless-codellama-34b-v2.0.Q2_K.gguf
+    sha256: 08496b5cb4246f4b4d9a5f428aea5ac2054aff402f22f61b04d1c3172384f0f7
+    uri: 
+      https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF/resolve/main/speechless-codellama-34b-v2.0.Q2_K.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q2_K.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:WizardLM/WizardLM_evol_instruct_V2_196k
+  - arxiv:2308.12950
+  - base_model:uukuguy/speechless-codellama-34b-v2.0
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-codellama-34b-v2.0.Q3_K_L.gguf
+    template:
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
+  description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+    sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+  - filename: speechless-codellama-34b-v2.0.Q3_K_L.gguf
+    sha256: 04d1bf7905812afb3f4eb67f0f4279bc76b2e99859edbdeead58ac90a81d2da4
+    uri: 
+      https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF/resolve/main/speechless-codellama-34b-v2.0.Q3_K_L.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q3_K_L.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:WizardLM/WizardLM_evol_instruct_V2_196k
+  - arxiv:2308.12950
+  - base_model:uukuguy/speechless-codellama-34b-v2.0
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-codellama-34b-v2.0.Q3_K_M.gguf
+    template:
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
+  description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+    sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+  - filename: speechless-codellama-34b-v2.0.Q3_K_M.gguf
+    sha256: 4c26ed1db4d89d8bbf2b1b9dd8cfdfda3291082380ad90e87172de75ffc79165
+    uri: 
+      https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF/resolve/main/speechless-codellama-34b-v2.0.Q3_K_M.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q3_K_M.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:WizardLM/WizardLM_evol_instruct_V2_196k
+  - arxiv:2308.12950
+  - base_model:uukuguy/speechless-codellama-34b-v2.0
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-codellama-34b-v2.0.Q3_K_S.gguf
+    template:
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
+  description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+    sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+  - filename: speechless-codellama-34b-v2.0.Q3_K_S.gguf
+    sha256: e930e6faf3d2cf2c7a85467943bb4aa7669fffd7b6a6459ff89589b9a3b5685c
+    uri: 
+      https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF/resolve/main/speechless-codellama-34b-v2.0.Q3_K_S.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q3_K_S.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:WizardLM/WizardLM_evol_instruct_V2_196k
+  - arxiv:2308.12950
+  - base_model:uukuguy/speechless-codellama-34b-v2.0
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-codellama-34b-v2.0.Q4_0.gguf
+    template:
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
+  description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+    sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+  - filename: speechless-codellama-34b-v2.0.Q4_0.gguf
+    sha256: b4869a05bbab1c8efd0991dfe40cdf2283267ca62d945d8d1be7a7a491fbd301
+    uri: 
+      https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF/resolve/main/speechless-codellama-34b-v2.0.Q4_0.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q4_0.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:WizardLM/WizardLM_evol_instruct_V2_196k
+  - arxiv:2308.12950
+  - base_model:uukuguy/speechless-codellama-34b-v2.0
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-codellama-34b-v2.0.Q4_K_M.gguf
+    template:
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
+  description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+    sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+  - filename: speechless-codellama-34b-v2.0.Q4_K_M.gguf
+    sha256: d391b5a3326e67815ed8da65e93095ac0459e9bdb347e5e82eab8ab40f3c5531
+    uri: 
+      https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF/resolve/main/speechless-codellama-34b-v2.0.Q4_K_M.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q4_K_M.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:WizardLM/WizardLM_evol_instruct_V2_196k
+  - arxiv:2308.12950
+  - base_model:uukuguy/speechless-codellama-34b-v2.0
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-codellama-34b-v2.0.Q4_K_S.gguf
+    template:
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
+  description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+    sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+  - filename: speechless-codellama-34b-v2.0.Q4_K_S.gguf
+    sha256: c87d80ace48a4fecd8eccff545dbf0591c9658e98f2dbb9d504801300caf5358
+    uri: 
+      https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF/resolve/main/speechless-codellama-34b-v2.0.Q4_K_S.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q4_K_S.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:WizardLM/WizardLM_evol_instruct_V2_196k
+  - arxiv:2308.12950
+  - base_model:uukuguy/speechless-codellama-34b-v2.0
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-codellama-34b-v2.0.Q5_0.gguf
+    template:
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
+  description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+    sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+  - filename: speechless-codellama-34b-v2.0.Q5_0.gguf
+    sha256: 22a2ac4931d53b05bb54c55ab9843e381d7511ae1edcf42e12c3f1195d7c43f8
+    uri: 
+      https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF/resolve/main/speechless-codellama-34b-v2.0.Q5_0.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q5_0.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:WizardLM/WizardLM_evol_instruct_V2_196k
+  - arxiv:2308.12950
+  - base_model:uukuguy/speechless-codellama-34b-v2.0
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-codellama-34b-v2.0.Q5_K_M.gguf
+    template:
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
+  description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+    sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+  - filename: speechless-codellama-34b-v2.0.Q5_K_M.gguf
+    sha256: 558f573ab33ccc1b4853aed65ee029802fdcdc09d134620aeff67bfb8826f719
+    uri: 
+      https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF/resolve/main/speechless-codellama-34b-v2.0.Q5_K_M.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q5_K_M.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:WizardLM/WizardLM_evol_instruct_V2_196k
+  - arxiv:2308.12950
+  - base_model:uukuguy/speechless-codellama-34b-v2.0
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-codellama-34b-v2.0.Q5_K_S.gguf
+    template:
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
+  description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+    sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+  - filename: speechless-codellama-34b-v2.0.Q5_K_S.gguf
+    sha256: 55b1e98063e338d8bd95530b8612e6a027e27246c9437c610b6f12fd07f28840
+    uri: 
+      https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF/resolve/main/speechless-codellama-34b-v2.0.Q5_K_S.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q5_K_S.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:WizardLM/WizardLM_evol_instruct_V2_196k
+  - arxiv:2308.12950
+  - base_model:uukuguy/speechless-codellama-34b-v2.0
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-codellama-34b-v2.0.Q6_K.gguf
+    template:
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
+  description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+    sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+  - filename: speechless-codellama-34b-v2.0.Q6_K.gguf
+    sha256: d89165de21be9ccc564678097040e2429f7169364d84fd29aa1c3367efc35234
+    uri: 
+      https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF/resolve/main/speechless-codellama-34b-v2.0.Q6_K.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q6_K.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:WizardLM/WizardLM_evol_instruct_V2_196k
+  - arxiv:2308.12950
+  - base_model:uukuguy/speechless-codellama-34b-v2.0
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-codellama-34b-v2.0.Q8_0.gguf
+    template:
+      chat: thebloke__speechless-codellama-34b-v2.0-gguf
+      completion: thebloke__speechless-codellama-34b-v2.0-gguf
+  description: TheBloke/speechless-codellama-34b-v2.0-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+    sha256: b1ea7f3b90b87ed8a88b3936b3ff1d5d69829debc137df3bdb4933e2b8688c56
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/thebloke__speechless-codellama-34b-v2.0-gguf.tmpl
+  - filename: speechless-codellama-34b-v2.0.Q8_0.gguf
+    sha256: 17efd7354d3b9c747a4f118793c16a993dd4624eab4dd83a61c134748b29b55e
+    uri: 
+      https://huggingface.co/TheBloke/speechless-codellama-34b-v2.0-GGUF/resolve/main/speechless-codellama-34b-v2.0.Q8_0.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-codellama-34b-v2.0-gguf__speechless-codellama-34b-v2.0.Q8_0.gguf
+  tags:
+  - transformers
+  - gguf
   - llama
   - llama-2
   - code
