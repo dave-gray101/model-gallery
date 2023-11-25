@@ -4,14 +4,14 @@
     parameters:
       model: synthia-13b-v1.2.Q2_K.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llama configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q2_K.gguf
     sha256: 8b90ebbda7a80af7bd8f8f1fe39bf4026dfe9e43a6760c010977caf588b96c16
     uri: 
@@ -38,14 +38,14 @@
     parameters:
       model: synthia-13b-v1.2.Q3_K_L.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llama configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q3_K_L.gguf
     sha256: 16b2c5e66b0b255138ce23b225ba9cd21b2878c869610a2e1aff39da557cbace
     uri: 
@@ -72,14 +72,14 @@
     parameters:
       model: synthia-13b-v1.2.Q3_K_M.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llama configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q3_K_M.gguf
     sha256: 1cf00cf017a44e8eae6a8b93811a8bf2f800ca448e709d1cff0c4e9cde0df36b
     uri: 
@@ -106,14 +106,14 @@
     parameters:
       model: synthia-13b-v1.2.Q3_K_S.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llama configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q3_K_S.gguf
     sha256: 2f2e1e37806acea76ecefaaa20302c4e8003658513ae08fadcfc6e3456cb8d5a
     uri: 
@@ -140,14 +140,14 @@
     parameters:
       model: synthia-13b-v1.2.Q4_0.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llama configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q4_0.gguf
     sha256: c72a0308bd83e6de1fb2130101079db202363a17cb4f487f2dc9fbcf735ff5d7
     uri: 
@@ -174,14 +174,14 @@
     parameters:
       model: synthia-13b-v1.2.Q4_K_M.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llama configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q4_K_M.gguf
     sha256: ccfd0bba9445dc967fba1d4c589c31cd1f89ec243ee6e07fd4455b9a933e9ff2
     uri: 
@@ -208,14 +208,14 @@
     parameters:
       model: synthia-13b-v1.2.Q4_K_S.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llama configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q4_K_S.gguf
     sha256: 15e41bac04e039fbc1045ce3ba99d37499abc03df997bb6d5cec36ebf91831f1
     uri: 
@@ -242,14 +242,14 @@
     parameters:
       model: synthia-13b-v1.2.Q5_0.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llama configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q5_0.gguf
     sha256: 0276c2d246c333c22852c0d633275fb4aa9d024aa0ce3e093072262863bea949
     uri: 
@@ -276,14 +276,14 @@
     parameters:
       model: synthia-13b-v1.2.Q5_K_M.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llama configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q5_K_M.gguf
     sha256: 5afb1eced1f30d910fc9d0be6a7c26268b488c13789d8071aa2a5c4f0d767a76
     uri: 
@@ -310,14 +310,14 @@
     parameters:
       model: synthia-13b-v1.2.Q5_K_S.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llama configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q5_K_S.gguf
     sha256: 5d450fc377a517de0486b4202f0f4f3641de9d545426e4b41e327f05e403cee1
     uri: 
@@ -344,14 +344,14 @@
     parameters:
       model: synthia-13b-v1.2.Q6_K.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llama configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q6_K.gguf
     sha256: 02174ec7e1679a49a704723fe0ae85064b147895867dbb5418040b93a3dd531f
     uri: 
@@ -378,14 +378,14 @@
     parameters:
       model: synthia-13b-v1.2.Q8_0.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llama configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q8_0.gguf
     sha256: b221a09957a78f306632e50f8deeade61ba4c3d6a0061363944f6443934e74c5
     uri: 
@@ -412,14 +412,14 @@
     parameters:
       model: synthia-13b-v1.2.Q2_K.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q2_K.gguf
     sha256: 8b90ebbda7a80af7bd8f8f1fe39bf4026dfe9e43a6760c010977caf588b96c16
     uri: 
@@ -446,14 +446,14 @@
     parameters:
       model: synthia-13b-v1.2.Q3_K_L.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q3_K_L.gguf
     sha256: 16b2c5e66b0b255138ce23b225ba9cd21b2878c869610a2e1aff39da557cbace
     uri: 
@@ -480,14 +480,14 @@
     parameters:
       model: synthia-13b-v1.2.Q3_K_M.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q3_K_M.gguf
     sha256: 1cf00cf017a44e8eae6a8b93811a8bf2f800ca448e709d1cff0c4e9cde0df36b
     uri: 
@@ -514,14 +514,14 @@
     parameters:
       model: synthia-13b-v1.2.Q3_K_S.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q3_K_S.gguf
     sha256: 2f2e1e37806acea76ecefaaa20302c4e8003658513ae08fadcfc6e3456cb8d5a
     uri: 
@@ -548,14 +548,14 @@
     parameters:
       model: synthia-13b-v1.2.Q4_0.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q4_0.gguf
     sha256: c72a0308bd83e6de1fb2130101079db202363a17cb4f487f2dc9fbcf735ff5d7
     uri: 
@@ -582,14 +582,14 @@
     parameters:
       model: synthia-13b-v1.2.Q4_K_M.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q4_K_M.gguf
     sha256: ccfd0bba9445dc967fba1d4c589c31cd1f89ec243ee6e07fd4455b9a933e9ff2
     uri: 
@@ -616,14 +616,14 @@
     parameters:
       model: synthia-13b-v1.2.Q4_K_S.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q4_K_S.gguf
     sha256: 15e41bac04e039fbc1045ce3ba99d37499abc03df997bb6d5cec36ebf91831f1
     uri: 
@@ -650,14 +650,14 @@
     parameters:
       model: synthia-13b-v1.2.Q5_0.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q5_0.gguf
     sha256: 0276c2d246c333c22852c0d633275fb4aa9d024aa0ce3e093072262863bea949
     uri: 
@@ -684,14 +684,14 @@
     parameters:
       model: synthia-13b-v1.2.Q5_K_M.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q5_K_M.gguf
     sha256: 5afb1eced1f30d910fc9d0be6a7c26268b488c13789d8071aa2a5c4f0d767a76
     uri: 
@@ -718,14 +718,14 @@
     parameters:
       model: synthia-13b-v1.2.Q5_K_S.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q5_K_S.gguf
     sha256: 5d450fc377a517de0486b4202f0f4f3641de9d545426e4b41e327f05e403cee1
     uri: 
@@ -752,14 +752,14 @@
     parameters:
       model: synthia-13b-v1.2.Q6_K.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q6_K.gguf
     sha256: 02174ec7e1679a49a704723fe0ae85064b147895867dbb5418040b93a3dd531f
     uri: 
@@ -786,14 +786,14 @@
     parameters:
       model: synthia-13b-v1.2.Q8_0.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q8_0.gguf
     sha256: b221a09957a78f306632e50f8deeade61ba4c3d6a0061363944f6443934e74c5
     uri: 
@@ -820,14 +820,14 @@
     parameters:
       model: synthia-13b-v1.2.Q2_K.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q2_K.gguf
     sha256: 8b90ebbda7a80af7bd8f8f1fe39bf4026dfe9e43a6760c010977caf588b96c16
     uri: 
@@ -854,14 +854,14 @@
     parameters:
       model: synthia-13b-v1.2.Q3_K_L.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q3_K_L.gguf
     sha256: 16b2c5e66b0b255138ce23b225ba9cd21b2878c869610a2e1aff39da557cbace
     uri: 
@@ -888,14 +888,14 @@
     parameters:
       model: synthia-13b-v1.2.Q3_K_M.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q3_K_M.gguf
     sha256: 1cf00cf017a44e8eae6a8b93811a8bf2f800ca448e709d1cff0c4e9cde0df36b
     uri: 
@@ -922,14 +922,14 @@
     parameters:
       model: synthia-13b-v1.2.Q3_K_S.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q3_K_S.gguf
     sha256: 2f2e1e37806acea76ecefaaa20302c4e8003658513ae08fadcfc6e3456cb8d5a
     uri: 
@@ -956,14 +956,14 @@
     parameters:
       model: synthia-13b-v1.2.Q4_0.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q4_0.gguf
     sha256: c72a0308bd83e6de1fb2130101079db202363a17cb4f487f2dc9fbcf735ff5d7
     uri: 
@@ -990,14 +990,14 @@
     parameters:
       model: synthia-13b-v1.2.Q4_K_M.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q4_K_M.gguf
     sha256: ccfd0bba9445dc967fba1d4c589c31cd1f89ec243ee6e07fd4455b9a933e9ff2
     uri: 
@@ -1024,14 +1024,14 @@
     parameters:
       model: synthia-13b-v1.2.Q4_K_S.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q4_K_S.gguf
     sha256: 15e41bac04e039fbc1045ce3ba99d37499abc03df997bb6d5cec36ebf91831f1
     uri: 
@@ -1058,14 +1058,14 @@
     parameters:
       model: synthia-13b-v1.2.Q5_0.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q5_0.gguf
     sha256: 0276c2d246c333c22852c0d633275fb4aa9d024aa0ce3e093072262863bea949
     uri: 
@@ -1092,14 +1092,14 @@
     parameters:
       model: synthia-13b-v1.2.Q5_K_M.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q5_K_M.gguf
     sha256: 5afb1eced1f30d910fc9d0be6a7c26268b488c13789d8071aa2a5c4f0d767a76
     uri: 
@@ -1126,14 +1126,14 @@
     parameters:
       model: synthia-13b-v1.2.Q5_K_S.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q5_K_S.gguf
     sha256: 5d450fc377a517de0486b4202f0f4f3641de9d545426e4b41e327f05e403cee1
     uri: 
@@ -1160,14 +1160,14 @@
     parameters:
       model: synthia-13b-v1.2.Q6_K.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q6_K.gguf
     sha256: 02174ec7e1679a49a704723fe0ae85064b147895867dbb5418040b93a3dd531f
     uri: 
@@ -1194,14 +1194,14 @@
     parameters:
       model: synthia-13b-v1.2.Q8_0.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/Synthia-13B-v1.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-13b-v1.2.Q8_0.gguf
     sha256: b221a09957a78f306632e50f8deeade61ba4c3d6a0061363944f6443934e74c5
     uri: 

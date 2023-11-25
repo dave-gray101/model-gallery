@@ -4,14 +4,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q2_K.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llama configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q2_K.gguf
     sha256: a39ebb610850eacfd9b38ef076dd288e3628277a6933adb89a81be56313028b7
     uri: 
@@ -41,14 +41,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q3_K_L.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llama configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q3_K_L.gguf
     sha256: cfd57e83b0595efc5b68aeb1fcaa7a309596dd159842d6849c532f80048a32fa
     uri: 
@@ -78,14 +78,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q3_K_M.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llama configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q3_K_M.gguf
     sha256: 4973e48bb43c09ea2fc9bdade502a12cb5bde8d4a0f8880710fbab61e72d4e47
     uri: 
@@ -115,14 +115,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q3_K_S.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llama configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q3_K_S.gguf
     sha256: bcc019c7d71584a6c556b279832a5a5e21cc5f65292ec405e25ee190d32d7f8e
     uri: 
@@ -152,14 +152,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q4_0.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llama configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q4_0.gguf
     sha256: d9d9b3fb09169358ae6d372dd120183759531b0f7effd436679f7fb44131e2ba
     uri: 
@@ -189,14 +189,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q4_K_M.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llama configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q4_K_M.gguf
     sha256: b96a0a0b4e8a3e18256d11166ec87af8694f9fffa7344da1543cdf4e08202b23
     uri: 
@@ -226,14 +226,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q4_K_S.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llama configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q4_K_S.gguf
     sha256: 24e857181e326bd7b423c3903b75e5ed2598a9afd1c09663fbd414c54ea716da
     uri: 
@@ -263,14 +263,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q5_0.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llama configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q5_0.gguf
     sha256: 212fb64678d3a9654f86b2fe8450b45f8025bb1645d431f0e49b70bad9e4ea9f
     uri: 
@@ -300,14 +300,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q5_K_M.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llama configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q5_K_M.gguf
     sha256: a6c4f2ebdc47bc90a519a2818a7b45882430f976029eb82009d828ba0ab9e6ed
     uri: 
@@ -337,14 +337,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q5_K_S.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llama configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q5_K_S.gguf
     sha256: e18de88cfb754ad434a7fba777d96ba6382d57207063e3e2a36eca4af32b8ad7
     uri: 
@@ -374,14 +374,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q6_K.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llama configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q6_K.gguf
     sha256: a8a0cfbdc4d39e2fe03219f0d9c53d55b170fd22057e410022749bbfb376a0fd
     uri: 
@@ -411,14 +411,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q8_0.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llama configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q8_0.gguf
     sha256: ed570b8c1bad01b71de95ea909ff090aad7a5967f76fa29a6fa581182c6deb85
     uri: 
@@ -448,14 +448,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q2_K.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q2_K.gguf
     sha256: a39ebb610850eacfd9b38ef076dd288e3628277a6933adb89a81be56313028b7
     uri: 
@@ -485,14 +485,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q3_K_L.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q3_K_L.gguf
     sha256: cfd57e83b0595efc5b68aeb1fcaa7a309596dd159842d6849c532f80048a32fa
     uri: 
@@ -522,14 +522,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q3_K_M.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q3_K_M.gguf
     sha256: 4973e48bb43c09ea2fc9bdade502a12cb5bde8d4a0f8880710fbab61e72d4e47
     uri: 
@@ -559,14 +559,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q3_K_S.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q3_K_S.gguf
     sha256: bcc019c7d71584a6c556b279832a5a5e21cc5f65292ec405e25ee190d32d7f8e
     uri: 
@@ -596,14 +596,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q4_0.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q4_0.gguf
     sha256: d9d9b3fb09169358ae6d372dd120183759531b0f7effd436679f7fb44131e2ba
     uri: 
@@ -633,14 +633,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q4_K_M.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q4_K_M.gguf
     sha256: b96a0a0b4e8a3e18256d11166ec87af8694f9fffa7344da1543cdf4e08202b23
     uri: 
@@ -670,14 +670,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q4_K_S.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q4_K_S.gguf
     sha256: 24e857181e326bd7b423c3903b75e5ed2598a9afd1c09663fbd414c54ea716da
     uri: 
@@ -707,14 +707,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q5_0.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q5_0.gguf
     sha256: 212fb64678d3a9654f86b2fe8450b45f8025bb1645d431f0e49b70bad9e4ea9f
     uri: 
@@ -744,14 +744,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q5_K_M.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q5_K_M.gguf
     sha256: a6c4f2ebdc47bc90a519a2818a7b45882430f976029eb82009d828ba0ab9e6ed
     uri: 
@@ -781,14 +781,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q5_K_S.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q5_K_S.gguf
     sha256: e18de88cfb754ad434a7fba777d96ba6382d57207063e3e2a36eca4af32b8ad7
     uri: 
@@ -818,14 +818,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q6_K.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q6_K.gguf
     sha256: a8a0cfbdc4d39e2fe03219f0d9c53d55b170fd22057e410022749bbfb376a0fd
     uri: 
@@ -855,14 +855,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q8_0.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q8_0.gguf
     sha256: ed570b8c1bad01b71de95ea909ff090aad7a5967f76fa29a6fa581182c6deb85
     uri: 
@@ -892,14 +892,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q2_K.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q2_K.gguf
     sha256: a39ebb610850eacfd9b38ef076dd288e3628277a6933adb89a81be56313028b7
     uri: 
@@ -929,14 +929,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q3_K_L.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q3_K_L.gguf
     sha256: cfd57e83b0595efc5b68aeb1fcaa7a309596dd159842d6849c532f80048a32fa
     uri: 
@@ -966,14 +966,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q3_K_M.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q3_K_M.gguf
     sha256: 4973e48bb43c09ea2fc9bdade502a12cb5bde8d4a0f8880710fbab61e72d4e47
     uri: 
@@ -1003,14 +1003,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q3_K_S.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q3_K_S.gguf
     sha256: bcc019c7d71584a6c556b279832a5a5e21cc5f65292ec405e25ee190d32d7f8e
     uri: 
@@ -1040,14 +1040,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q4_0.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q4_0.gguf
     sha256: d9d9b3fb09169358ae6d372dd120183759531b0f7effd436679f7fb44131e2ba
     uri: 
@@ -1077,14 +1077,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q4_K_M.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q4_K_M.gguf
     sha256: b96a0a0b4e8a3e18256d11166ec87af8694f9fffa7344da1543cdf4e08202b23
     uri: 
@@ -1114,14 +1114,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q4_K_S.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q4_K_S.gguf
     sha256: 24e857181e326bd7b423c3903b75e5ed2598a9afd1c09663fbd414c54ea716da
     uri: 
@@ -1151,14 +1151,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q5_0.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q5_0.gguf
     sha256: 212fb64678d3a9654f86b2fe8450b45f8025bb1645d431f0e49b70bad9e4ea9f
     uri: 
@@ -1188,14 +1188,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q5_K_M.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q5_K_M.gguf
     sha256: a6c4f2ebdc47bc90a519a2818a7b45882430f976029eb82009d828ba0ab9e6ed
     uri: 
@@ -1225,14 +1225,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q5_K_S.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q5_K_S.gguf
     sha256: e18de88cfb754ad434a7fba777d96ba6382d57207063e3e2a36eca4af32b8ad7
     uri: 
@@ -1262,14 +1262,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q6_K.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q6_K.gguf
     sha256: a8a0cfbdc4d39e2fe03219f0d9c53d55b170fd22057e410022749bbfb376a0fd
     uri: 
@@ -1299,14 +1299,14 @@
     parameters:
       model: mistral-pygmalion-7b.Q8_0.gguf
     template:
-      chat: Instruction-Assistant-Hashes
-      completion: Instruction-Assistant-Hashes
+      chat: instruction-assistant-hashes
+      completion: instruction-assistant-hashes
   description: TheBloke/Mistral-Pygmalion-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Instruction-Assistant-Hashes.tmpl
+  - filename: instruction-assistant-hashes.tmpl
     sha256: bacdbe0cc13f8f7798c2ac73933187d295a96ba19651cd5e118972f957c6da1b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Instruction-Assistant-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/instruction-assistant-hashes.tmpl
   - filename: mistral-pygmalion-7b.Q8_0.gguf
     sha256: ed570b8c1bad01b71de95ea909ff090aad7a5967f76fa29a6fa581182c6deb85
     uri: 

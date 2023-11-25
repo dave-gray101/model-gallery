@@ -4,14 +4,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q2_K.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q2_K.bin
     sha256: 0a9e9887c973bd927e162180166c6bef9da78a3cabd12eba824b288c4a5ec024
     uri: 
@@ -35,14 +35,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q3_K_L.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q3_K_L.bin
     sha256: 519e650c813aca23c95ca0f1b7e10a09f6e9d356408ecc90daeb35791e6a8bc0
     uri: 
@@ -66,14 +66,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q3_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q3_K_M.bin
     sha256: 83346f07c96dfb5b368d185c570eba82655ef4db0a6ed3aa1fb5c172b32a877a
     uri: 
@@ -97,14 +97,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q3_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q3_K_S.bin
     sha256: 487ab454209224ed933bc0c4f6bada8255437078098295648269d1d4ae799b2b
     uri: 
@@ -128,14 +128,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q4_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q4_0.bin
     sha256: 727b370f895f1e29b9f17ffcc0b61c69a5ec2dfa0e4a3801a29320186955d18b
     uri: 
@@ -159,14 +159,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q4_1.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q4_1.bin
     sha256: 33a0e0a27aea249d4923742e09de837e58d07072b15355196e8f87fc346ca51d
     uri: 
@@ -190,14 +190,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q4_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q4_K_M.bin
     sha256: 9c9e8eb9007674af6fd2b9011d8898d4d320bccdbd49b4cc52e70674354ba0e0
     uri: 
@@ -221,14 +221,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q4_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q4_K_S.bin
     sha256: 5be7843c924df41b43e8d1c45ef5ef5f16709d539ee2a31fa3105d8ed3ec7641
     uri: 
@@ -252,14 +252,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q5_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q5_0.bin
     sha256: 0be14e7c657df77931866b733da4ca1811b6391103b1d02be2e434bff6251563
     uri: 
@@ -283,14 +283,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q5_1.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q5_1.bin
     sha256: dee4a01e1cb5bcab9c764a0a991f8260e5da45c69b75155e1d8cfe6b73ccfebf
     uri: 
@@ -314,14 +314,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q5_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q5_K_M.bin
     sha256: 6e11cf0720cc9c25aec4a3f268bc8d8a399a0e8d42634ee59af831d0ed96cec9
     uri: 
@@ -345,14 +345,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q5_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q5_K_S.bin
     sha256: 0fbbe0f601dc3d979d1d362399bd64058ca77b58ff728d944dc130f56aa68332
     uri: 
@@ -376,14 +376,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q6_K.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q6_K.bin
     sha256: 1251f45b65869cbe44577d7c6703304ade3e975dbc0f298cb087b8d5084dd31e
     uri: 
@@ -407,14 +407,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q8_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q8_0.bin
     sha256: a4aa3f80a2e5fb3bf60091022f88dcdf1623c8e061b85c3f1a0960756878f66f
     uri: 
@@ -438,14 +438,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q2_K.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q2_K.bin
     sha256: 0a9e9887c973bd927e162180166c6bef9da78a3cabd12eba824b288c4a5ec024
     uri: 
@@ -469,14 +469,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q3_K_L.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q3_K_L.bin
     sha256: 519e650c813aca23c95ca0f1b7e10a09f6e9d356408ecc90daeb35791e6a8bc0
     uri: 
@@ -500,14 +500,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q3_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q3_K_M.bin
     sha256: 83346f07c96dfb5b368d185c570eba82655ef4db0a6ed3aa1fb5c172b32a877a
     uri: 
@@ -531,14 +531,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q3_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q3_K_S.bin
     sha256: 487ab454209224ed933bc0c4f6bada8255437078098295648269d1d4ae799b2b
     uri: 
@@ -562,14 +562,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q4_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q4_0.bin
     sha256: 727b370f895f1e29b9f17ffcc0b61c69a5ec2dfa0e4a3801a29320186955d18b
     uri: 
@@ -593,14 +593,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q4_1.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q4_1.bin
     sha256: 33a0e0a27aea249d4923742e09de837e58d07072b15355196e8f87fc346ca51d
     uri: 
@@ -624,14 +624,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q4_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q4_K_M.bin
     sha256: 9c9e8eb9007674af6fd2b9011d8898d4d320bccdbd49b4cc52e70674354ba0e0
     uri: 
@@ -655,14 +655,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q4_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q4_K_S.bin
     sha256: 5be7843c924df41b43e8d1c45ef5ef5f16709d539ee2a31fa3105d8ed3ec7641
     uri: 
@@ -686,14 +686,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q5_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q5_0.bin
     sha256: 0be14e7c657df77931866b733da4ca1811b6391103b1d02be2e434bff6251563
     uri: 
@@ -717,14 +717,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q5_1.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q5_1.bin
     sha256: dee4a01e1cb5bcab9c764a0a991f8260e5da45c69b75155e1d8cfe6b73ccfebf
     uri: 
@@ -748,14 +748,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q5_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q5_K_M.bin
     sha256: 6e11cf0720cc9c25aec4a3f268bc8d8a399a0e8d42634ee59af831d0ed96cec9
     uri: 
@@ -779,14 +779,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q5_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q5_K_S.bin
     sha256: 0fbbe0f601dc3d979d1d362399bd64058ca77b58ff728d944dc130f56aa68332
     uri: 
@@ -810,14 +810,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q6_K.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q6_K.bin
     sha256: 1251f45b65869cbe44577d7c6703304ade3e975dbc0f298cb087b8d5084dd31e
     uri: 
@@ -841,14 +841,14 @@
     parameters:
       model: stheno-inverted-l2-13b.ggmlv3.Q8_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Stheno-Inverted-L2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: stheno-inverted-l2-13b.ggmlv3.Q8_0.bin
     sha256: a4aa3f80a2e5fb3bf60091022f88dcdf1623c8e061b85c3f1a0960756878f66f
     uri: 

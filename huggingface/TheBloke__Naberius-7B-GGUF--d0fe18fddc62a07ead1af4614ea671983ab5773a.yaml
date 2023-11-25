@@ -4,14 +4,14 @@
     parameters:
       model: naberius-7b.Q2_K.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q2_K.gguf
     sha256: b697e7bbf6e4b7f6f5a54a8a6ab7fbda53468e7b80666571e54522cd601daaf5
     uri: 
@@ -49,14 +49,14 @@
     parameters:
       model: naberius-7b.Q3_K_L.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q3_K_L.gguf
     sha256: c405263bfc0b3051a9e0b1b6e515d175bc38d97cb8db158517d680ae15c733c4
     uri: 
@@ -94,14 +94,14 @@
     parameters:
       model: naberius-7b.Q3_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q3_K_M.gguf
     sha256: d4f0dc14ae000891c52f43391732b888561fb85abddd75961f0a741bf526dada
     uri: 
@@ -139,14 +139,14 @@
     parameters:
       model: naberius-7b.Q3_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q3_K_S.gguf
     sha256: b06ffe021799b125c99447d414f924f3442352bd90ac5091015e4b8b11d0acd3
     uri: 
@@ -184,14 +184,14 @@
     parameters:
       model: naberius-7b.Q4_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q4_0.gguf
     sha256: b9ae6b226e577d3868b3cd41c9657ac6f64f4715b52309cbe97587943ee2ea07
     uri: 
@@ -229,14 +229,14 @@
     parameters:
       model: naberius-7b.Q4_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q4_K_M.gguf
     sha256: 2028f44e9e2bd2f0e116d2e94330a8d0def626f40d59672c0280fe9fbb89270f
     uri: 
@@ -274,14 +274,14 @@
     parameters:
       model: naberius-7b.Q4_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q4_K_S.gguf
     sha256: fafe48eb153662e9a235e4de9e2b8f496130750ca09c7d9f3e00cd7b96607aef
     uri: 
@@ -319,14 +319,14 @@
     parameters:
       model: naberius-7b.Q5_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q5_0.gguf
     sha256: a3308c19328e898d09ea2c59c120dd94ba1ff1e050ca1f8589bf44b3b6c7cdaa
     uri: 
@@ -364,14 +364,14 @@
     parameters:
       model: naberius-7b.Q5_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q5_K_M.gguf
     sha256: 6e1df3d24b12666aeb05a7961b40182f9340f78d17d0bf2779f4307410c4f96c
     uri: 
@@ -409,14 +409,14 @@
     parameters:
       model: naberius-7b.Q5_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q5_K_S.gguf
     sha256: 4e63f6e7af02a2173cba823a24adb79b11ab745c808fcd6edaa43d47fc513d3d
     uri: 
@@ -454,14 +454,14 @@
     parameters:
       model: naberius-7b.Q6_K.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q6_K.gguf
     sha256: 4e00fc58299f41d0c0506fdbaf22c3f6930e082b839af6809f2571bb1d849b6b
     uri: 
@@ -499,14 +499,14 @@
     parameters:
       model: naberius-7b.Q8_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q8_0.gguf
     sha256: 090d2103d521ada254ddd1b64199b7fbe65cad6fd0e9854df3f6f07ca507e941
     uri: 
@@ -548,14 +548,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q2_K.gguf
     sha256: b697e7bbf6e4b7f6f5a54a8a6ab7fbda53468e7b80666571e54522cd601daaf5
     uri: 
@@ -597,14 +597,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q3_K_L.gguf
     sha256: c405263bfc0b3051a9e0b1b6e515d175bc38d97cb8db158517d680ae15c733c4
     uri: 
@@ -646,14 +646,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q3_K_M.gguf
     sha256: d4f0dc14ae000891c52f43391732b888561fb85abddd75961f0a741bf526dada
     uri: 
@@ -695,14 +695,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q3_K_S.gguf
     sha256: b06ffe021799b125c99447d414f924f3442352bd90ac5091015e4b8b11d0acd3
     uri: 
@@ -744,14 +744,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q4_0.gguf
     sha256: b9ae6b226e577d3868b3cd41c9657ac6f64f4715b52309cbe97587943ee2ea07
     uri: 
@@ -793,14 +793,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q4_K_M.gguf
     sha256: 2028f44e9e2bd2f0e116d2e94330a8d0def626f40d59672c0280fe9fbb89270f
     uri: 
@@ -842,14 +842,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q4_K_S.gguf
     sha256: fafe48eb153662e9a235e4de9e2b8f496130750ca09c7d9f3e00cd7b96607aef
     uri: 
@@ -891,14 +891,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q5_0.gguf
     sha256: a3308c19328e898d09ea2c59c120dd94ba1ff1e050ca1f8589bf44b3b6c7cdaa
     uri: 
@@ -940,14 +940,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q5_K_M.gguf
     sha256: 6e1df3d24b12666aeb05a7961b40182f9340f78d17d0bf2779f4307410c4f96c
     uri: 
@@ -989,14 +989,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q5_K_S.gguf
     sha256: 4e63f6e7af02a2173cba823a24adb79b11ab745c808fcd6edaa43d47fc513d3d
     uri: 
@@ -1038,14 +1038,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q6_K.gguf
     sha256: 4e00fc58299f41d0c0506fdbaf22c3f6930e082b839af6809f2571bb1d849b6b
     uri: 
@@ -1087,14 +1087,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q8_0.gguf
     sha256: 090d2103d521ada254ddd1b64199b7fbe65cad6fd0e9854df3f6f07ca507e941
     uri: 
@@ -1132,14 +1132,14 @@
     parameters:
       model: naberius-7b.Q2_K.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q2_K.gguf
     sha256: b697e7bbf6e4b7f6f5a54a8a6ab7fbda53468e7b80666571e54522cd601daaf5
     uri: 
@@ -1177,14 +1177,14 @@
     parameters:
       model: naberius-7b.Q3_K_L.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q3_K_L.gguf
     sha256: c405263bfc0b3051a9e0b1b6e515d175bc38d97cb8db158517d680ae15c733c4
     uri: 
@@ -1222,14 +1222,14 @@
     parameters:
       model: naberius-7b.Q3_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q3_K_M.gguf
     sha256: d4f0dc14ae000891c52f43391732b888561fb85abddd75961f0a741bf526dada
     uri: 
@@ -1267,14 +1267,14 @@
     parameters:
       model: naberius-7b.Q3_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q3_K_S.gguf
     sha256: b06ffe021799b125c99447d414f924f3442352bd90ac5091015e4b8b11d0acd3
     uri: 
@@ -1312,14 +1312,14 @@
     parameters:
       model: naberius-7b.Q4_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q4_0.gguf
     sha256: b9ae6b226e577d3868b3cd41c9657ac6f64f4715b52309cbe97587943ee2ea07
     uri: 
@@ -1357,14 +1357,14 @@
     parameters:
       model: naberius-7b.Q4_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q4_K_M.gguf
     sha256: 2028f44e9e2bd2f0e116d2e94330a8d0def626f40d59672c0280fe9fbb89270f
     uri: 
@@ -1402,14 +1402,14 @@
     parameters:
       model: naberius-7b.Q4_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q4_K_S.gguf
     sha256: fafe48eb153662e9a235e4de9e2b8f496130750ca09c7d9f3e00cd7b96607aef
     uri: 
@@ -1447,14 +1447,14 @@
     parameters:
       model: naberius-7b.Q5_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q5_0.gguf
     sha256: a3308c19328e898d09ea2c59c120dd94ba1ff1e050ca1f8589bf44b3b6c7cdaa
     uri: 
@@ -1492,14 +1492,14 @@
     parameters:
       model: naberius-7b.Q5_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q5_K_M.gguf
     sha256: 6e1df3d24b12666aeb05a7961b40182f9340f78d17d0bf2779f4307410c4f96c
     uri: 
@@ -1537,14 +1537,14 @@
     parameters:
       model: naberius-7b.Q5_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q5_K_S.gguf
     sha256: 4e63f6e7af02a2173cba823a24adb79b11ab745c808fcd6edaa43d47fc513d3d
     uri: 
@@ -1582,14 +1582,14 @@
     parameters:
       model: naberius-7b.Q6_K.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q6_K.gguf
     sha256: 4e00fc58299f41d0c0506fdbaf22c3f6930e082b839af6809f2571bb1d849b6b
     uri: 
@@ -1627,14 +1627,14 @@
     parameters:
       model: naberius-7b.Q8_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Naberius-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: naberius-7b.Q8_0.gguf
     sha256: 090d2103d521ada254ddd1b64199b7fbe65cad6fd0e9854df3f6f07ca507e941
     uri: 

@@ -4,14 +4,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q2_K.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llama configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q2_K.bin
     sha256: 5ad849ba82bc71fdf3eb637247673c83ab026dbb1d6f187cc9ce29455916a3e9
     uri: 
@@ -39,14 +39,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q3_K_L.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llama configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q3_K_L.bin
     sha256: ef964e5e830f9a1eeae763e5dd40d131430f3d846c748541153ad531867e7ff1
     uri: 
@@ -74,14 +74,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q3_K_M.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llama configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q3_K_M.bin
     sha256: 3a1578c947e68b101dfc55a495737fb22e9087c38f9cd742fdabd191a49e3cfa
     uri: 
@@ -109,14 +109,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q3_K_S.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llama configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q3_K_S.bin
     sha256: be1fcc05e12ce866db297dda1410a75802c825b0907d37625c24c6b14ae229c1
     uri: 
@@ -144,14 +144,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q4_0.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llama configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q4_0.bin
     sha256: 9b398fc67397309f832fcf21c36c339d8a7cbe6b2b321a63ef3d8d430d6c7f51
     uri: 
@@ -179,14 +179,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q4_1.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llama configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q4_1.bin
     sha256: d53bb834270dcf19e840bfaf12eb31e098511e1d0f1df45dcb592a293ccdc4bf
     uri: 
@@ -214,14 +214,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q4_K_M.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llama configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q4_K_M.bin
     sha256: ad42ca227e12c6c5f7dbcca662e9d040315cb841e378df15d860c7cc148ee77a
     uri: 
@@ -249,14 +249,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q4_K_S.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llama configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q4_K_S.bin
     sha256: fdf3c2c9fe6917f698b0f754839ed1c690c922111fc6772af5c7f31148a8ff4a
     uri: 
@@ -284,14 +284,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q5_0.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llama configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q5_0.bin
     sha256: 7552b11f4db6189c26116d1a72891a2a1949b2b4ee4a0ca286d36f145c27575e
     uri: 
@@ -319,14 +319,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q5_1.z01
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llama configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q5_1.z01
     sha256: c46156098b68710a9be0b87aa283c16f79a1df9710a254a8ed9bb44d58208b38
     uri: 
@@ -354,14 +354,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q5_1.zip
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llama configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q5_1.zip
     sha256: f8f605f95b00a35d2ce8d47560468f149c642171c95c6313c982572393745489
     uri: 
@@ -389,14 +389,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q5_K_M.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llama configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q5_K_M.bin
     sha256: 0ec4e8e871b2a49d594cd6fc4cb9594c223ddebeb0f0f8d1357dc91b8fb1832f
     uri: 
@@ -424,14 +424,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q5_K_S.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llama configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q5_K_S.bin
     sha256: 83af8409825371c10435108b803db3379b773cb33e9676326fcf420b9718d899
     uri: 
@@ -459,14 +459,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q6_K.z01
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llama configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q6_K.z01
     sha256: 0e330992e07cb589d8fd542cf121a64e03edd64d921b08246a6b96998b6c5035
     uri: 
@@ -494,14 +494,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q6_K.zip
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llama configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q6_K.zip
     sha256: 741d5773bbb7af503fe9b89be953f24ca9e906dccf177734b1a23668609a63b5
     uri: 
@@ -529,14 +529,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q8_0.z01
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llama configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q8_0.z01
     sha256: 51deabd07fec7de71ffc17c207b60aebba9dcaa5a5fef2e8268c7006888d1d32
     uri: 
@@ -564,14 +564,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q8_0.zip
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llama configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q8_0.zip
     sha256: 5f3bb01cbd1306206271a19a72be653873dfb8125a97713a8df86b7f63de1189
     uri: 
@@ -599,14 +599,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q2_K.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q2_K.bin
     sha256: 5ad849ba82bc71fdf3eb637247673c83ab026dbb1d6f187cc9ce29455916a3e9
     uri: 
@@ -634,14 +634,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q3_K_L.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q3_K_L.bin
     sha256: ef964e5e830f9a1eeae763e5dd40d131430f3d846c748541153ad531867e7ff1
     uri: 
@@ -669,14 +669,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q3_K_M.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q3_K_M.bin
     sha256: 3a1578c947e68b101dfc55a495737fb22e9087c38f9cd742fdabd191a49e3cfa
     uri: 
@@ -704,14 +704,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q3_K_S.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q3_K_S.bin
     sha256: be1fcc05e12ce866db297dda1410a75802c825b0907d37625c24c6b14ae229c1
     uri: 
@@ -739,14 +739,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q4_0.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q4_0.bin
     sha256: 9b398fc67397309f832fcf21c36c339d8a7cbe6b2b321a63ef3d8d430d6c7f51
     uri: 
@@ -774,14 +774,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q4_1.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q4_1.bin
     sha256: d53bb834270dcf19e840bfaf12eb31e098511e1d0f1df45dcb592a293ccdc4bf
     uri: 
@@ -809,14 +809,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q4_K_M.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q4_K_M.bin
     sha256: ad42ca227e12c6c5f7dbcca662e9d040315cb841e378df15d860c7cc148ee77a
     uri: 
@@ -844,14 +844,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q4_K_S.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q4_K_S.bin
     sha256: fdf3c2c9fe6917f698b0f754839ed1c690c922111fc6772af5c7f31148a8ff4a
     uri: 
@@ -879,14 +879,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q5_0.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q5_0.bin
     sha256: 7552b11f4db6189c26116d1a72891a2a1949b2b4ee4a0ca286d36f145c27575e
     uri: 
@@ -914,14 +914,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q5_1.z01
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q5_1.z01
     sha256: c46156098b68710a9be0b87aa283c16f79a1df9710a254a8ed9bb44d58208b38
     uri: 
@@ -949,14 +949,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q5_1.zip
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q5_1.zip
     sha256: f8f605f95b00a35d2ce8d47560468f149c642171c95c6313c982572393745489
     uri: 
@@ -984,14 +984,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q5_K_M.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q5_K_M.bin
     sha256: 0ec4e8e871b2a49d594cd6fc4cb9594c223ddebeb0f0f8d1357dc91b8fb1832f
     uri: 
@@ -1019,14 +1019,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q5_K_S.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q5_K_S.bin
     sha256: 83af8409825371c10435108b803db3379b773cb33e9676326fcf420b9718d899
     uri: 
@@ -1054,14 +1054,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q6_K.z01
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q6_K.z01
     sha256: 0e330992e07cb589d8fd542cf121a64e03edd64d921b08246a6b96998b6c5035
     uri: 
@@ -1089,14 +1089,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q6_K.zip
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q6_K.zip
     sha256: 741d5773bbb7af503fe9b89be953f24ca9e906dccf177734b1a23668609a63b5
     uri: 
@@ -1124,14 +1124,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q8_0.z01
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q8_0.z01
     sha256: 51deabd07fec7de71ffc17c207b60aebba9dcaa5a5fef2e8268c7006888d1d32
     uri: 
@@ -1159,14 +1159,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q8_0.zip
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q8_0.zip
     sha256: 5f3bb01cbd1306206271a19a72be653873dfb8125a97713a8df86b7f63de1189
     uri: 
@@ -1194,14 +1194,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q2_K.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q2_K.bin
     sha256: 5ad849ba82bc71fdf3eb637247673c83ab026dbb1d6f187cc9ce29455916a3e9
     uri: 
@@ -1229,14 +1229,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q3_K_L.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q3_K_L.bin
     sha256: ef964e5e830f9a1eeae763e5dd40d131430f3d846c748541153ad531867e7ff1
     uri: 
@@ -1264,14 +1264,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q3_K_M.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q3_K_M.bin
     sha256: 3a1578c947e68b101dfc55a495737fb22e9087c38f9cd742fdabd191a49e3cfa
     uri: 
@@ -1299,14 +1299,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q3_K_S.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q3_K_S.bin
     sha256: be1fcc05e12ce866db297dda1410a75802c825b0907d37625c24c6b14ae229c1
     uri: 
@@ -1334,14 +1334,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q4_0.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q4_0.bin
     sha256: 9b398fc67397309f832fcf21c36c339d8a7cbe6b2b321a63ef3d8d430d6c7f51
     uri: 
@@ -1369,14 +1369,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q4_1.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q4_1.bin
     sha256: d53bb834270dcf19e840bfaf12eb31e098511e1d0f1df45dcb592a293ccdc4bf
     uri: 
@@ -1404,14 +1404,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q4_K_M.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q4_K_M.bin
     sha256: ad42ca227e12c6c5f7dbcca662e9d040315cb841e378df15d860c7cc148ee77a
     uri: 
@@ -1439,14 +1439,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q4_K_S.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q4_K_S.bin
     sha256: fdf3c2c9fe6917f698b0f754839ed1c690c922111fc6772af5c7f31148a8ff4a
     uri: 
@@ -1474,14 +1474,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q5_0.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q5_0.bin
     sha256: 7552b11f4db6189c26116d1a72891a2a1949b2b4ee4a0ca286d36f145c27575e
     uri: 
@@ -1509,14 +1509,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q5_1.z01
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q5_1.z01
     sha256: c46156098b68710a9be0b87aa283c16f79a1df9710a254a8ed9bb44d58208b38
     uri: 
@@ -1544,14 +1544,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q5_1.zip
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q5_1.zip
     sha256: f8f605f95b00a35d2ce8d47560468f149c642171c95c6313c982572393745489
     uri: 
@@ -1579,14 +1579,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q5_K_M.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q5_K_M.bin
     sha256: 0ec4e8e871b2a49d594cd6fc4cb9594c223ddebeb0f0f8d1357dc91b8fb1832f
     uri: 
@@ -1614,14 +1614,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q5_K_S.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q5_K_S.bin
     sha256: 83af8409825371c10435108b803db3379b773cb33e9676326fcf420b9718d899
     uri: 
@@ -1649,14 +1649,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q6_K.z01
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q6_K.z01
     sha256: 0e330992e07cb589d8fd542cf121a64e03edd64d921b08246a6b96998b6c5035
     uri: 
@@ -1684,14 +1684,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q6_K.zip
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q6_K.zip
     sha256: 741d5773bbb7af503fe9b89be953f24ca9e906dccf177734b1a23668609a63b5
     uri: 
@@ -1719,14 +1719,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q8_0.z01
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q8_0.z01
     sha256: 51deabd07fec7de71ffc17c207b60aebba9dcaa5a5fef2e8268c7006888d1d32
     uri: 
@@ -1754,14 +1754,14 @@
     parameters:
       model: llama-2-70b-orca-200k.ggmlv3.Q8_0.zip
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Llama-2-70B-Orca-200k-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: llama-2-70b-orca-200k.ggmlv3.Q8_0.zip
     sha256: 5f3bb01cbd1306206271a19a72be653873dfb8125a97713a8df86b7f63de1189
     uri: 

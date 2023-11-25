@@ -4,14 +4,14 @@
     parameters:
       model: shiningvaliantxs.Q2_K.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q2_K.gguf
     sha256: baead3529b3b864344369f4e87f69444dd8ca61ca80cf21e3e9724396ae884a8
     uri: 
@@ -43,14 +43,14 @@
     parameters:
       model: shiningvaliantxs.Q3_K_L.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q3_K_L.gguf
     sha256: bf1e476a54de3cdb6d8865e67284d8c009602ac11b97595a16fefb4152306cfb
     uri: 
@@ -82,14 +82,14 @@
     parameters:
       model: shiningvaliantxs.Q3_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q3_K_M.gguf
     sha256: 87663b1329a9c2ec749c19d0dc0d9271a043e181b6b0a1d4a5d5e121ba3a8776
     uri: 
@@ -121,14 +121,14 @@
     parameters:
       model: shiningvaliantxs.Q3_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q3_K_S.gguf
     sha256: 2212695a86c76982c83736b4d528a6ba4fac65e54b91005f31c49d15c18922b4
     uri: 
@@ -160,14 +160,14 @@
     parameters:
       model: shiningvaliantxs.Q4_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q4_0.gguf
     sha256: 2ba377b870fbacd298ea45713433f9e93377b9122b9d8af13e6792b848ca8a22
     uri: 
@@ -199,14 +199,14 @@
     parameters:
       model: shiningvaliantxs.Q4_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q4_K_M.gguf
     sha256: eb79b943c3b66a0157bd05d3d4e00c057401117a06e9f7bd1d75dba9cdf7e188
     uri: 
@@ -238,14 +238,14 @@
     parameters:
       model: shiningvaliantxs.Q4_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q4_K_S.gguf
     sha256: 2a79616b0ab3a2e6e72064fe6effe1b839d1ca10739dc80549486c6d0eb6e059
     uri: 
@@ -277,14 +277,14 @@
     parameters:
       model: shiningvaliantxs.Q5_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q5_0.gguf
     sha256: dc5cd92748a601a9e4d395aadaadd4c54622cc528035da3a55132dfa40ef08e1
     uri: 
@@ -316,14 +316,14 @@
     parameters:
       model: shiningvaliantxs.Q5_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q5_K_M.gguf
     sha256: c0ca82e1ffccfe01e1cc27983d2b7a768f96c26e9b62cc1fd30ea49ee68f6fcd
     uri: 
@@ -355,14 +355,14 @@
     parameters:
       model: shiningvaliantxs.Q5_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q5_K_S.gguf
     sha256: 449c5fe981d4b447c0f9eaf84232b4098924635c7efb62eca4ab0e6dedc66118
     uri: 
@@ -394,14 +394,14 @@
     parameters:
       model: shiningvaliantxs.Q6_K.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q6_K.gguf
     sha256: b6e5551677210c3514d8096f726c5727515d814b1c73d10f11b082d62a38b184
     uri: 
@@ -433,14 +433,14 @@
     parameters:
       model: shiningvaliantxs.Q8_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q8_0.gguf
     sha256: 60fe90a1ae99e31b00707c8ffdebed7ddb87b4104d0145ad3dc704c489aff614
     uri: 
@@ -472,14 +472,14 @@
     parameters:
       model: shiningvaliantxs.Q2_K.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q2_K.gguf
     sha256: baead3529b3b864344369f4e87f69444dd8ca61ca80cf21e3e9724396ae884a8
     uri: 
@@ -511,14 +511,14 @@
     parameters:
       model: shiningvaliantxs.Q3_K_L.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q3_K_L.gguf
     sha256: bf1e476a54de3cdb6d8865e67284d8c009602ac11b97595a16fefb4152306cfb
     uri: 
@@ -550,14 +550,14 @@
     parameters:
       model: shiningvaliantxs.Q3_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q3_K_M.gguf
     sha256: 87663b1329a9c2ec749c19d0dc0d9271a043e181b6b0a1d4a5d5e121ba3a8776
     uri: 
@@ -589,14 +589,14 @@
     parameters:
       model: shiningvaliantxs.Q3_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q3_K_S.gguf
     sha256: 2212695a86c76982c83736b4d528a6ba4fac65e54b91005f31c49d15c18922b4
     uri: 
@@ -628,14 +628,14 @@
     parameters:
       model: shiningvaliantxs.Q4_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q4_0.gguf
     sha256: 2ba377b870fbacd298ea45713433f9e93377b9122b9d8af13e6792b848ca8a22
     uri: 
@@ -667,14 +667,14 @@
     parameters:
       model: shiningvaliantxs.Q4_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q4_K_M.gguf
     sha256: eb79b943c3b66a0157bd05d3d4e00c057401117a06e9f7bd1d75dba9cdf7e188
     uri: 
@@ -706,14 +706,14 @@
     parameters:
       model: shiningvaliantxs.Q4_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q4_K_S.gguf
     sha256: 2a79616b0ab3a2e6e72064fe6effe1b839d1ca10739dc80549486c6d0eb6e059
     uri: 
@@ -745,14 +745,14 @@
     parameters:
       model: shiningvaliantxs.Q5_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q5_0.gguf
     sha256: dc5cd92748a601a9e4d395aadaadd4c54622cc528035da3a55132dfa40ef08e1
     uri: 
@@ -784,14 +784,14 @@
     parameters:
       model: shiningvaliantxs.Q5_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q5_K_M.gguf
     sha256: c0ca82e1ffccfe01e1cc27983d2b7a768f96c26e9b62cc1fd30ea49ee68f6fcd
     uri: 
@@ -823,14 +823,14 @@
     parameters:
       model: shiningvaliantxs.Q5_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q5_K_S.gguf
     sha256: 449c5fe981d4b447c0f9eaf84232b4098924635c7efb62eca4ab0e6dedc66118
     uri: 
@@ -862,14 +862,14 @@
     parameters:
       model: shiningvaliantxs.Q6_K.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q6_K.gguf
     sha256: b6e5551677210c3514d8096f726c5727515d814b1c73d10f11b082d62a38b184
     uri: 
@@ -901,14 +901,14 @@
     parameters:
       model: shiningvaliantxs.Q8_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q8_0.gguf
     sha256: 60fe90a1ae99e31b00707c8ffdebed7ddb87b4104d0145ad3dc704c489aff614
     uri: 
@@ -940,14 +940,14 @@
     parameters:
       model: shiningvaliantxs.Q2_K.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q2_K.gguf
     sha256: baead3529b3b864344369f4e87f69444dd8ca61ca80cf21e3e9724396ae884a8
     uri: 
@@ -979,14 +979,14 @@
     parameters:
       model: shiningvaliantxs.Q3_K_L.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q3_K_L.gguf
     sha256: bf1e476a54de3cdb6d8865e67284d8c009602ac11b97595a16fefb4152306cfb
     uri: 
@@ -1018,14 +1018,14 @@
     parameters:
       model: shiningvaliantxs.Q3_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q3_K_M.gguf
     sha256: 87663b1329a9c2ec749c19d0dc0d9271a043e181b6b0a1d4a5d5e121ba3a8776
     uri: 
@@ -1057,14 +1057,14 @@
     parameters:
       model: shiningvaliantxs.Q3_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q3_K_S.gguf
     sha256: 2212695a86c76982c83736b4d528a6ba4fac65e54b91005f31c49d15c18922b4
     uri: 
@@ -1096,14 +1096,14 @@
     parameters:
       model: shiningvaliantxs.Q4_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q4_0.gguf
     sha256: 2ba377b870fbacd298ea45713433f9e93377b9122b9d8af13e6792b848ca8a22
     uri: 
@@ -1135,14 +1135,14 @@
     parameters:
       model: shiningvaliantxs.Q4_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q4_K_M.gguf
     sha256: eb79b943c3b66a0157bd05d3d4e00c057401117a06e9f7bd1d75dba9cdf7e188
     uri: 
@@ -1174,14 +1174,14 @@
     parameters:
       model: shiningvaliantxs.Q4_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q4_K_S.gguf
     sha256: 2a79616b0ab3a2e6e72064fe6effe1b839d1ca10739dc80549486c6d0eb6e059
     uri: 
@@ -1213,14 +1213,14 @@
     parameters:
       model: shiningvaliantxs.Q5_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q5_0.gguf
     sha256: dc5cd92748a601a9e4d395aadaadd4c54622cc528035da3a55132dfa40ef08e1
     uri: 
@@ -1252,14 +1252,14 @@
     parameters:
       model: shiningvaliantxs.Q5_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q5_K_M.gguf
     sha256: c0ca82e1ffccfe01e1cc27983d2b7a768f96c26e9b62cc1fd30ea49ee68f6fcd
     uri: 
@@ -1291,14 +1291,14 @@
     parameters:
       model: shiningvaliantxs.Q5_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q5_K_S.gguf
     sha256: 449c5fe981d4b447c0f9eaf84232b4098924635c7efb62eca4ab0e6dedc66118
     uri: 
@@ -1330,14 +1330,14 @@
     parameters:
       model: shiningvaliantxs.Q6_K.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q6_K.gguf
     sha256: b6e5551677210c3514d8096f726c5727515d814b1c73d10f11b082d62a38b184
     uri: 
@@ -1369,14 +1369,14 @@
     parameters:
       model: shiningvaliantxs.Q8_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/ShiningValiantXS-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: shiningvaliantxs.Q8_0.gguf
     sha256: 60fe90a1ae99e31b00707c8ffdebed7ddb87b4104d0145ad3dc704c489aff614
     uri: 

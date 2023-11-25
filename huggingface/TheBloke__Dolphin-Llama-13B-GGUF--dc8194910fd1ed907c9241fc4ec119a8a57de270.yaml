@@ -4,14 +4,14 @@
     parameters:
       model: dolphin-llama-13b.Q2_K.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q2_K.gguf
     sha256: a2fc0403c4979660ad604dc28887d20df1657a96ca7ace416a003dab843d4eaa
     uri: 
@@ -35,14 +35,14 @@
     parameters:
       model: dolphin-llama-13b.Q3_K_L.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q3_K_L.gguf
     sha256: a21022f32eca742e9471218f0a910cd9989eba202005f2cd2d270cef8bdf580b
     uri: 
@@ -66,14 +66,14 @@
     parameters:
       model: dolphin-llama-13b.Q3_K_M.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q3_K_M.gguf
     sha256: a95a38aab2ddcc7f04c49d3a03fc8a373d6c9b07775ed3ec863f0231c7b85a88
     uri: 
@@ -97,14 +97,14 @@
     parameters:
       model: dolphin-llama-13b.Q3_K_S.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q3_K_S.gguf
     sha256: 241d1364cced7a16c75b1ed29bc0cbe7005d21a467d37963855eb6c8740f0ef6
     uri: 
@@ -128,14 +128,14 @@
     parameters:
       model: dolphin-llama-13b.Q4_0.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q4_0.gguf
     sha256: 0d91eff1ef544f08289555582515da0ade418fb6afc0a0635ce0970a98a2d262
     uri: 
@@ -159,14 +159,14 @@
     parameters:
       model: dolphin-llama-13b.Q4_K_M.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q4_K_M.gguf
     sha256: a2ae3033d4188bc75406b23c80c8830630e76fa74dd5d874e50e52cc74c4a8e4
     uri: 
@@ -190,14 +190,14 @@
     parameters:
       model: dolphin-llama-13b.Q4_K_S.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q4_K_S.gguf
     sha256: e44cd4e1083b8ba031edbf428f67ddada971d4ddbdadda0d18091c5feabf2a2c
     uri: 
@@ -221,14 +221,14 @@
     parameters:
       model: dolphin-llama-13b.Q5_0.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q5_0.gguf
     sha256: 7eb0b9b68cbee65cca7bf0ea2ef1650fbf6f6aa3f286e444f097a657153ab8f5
     uri: 
@@ -252,14 +252,14 @@
     parameters:
       model: dolphin-llama-13b.Q5_K_M.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q5_K_M.gguf
     sha256: 9ffcf2d065dfb165b3a110134b1acf838eaa434be65f080bfe23ff1a263b64ea
     uri: 
@@ -283,14 +283,14 @@
     parameters:
       model: dolphin-llama-13b.Q5_K_S.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q5_K_S.gguf
     sha256: 8445adf2eed1378e7233f60c9b562bd8070ac3f0f5d02f891993d476fdd8a4eb
     uri: 
@@ -314,14 +314,14 @@
     parameters:
       model: dolphin-llama-13b.Q6_K.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q6_K.gguf
     sha256: ea8b7f8c688afd49c5bf0d14f0298c207db2f829229f4fa5a506270edeeada5a
     uri: 
@@ -345,14 +345,14 @@
     parameters:
       model: dolphin-llama-13b.Q8_0.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q8_0.gguf
     sha256: 47d867de2f5ebad9222f50ea482c4a5e8501432b3cfd3a8fd6f16154ad24f54b
     uri: 
@@ -376,14 +376,14 @@
     parameters:
       model: dolphin-llama-13b.Q2_K.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q2_K.gguf
     sha256: a2fc0403c4979660ad604dc28887d20df1657a96ca7ace416a003dab843d4eaa
     uri: 
@@ -407,14 +407,14 @@
     parameters:
       model: dolphin-llama-13b.Q3_K_L.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q3_K_L.gguf
     sha256: a21022f32eca742e9471218f0a910cd9989eba202005f2cd2d270cef8bdf580b
     uri: 
@@ -438,14 +438,14 @@
     parameters:
       model: dolphin-llama-13b.Q3_K_M.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q3_K_M.gguf
     sha256: a95a38aab2ddcc7f04c49d3a03fc8a373d6c9b07775ed3ec863f0231c7b85a88
     uri: 
@@ -469,14 +469,14 @@
     parameters:
       model: dolphin-llama-13b.Q3_K_S.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q3_K_S.gguf
     sha256: 241d1364cced7a16c75b1ed29bc0cbe7005d21a467d37963855eb6c8740f0ef6
     uri: 
@@ -500,14 +500,14 @@
     parameters:
       model: dolphin-llama-13b.Q4_0.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q4_0.gguf
     sha256: 0d91eff1ef544f08289555582515da0ade418fb6afc0a0635ce0970a98a2d262
     uri: 
@@ -531,14 +531,14 @@
     parameters:
       model: dolphin-llama-13b.Q4_K_M.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q4_K_M.gguf
     sha256: a2ae3033d4188bc75406b23c80c8830630e76fa74dd5d874e50e52cc74c4a8e4
     uri: 
@@ -562,14 +562,14 @@
     parameters:
       model: dolphin-llama-13b.Q4_K_S.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q4_K_S.gguf
     sha256: e44cd4e1083b8ba031edbf428f67ddada971d4ddbdadda0d18091c5feabf2a2c
     uri: 
@@ -593,14 +593,14 @@
     parameters:
       model: dolphin-llama-13b.Q5_0.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q5_0.gguf
     sha256: 7eb0b9b68cbee65cca7bf0ea2ef1650fbf6f6aa3f286e444f097a657153ab8f5
     uri: 
@@ -624,14 +624,14 @@
     parameters:
       model: dolphin-llama-13b.Q5_K_M.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q5_K_M.gguf
     sha256: 9ffcf2d065dfb165b3a110134b1acf838eaa434be65f080bfe23ff1a263b64ea
     uri: 
@@ -655,14 +655,14 @@
     parameters:
       model: dolphin-llama-13b.Q5_K_S.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q5_K_S.gguf
     sha256: 8445adf2eed1378e7233f60c9b562bd8070ac3f0f5d02f891993d476fdd8a4eb
     uri: 
@@ -686,14 +686,14 @@
     parameters:
       model: dolphin-llama-13b.Q6_K.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q6_K.gguf
     sha256: ea8b7f8c688afd49c5bf0d14f0298c207db2f829229f4fa5a506270edeeada5a
     uri: 
@@ -717,14 +717,14 @@
     parameters:
       model: dolphin-llama-13b.Q8_0.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Dolphin-Llama-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: dolphin-llama-13b.Q8_0.gguf
     sha256: 47d867de2f5ebad9222f50ea482c4a5e8501432b3cfd3a8fd6f16154ad24f54b
     uri: 

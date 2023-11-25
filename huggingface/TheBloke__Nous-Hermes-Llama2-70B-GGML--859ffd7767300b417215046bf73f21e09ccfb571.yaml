@@ -4,14 +4,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q2_K.bin
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q2_K.bin
     sha256: a54db961ada589b261ee4bd5abd5f158a892259901fd898d9d6f9d86a9187c84
     uri: 
@@ -39,14 +39,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q3_K_L.bin
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q3_K_L.bin
     sha256: c14d68ed639ee0e3d0a13e70473c8fb04ad8fb718eb021d794bb002b0232f0c6
     uri: 
@@ -74,14 +74,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q3_K_M.bin
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q3_K_M.bin
     sha256: c781569319b11db126088ad8bcd1cbfade53a3ae27f7aa152c5f6ed7f560cee6
     uri: 
@@ -109,14 +109,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q3_K_S.bin
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q3_K_S.bin
     sha256: 1e5577052c3538064874ab59961f3554228ca1e410a9c99ac916ea9fb7851e36
     uri: 
@@ -144,14 +144,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q4_0.bin
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q4_0.bin
     sha256: 98e69435945d1fab669a80ac9fcf9adda280fc8bd6a0447901d49aff0ab46ccd
     uri: 
@@ -179,14 +179,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q4_1.bin
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q4_1.bin
     sha256: 172b556745ef63296c06cd8706503f857af6f8ff0e4ca308c20074a692998aef
     uri: 
@@ -214,14 +214,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q4_K_M.bin
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q4_K_M.bin
     sha256: bdea3bbe8771ac22b99724b97154e6096d7586e4ce99cdd18d878dc994a17f7e
     uri: 
@@ -249,14 +249,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q4_K_S.bin
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q4_K_S.bin
     sha256: c602957552423780d07d1705aa4697a938a893d3ea33d5f09b097b1274833a5f
     uri: 
@@ -284,14 +284,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q5_0.bin
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q5_0.bin
     sha256: 93c5c5842b0b095f79c4f0e441663db4147faf312a08166862bfe67e6c109053
     uri: 
@@ -319,14 +319,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q5_1.z01
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q5_1.z01
     sha256: 3b4dff44e964d568cdd080115214f786b9517b136ba9fc2310aa9681db14cd43
     uri: 
@@ -354,14 +354,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q5_1.zip
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q5_1.zip
     sha256: 020d8d7e73e1ac801c81cf1960b4d47603f9677f198cc88e13423af8049728c1
     uri: 
@@ -389,14 +389,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q5_K_M.bin
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q5_K_M.bin
     sha256: 81281441760c279f836623a88b215091abd6f19f67177db0ea6892aa791a162d
     uri: 
@@ -424,14 +424,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q5_K_S.bin
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q5_K_S.bin
     sha256: e9e5b505b84cade502a9df90a455229781063efcd6d3ff8e9d4546a197f80688
     uri: 
@@ -459,14 +459,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q6_K.z01
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q6_K.z01
     sha256: aecabfbcb5032ba24a9b5ea0376a33d128234c6684023bb5290ab7686da0caed
     uri: 
@@ -494,14 +494,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q6_K.zip
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q6_K.zip
     sha256: f5f0891309cf7b80b65ad734c371f57349271a98a663082405429b437d64a7a5
     uri: 
@@ -529,14 +529,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q8_0.z01
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q8_0.z01
     sha256: 41f38f4d2da04e5dca79b9bd679cfd5d3e9b72204ee28d0d9b9c40f3f38c4b54
     uri: 
@@ -564,14 +564,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q8_0.zip
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q8_0.zip
     sha256: faaa8ae51fea1ae7a80013cb303348583956924edb8f193f16b74b34286aff42
     uri: 
@@ -599,14 +599,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q2_K.bin
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q2_K.bin
     sha256: a54db961ada589b261ee4bd5abd5f158a892259901fd898d9d6f9d86a9187c84
     uri: 
@@ -634,14 +634,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q3_K_L.bin
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q3_K_L.bin
     sha256: c14d68ed639ee0e3d0a13e70473c8fb04ad8fb718eb021d794bb002b0232f0c6
     uri: 
@@ -669,14 +669,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q3_K_M.bin
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q3_K_M.bin
     sha256: c781569319b11db126088ad8bcd1cbfade53a3ae27f7aa152c5f6ed7f560cee6
     uri: 
@@ -704,14 +704,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q3_K_S.bin
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q3_K_S.bin
     sha256: 1e5577052c3538064874ab59961f3554228ca1e410a9c99ac916ea9fb7851e36
     uri: 
@@ -739,14 +739,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q4_0.bin
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q4_0.bin
     sha256: 98e69435945d1fab669a80ac9fcf9adda280fc8bd6a0447901d49aff0ab46ccd
     uri: 
@@ -774,14 +774,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q4_1.bin
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q4_1.bin
     sha256: 172b556745ef63296c06cd8706503f857af6f8ff0e4ca308c20074a692998aef
     uri: 
@@ -809,14 +809,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q4_K_M.bin
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q4_K_M.bin
     sha256: bdea3bbe8771ac22b99724b97154e6096d7586e4ce99cdd18d878dc994a17f7e
     uri: 
@@ -844,14 +844,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q4_K_S.bin
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q4_K_S.bin
     sha256: c602957552423780d07d1705aa4697a938a893d3ea33d5f09b097b1274833a5f
     uri: 
@@ -879,14 +879,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q5_0.bin
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q5_0.bin
     sha256: 93c5c5842b0b095f79c4f0e441663db4147faf312a08166862bfe67e6c109053
     uri: 
@@ -914,14 +914,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q5_1.z01
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q5_1.z01
     sha256: 3b4dff44e964d568cdd080115214f786b9517b136ba9fc2310aa9681db14cd43
     uri: 
@@ -949,14 +949,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q5_1.zip
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q5_1.zip
     sha256: 020d8d7e73e1ac801c81cf1960b4d47603f9677f198cc88e13423af8049728c1
     uri: 
@@ -984,14 +984,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q5_K_M.bin
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q5_K_M.bin
     sha256: 81281441760c279f836623a88b215091abd6f19f67177db0ea6892aa791a162d
     uri: 
@@ -1019,14 +1019,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q5_K_S.bin
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q5_K_S.bin
     sha256: e9e5b505b84cade502a9df90a455229781063efcd6d3ff8e9d4546a197f80688
     uri: 
@@ -1054,14 +1054,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q6_K.z01
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q6_K.z01
     sha256: aecabfbcb5032ba24a9b5ea0376a33d128234c6684023bb5290ab7686da0caed
     uri: 
@@ -1089,14 +1089,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q6_K.zip
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q6_K.zip
     sha256: f5f0891309cf7b80b65ad734c371f57349271a98a663082405429b437d64a7a5
     uri: 
@@ -1124,14 +1124,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q8_0.z01
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q8_0.z01
     sha256: 41f38f4d2da04e5dca79b9bd679cfd5d3e9b72204ee28d0d9b9c40f3f38c4b54
     uri: 
@@ -1159,14 +1159,14 @@
     parameters:
       model: nous-hermes-llama2-70b.ggmlv3.Q8_0.zip
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/Nous-Hermes-Llama2-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: nous-hermes-llama2-70b.ggmlv3.Q8_0.zip
     sha256: faaa8ae51fea1ae7a80013cb303348583956924edb8f193f16b74b34286aff42
     uri: 

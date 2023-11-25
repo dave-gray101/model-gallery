@@ -4,14 +4,14 @@
     parameters:
       model: wizardlm-13b-v1.1.ggmlv3.q2_K.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/WizardLM-13B-V1.1-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: wizardlm-13b-v1.1.ggmlv3.q2_K.bin
     sha256: 7b1374163fd8874bb5be006ed3713c4e195051fd44650b569e537e495b1c37f5
     uri: 
@@ -31,14 +31,14 @@
     parameters:
       model: wizardlm-13b-v1.1.ggmlv3.q3_K_L.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/WizardLM-13B-V1.1-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: wizardlm-13b-v1.1.ggmlv3.q3_K_L.bin
     sha256: 305e5862dda973b53a61f125f43a3651f69c43b2ee252df9c167fc9db06da2ea
     uri: 
@@ -58,14 +58,14 @@
     parameters:
       model: wizardlm-13b-v1.1.ggmlv3.q3_K_M.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/WizardLM-13B-V1.1-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: wizardlm-13b-v1.1.ggmlv3.q3_K_M.bin
     sha256: 5577d4c5a8144dcb399713036104ebd920f454a3733ecc28c29f0d50bb04849c
     uri: 
@@ -85,14 +85,14 @@
     parameters:
       model: wizardlm-13b-v1.1.ggmlv3.q3_K_S.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/WizardLM-13B-V1.1-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: wizardlm-13b-v1.1.ggmlv3.q3_K_S.bin
     sha256: 6b8ff8b6867338f464b586e83c333fe06ff5ee5f2e6a188a2bd17be6fe627bdb
     uri: 
@@ -112,14 +112,14 @@
     parameters:
       model: wizardlm-13b-v1.1.ggmlv3.q4_0.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/WizardLM-13B-V1.1-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: wizardlm-13b-v1.1.ggmlv3.q4_0.bin
     sha256: 21ecf45e7064a25eea280ffff7e8bb9d698ad29900ceb941f2afed31a460d91c
     uri: 
@@ -139,14 +139,14 @@
     parameters:
       model: wizardlm-13b-v1.1.ggmlv3.q4_1.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/WizardLM-13B-V1.1-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: wizardlm-13b-v1.1.ggmlv3.q4_1.bin
     sha256: ea2828209c912b40a7d5392f5faad70bb4288ccdfd7efd07d4b1c6df414ae344
     uri: 
@@ -166,14 +166,14 @@
     parameters:
       model: wizardlm-13b-v1.1.ggmlv3.q4_K_M.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/WizardLM-13B-V1.1-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: wizardlm-13b-v1.1.ggmlv3.q4_K_M.bin
     sha256: e21c0618925ca48fbb4a2e9f92d628867c54d5c6efef90a691e626820a024af4
     uri: 
@@ -193,14 +193,14 @@
     parameters:
       model: wizardlm-13b-v1.1.ggmlv3.q4_K_S.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/WizardLM-13B-V1.1-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: wizardlm-13b-v1.1.ggmlv3.q4_K_S.bin
     sha256: 6fb6bf402f3472a75c71e55c5c91284259ab5a6d90ac5c32ee7b2c94ba7a27dc
     uri: 
@@ -220,14 +220,14 @@
     parameters:
       model: wizardlm-13b-v1.1.ggmlv3.q5_0.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/WizardLM-13B-V1.1-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: wizardlm-13b-v1.1.ggmlv3.q5_0.bin
     sha256: 74ed52e5675dcd0b27c56e0bd709e51f540eb1f3451101e661ee3d84ba535257
     uri: 
@@ -247,14 +247,14 @@
     parameters:
       model: wizardlm-13b-v1.1.ggmlv3.q5_1.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/WizardLM-13B-V1.1-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: wizardlm-13b-v1.1.ggmlv3.q5_1.bin
     sha256: 3c8d9d1f4cd16998b41f8bcb5caef2c8d24aed676e2438b04e89fdb30822de69
     uri: 
@@ -274,14 +274,14 @@
     parameters:
       model: wizardlm-13b-v1.1.ggmlv3.q5_K_M.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/WizardLM-13B-V1.1-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: wizardlm-13b-v1.1.ggmlv3.q5_K_M.bin
     sha256: 7edd570f1cc87a29a520f8dd979b4a0b3b5bb27a84265a320c52dc0acee62314
     uri: 
@@ -301,14 +301,14 @@
     parameters:
       model: wizardlm-13b-v1.1.ggmlv3.q5_K_S.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/WizardLM-13B-V1.1-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: wizardlm-13b-v1.1.ggmlv3.q5_K_S.bin
     sha256: 93ac409eeb2f77d8673d34138d492925231d1942f1402e7359c392551e7bdeb6
     uri: 
@@ -328,14 +328,14 @@
     parameters:
       model: wizardlm-13b-v1.1.ggmlv3.q6_K.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/WizardLM-13B-V1.1-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: wizardlm-13b-v1.1.ggmlv3.q6_K.bin
     sha256: f624783a2034ee42aabd97e0c6a36b49e32af3e99e19d6d558e5a6e1048a77af
     uri: 
@@ -355,14 +355,14 @@
     parameters:
       model: wizardlm-13b-v1.1.ggmlv3.q8_0.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/WizardLM-13B-V1.1-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: wizardlm-13b-v1.1.ggmlv3.q8_0.bin
     sha256: d8c1d3838b4b4cd67d5ecaf16de08ec5e7e5aef25a4537ea9d86494277871f14
     uri: 

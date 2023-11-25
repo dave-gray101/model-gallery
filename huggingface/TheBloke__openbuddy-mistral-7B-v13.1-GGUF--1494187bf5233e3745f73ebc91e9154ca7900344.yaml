@@ -8,14 +8,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - mistral configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q2_K.gguf
     sha256: ddb0c01b02f0c0b8c83a2b868cfba8da303225ca6a79bf45a25766a2427092aa
     uri: 
@@ -52,14 +52,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - mistral configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q3_K_L.gguf
     sha256: 964c3db9ff42d5f3e1e578dfddb37efef00de637b4f768f118b56891d68b4c2b
     uri: 
@@ -97,14 +97,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - mistral configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q3_K_M.gguf
     sha256: 376ea978c29a4d30fce011334e7efbf519fe826645c7039fd222e0803b2d45ea
     uri: 
@@ -142,14 +142,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - mistral configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q3_K_S.gguf
     sha256: 64b201cc548d83cedf1e2262bece259d0c9f33dd14208e6abc874d68502db08b
     uri: 
@@ -187,14 +187,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - mistral configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q4_0.gguf
     sha256: 03fee4fd3ddfd7ee6b0c3b858b9a25e22fc4273ff644c72af154075de7d0b806
     uri: 
@@ -231,14 +231,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - mistral configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q4_K_M.gguf
     sha256: 6feba6e8c2b3ab0f5ea8eb0c12ff4fee8a302612b5dfd5192de158d150eb9559
     uri: 
@@ -276,14 +276,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - mistral configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q4_K_S.gguf
     sha256: 77e1b4f06f32bba7d1aef8027a5069c9707576e164d4b4ccd3de98aa46d79285
     uri: 
@@ -321,14 +321,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - mistral configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q5_0.gguf
     sha256: 0b9878964b8b9e2f96ef2a84a31d8d7994616ad03de8207b57184fd71fed831a
     uri: 
@@ -365,14 +365,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - mistral configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q5_K_M.gguf
     sha256: c6723a793a0e2fbda02c9c6d3565c8ba487670d1e9693ee55c12923f40697bb3
     uri: 
@@ -410,14 +410,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - mistral configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q5_K_S.gguf
     sha256: 3800e3d7e91ba2176997f04c98e869a097ff88c836b0524ba10b8bcddcd44732
     uri: 
@@ -455,14 +455,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - mistral configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q6_K.gguf
     sha256: 7c55cc822b5b405cef04939c0dfa05ec0d37ed7f7d355d5205ed849f6345dfd8
     uri: 
@@ -499,14 +499,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - mistral configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q8_0.gguf
     sha256: a81a7385a5fd36cf01165c9013f67ca91a5f673c953c46b679068708d8709501
     uri: 
@@ -539,14 +539,14 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q2_K.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFallback configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q2_K.gguf
     sha256: ddb0c01b02f0c0b8c83a2b868cfba8da303225ca6a79bf45a25766a2427092aa
     uri: 
@@ -579,14 +579,14 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q3_K_L.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFallback configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q3_K_L.gguf
     sha256: 964c3db9ff42d5f3e1e578dfddb37efef00de637b4f768f118b56891d68b4c2b
     uri: 
@@ -620,14 +620,14 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q3_K_M.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFallback configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q3_K_M.gguf
     sha256: 376ea978c29a4d30fce011334e7efbf519fe826645c7039fd222e0803b2d45ea
     uri: 
@@ -661,14 +661,14 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q3_K_S.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFallback configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q3_K_S.gguf
     sha256: 64b201cc548d83cedf1e2262bece259d0c9f33dd14208e6abc874d68502db08b
     uri: 
@@ -702,14 +702,14 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q4_0.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFallback configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q4_0.gguf
     sha256: 03fee4fd3ddfd7ee6b0c3b858b9a25e22fc4273ff644c72af154075de7d0b806
     uri: 
@@ -742,14 +742,14 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q4_K_M.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFallback configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q4_K_M.gguf
     sha256: 6feba6e8c2b3ab0f5ea8eb0c12ff4fee8a302612b5dfd5192de158d150eb9559
     uri: 
@@ -783,14 +783,14 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q4_K_S.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFallback configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q4_K_S.gguf
     sha256: 77e1b4f06f32bba7d1aef8027a5069c9707576e164d4b4ccd3de98aa46d79285
     uri: 
@@ -824,14 +824,14 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q5_0.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFallback configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q5_0.gguf
     sha256: 0b9878964b8b9e2f96ef2a84a31d8d7994616ad03de8207b57184fd71fed831a
     uri: 
@@ -864,14 +864,14 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q5_K_M.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFallback configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q5_K_M.gguf
     sha256: c6723a793a0e2fbda02c9c6d3565c8ba487670d1e9693ee55c12923f40697bb3
     uri: 
@@ -905,14 +905,14 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q5_K_S.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFallback configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q5_K_S.gguf
     sha256: 3800e3d7e91ba2176997f04c98e869a097ff88c836b0524ba10b8bcddcd44732
     uri: 
@@ -946,14 +946,14 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q6_K.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFallback configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q6_K.gguf
     sha256: 7c55cc822b5b405cef04939c0dfa05ec0d37ed7f7d355d5205ed849f6345dfd8
     uri: 
@@ -986,14 +986,14 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q8_0.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFallback configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q8_0.gguf
     sha256: a81a7385a5fd36cf01165c9013f67ca91a5f673c953c46b679068708d8709501
     uri: 
@@ -1026,15 +1026,15 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q2_K.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q2_K.gguf
     sha256: ddb0c01b02f0c0b8c83a2b868cfba8da303225ca6a79bf45a25766a2427092aa
     uri: 
@@ -1067,15 +1067,15 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q3_K_L.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q3_K_L.gguf
     sha256: 964c3db9ff42d5f3e1e578dfddb37efef00de637b4f768f118b56891d68b4c2b
     uri: 
@@ -1109,15 +1109,15 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q3_K_M.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q3_K_M.gguf
     sha256: 376ea978c29a4d30fce011334e7efbf519fe826645c7039fd222e0803b2d45ea
     uri: 
@@ -1151,15 +1151,15 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q3_K_S.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q3_K_S.gguf
     sha256: 64b201cc548d83cedf1e2262bece259d0c9f33dd14208e6abc874d68502db08b
     uri: 
@@ -1193,15 +1193,15 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q4_0.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q4_0.gguf
     sha256: 03fee4fd3ddfd7ee6b0c3b858b9a25e22fc4273ff644c72af154075de7d0b806
     uri: 
@@ -1234,15 +1234,15 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q4_K_M.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q4_K_M.gguf
     sha256: 6feba6e8c2b3ab0f5ea8eb0c12ff4fee8a302612b5dfd5192de158d150eb9559
     uri: 
@@ -1276,15 +1276,15 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q4_K_S.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q4_K_S.gguf
     sha256: 77e1b4f06f32bba7d1aef8027a5069c9707576e164d4b4ccd3de98aa46d79285
     uri: 
@@ -1318,15 +1318,15 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q5_0.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q5_0.gguf
     sha256: 0b9878964b8b9e2f96ef2a84a31d8d7994616ad03de8207b57184fd71fed831a
     uri: 
@@ -1359,15 +1359,15 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q5_K_M.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q5_K_M.gguf
     sha256: c6723a793a0e2fbda02c9c6d3565c8ba487670d1e9693ee55c12923f40697bb3
     uri: 
@@ -1401,15 +1401,15 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q5_K_S.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q5_K_S.gguf
     sha256: 3800e3d7e91ba2176997f04c98e869a097ff88c836b0524ba10b8bcddcd44732
     uri: 
@@ -1443,15 +1443,15 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q6_K.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q6_K.gguf
     sha256: 7c55cc822b5b405cef04939c0dfa05ec0d37ed7f7d355d5205ed849f6345dfd8
     uri: 
@@ -1484,15 +1484,15 @@
     parameters:
       model: openbuddy-mistral-7b-v13.1.Q8_0.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-mistral-7B-v13.1-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-mistral-7b-v13.1.Q8_0.gguf
     sha256: a81a7385a5fd36cf01165c9013f67ca91a5f673c953c46b679068708d8709501
     uri: 

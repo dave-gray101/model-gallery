@@ -8,14 +8,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q2_K.gguf
     sha256: 6ab0f6f07866d620ac903d52d9c1efa9818472a386a49a745d88085492582ebe
     uri: 
@@ -44,14 +44,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q3_K_L.gguf
     sha256: 311cae3ebe536ea12e34981d445b73976497646e8450602d85137ab4f53bba46
     uri: 
@@ -80,14 +80,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q3_K_M.gguf
     sha256: 747640b622a295e00808f84726153d40ac1026e70e89f7df53163305809193fb
     uri: 
@@ -116,14 +116,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q3_K_S.gguf
     sha256: 6d164edb676a2d8b781220e88db78bb6b5e65680354830faae11435d9f679047
     uri: 
@@ -152,14 +152,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q4_0.gguf
     sha256: 7ddebdaa4ab9a65da55670f92f1be28981b7e1660fcbf2f794aa7158c609053e
     uri: 
@@ -188,14 +188,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q4_K_M.gguf
     sha256: 7912a2a38f3fa4b33cdcad185dbb9de4fd40cdff3c0ef467c9f3162849fbe3ac
     uri: 
@@ -224,14 +224,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q4_K_S.gguf
     sha256: 9797d5577a6615dae978f4076b657616a27283eb89bfe5d929c72c1918cf7676
     uri: 
@@ -260,14 +260,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q5_0.gguf
     sha256: c7faf0595a6da78b3f6a3b5e848df1662fff4b590590a1342a55845d2f6b35db
     uri: 
@@ -296,14 +296,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q5_K_M.gguf
     sha256: 3f7736c7b6cfe45e44bdcdb0b27620402be07cc7f77d661605488c05a98c4af8
     uri: 
@@ -332,14 +332,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q5_K_S.gguf
     sha256: 72f1210d07e8c79e8a7a1aca58c321a58006fd31c096405a8e1f1b442beb1aa8
     uri: 
@@ -368,14 +368,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q6_K.gguf
     sha256: 31b80bb159059e683ecb18b83ee26969d19f2f2a0a4eea7e1b66ba87c4ca263c
     uri: 
@@ -404,14 +404,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q8_0.gguf
     sha256: 90070d65101fc709c0a656a2badee1402496468b935df2102d4723430902a4c1
     uri: 
@@ -436,14 +436,14 @@
     parameters:
       model: zephyr-7b-beta-pl.Q2_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q2_K.gguf
     sha256: 6ab0f6f07866d620ac903d52d9c1efa9818472a386a49a745d88085492582ebe
     uri: 
@@ -468,14 +468,14 @@
     parameters:
       model: zephyr-7b-beta-pl.Q3_K_L.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q3_K_L.gguf
     sha256: 311cae3ebe536ea12e34981d445b73976497646e8450602d85137ab4f53bba46
     uri: 
@@ -500,14 +500,14 @@
     parameters:
       model: zephyr-7b-beta-pl.Q3_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q3_K_M.gguf
     sha256: 747640b622a295e00808f84726153d40ac1026e70e89f7df53163305809193fb
     uri: 
@@ -532,14 +532,14 @@
     parameters:
       model: zephyr-7b-beta-pl.Q3_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q3_K_S.gguf
     sha256: 6d164edb676a2d8b781220e88db78bb6b5e65680354830faae11435d9f679047
     uri: 
@@ -564,14 +564,14 @@
     parameters:
       model: zephyr-7b-beta-pl.Q4_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q4_0.gguf
     sha256: 7ddebdaa4ab9a65da55670f92f1be28981b7e1660fcbf2f794aa7158c609053e
     uri: 
@@ -596,14 +596,14 @@
     parameters:
       model: zephyr-7b-beta-pl.Q4_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q4_K_M.gguf
     sha256: 7912a2a38f3fa4b33cdcad185dbb9de4fd40cdff3c0ef467c9f3162849fbe3ac
     uri: 
@@ -628,14 +628,14 @@
     parameters:
       model: zephyr-7b-beta-pl.Q4_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q4_K_S.gguf
     sha256: 9797d5577a6615dae978f4076b657616a27283eb89bfe5d929c72c1918cf7676
     uri: 
@@ -660,14 +660,14 @@
     parameters:
       model: zephyr-7b-beta-pl.Q5_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q5_0.gguf
     sha256: c7faf0595a6da78b3f6a3b5e848df1662fff4b590590a1342a55845d2f6b35db
     uri: 
@@ -692,14 +692,14 @@
     parameters:
       model: zephyr-7b-beta-pl.Q5_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q5_K_M.gguf
     sha256: 3f7736c7b6cfe45e44bdcdb0b27620402be07cc7f77d661605488c05a98c4af8
     uri: 
@@ -724,14 +724,14 @@
     parameters:
       model: zephyr-7b-beta-pl.Q5_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q5_K_S.gguf
     sha256: 72f1210d07e8c79e8a7a1aca58c321a58006fd31c096405a8e1f1b442beb1aa8
     uri: 
@@ -756,14 +756,14 @@
     parameters:
       model: zephyr-7b-beta-pl.Q6_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q6_K.gguf
     sha256: 31b80bb159059e683ecb18b83ee26969d19f2f2a0a4eea7e1b66ba87c4ca263c
     uri: 
@@ -788,14 +788,14 @@
     parameters:
       model: zephyr-7b-beta-pl.Q8_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/zephyr-7B-beta-pl-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: zephyr-7b-beta-pl.Q8_0.gguf
     sha256: 90070d65101fc709c0a656a2badee1402496468b935df2102d4723430902a4c1
     uri: 

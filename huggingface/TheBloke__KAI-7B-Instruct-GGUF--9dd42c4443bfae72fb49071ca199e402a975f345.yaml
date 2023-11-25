@@ -8,14 +8,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - mistral configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q2_K.gguf
     sha256: e230ea85844d7b390b290803aa65084d6be9a717acc767ba734ca0a6784191c3
     uri: 
@@ -46,14 +46,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - mistral configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q3_K_L.gguf
     sha256: 87f0a2d4ea3d17c6523a28d41be11ee84a9113b5214829dba180e9b94d81830c
     uri: 
@@ -84,14 +84,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - mistral configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q3_K_M.gguf
     sha256: 91c1d8acf4da7db38c9a08d00dcb81f5206388259c5851b914f2a5dcce64a62d
     uri: 
@@ -122,14 +122,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - mistral configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q3_K_S.gguf
     sha256: 640ebc511f78ce2aa7b5c8f229ea162bad345e0b2045e70015e2b09b9cca6bc7
     uri: 
@@ -160,14 +160,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - mistral configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q4_0.gguf
     sha256: a39f158df1e538d0d7f68a31e297d7827b235466a9e87ba8c0ca4e0699c1c03e
     uri: 
@@ -198,14 +198,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - mistral configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q4_K_M.gguf
     sha256: a692a26bfe4f46bcaaab0b27fb78ffd1d990cda4fbddfcbe9047f99e95d1b445
     uri: 
@@ -236,14 +236,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - mistral configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q4_K_S.gguf
     sha256: fc7831c87763716b8d824136509e4fe789590970d4eae382cf965e70ed58552f
     uri: 
@@ -274,14 +274,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - mistral configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q5_0.gguf
     sha256: be058b0371d47316bf03fb49e634464a66e4e41c027b749f05fb0918ad5912d4
     uri: 
@@ -312,14 +312,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - mistral configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q5_K_M.gguf
     sha256: 52b51dcf465b0581a144ccbde2b2b56e3c7afd83f699eca971d28783768b8c32
     uri: 
@@ -350,14 +350,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - mistral configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q5_K_S.gguf
     sha256: 26adbc4bc9a80237928d9044740bdced271362847859793206c5021e92a4f907
     uri: 
@@ -388,14 +388,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - mistral configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q6_K.gguf
     sha256: b330411cb09868a4d3d3ab4de830d835a1b88245174b3fc7f57591aacd20d79c
     uri: 
@@ -426,14 +426,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - mistral configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q8_0.gguf
     sha256: e6d633b0af923d616f4d0a9287c20dfbb8212510d1a411dd6de5ffbd39e0a996
     uri: 
@@ -460,14 +460,14 @@
     parameters:
       model: kai-7b-instruct.Q2_K.gguf
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q2_K.gguf
     sha256: e230ea85844d7b390b290803aa65084d6be9a717acc767ba734ca0a6784191c3
     uri: 
@@ -494,14 +494,14 @@
     parameters:
       model: kai-7b-instruct.Q3_K_L.gguf
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q3_K_L.gguf
     sha256: 87f0a2d4ea3d17c6523a28d41be11ee84a9113b5214829dba180e9b94d81830c
     uri: 
@@ -528,14 +528,14 @@
     parameters:
       model: kai-7b-instruct.Q3_K_M.gguf
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q3_K_M.gguf
     sha256: 91c1d8acf4da7db38c9a08d00dcb81f5206388259c5851b914f2a5dcce64a62d
     uri: 
@@ -562,14 +562,14 @@
     parameters:
       model: kai-7b-instruct.Q3_K_S.gguf
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q3_K_S.gguf
     sha256: 640ebc511f78ce2aa7b5c8f229ea162bad345e0b2045e70015e2b09b9cca6bc7
     uri: 
@@ -596,14 +596,14 @@
     parameters:
       model: kai-7b-instruct.Q4_0.gguf
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q4_0.gguf
     sha256: a39f158df1e538d0d7f68a31e297d7827b235466a9e87ba8c0ca4e0699c1c03e
     uri: 
@@ -630,14 +630,14 @@
     parameters:
       model: kai-7b-instruct.Q4_K_M.gguf
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q4_K_M.gguf
     sha256: a692a26bfe4f46bcaaab0b27fb78ffd1d990cda4fbddfcbe9047f99e95d1b445
     uri: 
@@ -664,14 +664,14 @@
     parameters:
       model: kai-7b-instruct.Q4_K_S.gguf
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q4_K_S.gguf
     sha256: fc7831c87763716b8d824136509e4fe789590970d4eae382cf965e70ed58552f
     uri: 
@@ -698,14 +698,14 @@
     parameters:
       model: kai-7b-instruct.Q5_0.gguf
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q5_0.gguf
     sha256: be058b0371d47316bf03fb49e634464a66e4e41c027b749f05fb0918ad5912d4
     uri: 
@@ -732,14 +732,14 @@
     parameters:
       model: kai-7b-instruct.Q5_K_M.gguf
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q5_K_M.gguf
     sha256: 52b51dcf465b0581a144ccbde2b2b56e3c7afd83f699eca971d28783768b8c32
     uri: 
@@ -766,14 +766,14 @@
     parameters:
       model: kai-7b-instruct.Q5_K_S.gguf
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q5_K_S.gguf
     sha256: 26adbc4bc9a80237928d9044740bdced271362847859793206c5021e92a4f907
     uri: 
@@ -800,14 +800,14 @@
     parameters:
       model: kai-7b-instruct.Q6_K.gguf
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q6_K.gguf
     sha256: b330411cb09868a4d3d3ab4de830d835a1b88245174b3fc7f57591aacd20d79c
     uri: 
@@ -834,14 +834,14 @@
     parameters:
       model: kai-7b-instruct.Q8_0.gguf
     template:
-      chat: KAI
-      completion: KAI
+      chat: kai
+      completion: kai
   description: TheBloke/KAI-7B-Instruct-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: KAI.tmpl
+  - filename: kai.tmpl
     sha256: f683dbf8538cf0a4754b0e2bdea57905c4bc8db0b3a067d11efbd5dc22de0dce
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/KAI.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/kai.tmpl
   - filename: kai-7b-instruct.Q8_0.gguf
     sha256: e6d633b0af923d616f4d0a9287c20dfbb8212510d1a411dd6de5ffbd39e0a996
     uri: 

@@ -4,14 +4,14 @@
     parameters:
       model: samantha-1.11-13b.Q2_K.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llama configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q2_K.gguf
     sha256: 12213c0697eb7090ac836fee4b781e824a2aef7ef83468489d0ef184d1590bae
     uri: 
@@ -39,14 +39,14 @@
     parameters:
       model: samantha-1.11-13b.Q3_K_L.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llama configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q3_K_L.gguf
     sha256: 483033a0e0dc2c3be3fa5e2d6123d63966ef70235bd9e75a639c34d80e8a805a
     uri: 
@@ -74,14 +74,14 @@
     parameters:
       model: samantha-1.11-13b.Q3_K_M.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llama configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q3_K_M.gguf
     sha256: c944c05286ed364990c530f95a6c4d7dacc0ff321bd84a026a92abb3b1718381
     uri: 
@@ -109,14 +109,14 @@
     parameters:
       model: samantha-1.11-13b.Q3_K_S.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llama configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q3_K_S.gguf
     sha256: b23c0b7b07ba2590927d847daa2b433cae0b49ce89ade17e8f8ab90fa7615a2b
     uri: 
@@ -144,14 +144,14 @@
     parameters:
       model: samantha-1.11-13b.Q4_0.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llama configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q4_0.gguf
     sha256: 64320b56ad66236cd87f43f177cc6895ee1540c4697d72e9e8511524361abc1f
     uri: 
@@ -179,14 +179,14 @@
     parameters:
       model: samantha-1.11-13b.Q4_K_M.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llama configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q4_K_M.gguf
     sha256: 71e3769c1070da90cef7c7f0cf2a39d89e99c9471837187b6532c760433c8527
     uri: 
@@ -214,14 +214,14 @@
     parameters:
       model: samantha-1.11-13b.Q4_K_S.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llama configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q4_K_S.gguf
     sha256: 4f2147f555662ad9374ca1af0e4f043208c7c22ac50209d7bef90d3a6ffa4714
     uri: 
@@ -249,14 +249,14 @@
     parameters:
       model: samantha-1.11-13b.Q5_0.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llama configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q5_0.gguf
     sha256: 205707fd2e0238272f3d22beb0b11a0bd0b7503a2427a132023a2fe5bb1de5b8
     uri: 
@@ -284,14 +284,14 @@
     parameters:
       model: samantha-1.11-13b.Q5_K_M.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llama configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q5_K_M.gguf
     sha256: 0432489fd0e071f6321683500c2f5014b352776f80270078d0fc7d1e2c189665
     uri: 
@@ -319,14 +319,14 @@
     parameters:
       model: samantha-1.11-13b.Q5_K_S.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llama configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q5_K_S.gguf
     sha256: 5bdc5233872a37c811df17710566ed32f943c777664c683babde5167da6aec3f
     uri: 
@@ -354,14 +354,14 @@
     parameters:
       model: samantha-1.11-13b.Q6_K.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llama configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q6_K.gguf
     sha256: e92d4e006dba0e28ba176500c467d9f81851ce8bc90020e62a0d6fc121a6a781
     uri: 
@@ -389,14 +389,14 @@
     parameters:
       model: samantha-1.11-13b.Q8_0.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llama configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q8_0.gguf
     sha256: ef3d311b9b7900c67f7becfab7c546e2918f28d82e0367c6e309b04cb8506eed
     uri: 
@@ -424,14 +424,14 @@
     parameters:
       model: samantha-1.11-13b.Q2_K.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q2_K.gguf
     sha256: 12213c0697eb7090ac836fee4b781e824a2aef7ef83468489d0ef184d1590bae
     uri: 
@@ -459,14 +459,14 @@
     parameters:
       model: samantha-1.11-13b.Q3_K_L.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q3_K_L.gguf
     sha256: 483033a0e0dc2c3be3fa5e2d6123d63966ef70235bd9e75a639c34d80e8a805a
     uri: 
@@ -494,14 +494,14 @@
     parameters:
       model: samantha-1.11-13b.Q3_K_M.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q3_K_M.gguf
     sha256: c944c05286ed364990c530f95a6c4d7dacc0ff321bd84a026a92abb3b1718381
     uri: 
@@ -529,14 +529,14 @@
     parameters:
       model: samantha-1.11-13b.Q3_K_S.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q3_K_S.gguf
     sha256: b23c0b7b07ba2590927d847daa2b433cae0b49ce89ade17e8f8ab90fa7615a2b
     uri: 
@@ -564,14 +564,14 @@
     parameters:
       model: samantha-1.11-13b.Q4_0.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q4_0.gguf
     sha256: 64320b56ad66236cd87f43f177cc6895ee1540c4697d72e9e8511524361abc1f
     uri: 
@@ -599,14 +599,14 @@
     parameters:
       model: samantha-1.11-13b.Q4_K_M.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q4_K_M.gguf
     sha256: 71e3769c1070da90cef7c7f0cf2a39d89e99c9471837187b6532c760433c8527
     uri: 
@@ -634,14 +634,14 @@
     parameters:
       model: samantha-1.11-13b.Q4_K_S.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q4_K_S.gguf
     sha256: 4f2147f555662ad9374ca1af0e4f043208c7c22ac50209d7bef90d3a6ffa4714
     uri: 
@@ -669,14 +669,14 @@
     parameters:
       model: samantha-1.11-13b.Q5_0.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q5_0.gguf
     sha256: 205707fd2e0238272f3d22beb0b11a0bd0b7503a2427a132023a2fe5bb1de5b8
     uri: 
@@ -704,14 +704,14 @@
     parameters:
       model: samantha-1.11-13b.Q5_K_M.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q5_K_M.gguf
     sha256: 0432489fd0e071f6321683500c2f5014b352776f80270078d0fc7d1e2c189665
     uri: 
@@ -739,14 +739,14 @@
     parameters:
       model: samantha-1.11-13b.Q5_K_S.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q5_K_S.gguf
     sha256: 5bdc5233872a37c811df17710566ed32f943c777664c683babde5167da6aec3f
     uri: 
@@ -774,14 +774,14 @@
     parameters:
       model: samantha-1.11-13b.Q6_K.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q6_K.gguf
     sha256: e92d4e006dba0e28ba176500c467d9f81851ce8bc90020e62a0d6fc121a6a781
     uri: 
@@ -809,14 +809,14 @@
     parameters:
       model: samantha-1.11-13b.Q8_0.gguf
     template:
-      chat: Samantha
-      completion: Samantha
+      chat: samantha
+      completion: samantha
   description: TheBloke/Samantha-1.11-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Samantha.tmpl
+  - filename: samantha.tmpl
     sha256: 72bc96e0ec094ae14fb1329e298e8324b100b49f7b04dc678888049438d31cac
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Samantha.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/samantha.tmpl
   - filename: samantha-1.11-13b.Q8_0.gguf
     sha256: ef3d311b9b7900c67f7becfab7c546e2918f28d82e0367c6e309b04cb8506eed
     uri: 

@@ -4,14 +4,14 @@
     parameters:
       model: marx-3b.ggmlv3.q4_0.bin
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/Marx-3b-GGML - llama configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: marx-3b.ggmlv3.q4_0.bin
     sha256: 5551abb08028b84b1f5a7d14b1b607b545511d0f7922b5ae5efda1baea5d511e
     uri: 
@@ -37,14 +37,14 @@
     parameters:
       model: marx-3b.ggmlv3.q4_1.bin
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/Marx-3b-GGML - llama configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: marx-3b.ggmlv3.q4_1.bin
     sha256: a756f2c60a95c7bfa958152c570a8214b1ad997072a05c9224a9a871c7a13185
     uri: 
@@ -70,14 +70,14 @@
     parameters:
       model: marx-3b.ggmlv3.q5_0.bin
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/Marx-3b-GGML - llama configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: marx-3b.ggmlv3.q5_0.bin
     sha256: 88d6aa83cc83f788c33c48940247567f709e230269eeff5a2839fc2ef272974d
     uri: 
@@ -103,14 +103,14 @@
     parameters:
       model: marx-3b.ggmlv3.q5_1.bin
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/Marx-3b-GGML - llama configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: marx-3b.ggmlv3.q5_1.bin
     sha256: 63d7232699fb87ea6c465e6c645b93dc859965e009541c3ef464555e99a9f83c
     uri: 
@@ -136,14 +136,14 @@
     parameters:
       model: marx-3b.ggmlv3.q8_0.bin
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/Marx-3b-GGML - llama configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: marx-3b.ggmlv3.q8_0.bin
     sha256: 814dd06817ae884c568d2f3f46c14d9251c269c9ebb32306515e2c433e5aabf7
     uri: 
@@ -169,14 +169,14 @@
     parameters:
       model: marx-3b.ggmlv3.q4_0.bin
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/Marx-3b-GGML - llamaFallback configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: marx-3b.ggmlv3.q4_0.bin
     sha256: 5551abb08028b84b1f5a7d14b1b607b545511d0f7922b5ae5efda1baea5d511e
     uri: 
@@ -202,14 +202,14 @@
     parameters:
       model: marx-3b.ggmlv3.q4_1.bin
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/Marx-3b-GGML - llamaFallback configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: marx-3b.ggmlv3.q4_1.bin
     sha256: a756f2c60a95c7bfa958152c570a8214b1ad997072a05c9224a9a871c7a13185
     uri: 
@@ -235,14 +235,14 @@
     parameters:
       model: marx-3b.ggmlv3.q5_0.bin
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/Marx-3b-GGML - llamaFallback configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: marx-3b.ggmlv3.q5_0.bin
     sha256: 88d6aa83cc83f788c33c48940247567f709e230269eeff5a2839fc2ef272974d
     uri: 
@@ -268,14 +268,14 @@
     parameters:
       model: marx-3b.ggmlv3.q5_1.bin
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/Marx-3b-GGML - llamaFallback configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: marx-3b.ggmlv3.q5_1.bin
     sha256: 63d7232699fb87ea6c465e6c645b93dc859965e009541c3ef464555e99a9f83c
     uri: 
@@ -301,14 +301,14 @@
     parameters:
       model: marx-3b.ggmlv3.q8_0.bin
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/Marx-3b-GGML - llamaFallback configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: marx-3b.ggmlv3.q8_0.bin
     sha256: 814dd06817ae884c568d2f3f46c14d9251c269c9ebb32306515e2c433e5aabf7
     uri: 
@@ -334,14 +334,14 @@
     parameters:
       model: marx-3b.ggmlv3.q4_0.bin
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/Marx-3b-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: marx-3b.ggmlv3.q4_0.bin
     sha256: 5551abb08028b84b1f5a7d14b1b607b545511d0f7922b5ae5efda1baea5d511e
     uri: 
@@ -367,14 +367,14 @@
     parameters:
       model: marx-3b.ggmlv3.q4_1.bin
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/Marx-3b-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: marx-3b.ggmlv3.q4_1.bin
     sha256: a756f2c60a95c7bfa958152c570a8214b1ad997072a05c9224a9a871c7a13185
     uri: 
@@ -400,14 +400,14 @@
     parameters:
       model: marx-3b.ggmlv3.q5_0.bin
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/Marx-3b-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: marx-3b.ggmlv3.q5_0.bin
     sha256: 88d6aa83cc83f788c33c48940247567f709e230269eeff5a2839fc2ef272974d
     uri: 
@@ -433,14 +433,14 @@
     parameters:
       model: marx-3b.ggmlv3.q5_1.bin
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/Marx-3b-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: marx-3b.ggmlv3.q5_1.bin
     sha256: 63d7232699fb87ea6c465e6c645b93dc859965e009541c3ef464555e99a9f83c
     uri: 
@@ -466,14 +466,14 @@
     parameters:
       model: marx-3b.ggmlv3.q8_0.bin
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/Marx-3b-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: marx-3b.ggmlv3.q8_0.bin
     sha256: 814dd06817ae884c568d2f3f46c14d9251c269c9ebb32306515e2c433e5aabf7
     uri: 

@@ -4,14 +4,14 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q2_K.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llama configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q2_K.gguf
     sha256: c74edf3f9e3afc15f2f61962c965f2815ea56c025d45f069f9a3d963d9e9c497
     uri: 
@@ -36,14 +36,14 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q3_K_L.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llama configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q3_K_L.gguf
     sha256: 923988ecad97f8bac69f21a1a45eea5c937e23ae14972d8c4f7c729aa7dce8d1
     uri: 
@@ -68,14 +68,14 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q3_K_M.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llama configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q3_K_M.gguf
     sha256: f660816bdee03685d8f93e148d4497bcbaade526c53608ed6094a6717d797b7e
     uri: 
@@ -100,14 +100,14 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q3_K_S.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llama configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q3_K_S.gguf
     sha256: 09622123d013fb958ca12cb7ab13498dac59df36a643a93c9f98ffa182ad1fb6
     uri: 
@@ -132,14 +132,14 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q4_0.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llama configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q4_0.gguf
     sha256: 23867809472be0f87774f54f4c41bd4c6d1a616fa802eb2fccc405c20b89bc0d
     uri: 
@@ -164,14 +164,14 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q4_K_M.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llama configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q4_K_M.gguf
     sha256: e76518575f9d367b0a04278cd027c51e53519506b4316b4d368e853a42bfe790
     uri: 
@@ -196,14 +196,14 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q4_K_S.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llama configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q4_K_S.gguf
     sha256: 85805281d0431bb3d1dcd41b4b4811a17a09c5e0289a364d8d1a1b9ee2f6dd10
     uri: 
@@ -228,14 +228,14 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q5_0.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llama configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q5_0.gguf
     sha256: f6d92f1db5ea4a79146dc401bc56cad29b81ef7969f63bcd6cff4796398bf67f
     uri: 
@@ -260,14 +260,14 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q5_K_M.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llama configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q5_K_M.gguf
     sha256: 63db52beba37be15e049e603de12b97dc9d3302493be2454602ade3cb091c927
     uri: 
@@ -292,14 +292,14 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q5_K_S.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llama configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q5_K_S.gguf
     sha256: ec1f1d8dfa04f438318035a93dfa4137cfe3308327a7feaf40f43f03ec6dcf6e
     uri: 
@@ -324,14 +324,14 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q6_K.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llama configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q6_K.gguf
     sha256: 79588d60e277c2749d401872c9f204bf2ecad4c950e42c46c1f6d1fc411057c6
     uri: 
@@ -356,14 +356,14 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q8_0.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llama configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q8_0.gguf
     sha256: 86529f8eefc87a80bd20d62229ee5acdc32d5773be8575a143bc491924865c21
     uri: 
@@ -388,15 +388,15 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q2_K.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q2_K.gguf
     sha256: c74edf3f9e3afc15f2f61962c965f2815ea56c025d45f069f9a3d963d9e9c497
     uri: 
@@ -421,15 +421,15 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q3_K_L.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q3_K_L.gguf
     sha256: 923988ecad97f8bac69f21a1a45eea5c937e23ae14972d8c4f7c729aa7dce8d1
     uri: 
@@ -454,15 +454,15 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q3_K_M.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q3_K_M.gguf
     sha256: f660816bdee03685d8f93e148d4497bcbaade526c53608ed6094a6717d797b7e
     uri: 
@@ -487,15 +487,15 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q3_K_S.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q3_K_S.gguf
     sha256: 09622123d013fb958ca12cb7ab13498dac59df36a643a93c9f98ffa182ad1fb6
     uri: 
@@ -520,15 +520,15 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q4_0.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q4_0.gguf
     sha256: 23867809472be0f87774f54f4c41bd4c6d1a616fa802eb2fccc405c20b89bc0d
     uri: 
@@ -553,15 +553,15 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q4_K_M.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q4_K_M.gguf
     sha256: e76518575f9d367b0a04278cd027c51e53519506b4316b4d368e853a42bfe790
     uri: 
@@ -586,15 +586,15 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q4_K_S.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q4_K_S.gguf
     sha256: 85805281d0431bb3d1dcd41b4b4811a17a09c5e0289a364d8d1a1b9ee2f6dd10
     uri: 
@@ -619,15 +619,15 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q5_0.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q5_0.gguf
     sha256: f6d92f1db5ea4a79146dc401bc56cad29b81ef7969f63bcd6cff4796398bf67f
     uri: 
@@ -652,15 +652,15 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q5_K_M.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q5_K_M.gguf
     sha256: 63db52beba37be15e049e603de12b97dc9d3302493be2454602ade3cb091c927
     uri: 
@@ -685,15 +685,15 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q5_K_S.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q5_K_S.gguf
     sha256: ec1f1d8dfa04f438318035a93dfa4137cfe3308327a7feaf40f43f03ec6dcf6e
     uri: 
@@ -718,15 +718,15 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q6_K.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q6_K.gguf
     sha256: 79588d60e277c2749d401872c9f204bf2ecad4c950e42c46c1f6d1fc411057c6
     uri: 
@@ -751,15 +751,15 @@
     parameters:
       model: deepseek-coder-33b-instruct.Q8_0.gguf
     template:
-      chat: DeepSeek
-      completion: DeepSeek
+      chat: deepseek
+      completion: deepseek
   description: TheBloke/deepseek-coder-33B-instruct-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: DeepSeek.tmpl
+  - filename: deepseek.tmpl
     sha256: f0d71649e0b713c9082f7093105425242b88eb8afb7f05baffa6d3fe3825a007
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/DeepSeek.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/deepseek.tmpl
   - filename: deepseek-coder-33b-instruct.Q8_0.gguf
     sha256: 86529f8eefc87a80bd20d62229ee5acdc32d5773be8575a143bc491924865c21
     uri: 

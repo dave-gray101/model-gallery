@@ -4,14 +4,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q2_K.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q2_K.bin
     sha256: eca79f09840070a68ca88a9a3911ca075d2428ce3f2b5b394eb5974fb7eb0e3f
     uri: 
@@ -34,14 +34,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q3_K_L.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q3_K_L.bin
     sha256: 4cc13a7b925d367f48a41aa7512c90c0b2a270f407829e793de3d9a9b3203c5d
     uri: 
@@ -64,14 +64,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q3_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q3_K_M.bin
     sha256: d7634bfa6b395d12c9e44da181b4b22af35053262ee5a0ac4beed195b6a6bfa1
     uri: 
@@ -94,14 +94,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q3_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q3_K_S.bin
     sha256: 6e68fa8255ba1f25305cbb974813e9dbaffa1739b0d3607ace2e69c3c8aef4d6
     uri: 
@@ -124,14 +124,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q4_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q4_0.bin
     sha256: 3467c51da6c8e3c9b3b798d433f83d856fe230382ca45e52794ff7f370d08bf7
     uri: 
@@ -154,14 +154,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q4_1.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q4_1.bin
     sha256: d1cc273ad34ca16a811d04169d42ffcd469e51e2f872a9fbf827d10be3c1f948
     uri: 
@@ -184,14 +184,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q4_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q4_K_M.bin
     sha256: 785cb50a66c352f06c3340fc86e592724cc27fc26911b4e358f66e3c1a77dadd
     uri: 
@@ -214,14 +214,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q4_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q4_K_S.bin
     sha256: 419c0588ae619d15ed178fb55d95ef3bdefa257fcd56bc19c7d3edda64d2c0db
     uri: 
@@ -244,14 +244,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q5_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q5_0.bin
     sha256: 771d2727dcc8cb0cb8cdca2349096f3c51b42512cffe537ac1a41368245fe783
     uri: 
@@ -274,14 +274,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q5_1.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q5_1.bin
     sha256: 4f343641320fa0f26b4de796b42a502058a7de370702216ff8d9174792a2c828
     uri: 
@@ -304,14 +304,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q5_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q5_K_M.bin
     sha256: e0cb729e9221222d5f6fb9cc5d42e75c90d39a978dded7ba4927f0c7b1026d4c
     uri: 
@@ -334,14 +334,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q5_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q5_K_S.bin
     sha256: 33f9835d8d88bec698d0f126a3963f5fae435f2e6fc3b36ca36f7832e827d508
     uri: 
@@ -364,14 +364,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q6_K.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q6_K.bin
     sha256: 61cc0a1555d50ea4646d78f6890fadaac9cfdfb22e3229d4df60195ae4956456
     uri: 
@@ -394,14 +394,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q8_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q8_0.bin
     sha256: 18b60f6c6d412dd24fa7c90792f084368446cb2e53c1b8863eb7ffe0edbb0d02
     uri: 
@@ -424,14 +424,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q2_K.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q2_K.bin
     sha256: eca79f09840070a68ca88a9a3911ca075d2428ce3f2b5b394eb5974fb7eb0e3f
     uri: 
@@ -454,14 +454,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q3_K_L.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q3_K_L.bin
     sha256: 4cc13a7b925d367f48a41aa7512c90c0b2a270f407829e793de3d9a9b3203c5d
     uri: 
@@ -484,14 +484,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q3_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q3_K_M.bin
     sha256: d7634bfa6b395d12c9e44da181b4b22af35053262ee5a0ac4beed195b6a6bfa1
     uri: 
@@ -514,14 +514,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q3_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q3_K_S.bin
     sha256: 6e68fa8255ba1f25305cbb974813e9dbaffa1739b0d3607ace2e69c3c8aef4d6
     uri: 
@@ -544,14 +544,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q4_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q4_0.bin
     sha256: 3467c51da6c8e3c9b3b798d433f83d856fe230382ca45e52794ff7f370d08bf7
     uri: 
@@ -574,14 +574,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q4_1.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q4_1.bin
     sha256: d1cc273ad34ca16a811d04169d42ffcd469e51e2f872a9fbf827d10be3c1f948
     uri: 
@@ -604,14 +604,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q4_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q4_K_M.bin
     sha256: 785cb50a66c352f06c3340fc86e592724cc27fc26911b4e358f66e3c1a77dadd
     uri: 
@@ -634,14 +634,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q4_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q4_K_S.bin
     sha256: 419c0588ae619d15ed178fb55d95ef3bdefa257fcd56bc19c7d3edda64d2c0db
     uri: 
@@ -664,14 +664,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q5_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q5_0.bin
     sha256: 771d2727dcc8cb0cb8cdca2349096f3c51b42512cffe537ac1a41368245fe783
     uri: 
@@ -694,14 +694,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q5_1.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q5_1.bin
     sha256: 4f343641320fa0f26b4de796b42a502058a7de370702216ff8d9174792a2c828
     uri: 
@@ -724,14 +724,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q5_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q5_K_M.bin
     sha256: e0cb729e9221222d5f6fb9cc5d42e75c90d39a978dded7ba4927f0c7b1026d4c
     uri: 
@@ -754,14 +754,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q5_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q5_K_S.bin
     sha256: 33f9835d8d88bec698d0f126a3963f5fae435f2e6fc3b36ca36f7832e827d508
     uri: 
@@ -784,14 +784,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q6_K.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q6_K.bin
     sha256: 61cc0a1555d50ea4646d78f6890fadaac9cfdfb22e3229d4df60195ae4956456
     uri: 
@@ -814,14 +814,14 @@
     parameters:
       model: huggin-13b.ggmlv3.q8_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Huginn-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: huggin-13b.ggmlv3.q8_0.bin
     sha256: 18b60f6c6d412dd24fa7c90792f084368446cb2e53c1b8863eb7ffe0edbb0d02
     uri: 

@@ -4,14 +4,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q2_K.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q2_K.gguf
     sha256: 067a384960606efe7967663fe5e0f849165c10d1bf38d59e27978d0c37e9fa5e
     uri: 
@@ -37,14 +37,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q3_K_L.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q3_K_L.gguf
     sha256: c0af40feb511ce0aa0cac9653a4cf714d0c8fefc5e0f589c80c0e0a579b9946b
     uri: 
@@ -70,14 +70,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q3_K_M.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q3_K_M.gguf
     sha256: 9ebf2fd444ee1c786fb5dcc6df4a3e1f5e89a05899122f6f0beec6327308df2d
     uri: 
@@ -103,14 +103,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q3_K_S.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q3_K_S.gguf
     sha256: c9fd0846db63959e7f191b420e4b885a1e33c9177dfe9d1907d99ef9a402efba
     uri: 
@@ -136,14 +136,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q4_0.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q4_0.gguf
     sha256: e0d259f57d18e73f74cfb491c53825fdc2967f317c6820bd7f726f0a1164ce39
     uri: 
@@ -169,14 +169,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q4_K_M.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q4_K_M.gguf
     sha256: 50e4feca8e4145c611749975aa2bf0f94db2202491dfa41e0fbfe9bb4323ebac
     uri: 
@@ -202,14 +202,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q4_K_S.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q4_K_S.gguf
     sha256: e8bd3d4852a1fcab178cf7d5258ccfbb8a4fe8a87fa347d0e8f29c0c8542e73b
     uri: 
@@ -235,14 +235,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q5_0.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q5_0.gguf
     sha256: ab4c2ba7aa78478cb9113e39847652d274745c4abfffaeb99c28084b75cea956
     uri: 
@@ -268,14 +268,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q5_K_M.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q5_K_M.gguf
     sha256: f5bb1ce73e2f0abb44de864e996a3577901614f60abfe83d18f56dca33af3c61
     uri: 
@@ -301,14 +301,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q5_K_S.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q5_K_S.gguf
     sha256: 6a25808b63916645b997d4cd30d8a899488d282be436b2eaec5b5271dd21b98c
     uri: 
@@ -334,14 +334,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q6_K.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q6_K.gguf
     sha256: 026cdec24826e1b7c84e18bdcb6d5008f7976e2892b57d62fd7f9fe604d0f71d
     uri: 
@@ -367,14 +367,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q8_0.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q8_0.gguf
     sha256: b96bbb67d866f93b075cf10445f1a3125e1980bbc8ceee4be447591484e84d1b
     uri: 
@@ -400,14 +400,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q2_K.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q2_K.gguf
     sha256: 067a384960606efe7967663fe5e0f849165c10d1bf38d59e27978d0c37e9fa5e
     uri: 
@@ -433,14 +433,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q3_K_L.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q3_K_L.gguf
     sha256: c0af40feb511ce0aa0cac9653a4cf714d0c8fefc5e0f589c80c0e0a579b9946b
     uri: 
@@ -466,14 +466,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q3_K_M.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q3_K_M.gguf
     sha256: 9ebf2fd444ee1c786fb5dcc6df4a3e1f5e89a05899122f6f0beec6327308df2d
     uri: 
@@ -499,14 +499,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q3_K_S.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q3_K_S.gguf
     sha256: c9fd0846db63959e7f191b420e4b885a1e33c9177dfe9d1907d99ef9a402efba
     uri: 
@@ -532,14 +532,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q4_0.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q4_0.gguf
     sha256: e0d259f57d18e73f74cfb491c53825fdc2967f317c6820bd7f726f0a1164ce39
     uri: 
@@ -565,14 +565,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q4_K_M.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q4_K_M.gguf
     sha256: 50e4feca8e4145c611749975aa2bf0f94db2202491dfa41e0fbfe9bb4323ebac
     uri: 
@@ -598,14 +598,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q4_K_S.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q4_K_S.gguf
     sha256: e8bd3d4852a1fcab178cf7d5258ccfbb8a4fe8a87fa347d0e8f29c0c8542e73b
     uri: 
@@ -631,14 +631,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q5_0.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q5_0.gguf
     sha256: ab4c2ba7aa78478cb9113e39847652d274745c4abfffaeb99c28084b75cea956
     uri: 
@@ -664,14 +664,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q5_K_M.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q5_K_M.gguf
     sha256: f5bb1ce73e2f0abb44de864e996a3577901614f60abfe83d18f56dca33af3c61
     uri: 
@@ -697,14 +697,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q5_K_S.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q5_K_S.gguf
     sha256: 6a25808b63916645b997d4cd30d8a899488d282be436b2eaec5b5271dd21b98c
     uri: 
@@ -730,14 +730,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q6_K.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q6_K.gguf
     sha256: 026cdec24826e1b7c84e18bdcb6d5008f7976e2892b57d62fd7f9fe604d0f71d
     uri: 
@@ -763,14 +763,14 @@
     parameters:
       model: spicyboros-13b-2.2.Q8_0.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Spicyboros-13B-2.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: spicyboros-13b-2.2.Q8_0.gguf
     sha256: b96bbb67d866f93b075cf10445f1a3125e1980bbc8ceee4be447591484e84d1b
     uri: 

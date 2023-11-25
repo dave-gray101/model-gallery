@@ -4,14 +4,14 @@
     parameters:
       model: undimix-v3-13b.Q2_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q2_K.gguf
     sha256: 123eccb13aa6b6bc4e0aa79fe665efe01572434e1ef96967ff3e3435a1124ab8
     uri: 
@@ -35,14 +35,14 @@
     parameters:
       model: undimix-v3-13b.Q3_K_L.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q3_K_L.gguf
     sha256: 7edb5de694066faa6030a604cf2099f4fb246cf59ec3ba916315e93adc74d6b5
     uri: 
@@ -66,14 +66,14 @@
     parameters:
       model: undimix-v3-13b.Q3_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q3_K_M.gguf
     sha256: 8d5f2bf56e34b2af43d949dbcd636b1da49a28688713608871afc48b7c2fa5a8
     uri: 
@@ -97,14 +97,14 @@
     parameters:
       model: undimix-v3-13b.Q3_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q3_K_S.gguf
     sha256: 61edee0b838c4e52840d023a1ec8d3be9ec70c5816cbf8421fd8cebf295d16e8
     uri: 
@@ -128,14 +128,14 @@
     parameters:
       model: undimix-v3-13b.Q4_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q4_0.gguf
     sha256: 1e51c9a5bd06029bebfaf084d90f94524f0e720b34584cea82d9e8fa62fddbda
     uri: 
@@ -159,14 +159,14 @@
     parameters:
       model: undimix-v3-13b.Q4_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q4_K_M.gguf
     sha256: 6ed3905b3011ca32b9d6f784b26ff20055cd7e47ea1267d418951b1f85ac632b
     uri: 
@@ -190,14 +190,14 @@
     parameters:
       model: undimix-v3-13b.Q4_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q4_K_S.gguf
     sha256: d9a7e7a1d17636849bcdf9810d780e244d36f3c3bbc1cc5c264f23f3df3a5fa6
     uri: 
@@ -221,14 +221,14 @@
     parameters:
       model: undimix-v3-13b.Q5_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q5_0.gguf
     sha256: c0670402d64666cae95239d01d922ba2006eb811b43162a54fa52eaa266e068e
     uri: 
@@ -252,14 +252,14 @@
     parameters:
       model: undimix-v3-13b.Q5_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q5_K_M.gguf
     sha256: c76f275850ec6043e8e108195b2944c93cac89219050b5f0dce1a00923d1c9a3
     uri: 
@@ -283,14 +283,14 @@
     parameters:
       model: undimix-v3-13b.Q5_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q5_K_S.gguf
     sha256: 957e97b9413454d2724558fb046006d22e2f34f5a5e35b7c5781aea6baa209d4
     uri: 
@@ -314,14 +314,14 @@
     parameters:
       model: undimix-v3-13b.Q6_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q6_K.gguf
     sha256: 07331d5f16d257b1535541ada2eea24ab3b1d893c1127d3ee8d9f02bf287e2eb
     uri: 
@@ -345,14 +345,14 @@
     parameters:
       model: undimix-v3-13b.Q8_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q8_0.gguf
     sha256: 2f389ee77ebc5da7ebe818bdd29dd4c74d866e7ef6786679b0d196b8ff133b3c
     uri: 
@@ -376,14 +376,14 @@
     parameters:
       model: undimix-v3-13b.Q2_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q2_K.gguf
     sha256: 123eccb13aa6b6bc4e0aa79fe665efe01572434e1ef96967ff3e3435a1124ab8
     uri: 
@@ -407,14 +407,14 @@
     parameters:
       model: undimix-v3-13b.Q3_K_L.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q3_K_L.gguf
     sha256: 7edb5de694066faa6030a604cf2099f4fb246cf59ec3ba916315e93adc74d6b5
     uri: 
@@ -438,14 +438,14 @@
     parameters:
       model: undimix-v3-13b.Q3_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q3_K_M.gguf
     sha256: 8d5f2bf56e34b2af43d949dbcd636b1da49a28688713608871afc48b7c2fa5a8
     uri: 
@@ -469,14 +469,14 @@
     parameters:
       model: undimix-v3-13b.Q3_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q3_K_S.gguf
     sha256: 61edee0b838c4e52840d023a1ec8d3be9ec70c5816cbf8421fd8cebf295d16e8
     uri: 
@@ -500,14 +500,14 @@
     parameters:
       model: undimix-v3-13b.Q4_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q4_0.gguf
     sha256: 1e51c9a5bd06029bebfaf084d90f94524f0e720b34584cea82d9e8fa62fddbda
     uri: 
@@ -531,14 +531,14 @@
     parameters:
       model: undimix-v3-13b.Q4_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q4_K_M.gguf
     sha256: 6ed3905b3011ca32b9d6f784b26ff20055cd7e47ea1267d418951b1f85ac632b
     uri: 
@@ -562,14 +562,14 @@
     parameters:
       model: undimix-v3-13b.Q4_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q4_K_S.gguf
     sha256: d9a7e7a1d17636849bcdf9810d780e244d36f3c3bbc1cc5c264f23f3df3a5fa6
     uri: 
@@ -593,14 +593,14 @@
     parameters:
       model: undimix-v3-13b.Q5_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q5_0.gguf
     sha256: c0670402d64666cae95239d01d922ba2006eb811b43162a54fa52eaa266e068e
     uri: 
@@ -624,14 +624,14 @@
     parameters:
       model: undimix-v3-13b.Q5_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q5_K_M.gguf
     sha256: c76f275850ec6043e8e108195b2944c93cac89219050b5f0dce1a00923d1c9a3
     uri: 
@@ -655,14 +655,14 @@
     parameters:
       model: undimix-v3-13b.Q5_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q5_K_S.gguf
     sha256: 957e97b9413454d2724558fb046006d22e2f34f5a5e35b7c5781aea6baa209d4
     uri: 
@@ -686,14 +686,14 @@
     parameters:
       model: undimix-v3-13b.Q6_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q6_K.gguf
     sha256: 07331d5f16d257b1535541ada2eea24ab3b1d893c1127d3ee8d9f02bf287e2eb
     uri: 
@@ -717,14 +717,14 @@
     parameters:
       model: undimix-v3-13b.Q8_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/UndiMix-v3-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: undimix-v3-13b.Q8_0.gguf
     sha256: 2f389ee77ebc5da7ebe818bdd29dd4c74d866e7ef6786679b0d196b8ff133b3c
     uri: 

@@ -4,14 +4,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q2_K.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q2_K.bin
     sha256: 867e7819e1e43d72e3424eb1561f0ccfd6ff8465e4f801a5391c7389f02dbef2
     uri: 
@@ -36,14 +36,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q3_K_L.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q3_K_L.bin
     sha256: 92a681f5ebf7530ebc1beb064c38b22b03c08ff8caecc76f869ba7f8c3f81e38
     uri: 
@@ -68,14 +68,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q3_K_M.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q3_K_M.bin
     sha256: 8dc63f6cbbff7cfe5a9d0155a009e5daa3b81809a0511fd40e4ef57317b73961
     uri: 
@@ -100,14 +100,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q3_K_S.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q3_K_S.bin
     sha256: c412d49bf4592eb8d14280bc2c2e73e300885c6e58db907666a3b6838237a934
     uri: 
@@ -132,14 +132,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q4_0.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q4_0.bin
     sha256: c3e2cd58fe958908ed4a70a8b65206a27ae79eece146df35c3afc667780dd871
     uri: 
@@ -164,14 +164,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q4_1.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q4_1.bin
     sha256: c5ae4747970a70e599ed69649ad2288f3851cfc357c1f556b843f157711ad570
     uri: 
@@ -196,14 +196,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q4_K_M.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q4_K_M.bin
     sha256: 165096b113430fa39d0c88dfbe7c9faa6be8844a3f0df821a79756ae09c60a00
     uri: 
@@ -228,14 +228,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q4_K_S.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q4_K_S.bin
     sha256: f1cfa7384fdfe96785ed3be498f75fc3de36f78475b6d21104022d622647d646
     uri: 
@@ -260,14 +260,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q5_0.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q5_0.bin
     sha256: 20a9a47a2088ea330f3e9166b4d67a04b85217cfa66357359043e58bb7e69024
     uri: 
@@ -292,14 +292,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q5_1.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q5_1.bin
     sha256: d8bfe45c5fcfa3a4a1cea7f9809d6b2bb77cdc46e47e34e272443d5415563600
     uri: 
@@ -324,14 +324,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q5_K_M.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q5_K_M.bin
     sha256: fc2b5e89d450d7917ea58cba36f513769236d04c9cca0f4334babe2dd70e4dd2
     uri: 
@@ -356,14 +356,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q5_K_S.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q5_K_S.bin
     sha256: 2ba497be6f09178dbfb8559c7c776245b4ed0279e7e172bf2143f1eddc9b18e8
     uri: 
@@ -388,14 +388,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q6_K.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q6_K.bin
     sha256: 7bce7b82766874d37f6a11d5912a42db6040cefa20c3c3ce84a0d26d5765237b
     uri: 
@@ -420,14 +420,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q8_0.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q8_0.bin
     sha256: a7c7bba098d71908aab2435f7a27caaa636a29649f75eda50a14d339424efd5a
     uri: 
@@ -452,14 +452,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q2_K.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q2_K.bin
     sha256: 867e7819e1e43d72e3424eb1561f0ccfd6ff8465e4f801a5391c7389f02dbef2
     uri: 
@@ -484,14 +484,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q3_K_L.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q3_K_L.bin
     sha256: 92a681f5ebf7530ebc1beb064c38b22b03c08ff8caecc76f869ba7f8c3f81e38
     uri: 
@@ -516,14 +516,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q3_K_M.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q3_K_M.bin
     sha256: 8dc63f6cbbff7cfe5a9d0155a009e5daa3b81809a0511fd40e4ef57317b73961
     uri: 
@@ -548,14 +548,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q3_K_S.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q3_K_S.bin
     sha256: c412d49bf4592eb8d14280bc2c2e73e300885c6e58db907666a3b6838237a934
     uri: 
@@ -580,14 +580,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q4_0.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q4_0.bin
     sha256: c3e2cd58fe958908ed4a70a8b65206a27ae79eece146df35c3afc667780dd871
     uri: 
@@ -612,14 +612,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q4_1.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q4_1.bin
     sha256: c5ae4747970a70e599ed69649ad2288f3851cfc357c1f556b843f157711ad570
     uri: 
@@ -644,14 +644,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q4_K_M.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q4_K_M.bin
     sha256: 165096b113430fa39d0c88dfbe7c9faa6be8844a3f0df821a79756ae09c60a00
     uri: 
@@ -676,14 +676,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q4_K_S.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q4_K_S.bin
     sha256: f1cfa7384fdfe96785ed3be498f75fc3de36f78475b6d21104022d622647d646
     uri: 
@@ -708,14 +708,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q5_0.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q5_0.bin
     sha256: 20a9a47a2088ea330f3e9166b4d67a04b85217cfa66357359043e58bb7e69024
     uri: 
@@ -740,14 +740,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q5_1.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q5_1.bin
     sha256: d8bfe45c5fcfa3a4a1cea7f9809d6b2bb77cdc46e47e34e272443d5415563600
     uri: 
@@ -772,14 +772,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q5_K_M.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q5_K_M.bin
     sha256: fc2b5e89d450d7917ea58cba36f513769236d04c9cca0f4334babe2dd70e4dd2
     uri: 
@@ -804,14 +804,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q5_K_S.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q5_K_S.bin
     sha256: 2ba497be6f09178dbfb8559c7c776245b4ed0279e7e172bf2143f1eddc9b18e8
     uri: 
@@ -836,14 +836,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q6_K.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q6_K.bin
     sha256: 7bce7b82766874d37f6a11d5912a42db6040cefa20c3c3ce84a0d26d5765237b
     uri: 
@@ -868,14 +868,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q8_0.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q8_0.bin
     sha256: a7c7bba098d71908aab2435f7a27caaa636a29649f75eda50a14d339424efd5a
     uri: 
@@ -900,14 +900,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q2_K.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q2_K.bin
     sha256: 867e7819e1e43d72e3424eb1561f0ccfd6ff8465e4f801a5391c7389f02dbef2
     uri: 
@@ -932,14 +932,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q3_K_L.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q3_K_L.bin
     sha256: 92a681f5ebf7530ebc1beb064c38b22b03c08ff8caecc76f869ba7f8c3f81e38
     uri: 
@@ -964,14 +964,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q3_K_M.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q3_K_M.bin
     sha256: 8dc63f6cbbff7cfe5a9d0155a009e5daa3b81809a0511fd40e4ef57317b73961
     uri: 
@@ -996,14 +996,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q3_K_S.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q3_K_S.bin
     sha256: c412d49bf4592eb8d14280bc2c2e73e300885c6e58db907666a3b6838237a934
     uri: 
@@ -1028,14 +1028,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q4_0.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q4_0.bin
     sha256: c3e2cd58fe958908ed4a70a8b65206a27ae79eece146df35c3afc667780dd871
     uri: 
@@ -1060,14 +1060,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q4_1.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q4_1.bin
     sha256: c5ae4747970a70e599ed69649ad2288f3851cfc357c1f556b843f157711ad570
     uri: 
@@ -1092,14 +1092,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q4_K_M.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q4_K_M.bin
     sha256: 165096b113430fa39d0c88dfbe7c9faa6be8844a3f0df821a79756ae09c60a00
     uri: 
@@ -1124,14 +1124,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q4_K_S.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q4_K_S.bin
     sha256: f1cfa7384fdfe96785ed3be498f75fc3de36f78475b6d21104022d622647d646
     uri: 
@@ -1156,14 +1156,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q5_0.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q5_0.bin
     sha256: 20a9a47a2088ea330f3e9166b4d67a04b85217cfa66357359043e58bb7e69024
     uri: 
@@ -1188,14 +1188,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q5_1.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q5_1.bin
     sha256: d8bfe45c5fcfa3a4a1cea7f9809d6b2bb77cdc46e47e34e272443d5415563600
     uri: 
@@ -1220,14 +1220,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q5_K_M.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q5_K_M.bin
     sha256: fc2b5e89d450d7917ea58cba36f513769236d04c9cca0f4334babe2dd70e4dd2
     uri: 
@@ -1252,14 +1252,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q5_K_S.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q5_K_S.bin
     sha256: 2ba497be6f09178dbfb8559c7c776245b4ed0279e7e172bf2143f1eddc9b18e8
     uri: 
@@ -1284,14 +1284,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q6_K.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q6_K.bin
     sha256: 7bce7b82766874d37f6a11d5912a42db6040cefa20c3c3ce84a0d26d5765237b
     uri: 
@@ -1316,14 +1316,14 @@
     parameters:
       model: kimiko-v2-13b.ggmlv3.Q8_0.bin
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Kimiko-v2-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: kimiko-v2-13b.ggmlv3.Q8_0.bin
     sha256: a7c7bba098d71908aab2435f7a27caaa636a29649f75eda50a14d339424efd5a
     uri: 

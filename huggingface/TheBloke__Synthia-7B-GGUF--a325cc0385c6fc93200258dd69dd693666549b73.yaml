@@ -4,14 +4,14 @@
     parameters:
       model: synthia-7b.Q2_K.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q2_K.gguf
     sha256: f46fda4f1c79ebff9e3a272b7ea732aa730447d288f76e5026209617a2ae536e
     uri: 
@@ -35,14 +35,14 @@
     parameters:
       model: synthia-7b.Q3_K_L.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q3_K_L.gguf
     sha256: e57f2b7cbb1538dac1ead0f435c8f583bf926c46e99406b580a361cda024599d
     uri: 
@@ -66,14 +66,14 @@
     parameters:
       model: synthia-7b.Q3_K_M.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q3_K_M.gguf
     sha256: 213ef6d7de95c5d4a9fed383ddcccfead128bfd7f13cd40bc5a4d56c13b6e698
     uri: 
@@ -97,14 +97,14 @@
     parameters:
       model: synthia-7b.Q3_K_S.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q3_K_S.gguf
     sha256: 2df21550bb1d3f2210ba48c7ea9fa22f5b21552ec0f0e6adbed5e69035bd06a7
     uri: 
@@ -128,14 +128,14 @@
     parameters:
       model: synthia-7b.Q4_0.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q4_0.gguf
     sha256: 519b59ed5482ba139ee543539941e6f383028efbddd8f44847ddd2dce9fb6fdf
     uri: 
@@ -159,14 +159,14 @@
     parameters:
       model: synthia-7b.Q4_K_M.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q4_K_M.gguf
     sha256: 55adcaf703100a9df1fb8328444ecc0b301aea19e9f5568d84741f6239aae922
     uri: 
@@ -190,14 +190,14 @@
     parameters:
       model: synthia-7b.Q4_K_S.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q4_K_S.gguf
     sha256: 48b1ce49b1389e46d93e648ddd0aba51ca3e697e03b1eb419164d6994fdb8b29
     uri: 
@@ -221,14 +221,14 @@
     parameters:
       model: synthia-7b.Q5_0.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q5_0.gguf
     sha256: 83450607ccaa51c3659dcab285df16c1260a4d418712d033bf60ca73f7435e01
     uri: 
@@ -252,14 +252,14 @@
     parameters:
       model: synthia-7b.Q5_K_M.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q5_K_M.gguf
     sha256: 1d66ff1ecfec7357d44bb68f263b01fb88137bd7d01e35b8028bbaaeea9308a6
     uri: 
@@ -283,14 +283,14 @@
     parameters:
       model: synthia-7b.Q5_K_S.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q5_K_S.gguf
     sha256: 1f3679526eeed7686087bdaed75ab6e47ae271a4aa7b24adde73f5da7ccf9cb2
     uri: 
@@ -314,14 +314,14 @@
     parameters:
       model: synthia-7b.Q6_K.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q6_K.gguf
     sha256: 9694d81369dca7542abedec7eb8042293a59d7374d3875ca7cfcd72012923c98
     uri: 
@@ -345,14 +345,14 @@
     parameters:
       model: synthia-7b.Q8_0.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q8_0.gguf
     sha256: 812df21b4ae3e468fe0c7f7936c0f156f9cec4750423e2335652a1b3e21c162a
     uri: 
@@ -376,14 +376,14 @@
     parameters:
       model: synthia-7b.Q2_K.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q2_K.gguf
     sha256: f46fda4f1c79ebff9e3a272b7ea732aa730447d288f76e5026209617a2ae536e
     uri: 
@@ -407,14 +407,14 @@
     parameters:
       model: synthia-7b.Q3_K_L.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q3_K_L.gguf
     sha256: e57f2b7cbb1538dac1ead0f435c8f583bf926c46e99406b580a361cda024599d
     uri: 
@@ -438,14 +438,14 @@
     parameters:
       model: synthia-7b.Q3_K_M.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q3_K_M.gguf
     sha256: 213ef6d7de95c5d4a9fed383ddcccfead128bfd7f13cd40bc5a4d56c13b6e698
     uri: 
@@ -469,14 +469,14 @@
     parameters:
       model: synthia-7b.Q3_K_S.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q3_K_S.gguf
     sha256: 2df21550bb1d3f2210ba48c7ea9fa22f5b21552ec0f0e6adbed5e69035bd06a7
     uri: 
@@ -500,14 +500,14 @@
     parameters:
       model: synthia-7b.Q4_0.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q4_0.gguf
     sha256: 519b59ed5482ba139ee543539941e6f383028efbddd8f44847ddd2dce9fb6fdf
     uri: 
@@ -531,14 +531,14 @@
     parameters:
       model: synthia-7b.Q4_K_M.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q4_K_M.gguf
     sha256: 55adcaf703100a9df1fb8328444ecc0b301aea19e9f5568d84741f6239aae922
     uri: 
@@ -562,14 +562,14 @@
     parameters:
       model: synthia-7b.Q4_K_S.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q4_K_S.gguf
     sha256: 48b1ce49b1389e46d93e648ddd0aba51ca3e697e03b1eb419164d6994fdb8b29
     uri: 
@@ -593,14 +593,14 @@
     parameters:
       model: synthia-7b.Q5_0.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q5_0.gguf
     sha256: 83450607ccaa51c3659dcab285df16c1260a4d418712d033bf60ca73f7435e01
     uri: 
@@ -624,14 +624,14 @@
     parameters:
       model: synthia-7b.Q5_K_M.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q5_K_M.gguf
     sha256: 1d66ff1ecfec7357d44bb68f263b01fb88137bd7d01e35b8028bbaaeea9308a6
     uri: 
@@ -655,14 +655,14 @@
     parameters:
       model: synthia-7b.Q5_K_S.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q5_K_S.gguf
     sha256: 1f3679526eeed7686087bdaed75ab6e47ae271a4aa7b24adde73f5da7ccf9cb2
     uri: 
@@ -686,14 +686,14 @@
     parameters:
       model: synthia-7b.Q6_K.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q6_K.gguf
     sha256: 9694d81369dca7542abedec7eb8042293a59d7374d3875ca7cfcd72012923c98
     uri: 
@@ -717,14 +717,14 @@
     parameters:
       model: synthia-7b.Q8_0.gguf
     template:
-      chat: Orca-Vicuna
-      completion: Orca-Vicuna
+      chat: orca-vicuna
+      completion: orca-vicuna
   description: TheBloke/Synthia-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Vicuna.tmpl
+  - filename: orca-vicuna.tmpl
     sha256: 0d1f0b381a84d986f40f94e7f2cf30d852c7bc5c557ca8bd92efb992e6d25457
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-vicuna.tmpl
   - filename: synthia-7b.Q8_0.gguf
     sha256: 812df21b4ae3e468fe0c7f7936c0f156f9cec4750423e2335652a1b3e21c162a
     uri: 

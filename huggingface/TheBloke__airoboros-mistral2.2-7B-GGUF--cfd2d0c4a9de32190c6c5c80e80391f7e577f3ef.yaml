@@ -4,14 +4,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q2_K.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q2_K.gguf
     sha256: e6ec89ebfd8ce6085391b92f0c57d5ada7db86df954adc75b3e01a45b3a1b0bc
     uri: 
@@ -44,14 +44,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q3_K_L.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q3_K_L.gguf
     sha256: 66386e1ece7b3b2f32cb90de9def1956cc6200a17a44f4a130e1415a74945b38
     uri: 
@@ -84,14 +84,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q3_K_M.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q3_K_M.gguf
     sha256: d509f0eb38c9aabd831801cc21df89a5c2dd1eb55416d54653e92e0984d9b965
     uri: 
@@ -124,14 +124,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q3_K_S.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q3_K_S.gguf
     sha256: ebc3cacbd97ff069c539492bd0ff05a4d210112ad0a26217f1edd1a6597fb39e
     uri: 
@@ -164,14 +164,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q4_0.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q4_0.gguf
     sha256: e2e0554b3a8d067846ccb50f5a7defa4d8d0a82c51bc29e9f1941f51e6738917
     uri: 
@@ -204,14 +204,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q4_K_M.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q4_K_M.gguf
     sha256: b40fd4df5c4d298a95a497e19aee66e367381d5cd2b3fc73875aca458210515f
     uri: 
@@ -244,14 +244,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q4_K_S.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q4_K_S.gguf
     sha256: ea9a7c819b0c661684b3b459ddeee5662ef9b2b41c258adbc86caef54f556537
     uri: 
@@ -284,14 +284,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q5_0.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q5_0.gguf
     sha256: 787a890ccb3537d08cb8724233b6a319f75597f40ca49339f68fe605c04c4171
     uri: 
@@ -324,14 +324,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q5_K_M.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q5_K_M.gguf
     sha256: d0bcba762a2b5ab734f05dc970c97b5871b70f4d2567657ba82f41adcdbdf393
     uri: 
@@ -364,14 +364,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q5_K_S.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q5_K_S.gguf
     sha256: 8b57ba1bca386c3521c211797632c530dcaeb98b81a5d17a91e1fe23d708c386
     uri: 
@@ -404,14 +404,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q6_K.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q6_K.gguf
     sha256: e4bb92363afaebd2a654a223c366506a4fd934a07cba17315729131240767393
     uri: 
@@ -444,14 +444,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q8_0.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q8_0.gguf
     sha256: 9b18ce492f3dfa4ae2ca6c5d9bc738a79ba0ad61b71e930b76879c87c798a3b5
     uri: 
@@ -488,14 +488,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - mistral configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q2_K.gguf
     sha256: e6ec89ebfd8ce6085391b92f0c57d5ada7db86df954adc75b3e01a45b3a1b0bc
     uri: 
@@ -532,14 +532,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - mistral configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q3_K_L.gguf
     sha256: 66386e1ece7b3b2f32cb90de9def1956cc6200a17a44f4a130e1415a74945b38
     uri: 
@@ -576,14 +576,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - mistral configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q3_K_M.gguf
     sha256: d509f0eb38c9aabd831801cc21df89a5c2dd1eb55416d54653e92e0984d9b965
     uri: 
@@ -620,14 +620,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - mistral configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q3_K_S.gguf
     sha256: ebc3cacbd97ff069c539492bd0ff05a4d210112ad0a26217f1edd1a6597fb39e
     uri: 
@@ -664,14 +664,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - mistral configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q4_0.gguf
     sha256: e2e0554b3a8d067846ccb50f5a7defa4d8d0a82c51bc29e9f1941f51e6738917
     uri: 
@@ -708,14 +708,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - mistral configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q4_K_M.gguf
     sha256: b40fd4df5c4d298a95a497e19aee66e367381d5cd2b3fc73875aca458210515f
     uri: 
@@ -752,14 +752,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - mistral configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q4_K_S.gguf
     sha256: ea9a7c819b0c661684b3b459ddeee5662ef9b2b41c258adbc86caef54f556537
     uri: 
@@ -796,14 +796,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - mistral configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q5_0.gguf
     sha256: 787a890ccb3537d08cb8724233b6a319f75597f40ca49339f68fe605c04c4171
     uri: 
@@ -840,14 +840,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - mistral configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q5_K_M.gguf
     sha256: d0bcba762a2b5ab734f05dc970c97b5871b70f4d2567657ba82f41adcdbdf393
     uri: 
@@ -884,14 +884,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - mistral configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q5_K_S.gguf
     sha256: 8b57ba1bca386c3521c211797632c530dcaeb98b81a5d17a91e1fe23d708c386
     uri: 
@@ -928,14 +928,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - mistral configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q6_K.gguf
     sha256: e4bb92363afaebd2a654a223c366506a4fd934a07cba17315729131240767393
     uri: 
@@ -972,14 +972,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - mistral configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q8_0.gguf
     sha256: 9b18ce492f3dfa4ae2ca6c5d9bc738a79ba0ad61b71e930b76879c87c798a3b5
     uri: 
@@ -1012,14 +1012,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q2_K.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q2_K.gguf
     sha256: e6ec89ebfd8ce6085391b92f0c57d5ada7db86df954adc75b3e01a45b3a1b0bc
     uri: 
@@ -1052,14 +1052,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q3_K_L.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q3_K_L.gguf
     sha256: 66386e1ece7b3b2f32cb90de9def1956cc6200a17a44f4a130e1415a74945b38
     uri: 
@@ -1092,14 +1092,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q3_K_M.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q3_K_M.gguf
     sha256: d509f0eb38c9aabd831801cc21df89a5c2dd1eb55416d54653e92e0984d9b965
     uri: 
@@ -1132,14 +1132,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q3_K_S.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q3_K_S.gguf
     sha256: ebc3cacbd97ff069c539492bd0ff05a4d210112ad0a26217f1edd1a6597fb39e
     uri: 
@@ -1172,14 +1172,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q4_0.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q4_0.gguf
     sha256: e2e0554b3a8d067846ccb50f5a7defa4d8d0a82c51bc29e9f1941f51e6738917
     uri: 
@@ -1212,14 +1212,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q4_K_M.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q4_K_M.gguf
     sha256: b40fd4df5c4d298a95a497e19aee66e367381d5cd2b3fc73875aca458210515f
     uri: 
@@ -1252,14 +1252,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q4_K_S.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q4_K_S.gguf
     sha256: ea9a7c819b0c661684b3b459ddeee5662ef9b2b41c258adbc86caef54f556537
     uri: 
@@ -1292,14 +1292,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q5_0.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q5_0.gguf
     sha256: 787a890ccb3537d08cb8724233b6a319f75597f40ca49339f68fe605c04c4171
     uri: 
@@ -1332,14 +1332,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q5_K_M.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q5_K_M.gguf
     sha256: d0bcba762a2b5ab734f05dc970c97b5871b70f4d2567657ba82f41adcdbdf393
     uri: 
@@ -1372,14 +1372,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q5_K_S.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q5_K_S.gguf
     sha256: 8b57ba1bca386c3521c211797632c530dcaeb98b81a5d17a91e1fe23d708c386
     uri: 
@@ -1412,14 +1412,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q6_K.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q6_K.gguf
     sha256: e4bb92363afaebd2a654a223c366506a4fd934a07cba17315729131240767393
     uri: 
@@ -1452,14 +1452,14 @@
     parameters:
       model: airoboros-mistral2.2-7b.Q8_0.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/airoboros-mistral2.2-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: airoboros-mistral2.2-7b.Q8_0.gguf
     sha256: 9b18ce492f3dfa4ae2ca6c5d9bc738a79ba0ad61b71e930b76879c87c798a3b5
     uri: 

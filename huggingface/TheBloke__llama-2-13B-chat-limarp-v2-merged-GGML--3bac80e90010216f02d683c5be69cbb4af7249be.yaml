@@ -4,14 +4,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q2_K.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llama configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q2_K.bin
     sha256: bdcf2773024b038bed1a645aa9a7c681a5a2ba6bdbaf458642c730d2008af32a
     uri: 
@@ -38,14 +38,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q3_K_L.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llama configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q3_K_L.bin
     sha256: 143f71b74f43c666a6e27eca54fd5d24153faeb1575758ef7ea8934dd09961dc
     uri: 
@@ -72,14 +72,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q3_K_M.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llama configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q3_K_M.bin
     sha256: 3c1075269c9dbe45489d20eb99c4c451c2903a15cc5517115be1fee6ea44fc7b
     uri: 
@@ -106,14 +106,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q3_K_S.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llama configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q3_K_S.bin
     sha256: 8c384533a79df8c02e3b5ae4c9aa7ce5f748f68f3f97f26bbe43e0ae11a78b80
     uri: 
@@ -140,14 +140,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_0.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llama configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_0.bin
     sha256: 5af80fb2dfe73dfb5ad7dd5c3d119950c3fe3b6b491a113e687ce72ae1579d7e
     uri: 
@@ -174,14 +174,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_1.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llama configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_1.bin
     sha256: b8ffb0d7b5542ee8350b5ef97cd60b32653ec0097023100cb1465702f9aa40fb
     uri: 
@@ -208,14 +208,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_K_M.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llama configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_K_M.bin
     sha256: 989f238571efe1719e9043d3c2e640bbc9a162e811a2e3f4ff15adae7a4f905b
     uri: 
@@ -242,14 +242,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_K_S.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llama configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_K_S.bin
     sha256: 34b89b83602836daa1c09dd32ff23831f04396a2742b48a15af24243e357c786
     uri: 
@@ -276,14 +276,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_0.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llama configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_0.bin
     sha256: 7a431e44c800f9777c4d4172eaa3a0db181cb0aca113cb47813577c12e833a92
     uri: 
@@ -310,14 +310,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_1.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llama configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_1.bin
     sha256: 272f097c1df3a056d1d3565dd1aa47bcb664e76d6b3d6140ca0dbc684a173c14
     uri: 
@@ -344,14 +344,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_K_M.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llama configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_K_M.bin
     sha256: 3c925a952b0bb733cf9064381af9acbfe764a0f9971e5413c64885a5f4bfddfb
     uri: 
@@ -378,14 +378,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_K_S.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llama configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_K_S.bin
     sha256: 7fef7358209b0480e1ddec363affcf84a81f8607a5cb49317c7939043717052e
     uri: 
@@ -412,14 +412,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q6_K.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llama configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q6_K.bin
     sha256: 39bd53ce9681ad787f213648858ff4c2fe4366f8354e42bed5156188ee5af593
     uri: 
@@ -446,14 +446,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q8_0.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llama configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q8_0.bin
     sha256: fff47651cf19c9c843fe65555a5b0cbc631d018311ac10f71a7b6a0c670b03ec
     uri: 
@@ -480,14 +480,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q2_K.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFallback configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q2_K.bin
     sha256: bdcf2773024b038bed1a645aa9a7c681a5a2ba6bdbaf458642c730d2008af32a
     uri: 
@@ -514,14 +514,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q3_K_L.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFallback configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q3_K_L.bin
     sha256: 143f71b74f43c666a6e27eca54fd5d24153faeb1575758ef7ea8934dd09961dc
     uri: 
@@ -548,14 +548,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q3_K_M.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFallback configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q3_K_M.bin
     sha256: 3c1075269c9dbe45489d20eb99c4c451c2903a15cc5517115be1fee6ea44fc7b
     uri: 
@@ -582,14 +582,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q3_K_S.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFallback configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q3_K_S.bin
     sha256: 8c384533a79df8c02e3b5ae4c9aa7ce5f748f68f3f97f26bbe43e0ae11a78b80
     uri: 
@@ -616,14 +616,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_0.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFallback configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_0.bin
     sha256: 5af80fb2dfe73dfb5ad7dd5c3d119950c3fe3b6b491a113e687ce72ae1579d7e
     uri: 
@@ -650,14 +650,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_1.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFallback configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_1.bin
     sha256: b8ffb0d7b5542ee8350b5ef97cd60b32653ec0097023100cb1465702f9aa40fb
     uri: 
@@ -684,14 +684,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_K_M.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFallback configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_K_M.bin
     sha256: 989f238571efe1719e9043d3c2e640bbc9a162e811a2e3f4ff15adae7a4f905b
     uri: 
@@ -718,14 +718,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_K_S.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFallback configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_K_S.bin
     sha256: 34b89b83602836daa1c09dd32ff23831f04396a2742b48a15af24243e357c786
     uri: 
@@ -752,14 +752,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_0.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFallback configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_0.bin
     sha256: 7a431e44c800f9777c4d4172eaa3a0db181cb0aca113cb47813577c12e833a92
     uri: 
@@ -786,14 +786,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_1.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFallback configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_1.bin
     sha256: 272f097c1df3a056d1d3565dd1aa47bcb664e76d6b3d6140ca0dbc684a173c14
     uri: 
@@ -820,14 +820,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_K_M.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFallback configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_K_M.bin
     sha256: 3c925a952b0bb733cf9064381af9acbfe764a0f9971e5413c64885a5f4bfddfb
     uri: 
@@ -854,14 +854,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_K_S.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFallback configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_K_S.bin
     sha256: 7fef7358209b0480e1ddec363affcf84a81f8607a5cb49317c7939043717052e
     uri: 
@@ -888,14 +888,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q6_K.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFallback configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q6_K.bin
     sha256: 39bd53ce9681ad787f213648858ff4c2fe4366f8354e42bed5156188ee5af593
     uri: 
@@ -922,14 +922,14 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q8_0.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFallback configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q8_0.bin
     sha256: fff47651cf19c9c843fe65555a5b0cbc631d018311ac10f71a7b6a0c670b03ec
     uri: 
@@ -956,15 +956,15 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q2_K.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q2_K.bin
     sha256: bdcf2773024b038bed1a645aa9a7c681a5a2ba6bdbaf458642c730d2008af32a
     uri: 
@@ -991,15 +991,15 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q3_K_L.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q3_K_L.bin
     sha256: 143f71b74f43c666a6e27eca54fd5d24153faeb1575758ef7ea8934dd09961dc
     uri: 
@@ -1026,15 +1026,15 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q3_K_M.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q3_K_M.bin
     sha256: 3c1075269c9dbe45489d20eb99c4c451c2903a15cc5517115be1fee6ea44fc7b
     uri: 
@@ -1061,15 +1061,15 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q3_K_S.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q3_K_S.bin
     sha256: 8c384533a79df8c02e3b5ae4c9aa7ce5f748f68f3f97f26bbe43e0ae11a78b80
     uri: 
@@ -1096,15 +1096,15 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_0.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_0.bin
     sha256: 5af80fb2dfe73dfb5ad7dd5c3d119950c3fe3b6b491a113e687ce72ae1579d7e
     uri: 
@@ -1131,15 +1131,15 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_1.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_1.bin
     sha256: b8ffb0d7b5542ee8350b5ef97cd60b32653ec0097023100cb1465702f9aa40fb
     uri: 
@@ -1166,15 +1166,15 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_K_M.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_K_M.bin
     sha256: 989f238571efe1719e9043d3c2e640bbc9a162e811a2e3f4ff15adae7a4f905b
     uri: 
@@ -1201,15 +1201,15 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_K_S.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q4_K_S.bin
     sha256: 34b89b83602836daa1c09dd32ff23831f04396a2742b48a15af24243e357c786
     uri: 
@@ -1236,15 +1236,15 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_0.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_0.bin
     sha256: 7a431e44c800f9777c4d4172eaa3a0db181cb0aca113cb47813577c12e833a92
     uri: 
@@ -1271,15 +1271,15 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_1.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_1.bin
     sha256: 272f097c1df3a056d1d3565dd1aa47bcb664e76d6b3d6140ca0dbc684a173c14
     uri: 
@@ -1306,15 +1306,15 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_K_M.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_K_M.bin
     sha256: 3c925a952b0bb733cf9064381af9acbfe764a0f9971e5413c64885a5f4bfddfb
     uri: 
@@ -1341,15 +1341,15 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_K_S.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q5_K_S.bin
     sha256: 7fef7358209b0480e1ddec363affcf84a81f8607a5cb49317c7939043717052e
     uri: 
@@ -1376,15 +1376,15 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q6_K.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q6_K.bin
     sha256: 39bd53ce9681ad787f213648858ff4c2fe4366f8354e42bed5156188ee5af593
     uri: 
@@ -1411,15 +1411,15 @@
     parameters:
       model: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q8_0.bin
     template:
-      chat: LimaRP-Alpaca
-      completion: LimaRP-Alpaca
+      chat: limarp-alpaca
+      completion: limarp-alpaca
   description: TheBloke/llama-2-13B-chat-limarp-v2-merged-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: LimaRP-Alpaca.tmpl
+  - filename: limarp-alpaca.tmpl
     sha256: 73dce1fa27c01bd740c6834fd2e6c18fcd60192c50fb95740acb093662b656f8
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/LimaRP-Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/limarp-alpaca.tmpl
   - filename: llama-2-13b-chat-limarp-v2-merged.ggmlv3.Q8_0.bin
     sha256: fff47651cf19c9c843fe65555a5b0cbc631d018311ac10f71a7b6a0c670b03ec
     uri: 

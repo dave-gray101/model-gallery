@@ -4,14 +4,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q2_K.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q2_K.gguf
     sha256: 225c041d5a55943210943d872bb4aeaf35fa9d3cf990f75e3dac532c0f2ab02e
     uri: 
@@ -36,14 +36,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q3_K_L.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q3_K_L.gguf
     sha256: e77c774af5549b74a89d69becfcda5fae73a561b12e198e1af05e944e3a2e60e
     uri: 
@@ -68,14 +68,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q3_K_M.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q3_K_M.gguf
     sha256: 754b18273736f31dad5147ef5854464484d58ced8cd2aac3b5a0c9a49102af6b
     uri: 
@@ -100,14 +100,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q3_K_S.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q3_K_S.gguf
     sha256: eecaf677bf198d9f75e540f2e6f615e95528be795ab6a608dd16741d0cee4a22
     uri: 
@@ -132,14 +132,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q4_0.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q4_0.gguf
     sha256: 22a6a2d86ce87ed050964eef86c453786dc740e8451d4091394c280686c3cc0d
     uri: 
@@ -164,14 +164,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q4_K_M.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q4_K_M.gguf
     sha256: 28af9a0640c0a72b1e02ff3b2ff362c614fe3b85021af2596b9f6db6af6272ca
     uri: 
@@ -196,14 +196,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q4_K_S.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q4_K_S.gguf
     sha256: 768d5702e7aec53442ded3e3a8820134fe840a8d515c9a50d703392aeeba9f02
     uri: 
@@ -228,14 +228,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q5_0.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q5_0.gguf
     sha256: e47da93b5649a9e9da2749e628976cd7685ecee10f7640e2b5faadf25efb4ceb
     uri: 
@@ -260,14 +260,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q5_K_M.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q5_K_M.gguf
     sha256: 8a6084b22fe23784cb2468b769a1deacbe71b940784746089caf644d260d1184
     uri: 
@@ -292,14 +292,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q5_K_S.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q5_K_S.gguf
     sha256: 0c3804a9ab5b8731d7efbc09d463b97c1e7885bc58930d9d7aaa257173d2f3fb
     uri: 
@@ -324,14 +324,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q6_K.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q6_K.gguf
     sha256: 8a90a6f32c94ef411383105cacf1233995c095497d9c251cb54c7c34af95f18d
     uri: 
@@ -356,14 +356,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q8_0.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llama configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q8_0.gguf
     sha256: cb08ddea3c4ee6b886a6892e51baede24ece0b3828305f78838a098c0e4f369c
     uri: 
@@ -388,14 +388,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q2_K.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q2_K.gguf
     sha256: 225c041d5a55943210943d872bb4aeaf35fa9d3cf990f75e3dac532c0f2ab02e
     uri: 
@@ -420,14 +420,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q3_K_L.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q3_K_L.gguf
     sha256: e77c774af5549b74a89d69becfcda5fae73a561b12e198e1af05e944e3a2e60e
     uri: 
@@ -452,14 +452,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q3_K_M.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q3_K_M.gguf
     sha256: 754b18273736f31dad5147ef5854464484d58ced8cd2aac3b5a0c9a49102af6b
     uri: 
@@ -484,14 +484,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q3_K_S.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q3_K_S.gguf
     sha256: eecaf677bf198d9f75e540f2e6f615e95528be795ab6a608dd16741d0cee4a22
     uri: 
@@ -516,14 +516,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q4_0.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q4_0.gguf
     sha256: 22a6a2d86ce87ed050964eef86c453786dc740e8451d4091394c280686c3cc0d
     uri: 
@@ -548,14 +548,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q4_K_M.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q4_K_M.gguf
     sha256: 28af9a0640c0a72b1e02ff3b2ff362c614fe3b85021af2596b9f6db6af6272ca
     uri: 
@@ -580,14 +580,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q4_K_S.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q4_K_S.gguf
     sha256: 768d5702e7aec53442ded3e3a8820134fe840a8d515c9a50d703392aeeba9f02
     uri: 
@@ -612,14 +612,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q5_0.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q5_0.gguf
     sha256: e47da93b5649a9e9da2749e628976cd7685ecee10f7640e2b5faadf25efb4ceb
     uri: 
@@ -644,14 +644,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q5_K_M.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q5_K_M.gguf
     sha256: 8a6084b22fe23784cb2468b769a1deacbe71b940784746089caf644d260d1184
     uri: 
@@ -676,14 +676,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q5_K_S.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q5_K_S.gguf
     sha256: 0c3804a9ab5b8731d7efbc09d463b97c1e7885bc58930d9d7aaa257173d2f3fb
     uri: 
@@ -708,14 +708,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q6_K.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q6_K.gguf
     sha256: 8a90a6f32c94ef411383105cacf1233995c095497d9c251cb54c7c34af95f18d
     uri: 
@@ -740,14 +740,14 @@
     parameters:
       model: everythinglm-13b-v3-16k.Q8_0.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/EverythingLM-13B-V3-16K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: everythinglm-13b-v3-16k.Q8_0.gguf
     sha256: cb08ddea3c4ee6b886a6892e51baede24ece0b3828305f78838a098c0e4f369c
     uri: 

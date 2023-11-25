@@ -4,14 +4,14 @@
     parameters:
       model: model_007-70b.ggmlv3.Q2_K.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/model_007-70B-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: model_007-70b.ggmlv3.Q2_K.bin
     sha256: 446ef49071ef793c4dcc8790ab33125d159c5d2ea14619ae9c2bb9f824dd1517
     uri: 
@@ -36,14 +36,14 @@
     parameters:
       model: model_007-70b.ggmlv3.Q3_K_L.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/model_007-70B-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: model_007-70b.ggmlv3.Q3_K_L.bin
     sha256: 050e6d7480656fc15c3199d7cf713c434f0d5cdbb90309e1e6441fe074ae990a
     uri: 
@@ -68,14 +68,14 @@
     parameters:
       model: model_007-70b.ggmlv3.Q3_K_M.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/model_007-70B-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: model_007-70b.ggmlv3.Q3_K_M.bin
     sha256: 691a028a8d754f5ef378af0a2bea0063d8d9dc08b4c585c233edb464c836fa92
     uri: 
@@ -100,14 +100,14 @@
     parameters:
       model: model_007-70b.ggmlv3.Q3_K_S.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/model_007-70B-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: model_007-70b.ggmlv3.Q3_K_S.bin
     sha256: a94bd5087a2e61284c9869bedf191704826ac4b132ee858be01fcb09de0192b5
     uri: 
@@ -132,14 +132,14 @@
     parameters:
       model: model_007-70b.ggmlv3.Q4_0.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/model_007-70B-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: model_007-70b.ggmlv3.Q4_0.bin
     sha256: f22dad13157e30f6d22600d2f3e122e4b47e2ce5fefa41576113d9a6180a5cd2
     uri: 
@@ -164,14 +164,14 @@
     parameters:
       model: model_007-70b.ggmlv3.Q4_1.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/model_007-70B-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: model_007-70b.ggmlv3.Q4_1.bin
     sha256: 1cb896426eec6e0a63496f03c1cb2f016901ab48304d34bc0d3985b64c161648
     uri: 
@@ -196,14 +196,14 @@
     parameters:
       model: model_007-70b.ggmlv3.Q4_K_M.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/model_007-70B-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: model_007-70b.ggmlv3.Q4_K_M.bin
     sha256: c9f9d4e4e0f41fa68bee3207e50bf54a2c275d2af8b5b6f73b3d6deef25bb33f
     uri: 
@@ -228,14 +228,14 @@
     parameters:
       model: model_007-70b.ggmlv3.Q4_K_S.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/model_007-70B-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: model_007-70b.ggmlv3.Q4_K_S.bin
     sha256: 5e35a7bb0e74027753e1e8f938a49ff80b6123a87c84e0f4b66f64408fca9038
     uri: 
@@ -260,14 +260,14 @@
     parameters:
       model: model_007-70b.ggmlv3.Q5_0.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/model_007-70B-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: model_007-70b.ggmlv3.Q5_0.bin
     sha256: 78ba07412e9e61ac611f199a5c65452cfe938e8b8cf067d01a01e8a564f6775a
     uri: 
@@ -292,14 +292,14 @@
     parameters:
       model: model_007-70b.ggmlv3.Q5_K_M.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/model_007-70B-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: model_007-70b.ggmlv3.Q5_K_M.bin
     sha256: 8b2b00ccb1e937e95747980570923192074dca0a0f0101cae311b8a64d3d7375
     uri: 
@@ -324,14 +324,14 @@
     parameters:
       model: model_007-70b.ggmlv3.Q5_K_S.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/model_007-70B-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: model_007-70b.ggmlv3.Q5_K_S.bin
     sha256: 15ca2152a42ec586cc2316fa5f992bce586798db28aac7ab2e17c4de16af921a
     uri: 
@@ -356,14 +356,14 @@
     parameters:
       model: model_007-70b.ggmlv3.Q2_K.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/model_007-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: model_007-70b.ggmlv3.Q2_K.bin
     sha256: 446ef49071ef793c4dcc8790ab33125d159c5d2ea14619ae9c2bb9f824dd1517
     uri: 
@@ -388,14 +388,14 @@
     parameters:
       model: model_007-70b.ggmlv3.Q3_K_L.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/model_007-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: model_007-70b.ggmlv3.Q3_K_L.bin
     sha256: 050e6d7480656fc15c3199d7cf713c434f0d5cdbb90309e1e6441fe074ae990a
     uri: 
@@ -420,14 +420,14 @@
     parameters:
       model: model_007-70b.ggmlv3.Q3_K_M.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/model_007-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: model_007-70b.ggmlv3.Q3_K_M.bin
     sha256: 691a028a8d754f5ef378af0a2bea0063d8d9dc08b4c585c233edb464c836fa92
     uri: 
@@ -452,14 +452,14 @@
     parameters:
       model: model_007-70b.ggmlv3.Q3_K_S.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/model_007-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: model_007-70b.ggmlv3.Q3_K_S.bin
     sha256: a94bd5087a2e61284c9869bedf191704826ac4b132ee858be01fcb09de0192b5
     uri: 
@@ -484,14 +484,14 @@
     parameters:
       model: model_007-70b.ggmlv3.Q4_0.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/model_007-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: model_007-70b.ggmlv3.Q4_0.bin
     sha256: f22dad13157e30f6d22600d2f3e122e4b47e2ce5fefa41576113d9a6180a5cd2
     uri: 
@@ -516,14 +516,14 @@
     parameters:
       model: model_007-70b.ggmlv3.Q4_1.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/model_007-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: model_007-70b.ggmlv3.Q4_1.bin
     sha256: 1cb896426eec6e0a63496f03c1cb2f016901ab48304d34bc0d3985b64c161648
     uri: 
@@ -548,14 +548,14 @@
     parameters:
       model: model_007-70b.ggmlv3.Q4_K_M.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/model_007-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: model_007-70b.ggmlv3.Q4_K_M.bin
     sha256: c9f9d4e4e0f41fa68bee3207e50bf54a2c275d2af8b5b6f73b3d6deef25bb33f
     uri: 
@@ -580,14 +580,14 @@
     parameters:
       model: model_007-70b.ggmlv3.Q4_K_S.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/model_007-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: model_007-70b.ggmlv3.Q4_K_S.bin
     sha256: 5e35a7bb0e74027753e1e8f938a49ff80b6123a87c84e0f4b66f64408fca9038
     uri: 
@@ -612,14 +612,14 @@
     parameters:
       model: model_007-70b.ggmlv3.Q5_0.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/model_007-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: model_007-70b.ggmlv3.Q5_0.bin
     sha256: 78ba07412e9e61ac611f199a5c65452cfe938e8b8cf067d01a01e8a564f6775a
     uri: 
@@ -644,14 +644,14 @@
     parameters:
       model: model_007-70b.ggmlv3.Q5_K_M.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/model_007-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: model_007-70b.ggmlv3.Q5_K_M.bin
     sha256: 8b2b00ccb1e937e95747980570923192074dca0a0f0101cae311b8a64d3d7375
     uri: 
@@ -676,14 +676,14 @@
     parameters:
       model: model_007-70b.ggmlv3.Q5_K_S.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/model_007-70B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: model_007-70b.ggmlv3.Q5_K_S.bin
     sha256: 15ca2152a42ec586cc2316fa5f992bce586798db28aac7ab2e17c4de16af921a
     uri: 

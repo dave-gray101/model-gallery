@@ -4,14 +4,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q2_K.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q2_K.bin
     sha256: 7d7b3a4ac3030e3118b904354fa0f96173eca5f3cf40099e6b6574cabecf7f7f
     uri: 
@@ -34,14 +34,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q3_K_L.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q3_K_L.bin
     sha256: 220093820e02d05a476a3b1fbb4887dfb704d0953efe4bf0a087b5133ca41661
     uri: 
@@ -64,14 +64,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q3_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q3_K_M.bin
     sha256: 0de2ee0c8db46eba22d8c8fa214823bbb6551e15b9460757589b93c817cf88be
     uri: 
@@ -94,14 +94,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q3_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q3_K_S.bin
     sha256: 007bc08b6aeba8424c8357d87f55c5c292e47cc024e8a3388a870bced348d19a
     uri: 
@@ -124,14 +124,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q4_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q4_0.bin
     sha256: 4e0918e83c57e3da11463018a321c72fc8d29a2b4c074de62d386e4cc7309bdb
     uri: 
@@ -154,14 +154,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q4_1.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q4_1.bin
     sha256: 77c6a7b8a0ffdb350ff3c4220b312de2508e987d727d20f17b87251ff19f3404
     uri: 
@@ -184,14 +184,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q4_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q4_K_M.bin
     sha256: f61bf26c383958551463fc6f4ffcead3f08d6799637ed7517fea4ab6c14ff071
     uri: 
@@ -214,14 +214,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q4_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q4_K_S.bin
     sha256: 60be7e81070841c7ed283320965b907b2f99d9d062d0d165a7009260bf5a89d4
     uri: 
@@ -244,14 +244,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q5_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q5_0.bin
     sha256: a94ec5a48fea3d28f675a934142ebc1a305ff280750b06c662f3d31fa9721393
     uri: 
@@ -274,14 +274,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q5_1.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q5_1.bin
     sha256: 7d9d24069daa53370f232607ae8207cfbb710cb3a8f6bbc6c17135b754d58798
     uri: 
@@ -304,14 +304,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q5_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q5_K_M.bin
     sha256: 020dbd4bc8c0c74669132549c82f98708518acb3329e8e150c6027999d4b604b
     uri: 
@@ -334,14 +334,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q5_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q5_K_S.bin
     sha256: d4b1b33f5cd1e1d45c0ef771d44b790a615875076ba92b81248d545b5ef0b84b
     uri: 
@@ -364,14 +364,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q6_K.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q6_K.bin
     sha256: 0cb832575df127811f204692f89b68872b7151db392c77c250a23de2d7c30e90
     uri: 
@@ -394,14 +394,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q8_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q8_0.bin
     sha256: 0ceda7e919fd7661a694c3ee57f23c503834728a39f310437e0d6b936cd917cd
     uri: 
@@ -424,14 +424,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q2_K.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q2_K.bin
     sha256: 7d7b3a4ac3030e3118b904354fa0f96173eca5f3cf40099e6b6574cabecf7f7f
     uri: 
@@ -454,14 +454,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q3_K_L.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q3_K_L.bin
     sha256: 220093820e02d05a476a3b1fbb4887dfb704d0953efe4bf0a087b5133ca41661
     uri: 
@@ -484,14 +484,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q3_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q3_K_M.bin
     sha256: 0de2ee0c8db46eba22d8c8fa214823bbb6551e15b9460757589b93c817cf88be
     uri: 
@@ -514,14 +514,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q3_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q3_K_S.bin
     sha256: 007bc08b6aeba8424c8357d87f55c5c292e47cc024e8a3388a870bced348d19a
     uri: 
@@ -544,14 +544,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q4_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q4_0.bin
     sha256: 4e0918e83c57e3da11463018a321c72fc8d29a2b4c074de62d386e4cc7309bdb
     uri: 
@@ -574,14 +574,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q4_1.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q4_1.bin
     sha256: 77c6a7b8a0ffdb350ff3c4220b312de2508e987d727d20f17b87251ff19f3404
     uri: 
@@ -604,14 +604,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q4_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q4_K_M.bin
     sha256: f61bf26c383958551463fc6f4ffcead3f08d6799637ed7517fea4ab6c14ff071
     uri: 
@@ -634,14 +634,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q4_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q4_K_S.bin
     sha256: 60be7e81070841c7ed283320965b907b2f99d9d062d0d165a7009260bf5a89d4
     uri: 
@@ -664,14 +664,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q5_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q5_0.bin
     sha256: a94ec5a48fea3d28f675a934142ebc1a305ff280750b06c662f3d31fa9721393
     uri: 
@@ -694,14 +694,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q5_1.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q5_1.bin
     sha256: 7d9d24069daa53370f232607ae8207cfbb710cb3a8f6bbc6c17135b754d58798
     uri: 
@@ -724,14 +724,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q5_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q5_K_M.bin
     sha256: 020dbd4bc8c0c74669132549c82f98708518acb3329e8e150c6027999d4b604b
     uri: 
@@ -754,14 +754,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q5_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q5_K_S.bin
     sha256: d4b1b33f5cd1e1d45c0ef771d44b790a615875076ba92b81248d545b5ef0b84b
     uri: 
@@ -784,14 +784,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q6_K.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q6_K.bin
     sha256: 0cb832575df127811f204692f89b68872b7151db392c77c250a23de2d7c30e90
     uri: 
@@ -814,14 +814,14 @@
     parameters:
       model: mythomax-kimiko-mix.ggmlv3.Q8_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/MythoMax-Kimiko-Mix-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythomax-kimiko-mix.ggmlv3.Q8_0.bin
     sha256: 0ceda7e919fd7661a694c3ee57f23c503834728a39f310437e0d6b936cd917cd
     uri: 

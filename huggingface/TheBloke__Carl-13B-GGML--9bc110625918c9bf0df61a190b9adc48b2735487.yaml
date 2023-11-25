@@ -4,14 +4,14 @@
     parameters:
       model: carl-13b.ggmlv3.q2_K.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llama configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q2_K.bin
     sha256: e31d6f545ba06e66702ffaa97f91d6589a9a9373cde887c5dfabff30e8daf5e8
     uri: 
@@ -37,14 +37,14 @@
     parameters:
       model: carl-13b.ggmlv3.q3_K_L.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llama configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q3_K_L.bin
     sha256: ed6e04f5b77b75473feb6b056a984411c49fa181f8a577d3f43685a00afe48b3
     uri: 
@@ -70,14 +70,14 @@
     parameters:
       model: carl-13b.ggmlv3.q3_K_M.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llama configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q3_K_M.bin
     sha256: 7c34c391ad31561c98daaf350cc17c2c04019e9af35453805e4dba2ed29e6c94
     uri: 
@@ -103,14 +103,14 @@
     parameters:
       model: carl-13b.ggmlv3.q3_K_S.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llama configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q3_K_S.bin
     sha256: e0dcb389734e1be0e91ed7f200a7f67e3c0ce35970178feba539b9ceb80df687
     uri: 
@@ -136,14 +136,14 @@
     parameters:
       model: carl-13b.ggmlv3.q4_0.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llama configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q4_0.bin
     sha256: 9dbf7354dd708324f111221547954373d8a950bd8384019b34b3fd0cbd3623c4
     uri: 
@@ -169,14 +169,14 @@
     parameters:
       model: carl-13b.ggmlv3.q4_1.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llama configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q4_1.bin
     sha256: 48fbd84019ac33ef4576207830b8aedf95a99edc179b3b66d83aa8a6394f94c2
     uri: 
@@ -202,14 +202,14 @@
     parameters:
       model: carl-13b.ggmlv3.q4_K_M.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llama configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q4_K_M.bin
     sha256: ec261474804032fef2e0190600f3cc7ef9203f55c42ada8673a44b623c1cc57f
     uri: 
@@ -235,14 +235,14 @@
     parameters:
       model: carl-13b.ggmlv3.q4_K_S.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llama configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q4_K_S.bin
     sha256: 805c2ae30a25708d46519ee111f85641624948f11dcbbf2defa49726d8f39019
     uri: 
@@ -268,14 +268,14 @@
     parameters:
       model: carl-13b.ggmlv3.q5_0.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llama configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q5_0.bin
     sha256: 8136e1514c24866de828919c8a9cdf32c1eb1f58911741480741e7af0b484b08
     uri: 
@@ -301,14 +301,14 @@
     parameters:
       model: carl-13b.ggmlv3.q5_1.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llama configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q5_1.bin
     sha256: 33d5c1d647999d1373a9fbe7f217af5f02b357c769337b707af3ae313e69023b
     uri: 
@@ -334,14 +334,14 @@
     parameters:
       model: carl-13b.ggmlv3.q5_K_M.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llama configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q5_K_M.bin
     sha256: 235c3066c151decd4863a1a4fa29491baa424558bdf98195364330751f1d4a2c
     uri: 
@@ -367,14 +367,14 @@
     parameters:
       model: carl-13b.ggmlv3.q5_K_S.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llama configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q5_K_S.bin
     sha256: 984a8592f595d850d93f05ff36a4f49f05d35db277ce61dbbb9477f00ca69ade
     uri: 
@@ -400,14 +400,14 @@
     parameters:
       model: carl-13b.ggmlv3.q6_K.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llama configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q6_K.bin
     sha256: afc0c1810de78ce38caa17836c17ab231f9fb6f9d7298faac13878bd4f921193
     uri: 
@@ -433,14 +433,14 @@
     parameters:
       model: carl-13b.ggmlv3.q8_0.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llama configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q8_0.bin
     sha256: 33953dca83051b45d2d333d2a14f7512000dad02be59d7378eb7ebd19ddb2d40
     uri: 
@@ -466,14 +466,14 @@
     parameters:
       model: carl-13b.ggmlv3.q2_K.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q2_K.bin
     sha256: e31d6f545ba06e66702ffaa97f91d6589a9a9373cde887c5dfabff30e8daf5e8
     uri: 
@@ -499,14 +499,14 @@
     parameters:
       model: carl-13b.ggmlv3.q3_K_L.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q3_K_L.bin
     sha256: ed6e04f5b77b75473feb6b056a984411c49fa181f8a577d3f43685a00afe48b3
     uri: 
@@ -532,14 +532,14 @@
     parameters:
       model: carl-13b.ggmlv3.q3_K_M.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q3_K_M.bin
     sha256: 7c34c391ad31561c98daaf350cc17c2c04019e9af35453805e4dba2ed29e6c94
     uri: 
@@ -565,14 +565,14 @@
     parameters:
       model: carl-13b.ggmlv3.q3_K_S.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q3_K_S.bin
     sha256: e0dcb389734e1be0e91ed7f200a7f67e3c0ce35970178feba539b9ceb80df687
     uri: 
@@ -598,14 +598,14 @@
     parameters:
       model: carl-13b.ggmlv3.q4_0.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q4_0.bin
     sha256: 9dbf7354dd708324f111221547954373d8a950bd8384019b34b3fd0cbd3623c4
     uri: 
@@ -631,14 +631,14 @@
     parameters:
       model: carl-13b.ggmlv3.q4_1.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q4_1.bin
     sha256: 48fbd84019ac33ef4576207830b8aedf95a99edc179b3b66d83aa8a6394f94c2
     uri: 
@@ -664,14 +664,14 @@
     parameters:
       model: carl-13b.ggmlv3.q4_K_M.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q4_K_M.bin
     sha256: ec261474804032fef2e0190600f3cc7ef9203f55c42ada8673a44b623c1cc57f
     uri: 
@@ -697,14 +697,14 @@
     parameters:
       model: carl-13b.ggmlv3.q4_K_S.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q4_K_S.bin
     sha256: 805c2ae30a25708d46519ee111f85641624948f11dcbbf2defa49726d8f39019
     uri: 
@@ -730,14 +730,14 @@
     parameters:
       model: carl-13b.ggmlv3.q5_0.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q5_0.bin
     sha256: 8136e1514c24866de828919c8a9cdf32c1eb1f58911741480741e7af0b484b08
     uri: 
@@ -763,14 +763,14 @@
     parameters:
       model: carl-13b.ggmlv3.q5_1.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q5_1.bin
     sha256: 33d5c1d647999d1373a9fbe7f217af5f02b357c769337b707af3ae313e69023b
     uri: 
@@ -796,14 +796,14 @@
     parameters:
       model: carl-13b.ggmlv3.q5_K_M.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q5_K_M.bin
     sha256: 235c3066c151decd4863a1a4fa29491baa424558bdf98195364330751f1d4a2c
     uri: 
@@ -829,14 +829,14 @@
     parameters:
       model: carl-13b.ggmlv3.q5_K_S.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q5_K_S.bin
     sha256: 984a8592f595d850d93f05ff36a4f49f05d35db277ce61dbbb9477f00ca69ade
     uri: 
@@ -862,14 +862,14 @@
     parameters:
       model: carl-13b.ggmlv3.q6_K.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q6_K.bin
     sha256: afc0c1810de78ce38caa17836c17ab231f9fb6f9d7298faac13878bd4f921193
     uri: 
@@ -895,14 +895,14 @@
     parameters:
       model: carl-13b.ggmlv3.q8_0.bin
     template:
-      chat: Carl
-      completion: Carl
+      chat: carl
+      completion: carl
   description: TheBloke/Carl-13B-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Carl.tmpl
+  - filename: carl.tmpl
     sha256: 5898924e811cb006db1a5f6163d9d748bd9f06ee54f637092e793b63e063c3c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Carl.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/carl.tmpl
   - filename: carl-13b.ggmlv3.q8_0.bin
     sha256: 33953dca83051b45d2d333d2a14f7512000dad02be59d7378eb7ebd19ddb2d40
     uri: 

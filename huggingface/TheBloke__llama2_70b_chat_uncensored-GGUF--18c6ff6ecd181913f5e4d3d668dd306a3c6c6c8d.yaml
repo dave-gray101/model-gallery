@@ -4,14 +4,14 @@
     parameters:
       model: llama2_70b_chat_uncensored.Q2_K.gguf
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/llama2_70b_chat_uncensored-GGUF - llama configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: llama2_70b_chat_uncensored.Q2_K.gguf
     sha256: 8e4685c6eba530c1994a049bdb2bcecded908508f76717ca2964d2fea07f2541
     uri: 
@@ -40,14 +40,14 @@
     parameters:
       model: llama2_70b_chat_uncensored.Q3_K_L.gguf
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/llama2_70b_chat_uncensored-GGUF - llama configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: llama2_70b_chat_uncensored.Q3_K_L.gguf
     sha256: 57426bc9e397768785dd12a754ddf5410ef57cd45fde4444aad4fdd355397f47
     uri: 
@@ -77,14 +77,14 @@
     parameters:
       model: llama2_70b_chat_uncensored.Q3_K_M.gguf
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/llama2_70b_chat_uncensored-GGUF - llama configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: llama2_70b_chat_uncensored.Q3_K_M.gguf
     sha256: 1f95966868192199ef7563a864a5cab8da18f64f3859a568916a428301c481eb
     uri: 
@@ -114,14 +114,14 @@
     parameters:
       model: llama2_70b_chat_uncensored.Q3_K_S.gguf
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/llama2_70b_chat_uncensored-GGUF - llama configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: llama2_70b_chat_uncensored.Q3_K_S.gguf
     sha256: fa291d10033289d8ed71fcf7bcb5de71f3b43df535918b5f23bfa9a3c17cbb1d
     uri: 
@@ -151,14 +151,14 @@
     parameters:
       model: llama2_70b_chat_uncensored.Q4_0.gguf
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/llama2_70b_chat_uncensored-GGUF - llama configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: llama2_70b_chat_uncensored.Q4_0.gguf
     sha256: a036c03482690b328108286773af53f0a53e687f6fc79bb5c489d4b0abe83b8f
     uri: 
@@ -187,14 +187,14 @@
     parameters:
       model: llama2_70b_chat_uncensored.Q4_K_M.gguf
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/llama2_70b_chat_uncensored-GGUF - llama configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: llama2_70b_chat_uncensored.Q4_K_M.gguf
     sha256: 818987a6e6792e7ca7cf4e4a3238f051d12fd645f9683957929b03a40f67f52b
     uri: 
@@ -224,14 +224,14 @@
     parameters:
       model: llama2_70b_chat_uncensored.Q4_K_S.gguf
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/llama2_70b_chat_uncensored-GGUF - llama configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: llama2_70b_chat_uncensored.Q4_K_S.gguf
     sha256: 3373158db6da49fb45b19c1f2dfbda11899d56ab57776b3baac3bac417b824f3
     uri: 
@@ -261,14 +261,14 @@
     parameters:
       model: llama2_70b_chat_uncensored.Q5_0.gguf
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/llama2_70b_chat_uncensored-GGUF - llama configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: llama2_70b_chat_uncensored.Q5_0.gguf
     sha256: 4d4a8a184ba4ac8793d72d2263af11676a31de0444e9f10d6905558ea0eec4d3
     uri: 
@@ -297,14 +297,14 @@
     parameters:
       model: llama2_70b_chat_uncensored.Q5_K_M.gguf
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/llama2_70b_chat_uncensored-GGUF - llama configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: llama2_70b_chat_uncensored.Q5_K_M.gguf
     sha256: 34ba4bde4bca13b1c2687993e7742f6f314ebbddfcfc277652dce739babcbd4d
     uri: 
@@ -334,14 +334,14 @@
     parameters:
       model: llama2_70b_chat_uncensored.Q5_K_S.gguf
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/llama2_70b_chat_uncensored-GGUF - llama configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: llama2_70b_chat_uncensored.Q5_K_S.gguf
     sha256: 290e33f9a2169d7aa0a2feda68831073249b263ab7b7386e4b805daf57864257
     uri: 
@@ -371,15 +371,15 @@
     parameters:
       model: llama2_70b_chat_uncensored.Q2_K.gguf
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/llama2_70b_chat_uncensored-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: llama2_70b_chat_uncensored.Q2_K.gguf
     sha256: 8e4685c6eba530c1994a049bdb2bcecded908508f76717ca2964d2fea07f2541
     uri: 
@@ -408,15 +408,15 @@
     parameters:
       model: llama2_70b_chat_uncensored.Q3_K_L.gguf
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/llama2_70b_chat_uncensored-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: llama2_70b_chat_uncensored.Q3_K_L.gguf
     sha256: 57426bc9e397768785dd12a754ddf5410ef57cd45fde4444aad4fdd355397f47
     uri: 
@@ -446,15 +446,15 @@
     parameters:
       model: llama2_70b_chat_uncensored.Q3_K_M.gguf
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/llama2_70b_chat_uncensored-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: llama2_70b_chat_uncensored.Q3_K_M.gguf
     sha256: 1f95966868192199ef7563a864a5cab8da18f64f3859a568916a428301c481eb
     uri: 
@@ -484,15 +484,15 @@
     parameters:
       model: llama2_70b_chat_uncensored.Q3_K_S.gguf
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/llama2_70b_chat_uncensored-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: llama2_70b_chat_uncensored.Q3_K_S.gguf
     sha256: fa291d10033289d8ed71fcf7bcb5de71f3b43df535918b5f23bfa9a3c17cbb1d
     uri: 
@@ -522,15 +522,15 @@
     parameters:
       model: llama2_70b_chat_uncensored.Q4_0.gguf
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/llama2_70b_chat_uncensored-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: llama2_70b_chat_uncensored.Q4_0.gguf
     sha256: a036c03482690b328108286773af53f0a53e687f6fc79bb5c489d4b0abe83b8f
     uri: 
@@ -559,15 +559,15 @@
     parameters:
       model: llama2_70b_chat_uncensored.Q4_K_M.gguf
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/llama2_70b_chat_uncensored-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: llama2_70b_chat_uncensored.Q4_K_M.gguf
     sha256: 818987a6e6792e7ca7cf4e4a3238f051d12fd645f9683957929b03a40f67f52b
     uri: 
@@ -597,15 +597,15 @@
     parameters:
       model: llama2_70b_chat_uncensored.Q4_K_S.gguf
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/llama2_70b_chat_uncensored-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: llama2_70b_chat_uncensored.Q4_K_S.gguf
     sha256: 3373158db6da49fb45b19c1f2dfbda11899d56ab57776b3baac3bac417b824f3
     uri: 
@@ -635,15 +635,15 @@
     parameters:
       model: llama2_70b_chat_uncensored.Q5_0.gguf
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/llama2_70b_chat_uncensored-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: llama2_70b_chat_uncensored.Q5_0.gguf
     sha256: 4d4a8a184ba4ac8793d72d2263af11676a31de0444e9f10d6905558ea0eec4d3
     uri: 
@@ -672,15 +672,15 @@
     parameters:
       model: llama2_70b_chat_uncensored.Q5_K_M.gguf
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/llama2_70b_chat_uncensored-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: llama2_70b_chat_uncensored.Q5_K_M.gguf
     sha256: 34ba4bde4bca13b1c2687993e7742f6f314ebbddfcfc277652dce739babcbd4d
     uri: 
@@ -710,15 +710,15 @@
     parameters:
       model: llama2_70b_chat_uncensored.Q5_K_S.gguf
     template:
-      chat: Human-Response
-      completion: Human-Response
+      chat: human-response
+      completion: human-response
   description: TheBloke/llama2_70b_chat_uncensored-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Human-Response.tmpl
+  - filename: human-response.tmpl
     sha256: 406532872e871689f25c4232515fbd6ab93d0f967999796581ee197730d6fd58
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Human-Response.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/human-response.tmpl
   - filename: llama2_70b_chat_uncensored.Q5_K_S.gguf
     sha256: 290e33f9a2169d7aa0a2feda68831073249b263ab7b7386e4b805daf57864257
     uri: 

@@ -8,14 +8,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - mistral configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q2_K.gguf
     sha256: 50c86df3c6e91a59c76222a05cedc69c14ca840a990ed1e38cd8903d627dff16
     uri: 
@@ -43,14 +43,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - mistral configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q3_K_L.gguf
     sha256: f966aa0850a69d27a7faf655aa60360495b220c45ba4c5a20e876f31286dca27
     uri: 
@@ -78,14 +78,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - mistral configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q3_K_M.gguf
     sha256: 12b087d9698bdb31bbb4559ed81183eb35ee6f3eaa4b4855e5d5b83312fab9e2
     uri: 
@@ -113,14 +113,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - mistral configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q3_K_S.gguf
     sha256: ef9b79fb850615e98156f90e96b8e781f443d0492882aa63609c83b287f99a67
     uri: 
@@ -148,14 +148,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - mistral configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q4_0.gguf
     sha256: 8bb6195afc9e29f5f754bd248ac5d5eb73ad8a8f11f5a4a5b93b4e9f2f04ab30
     uri: 
@@ -183,14 +183,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - mistral configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q4_K_M.gguf
     sha256: e65cb272d260e2e88a6ff67e0a1f5ce50d2aad4812e5c83a160140332f37716d
     uri: 
@@ -218,14 +218,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - mistral configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q4_K_S.gguf
     sha256: 95e253f68678d9b1e91f0c8dbb484a1f586216e726bb965760166105d80393d6
     uri: 
@@ -253,14 +253,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - mistral configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q5_0.gguf
     sha256: 48a820a4900b0442b1779a054e7d01d360801abdc067a8c41e8f3f6ccc14d1d0
     uri: 
@@ -288,14 +288,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - mistral configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q5_K_M.gguf
     sha256: 0c3e675f03a75551eb3175fa957afedd08fa9e78de1b3effae7533951b67a002
     uri: 
@@ -323,14 +323,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - mistral configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q5_K_S.gguf
     sha256: ecd1ada75bb09c491f2668adf32900acbcdcc8c2e65a1685a8894d22350572e2
     uri: 
@@ -358,14 +358,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - mistral configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q6_K.gguf
     sha256: 7a262eae2b44302ec9963d62fb64f592290b7cb6168b861075f66b0f0285593c
     uri: 
@@ -393,14 +393,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - mistral configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q8_0.gguf
     sha256: 4cd9e840d48e4a67764154ff033af6fbc9fd6586889c9cda735310c143e7e3a2
     uri: 
@@ -424,14 +424,14 @@
     parameters:
       model: synthia-7b-v1.3-dare-0.85.Q2_K.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q2_K.gguf
     sha256: 50c86df3c6e91a59c76222a05cedc69c14ca840a990ed1e38cd8903d627dff16
     uri: 
@@ -455,14 +455,14 @@
     parameters:
       model: synthia-7b-v1.3-dare-0.85.Q3_K_L.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q3_K_L.gguf
     sha256: f966aa0850a69d27a7faf655aa60360495b220c45ba4c5a20e876f31286dca27
     uri: 
@@ -486,14 +486,14 @@
     parameters:
       model: synthia-7b-v1.3-dare-0.85.Q3_K_M.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q3_K_M.gguf
     sha256: 12b087d9698bdb31bbb4559ed81183eb35ee6f3eaa4b4855e5d5b83312fab9e2
     uri: 
@@ -517,14 +517,14 @@
     parameters:
       model: synthia-7b-v1.3-dare-0.85.Q3_K_S.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q3_K_S.gguf
     sha256: ef9b79fb850615e98156f90e96b8e781f443d0492882aa63609c83b287f99a67
     uri: 
@@ -548,14 +548,14 @@
     parameters:
       model: synthia-7b-v1.3-dare-0.85.Q4_0.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q4_0.gguf
     sha256: 8bb6195afc9e29f5f754bd248ac5d5eb73ad8a8f11f5a4a5b93b4e9f2f04ab30
     uri: 
@@ -579,14 +579,14 @@
     parameters:
       model: synthia-7b-v1.3-dare-0.85.Q4_K_M.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q4_K_M.gguf
     sha256: e65cb272d260e2e88a6ff67e0a1f5ce50d2aad4812e5c83a160140332f37716d
     uri: 
@@ -610,14 +610,14 @@
     parameters:
       model: synthia-7b-v1.3-dare-0.85.Q4_K_S.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q4_K_S.gguf
     sha256: 95e253f68678d9b1e91f0c8dbb484a1f586216e726bb965760166105d80393d6
     uri: 
@@ -641,14 +641,14 @@
     parameters:
       model: synthia-7b-v1.3-dare-0.85.Q5_0.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q5_0.gguf
     sha256: 48a820a4900b0442b1779a054e7d01d360801abdc067a8c41e8f3f6ccc14d1d0
     uri: 
@@ -672,14 +672,14 @@
     parameters:
       model: synthia-7b-v1.3-dare-0.85.Q5_K_M.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q5_K_M.gguf
     sha256: 0c3e675f03a75551eb3175fa957afedd08fa9e78de1b3effae7533951b67a002
     uri: 
@@ -703,14 +703,14 @@
     parameters:
       model: synthia-7b-v1.3-dare-0.85.Q5_K_S.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q5_K_S.gguf
     sha256: ecd1ada75bb09c491f2668adf32900acbcdcc8c2e65a1685a8894d22350572e2
     uri: 
@@ -734,14 +734,14 @@
     parameters:
       model: synthia-7b-v1.3-dare-0.85.Q6_K.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q6_K.gguf
     sha256: 7a262eae2b44302ec9963d62fb64f592290b7cb6168b861075f66b0f0285593c
     uri: 
@@ -765,14 +765,14 @@
     parameters:
       model: synthia-7b-v1.3-dare-0.85.Q8_0.gguf
     template:
-      chat: Synthia
-      completion: Synthia
+      chat: synthia
+      completion: synthia
   description: TheBloke/SynthIA-7B-v1.3-dare-0.85-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Synthia.tmpl
+  - filename: synthia.tmpl
     sha256: 0b98c533bf7fac894b422c4d6f135dc6f5e338e4acdb74378b539d1c787f14e3
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Synthia.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/synthia.tmpl
   - filename: synthia-7b-v1.3-dare-0.85.Q8_0.gguf
     sha256: 4cd9e840d48e4a67764154ff033af6fbc9fd6586889c9cda735310c143e7e3a2
     uri: 

@@ -4,14 +4,14 @@
     parameters:
       model: digital-socrates-13b.Q2_K.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q2_K.gguf
     sha256: d41286c3b262178d3b118b925a7068b943b660944cfb6672eef3c352c61b2906
     uri: 
@@ -37,14 +37,14 @@
     parameters:
       model: digital-socrates-13b.Q3_K_L.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q3_K_L.gguf
     sha256: 9eeb29ac311fc0fc28e801c1ffe8d6817f869edbe1544ef090e14fdcd25290ed
     uri: 
@@ -70,14 +70,14 @@
     parameters:
       model: digital-socrates-13b.Q3_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q3_K_M.gguf
     sha256: 4492be32a0f7fb383b6dee9f75e0973c63518c436f85d1874d18c497aaee7a93
     uri: 
@@ -103,14 +103,14 @@
     parameters:
       model: digital-socrates-13b.Q3_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q3_K_S.gguf
     sha256: 8ada14b9d2b45d782cf2f201ad33530b916d909e2de2fe260ba9e9b7d5631eea
     uri: 
@@ -136,14 +136,14 @@
     parameters:
       model: digital-socrates-13b.Q4_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q4_0.gguf
     sha256: d52ff497377b33d55f41944d754f15c8c45da6cd650a9fbfca3ebdd592716532
     uri: 
@@ -169,14 +169,14 @@
     parameters:
       model: digital-socrates-13b.Q4_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q4_K_M.gguf
     sha256: 92cf20c9d5f6ab7c25551ab7d684dd8facf8ac5782d1da52e945424d47ba52ee
     uri: 
@@ -202,14 +202,14 @@
     parameters:
       model: digital-socrates-13b.Q4_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q4_K_S.gguf
     sha256: 16d36678b973738fe09262a3271f3d5795c61897d1fa1c842df4af29eb5b11f4
     uri: 
@@ -235,14 +235,14 @@
     parameters:
       model: digital-socrates-13b.Q5_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q5_0.gguf
     sha256: 8ed913426ddf9e33eeeea47b2df155c13cf49ead2eb850a106beff67baf77b91
     uri: 
@@ -268,14 +268,14 @@
     parameters:
       model: digital-socrates-13b.Q5_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q5_K_M.gguf
     sha256: b961967de6069766571bc77faf0139a7efc546181959933d1c65259bd2c57c90
     uri: 
@@ -301,14 +301,14 @@
     parameters:
       model: digital-socrates-13b.Q5_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q5_K_S.gguf
     sha256: 15e89d8c89b72068fcf401e4f0c9e8a62f80d5ef1a60ae99d8269a912e19773e
     uri: 
@@ -334,14 +334,14 @@
     parameters:
       model: digital-socrates-13b.Q6_K.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q6_K.gguf
     sha256: 4426f24d8d935be31167ea1e60467b6f561aa931afefdf269b63e7831ee70fd6
     uri: 
@@ -367,14 +367,14 @@
     parameters:
       model: digital-socrates-13b.Q8_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q8_0.gguf
     sha256: ac638063cb8cb161a48cf78f4b725fda147ff13055113adcc8e6f068f0521f12
     uri: 
@@ -400,14 +400,14 @@
     parameters:
       model: digital-socrates-13b.Q2_K.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q2_K.gguf
     sha256: d41286c3b262178d3b118b925a7068b943b660944cfb6672eef3c352c61b2906
     uri: 
@@ -433,14 +433,14 @@
     parameters:
       model: digital-socrates-13b.Q3_K_L.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q3_K_L.gguf
     sha256: 9eeb29ac311fc0fc28e801c1ffe8d6817f869edbe1544ef090e14fdcd25290ed
     uri: 
@@ -466,14 +466,14 @@
     parameters:
       model: digital-socrates-13b.Q3_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q3_K_M.gguf
     sha256: 4492be32a0f7fb383b6dee9f75e0973c63518c436f85d1874d18c497aaee7a93
     uri: 
@@ -499,14 +499,14 @@
     parameters:
       model: digital-socrates-13b.Q3_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q3_K_S.gguf
     sha256: 8ada14b9d2b45d782cf2f201ad33530b916d909e2de2fe260ba9e9b7d5631eea
     uri: 
@@ -532,14 +532,14 @@
     parameters:
       model: digital-socrates-13b.Q4_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q4_0.gguf
     sha256: d52ff497377b33d55f41944d754f15c8c45da6cd650a9fbfca3ebdd592716532
     uri: 
@@ -565,14 +565,14 @@
     parameters:
       model: digital-socrates-13b.Q4_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q4_K_M.gguf
     sha256: 92cf20c9d5f6ab7c25551ab7d684dd8facf8ac5782d1da52e945424d47ba52ee
     uri: 
@@ -598,14 +598,14 @@
     parameters:
       model: digital-socrates-13b.Q4_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q4_K_S.gguf
     sha256: 16d36678b973738fe09262a3271f3d5795c61897d1fa1c842df4af29eb5b11f4
     uri: 
@@ -631,14 +631,14 @@
     parameters:
       model: digital-socrates-13b.Q5_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q5_0.gguf
     sha256: 8ed913426ddf9e33eeeea47b2df155c13cf49ead2eb850a106beff67baf77b91
     uri: 
@@ -664,14 +664,14 @@
     parameters:
       model: digital-socrates-13b.Q5_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q5_K_M.gguf
     sha256: b961967de6069766571bc77faf0139a7efc546181959933d1c65259bd2c57c90
     uri: 
@@ -697,14 +697,14 @@
     parameters:
       model: digital-socrates-13b.Q5_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q5_K_S.gguf
     sha256: 15e89d8c89b72068fcf401e4f0c9e8a62f80d5ef1a60ae99d8269a912e19773e
     uri: 
@@ -730,14 +730,14 @@
     parameters:
       model: digital-socrates-13b.Q6_K.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q6_K.gguf
     sha256: 4426f24d8d935be31167ea1e60467b6f561aa931afefdf269b63e7831ee70fd6
     uri: 
@@ -763,14 +763,14 @@
     parameters:
       model: digital-socrates-13b.Q8_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/digital-socrates-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: digital-socrates-13b.Q8_0.gguf
     sha256: ac638063cb8cb161a48cf78f4b725fda147ff13055113adcc8e6f068f0521f12
     uri: 

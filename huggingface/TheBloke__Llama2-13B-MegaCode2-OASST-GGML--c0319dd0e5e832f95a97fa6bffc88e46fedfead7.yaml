@@ -4,14 +4,14 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q2_K.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q2_K.bin
     sha256: d4397d5e52d6fa1d43108811e9e7030af71ea7c50834e83129e8b65da230ff22
     uri: 
@@ -35,14 +35,14 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q3_K_L.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q3_K_L.bin
     sha256: ef4a8f85f8146264479e19271cb779c0c75e8f1edefe7db28e5f0a482b357039
     uri: 
@@ -66,14 +66,14 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q3_K_M.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q3_K_M.bin
     sha256: d184e3afe4f91df960246b2fd8dc64b28fac4ca6505de7fde421a1eef1172d20
     uri: 
@@ -97,14 +97,14 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q3_K_S.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q3_K_S.bin
     sha256: e1fa2fd0beff3807fcd55eabf6e5674892fbddd416e9dd3e54fc734bfd3dd0c9
     uri: 
@@ -128,14 +128,14 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q4_0.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q4_0.bin
     sha256: 753dcd860e490cd299502ad892bd840c4473b6d98cdcaa89be0e645472a97ef3
     uri: 
@@ -159,14 +159,14 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q4_1.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q4_1.bin
     sha256: bde27bcccf20db4a46e3998f7d98c1742b0b0b83044e490adc8fbe9e005009f6
     uri: 
@@ -190,14 +190,14 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q4_K_M.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q4_K_M.bin
     sha256: 5f7f9cd42518c7a3c533ced885563710e7b99639a87d29f2e881c31762b4acd8
     uri: 
@@ -221,14 +221,14 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q4_K_S.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q4_K_S.bin
     sha256: c0576ca8b9f2ea9dc8e29c7ead4fdc7963bde3511dbf0bddcd57d67a10852452
     uri: 
@@ -252,14 +252,14 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q5_0.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q5_0.bin
     sha256: b72a1d98eb42b31548e49816680942d9c339fa0fe3112ae245189597133fcc98
     uri: 
@@ -283,14 +283,14 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q5_1.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q5_1.bin
     sha256: 27f3234d092a218773eb70f6134d01bc3d260355886096cec0223b4b0471005f
     uri: 
@@ -314,14 +314,14 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q5_K_M.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q5_K_M.bin
     sha256: c66f333e4113610fdb00f250f7a2abb34694f5f918b1b94850c208e33a571c03
     uri: 
@@ -345,14 +345,14 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q5_K_S.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q5_K_S.bin
     sha256: 05195cc43ff8c477888f9cfda4ccb07b07d33f4c18f2758951814a179e0d9237
     uri: 
@@ -376,14 +376,14 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q6_K.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q6_K.bin
     sha256: efa33de5ee14c6a49f174d8c5a9413ff5a2e39bc7ad6cd94013d73b3b3627b57
     uri: 
@@ -407,14 +407,14 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q8_0.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q8_0.bin
     sha256: 3bf7eb16f41178b7c18e88862a88b70feb86e3753269074a09ec53df0ff90538
     uri: 
@@ -438,15 +438,15 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q2_K.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q2_K.bin
     sha256: d4397d5e52d6fa1d43108811e9e7030af71ea7c50834e83129e8b65da230ff22
     uri: 
@@ -470,15 +470,15 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q3_K_L.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q3_K_L.bin
     sha256: ef4a8f85f8146264479e19271cb779c0c75e8f1edefe7db28e5f0a482b357039
     uri: 
@@ -502,15 +502,15 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q3_K_M.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q3_K_M.bin
     sha256: d184e3afe4f91df960246b2fd8dc64b28fac4ca6505de7fde421a1eef1172d20
     uri: 
@@ -534,15 +534,15 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q3_K_S.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q3_K_S.bin
     sha256: e1fa2fd0beff3807fcd55eabf6e5674892fbddd416e9dd3e54fc734bfd3dd0c9
     uri: 
@@ -566,15 +566,15 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q4_0.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q4_0.bin
     sha256: 753dcd860e490cd299502ad892bd840c4473b6d98cdcaa89be0e645472a97ef3
     uri: 
@@ -598,15 +598,15 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q4_1.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q4_1.bin
     sha256: bde27bcccf20db4a46e3998f7d98c1742b0b0b83044e490adc8fbe9e005009f6
     uri: 
@@ -630,15 +630,15 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q4_K_M.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q4_K_M.bin
     sha256: 5f7f9cd42518c7a3c533ced885563710e7b99639a87d29f2e881c31762b4acd8
     uri: 
@@ -662,15 +662,15 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q4_K_S.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q4_K_S.bin
     sha256: c0576ca8b9f2ea9dc8e29c7ead4fdc7963bde3511dbf0bddcd57d67a10852452
     uri: 
@@ -694,15 +694,15 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q5_0.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q5_0.bin
     sha256: b72a1d98eb42b31548e49816680942d9c339fa0fe3112ae245189597133fcc98
     uri: 
@@ -726,15 +726,15 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q5_1.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q5_1.bin
     sha256: 27f3234d092a218773eb70f6134d01bc3d260355886096cec0223b4b0471005f
     uri: 
@@ -758,15 +758,15 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q5_K_M.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q5_K_M.bin
     sha256: c66f333e4113610fdb00f250f7a2abb34694f5f918b1b94850c208e33a571c03
     uri: 
@@ -790,15 +790,15 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q5_K_S.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q5_K_S.bin
     sha256: 05195cc43ff8c477888f9cfda4ccb07b07d33f4c18f2758951814a179e0d9237
     uri: 
@@ -822,15 +822,15 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q6_K.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q6_K.bin
     sha256: efa33de5ee14c6a49f174d8c5a9413ff5a2e39bc7ad6cd94013d73b3b3627b57
     uri: 
@@ -854,15 +854,15 @@
     parameters:
       model: llama2-13b-megacode2-oasst.ggmlv3.q8_0.bin
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Llama2-13B-MegaCode2-OASST-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: llama2-13b-megacode2-oasst.ggmlv3.q8_0.bin
     sha256: 3bf7eb16f41178b7c18e88862a88b70feb86e3753269074a09ec53df0ff90538
     uri: 

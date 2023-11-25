@@ -4,14 +4,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q2_K.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q2_K.bin
     sha256: f666696234de0a9a6d24f19ef482ad7efc9872edbcaa410be0c0469301279d69
     uri: 
@@ -42,14 +42,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q3_K_L.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q3_K_L.bin
     sha256: 3859abd7d435650f6e0a882109fc949d787f29fd1667afb2dd3cea0da7a4c695
     uri: 
@@ -80,14 +80,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q3_K_M.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q3_K_M.bin
     sha256: e8d7ef8ad7f967e873c8de73df8b7e88a5da6a78a1dd9eda365fbada75e4502b
     uri: 
@@ -118,14 +118,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q3_K_S.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q3_K_S.bin
     sha256: c30cabf4b50353451a9eaa02a2aa2ca05163d40b866b057b0df4d0f348a2cc6a
     uri: 
@@ -156,14 +156,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_0.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_0.bin
     sha256: 75cd0768a63a7a624cbe1af604337a707602aab2d72ad6e633bca2878d01301b
     uri: 
@@ -194,14 +194,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_1.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_1.bin
     sha256: 5b009b6de70345dfbd92b40b3a2fec69cad061b005f78bc352af25ef625c8659
     uri: 
@@ -232,14 +232,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_K_M.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_K_M.bin
     sha256: c2d22d2c903b1649785c02821255e66b79a41a7dc71f7c24281697bfc3fe4eb5
     uri: 
@@ -270,14 +270,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_K_S.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_K_S.bin
     sha256: 06006b772397b5b23a2e37b792899a11a4cdbf170075cf37a4afdcf828079b85
     uri: 
@@ -308,14 +308,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_0.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_0.bin
     sha256: 2e6b439bfe9af536e4563fcbf6cedfcde07411ece13e4505e1edc07ae002e086
     uri: 
@@ -346,14 +346,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_1.z01
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_1.z01
     sha256: d8abe7f4943a99b1e814854a375b42e5d29931fa7b254f1afbe7bfe222180d3e
     uri: 
@@ -384,14 +384,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_1.zip
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_1.zip
     sha256: 7411a56029d714577cf4aaa1b9a70d6ae83bdb73f9c5fddfefe282b6659d70c9
     uri: 
@@ -422,14 +422,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_K_M.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_K_M.bin
     sha256: 32f29f45125552ac784e89e271cc0310e072400886b83d786184d5f5ef3df75c
     uri: 
@@ -460,14 +460,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_K_S.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_K_S.bin
     sha256: 1dde1c145d6c63616edbe9a46f19c8df797e38957793c6bcc44c26d6567939a5
     uri: 
@@ -498,14 +498,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q6_K.z01
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q6_K.z01
     sha256: bc73b56f5fe1e4c352efbd6fb954de1cbf691fc8ed8325cca59ef52c809d595c
     uri: 
@@ -536,14 +536,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q6_K.zip
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q6_K.zip
     sha256: 34f27d1653775c9c18af00cd99826944764502c36d37ccbab0989c726bee7346
     uri: 
@@ -574,14 +574,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q8_0.z01
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q8_0.z01
     sha256: 0e4bc20e905fb26bed892f4e30a49963738f4531df4a5c43c5e97ef9521fc1a2
     uri: 
@@ -612,14 +612,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q8_0.zip
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q8_0.zip
     sha256: 5ceecbc50662c47f9476935ef3b3d6040b1d4afd646e22e820121da6417030fe
     uri: 
@@ -650,14 +650,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q2_K.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q2_K.bin
     sha256: f666696234de0a9a6d24f19ef482ad7efc9872edbcaa410be0c0469301279d69
     uri: 
@@ -688,14 +688,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q3_K_L.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q3_K_L.bin
     sha256: 3859abd7d435650f6e0a882109fc949d787f29fd1667afb2dd3cea0da7a4c695
     uri: 
@@ -726,14 +726,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q3_K_M.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q3_K_M.bin
     sha256: e8d7ef8ad7f967e873c8de73df8b7e88a5da6a78a1dd9eda365fbada75e4502b
     uri: 
@@ -764,14 +764,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q3_K_S.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q3_K_S.bin
     sha256: c30cabf4b50353451a9eaa02a2aa2ca05163d40b866b057b0df4d0f348a2cc6a
     uri: 
@@ -802,14 +802,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_0.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_0.bin
     sha256: 75cd0768a63a7a624cbe1af604337a707602aab2d72ad6e633bca2878d01301b
     uri: 
@@ -840,14 +840,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_1.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_1.bin
     sha256: 5b009b6de70345dfbd92b40b3a2fec69cad061b005f78bc352af25ef625c8659
     uri: 
@@ -878,14 +878,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_K_M.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_K_M.bin
     sha256: c2d22d2c903b1649785c02821255e66b79a41a7dc71f7c24281697bfc3fe4eb5
     uri: 
@@ -916,14 +916,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_K_S.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_K_S.bin
     sha256: 06006b772397b5b23a2e37b792899a11a4cdbf170075cf37a4afdcf828079b85
     uri: 
@@ -954,14 +954,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_0.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_0.bin
     sha256: 2e6b439bfe9af536e4563fcbf6cedfcde07411ece13e4505e1edc07ae002e086
     uri: 
@@ -992,14 +992,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_1.z01
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_1.z01
     sha256: d8abe7f4943a99b1e814854a375b42e5d29931fa7b254f1afbe7bfe222180d3e
     uri: 
@@ -1030,14 +1030,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_1.zip
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_1.zip
     sha256: 7411a56029d714577cf4aaa1b9a70d6ae83bdb73f9c5fddfefe282b6659d70c9
     uri: 
@@ -1068,14 +1068,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_K_M.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_K_M.bin
     sha256: 32f29f45125552ac784e89e271cc0310e072400886b83d786184d5f5ef3df75c
     uri: 
@@ -1106,14 +1106,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_K_S.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_K_S.bin
     sha256: 1dde1c145d6c63616edbe9a46f19c8df797e38957793c6bcc44c26d6567939a5
     uri: 
@@ -1144,14 +1144,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q6_K.z01
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q6_K.z01
     sha256: bc73b56f5fe1e4c352efbd6fb954de1cbf691fc8ed8325cca59ef52c809d595c
     uri: 
@@ -1182,14 +1182,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q6_K.zip
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q6_K.zip
     sha256: 34f27d1653775c9c18af00cd99826944764502c36d37ccbab0989c726bee7346
     uri: 
@@ -1220,14 +1220,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q8_0.z01
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q8_0.z01
     sha256: 0e4bc20e905fb26bed892f4e30a49963738f4531df4a5c43c5e97ef9521fc1a2
     uri: 
@@ -1258,14 +1258,14 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q8_0.zip
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q8_0.zip
     sha256: 5ceecbc50662c47f9476935ef3b3d6040b1d4afd646e22e820121da6417030fe
     uri: 
@@ -1296,15 +1296,15 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q2_K.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q2_K.bin
     sha256: f666696234de0a9a6d24f19ef482ad7efc9872edbcaa410be0c0469301279d69
     uri: 
@@ -1335,15 +1335,15 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q3_K_L.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q3_K_L.bin
     sha256: 3859abd7d435650f6e0a882109fc949d787f29fd1667afb2dd3cea0da7a4c695
     uri: 
@@ -1374,15 +1374,15 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q3_K_M.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q3_K_M.bin
     sha256: e8d7ef8ad7f967e873c8de73df8b7e88a5da6a78a1dd9eda365fbada75e4502b
     uri: 
@@ -1413,15 +1413,15 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q3_K_S.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q3_K_S.bin
     sha256: c30cabf4b50353451a9eaa02a2aa2ca05163d40b866b057b0df4d0f348a2cc6a
     uri: 
@@ -1452,15 +1452,15 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_0.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_0.bin
     sha256: 75cd0768a63a7a624cbe1af604337a707602aab2d72ad6e633bca2878d01301b
     uri: 
@@ -1491,15 +1491,15 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_1.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_1.bin
     sha256: 5b009b6de70345dfbd92b40b3a2fec69cad061b005f78bc352af25ef625c8659
     uri: 
@@ -1530,15 +1530,15 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_K_M.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_K_M.bin
     sha256: c2d22d2c903b1649785c02821255e66b79a41a7dc71f7c24281697bfc3fe4eb5
     uri: 
@@ -1569,15 +1569,15 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_K_S.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q4_K_S.bin
     sha256: 06006b772397b5b23a2e37b792899a11a4cdbf170075cf37a4afdcf828079b85
     uri: 
@@ -1608,15 +1608,15 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_0.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_0.bin
     sha256: 2e6b439bfe9af536e4563fcbf6cedfcde07411ece13e4505e1edc07ae002e086
     uri: 
@@ -1647,15 +1647,15 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_1.z01
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_1.z01
     sha256: d8abe7f4943a99b1e814854a375b42e5d29931fa7b254f1afbe7bfe222180d3e
     uri: 
@@ -1686,15 +1686,15 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_1.zip
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_1.zip
     sha256: 7411a56029d714577cf4aaa1b9a70d6ae83bdb73f9c5fddfefe282b6659d70c9
     uri: 
@@ -1725,15 +1725,15 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_K_M.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_K_M.bin
     sha256: 32f29f45125552ac784e89e271cc0310e072400886b83d786184d5f5ef3df75c
     uri: 
@@ -1764,15 +1764,15 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_K_S.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q5_K_S.bin
     sha256: 1dde1c145d6c63616edbe9a46f19c8df797e38957793c6bcc44c26d6567939a5
     uri: 
@@ -1803,15 +1803,15 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q6_K.z01
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q6_K.z01
     sha256: bc73b56f5fe1e4c352efbd6fb954de1cbf691fc8ed8325cca59ef52c809d595c
     uri: 
@@ -1842,15 +1842,15 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q6_K.zip
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q6_K.zip
     sha256: 34f27d1653775c9c18af00cd99826944764502c36d37ccbab0989c726bee7346
     uri: 
@@ -1881,15 +1881,15 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q8_0.z01
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q8_0.z01
     sha256: 0e4bc20e905fb26bed892f4e30a49963738f4531df4a5c43c5e97ef9521fc1a2
     uri: 
@@ -1920,15 +1920,15 @@
     parameters:
       model: upstage-llama-2-70b-instruct-v2.ggmlv3.q8_0.zip
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/Upstage-Llama-2-70B-instruct-v2-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-2-70b-instruct-v2.ggmlv3.q8_0.zip
     sha256: 5ceecbc50662c47f9476935ef3b3d6040b1d4afd646e22e820121da6417030fe
     uri: 

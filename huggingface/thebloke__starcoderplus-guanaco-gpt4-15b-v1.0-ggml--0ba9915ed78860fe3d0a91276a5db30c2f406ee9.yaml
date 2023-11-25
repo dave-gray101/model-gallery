@@ -4,15 +4,15 @@
     parameters:
       model: starcoderplus-guanaco-gpt4.ggmlv1.q4_0.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Starcoderplus-Guanaco-GPT4-15B-V1.0-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: starcoderplus-guanaco-gpt4.ggmlv1.q4_0.bin
     sha256: ab4786dbbc939a81350fecd41398ffe346fae55d86570614b6185739c4e63d7a
     uri: 
@@ -35,15 +35,15 @@
     parameters:
       model: starcoderplus-guanaco-gpt4.ggmlv1.q4_1.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Starcoderplus-Guanaco-GPT4-15B-V1.0-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: starcoderplus-guanaco-gpt4.ggmlv1.q4_1.bin
     sha256: a330a6c785dc00e2fe932058d237017a9dd8399c46a2a07e11c7e79e811bde37
     uri: 
@@ -66,15 +66,15 @@
     parameters:
       model: starcoderplus-guanaco-gpt4.ggmlv1.q5_0.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Starcoderplus-Guanaco-GPT4-15B-V1.0-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: starcoderplus-guanaco-gpt4.ggmlv1.q5_0.bin
     sha256: 51d99464f3c0eaea3100b9beefa5dc6bad11e39f6d182f331c2370c3e0d022ca
     uri: 
@@ -97,15 +97,15 @@
     parameters:
       model: starcoderplus-guanaco-gpt4.ggmlv1.q5_1.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Starcoderplus-Guanaco-GPT4-15B-V1.0-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: starcoderplus-guanaco-gpt4.ggmlv1.q5_1.bin
     sha256: 1137e35912bf2de6d3696f372474fe8089300846bf0a7ef4f563e82ff8656123
     uri: 
@@ -128,15 +128,15 @@
     parameters:
       model: starcoderplus-guanaco-gpt4.ggmlv1.q8_0.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Starcoderplus-Guanaco-GPT4-15B-V1.0-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: starcoderplus-guanaco-gpt4.ggmlv1.q8_0.bin
     sha256: 3c28134f812c3bfe731ceacf57a275edeb193bf9d05912138952735d69c1474e
     uri: 

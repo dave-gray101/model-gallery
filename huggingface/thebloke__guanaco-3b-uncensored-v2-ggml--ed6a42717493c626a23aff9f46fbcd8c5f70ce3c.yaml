@@ -4,14 +4,14 @@
     parameters:
       model: guanaco-3b-uncensored-v2.ggmlv1.q4_0.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Guanaco-3B-Uncensored-v2-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: guanaco-3b-uncensored-v2.ggmlv1.q4_0.bin
     sha256: c3360e96dd9e41b121d81416e76f0abbf2bd720896fc512a2038f47368ec5cd2
     uri: 
@@ -37,14 +37,14 @@
     parameters:
       model: guanaco-3b-uncensored-v2.ggmlv1.q4_1.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Guanaco-3B-Uncensored-v2-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: guanaco-3b-uncensored-v2.ggmlv1.q4_1.bin
     sha256: 57fcbd9ca02db666ff450787bfee65f32754a29dd970e6a9a932a8b43d4ad23c
     uri: 
@@ -70,14 +70,14 @@
     parameters:
       model: guanaco-3b-uncensored-v2.ggmlv1.q5_0.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Guanaco-3B-Uncensored-v2-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: guanaco-3b-uncensored-v2.ggmlv1.q5_0.bin
     sha256: cf39b322b85c9b135c4dbd5d31a04b91dec8d3c251092772e9928e415e013c65
     uri: 
@@ -103,14 +103,14 @@
     parameters:
       model: guanaco-3b-uncensored-v2.ggmlv1.q5_1.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Guanaco-3B-Uncensored-v2-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: guanaco-3b-uncensored-v2.ggmlv1.q5_1.bin
     sha256: ab603895aa46a7b0dbbef1f120796168819dfab2fd71aa7fefe88ac15afff5d5
     uri: 
@@ -136,14 +136,14 @@
     parameters:
       model: guanaco-3b-uncensored-v2.ggmlv1.q8_0.bin
     template:
-      chat: Guanaco
-      completion: Guanaco
+      chat: guanaco
+      completion: guanaco
   description: TheBloke/Guanaco-3B-Uncensored-v2-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Guanaco.tmpl
+  - filename: guanaco.tmpl
     sha256: ac55aec4bc4c77920c5232062d0ab29d09e3466684de80fbf3917c7c028b6f74
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Guanaco.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/guanaco.tmpl
   - filename: guanaco-3b-uncensored-v2.ggmlv1.q8_0.bin
     sha256: ce2e46fd64ff234601c3786f56d6305f29f18bd2b7e4473c554645e41962bb16
     uri: 

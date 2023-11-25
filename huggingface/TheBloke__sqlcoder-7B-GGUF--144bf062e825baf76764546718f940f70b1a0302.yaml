@@ -8,14 +8,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - mistral configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q2_K.gguf
     sha256: 14f4048977954d74a1db54ccef8fa248bc241af47190d73fdb5483d7258bfea5
     uri: 
@@ -46,14 +46,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - mistral configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q3_K_L.gguf
     sha256: 9c094ad798997ed82334c91e29f6c9d0abe20d870b2c0732445d905338d4f1ff
     uri: 
@@ -84,14 +84,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - mistral configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q3_K_M.gguf
     sha256: 7e72a2ae8528908bc3783cfa32024e82e3dfa3f396076980e9785e96b46fd16d
     uri: 
@@ -122,14 +122,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - mistral configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q3_K_S.gguf
     sha256: 2265bd2f5dfd0bc360ea2a15fcc2ff39bb19d969e30e2d642e0d7008ee29c8cd
     uri: 
@@ -160,14 +160,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - mistral configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q4_0.gguf
     sha256: 6fe54416a37548b91987b08ad066f615c1b84cbbbf5c1690151b5a263bba883c
     uri: 
@@ -198,14 +198,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - mistral configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q4_K_M.gguf
     sha256: ab3874dec74ea99f8ff3a01095243fa6dd15c8de80a668917cc3b564d8bb826a
     uri: 
@@ -236,14 +236,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - mistral configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q4_K_S.gguf
     sha256: 6bbeb6363d33e355148169a6a4ff6ba605547615a7ba6f8ad82ecf476cf96d11
     uri: 
@@ -274,14 +274,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - mistral configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q5_0.gguf
     sha256: fd8e9642287ec669df337d9c0a4f0f8203a3c138df8aa40d8ef2dd7476816a51
     uri: 
@@ -312,14 +312,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - mistral configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q5_K_M.gguf
     sha256: ceeba62446c6d35886f6e459d51efae0230e2f3349d9dac19ec5c18e0a0b021c
     uri: 
@@ -350,14 +350,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - mistral configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q5_K_S.gguf
     sha256: 092971c10abebe230aa9bb024d87468e44db8d1462e631fb2b37094b704f8014
     uri: 
@@ -388,14 +388,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - mistral configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q6_K.gguf
     sha256: 5e076721f84f59d88a0a0217f14408d5e038b8dea0c9db97a30ff56edacf477a
     uri: 
@@ -426,14 +426,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - mistral configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q8_0.gguf
     sha256: 4b252739f9d598cdee5cc71a9675638fbf0dd8bce17aa30b968e4f76b5d6bb46
     uri: 
@@ -460,14 +460,14 @@
     parameters:
       model: sqlcoder-7b.Q2_K.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q2_K.gguf
     sha256: 14f4048977954d74a1db54ccef8fa248bc241af47190d73fdb5483d7258bfea5
     uri: 
@@ -494,14 +494,14 @@
     parameters:
       model: sqlcoder-7b.Q3_K_L.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q3_K_L.gguf
     sha256: 9c094ad798997ed82334c91e29f6c9d0abe20d870b2c0732445d905338d4f1ff
     uri: 
@@ -528,14 +528,14 @@
     parameters:
       model: sqlcoder-7b.Q3_K_M.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q3_K_M.gguf
     sha256: 7e72a2ae8528908bc3783cfa32024e82e3dfa3f396076980e9785e96b46fd16d
     uri: 
@@ -562,14 +562,14 @@
     parameters:
       model: sqlcoder-7b.Q3_K_S.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q3_K_S.gguf
     sha256: 2265bd2f5dfd0bc360ea2a15fcc2ff39bb19d969e30e2d642e0d7008ee29c8cd
     uri: 
@@ -596,14 +596,14 @@
     parameters:
       model: sqlcoder-7b.Q4_0.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q4_0.gguf
     sha256: 6fe54416a37548b91987b08ad066f615c1b84cbbbf5c1690151b5a263bba883c
     uri: 
@@ -630,14 +630,14 @@
     parameters:
       model: sqlcoder-7b.Q4_K_M.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q4_K_M.gguf
     sha256: ab3874dec74ea99f8ff3a01095243fa6dd15c8de80a668917cc3b564d8bb826a
     uri: 
@@ -664,14 +664,14 @@
     parameters:
       model: sqlcoder-7b.Q4_K_S.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q4_K_S.gguf
     sha256: 6bbeb6363d33e355148169a6a4ff6ba605547615a7ba6f8ad82ecf476cf96d11
     uri: 
@@ -698,14 +698,14 @@
     parameters:
       model: sqlcoder-7b.Q5_0.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q5_0.gguf
     sha256: fd8e9642287ec669df337d9c0a4f0f8203a3c138df8aa40d8ef2dd7476816a51
     uri: 
@@ -732,14 +732,14 @@
     parameters:
       model: sqlcoder-7b.Q5_K_M.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q5_K_M.gguf
     sha256: ceeba62446c6d35886f6e459d51efae0230e2f3349d9dac19ec5c18e0a0b021c
     uri: 
@@ -766,14 +766,14 @@
     parameters:
       model: sqlcoder-7b.Q5_K_S.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q5_K_S.gguf
     sha256: 092971c10abebe230aa9bb024d87468e44db8d1462e631fb2b37094b704f8014
     uri: 
@@ -800,14 +800,14 @@
     parameters:
       model: sqlcoder-7b.Q6_K.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q6_K.gguf
     sha256: 5e076721f84f59d88a0a0217f14408d5e038b8dea0c9db97a30ff56edacf477a
     uri: 
@@ -834,14 +834,14 @@
     parameters:
       model: sqlcoder-7b.Q8_0.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q8_0.gguf
     sha256: 4b252739f9d598cdee5cc71a9675638fbf0dd8bce17aa30b968e4f76b5d6bb46
     uri: 
@@ -868,14 +868,14 @@
     parameters:
       model: sqlcoder-7b.Q2_K.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q2_K.gguf
     sha256: 14f4048977954d74a1db54ccef8fa248bc241af47190d73fdb5483d7258bfea5
     uri: 
@@ -902,14 +902,14 @@
     parameters:
       model: sqlcoder-7b.Q3_K_L.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q3_K_L.gguf
     sha256: 9c094ad798997ed82334c91e29f6c9d0abe20d870b2c0732445d905338d4f1ff
     uri: 
@@ -936,14 +936,14 @@
     parameters:
       model: sqlcoder-7b.Q3_K_M.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q3_K_M.gguf
     sha256: 7e72a2ae8528908bc3783cfa32024e82e3dfa3f396076980e9785e96b46fd16d
     uri: 
@@ -970,14 +970,14 @@
     parameters:
       model: sqlcoder-7b.Q3_K_S.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q3_K_S.gguf
     sha256: 2265bd2f5dfd0bc360ea2a15fcc2ff39bb19d969e30e2d642e0d7008ee29c8cd
     uri: 
@@ -1004,14 +1004,14 @@
     parameters:
       model: sqlcoder-7b.Q4_0.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q4_0.gguf
     sha256: 6fe54416a37548b91987b08ad066f615c1b84cbbbf5c1690151b5a263bba883c
     uri: 
@@ -1038,14 +1038,14 @@
     parameters:
       model: sqlcoder-7b.Q4_K_M.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q4_K_M.gguf
     sha256: ab3874dec74ea99f8ff3a01095243fa6dd15c8de80a668917cc3b564d8bb826a
     uri: 
@@ -1072,14 +1072,14 @@
     parameters:
       model: sqlcoder-7b.Q4_K_S.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q4_K_S.gguf
     sha256: 6bbeb6363d33e355148169a6a4ff6ba605547615a7ba6f8ad82ecf476cf96d11
     uri: 
@@ -1106,14 +1106,14 @@
     parameters:
       model: sqlcoder-7b.Q5_0.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q5_0.gguf
     sha256: fd8e9642287ec669df337d9c0a4f0f8203a3c138df8aa40d8ef2dd7476816a51
     uri: 
@@ -1140,14 +1140,14 @@
     parameters:
       model: sqlcoder-7b.Q5_K_M.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q5_K_M.gguf
     sha256: ceeba62446c6d35886f6e459d51efae0230e2f3349d9dac19ec5c18e0a0b021c
     uri: 
@@ -1174,14 +1174,14 @@
     parameters:
       model: sqlcoder-7b.Q5_K_S.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q5_K_S.gguf
     sha256: 092971c10abebe230aa9bb024d87468e44db8d1462e631fb2b37094b704f8014
     uri: 
@@ -1208,14 +1208,14 @@
     parameters:
       model: sqlcoder-7b.Q6_K.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q6_K.gguf
     sha256: 5e076721f84f59d88a0a0217f14408d5e038b8dea0c9db97a30ff56edacf477a
     uri: 
@@ -1242,14 +1242,14 @@
     parameters:
       model: sqlcoder-7b.Q8_0.gguf
     template:
-      chat: Sqlcoder
-      completion: Sqlcoder
+      chat: sqlcoder
+      completion: sqlcoder
   description: TheBloke/sqlcoder-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sqlcoder.tmpl
+  - filename: sqlcoder.tmpl
     sha256: 616a764e632632e7989983863e1d375541d6fab44ed58ec44d44d0dd7c3f971c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sqlcoder.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sqlcoder.tmpl
   - filename: sqlcoder-7b.Q8_0.gguf
     sha256: 4b252739f9d598cdee5cc71a9675638fbf0dd8bce17aa30b968e4f76b5d6bb46
     uri: 

@@ -4,14 +4,14 @@
     parameters:
       model: metamath-7b-v1.0.Q2_K.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q2_K.gguf
     sha256: 539ea79fc2a7242a350825fa556e24a883aab5a84ad751c464db39fb6c1cbc0e
     uri: 
@@ -35,14 +35,14 @@
     parameters:
       model: metamath-7b-v1.0.Q3_K_L.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q3_K_L.gguf
     sha256: 695f826fc74d177e6467cb946a80eb5b6df6053f5837314c76c36ea6a7bbe370
     uri: 
@@ -66,14 +66,14 @@
     parameters:
       model: metamath-7b-v1.0.Q3_K_M.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q3_K_M.gguf
     sha256: 14545ccd090f884fed4906cac793401c83e4baa0730bfb990d09eb1ec74f7b3b
     uri: 
@@ -97,14 +97,14 @@
     parameters:
       model: metamath-7b-v1.0.Q3_K_S.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q3_K_S.gguf
     sha256: 43965355e6fd9780ac5221c2d44fd23d77cd5ff4b66e781ee3de1eabd583e21c
     uri: 
@@ -128,14 +128,14 @@
     parameters:
       model: metamath-7b-v1.0.Q4_0.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q4_0.gguf
     sha256: db397d5be951a15dd0925020dedd394e6ff241370fb2d1fe149aec056f65d15b
     uri: 
@@ -159,14 +159,14 @@
     parameters:
       model: metamath-7b-v1.0.Q4_K_M.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q4_K_M.gguf
     sha256: 544adf8827c1d3f73e0fa80a54ef97f32332610ae7af435d2674d63631232a5e
     uri: 
@@ -190,14 +190,14 @@
     parameters:
       model: metamath-7b-v1.0.Q4_K_S.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q4_K_S.gguf
     sha256: fa6da91e132fec72c972465bc2fa292bca4c760660611490b96b13b8db154536
     uri: 
@@ -221,14 +221,14 @@
     parameters:
       model: metamath-7b-v1.0.Q5_0.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q5_0.gguf
     sha256: 98dc2daae090146f1359c32bc3d2fc9ede07478c4deb481b839b63c38c041552
     uri: 
@@ -252,14 +252,14 @@
     parameters:
       model: metamath-7b-v1.0.Q5_K_M.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q5_K_M.gguf
     sha256: c9af8f569206a234d796ae41a8cbefa098aa26646c2074477fe198f53f54ccf7
     uri: 
@@ -283,14 +283,14 @@
     parameters:
       model: metamath-7b-v1.0.Q5_K_S.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q5_K_S.gguf
     sha256: 27c58e838dafa8d9fdd18db83d0839a264114a0b7f327bfea0853d5c2d3630e6
     uri: 
@@ -314,14 +314,14 @@
     parameters:
       model: metamath-7b-v1.0.Q6_K.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q6_K.gguf
     sha256: af55801180629e66fd27e98323e10dd11cb7ab34ebadbfe3ef5ea9ce4896d3a3
     uri: 
@@ -345,14 +345,14 @@
     parameters:
       model: metamath-7b-v1.0.Q8_0.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q8_0.gguf
     sha256: 9008c79303c388da42df3a1e26f58a376a00952bf30fc33ff9dcce82e4479c5d
     uri: 
@@ -376,14 +376,14 @@
     parameters:
       model: metamath-7b-v1.0.Q2_K.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q2_K.gguf
     sha256: 539ea79fc2a7242a350825fa556e24a883aab5a84ad751c464db39fb6c1cbc0e
     uri: 
@@ -407,14 +407,14 @@
     parameters:
       model: metamath-7b-v1.0.Q3_K_L.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q3_K_L.gguf
     sha256: 695f826fc74d177e6467cb946a80eb5b6df6053f5837314c76c36ea6a7bbe370
     uri: 
@@ -438,14 +438,14 @@
     parameters:
       model: metamath-7b-v1.0.Q3_K_M.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q3_K_M.gguf
     sha256: 14545ccd090f884fed4906cac793401c83e4baa0730bfb990d09eb1ec74f7b3b
     uri: 
@@ -469,14 +469,14 @@
     parameters:
       model: metamath-7b-v1.0.Q3_K_S.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q3_K_S.gguf
     sha256: 43965355e6fd9780ac5221c2d44fd23d77cd5ff4b66e781ee3de1eabd583e21c
     uri: 
@@ -500,14 +500,14 @@
     parameters:
       model: metamath-7b-v1.0.Q4_0.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q4_0.gguf
     sha256: db397d5be951a15dd0925020dedd394e6ff241370fb2d1fe149aec056f65d15b
     uri: 
@@ -531,14 +531,14 @@
     parameters:
       model: metamath-7b-v1.0.Q4_K_M.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q4_K_M.gguf
     sha256: 544adf8827c1d3f73e0fa80a54ef97f32332610ae7af435d2674d63631232a5e
     uri: 
@@ -562,14 +562,14 @@
     parameters:
       model: metamath-7b-v1.0.Q4_K_S.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q4_K_S.gguf
     sha256: fa6da91e132fec72c972465bc2fa292bca4c760660611490b96b13b8db154536
     uri: 
@@ -593,14 +593,14 @@
     parameters:
       model: metamath-7b-v1.0.Q5_0.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q5_0.gguf
     sha256: 98dc2daae090146f1359c32bc3d2fc9ede07478c4deb481b839b63c38c041552
     uri: 
@@ -624,14 +624,14 @@
     parameters:
       model: metamath-7b-v1.0.Q5_K_M.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q5_K_M.gguf
     sha256: c9af8f569206a234d796ae41a8cbefa098aa26646c2074477fe198f53f54ccf7
     uri: 
@@ -655,14 +655,14 @@
     parameters:
       model: metamath-7b-v1.0.Q5_K_S.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q5_K_S.gguf
     sha256: 27c58e838dafa8d9fdd18db83d0839a264114a0b7f327bfea0853d5c2d3630e6
     uri: 
@@ -686,14 +686,14 @@
     parameters:
       model: metamath-7b-v1.0.Q6_K.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q6_K.gguf
     sha256: af55801180629e66fd27e98323e10dd11cb7ab34ebadbfe3ef5ea9ce4896d3a3
     uri: 
@@ -717,14 +717,14 @@
     parameters:
       model: metamath-7b-v1.0.Q8_0.gguf
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/MetaMath-7B-V1.0-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: metamath-7b-v1.0.Q8_0.gguf
     sha256: 9008c79303c388da42df3a1e26f58a376a00952bf30fc33ff9dcce82e4479c5d
     uri: 

@@ -8,14 +8,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - mistral configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q2_K.gguf
     sha256: 7f023fff3fd8d5fe38374f6e32dc494cba9a66d26a0bbd759b8f4b18253bc2c6
     uri: 
@@ -43,14 +43,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - mistral configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q3_K_L.gguf
     sha256: 30e142e41b8b527b68f3f115169bf7dc42bb31f99be39a30fb8cd9e038f2beb9
     uri: 
@@ -78,14 +78,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - mistral configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q3_K_M.gguf
     sha256: d00759f93434e7c4c40531395d63c482de3b030a195946a1ad6a133edef825ab
     uri: 
@@ -113,14 +113,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - mistral configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q3_K_S.gguf
     sha256: 6a24e3034168871dc48485d7c477eb634914221c975a82d28c53a91476c38467
     uri: 
@@ -148,14 +148,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - mistral configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q4_0.gguf
     sha256: 718712ddaa2b818a7503ae43c2d9578b162601db501b2293dd5a96bb907a1706
     uri: 
@@ -183,14 +183,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - mistral configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q4_K_M.gguf
     sha256: 00d804f53cb7a80580561b16ed3a9855736275b34e130311a66e30faa4a2f944
     uri: 
@@ -218,14 +218,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - mistral configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q4_K_S.gguf
     sha256: f846105f86dc1b5ada2c35b36201404d763eac97dc8620309c5c04f558561c42
     uri: 
@@ -253,14 +253,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - mistral configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q5_0.gguf
     sha256: a2bbb694069f19de1d49187546b87f965d0d2420a98431d2ff03878e6f92ac8d
     uri: 
@@ -288,14 +288,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - mistral configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q5_K_M.gguf
     sha256: d5fa7804c5524202213eb968eaebc5f9dd6422030ba88d14c9519136809779e6
     uri: 
@@ -323,14 +323,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - mistral configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q5_K_S.gguf
     sha256: ac55c155117e573b7933a2846ec9046be926c76034e3148511d31e9b42fddc75
     uri: 
@@ -358,14 +358,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - mistral configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q6_K.gguf
     sha256: a0c823de0270fdf66d172178d328ee97e33b48f4728902e4a03fac08cbb93854
     uri: 
@@ -393,14 +393,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - mistral configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q8_0.gguf
     sha256: 8eefae0dbd2ba7c56839926d5706bec9db9a7704784c888ae30ae9034c081fec
     uri: 
@@ -424,14 +424,14 @@
     parameters:
       model: chupacabra-7b-v3.Q2_K.gguf
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q2_K.gguf
     sha256: 7f023fff3fd8d5fe38374f6e32dc494cba9a66d26a0bbd759b8f4b18253bc2c6
     uri: 
@@ -455,14 +455,14 @@
     parameters:
       model: chupacabra-7b-v3.Q3_K_L.gguf
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q3_K_L.gguf
     sha256: 30e142e41b8b527b68f3f115169bf7dc42bb31f99be39a30fb8cd9e038f2beb9
     uri: 
@@ -486,14 +486,14 @@
     parameters:
       model: chupacabra-7b-v3.Q3_K_M.gguf
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q3_K_M.gguf
     sha256: d00759f93434e7c4c40531395d63c482de3b030a195946a1ad6a133edef825ab
     uri: 
@@ -517,14 +517,14 @@
     parameters:
       model: chupacabra-7b-v3.Q3_K_S.gguf
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q3_K_S.gguf
     sha256: 6a24e3034168871dc48485d7c477eb634914221c975a82d28c53a91476c38467
     uri: 
@@ -548,14 +548,14 @@
     parameters:
       model: chupacabra-7b-v3.Q4_0.gguf
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q4_0.gguf
     sha256: 718712ddaa2b818a7503ae43c2d9578b162601db501b2293dd5a96bb907a1706
     uri: 
@@ -579,14 +579,14 @@
     parameters:
       model: chupacabra-7b-v3.Q4_K_M.gguf
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q4_K_M.gguf
     sha256: 00d804f53cb7a80580561b16ed3a9855736275b34e130311a66e30faa4a2f944
     uri: 
@@ -610,14 +610,14 @@
     parameters:
       model: chupacabra-7b-v3.Q4_K_S.gguf
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q4_K_S.gguf
     sha256: f846105f86dc1b5ada2c35b36201404d763eac97dc8620309c5c04f558561c42
     uri: 
@@ -641,14 +641,14 @@
     parameters:
       model: chupacabra-7b-v3.Q5_0.gguf
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q5_0.gguf
     sha256: a2bbb694069f19de1d49187546b87f965d0d2420a98431d2ff03878e6f92ac8d
     uri: 
@@ -672,14 +672,14 @@
     parameters:
       model: chupacabra-7b-v3.Q5_K_M.gguf
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q5_K_M.gguf
     sha256: d5fa7804c5524202213eb968eaebc5f9dd6422030ba88d14c9519136809779e6
     uri: 
@@ -703,14 +703,14 @@
     parameters:
       model: chupacabra-7b-v3.Q5_K_S.gguf
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q5_K_S.gguf
     sha256: ac55c155117e573b7933a2846ec9046be926c76034e3148511d31e9b42fddc75
     uri: 
@@ -734,14 +734,14 @@
     parameters:
       model: chupacabra-7b-v3.Q6_K.gguf
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q6_K.gguf
     sha256: a0c823de0270fdf66d172178d328ee97e33b48f4728902e4a03fac08cbb93854
     uri: 
@@ -765,14 +765,14 @@
     parameters:
       model: chupacabra-7b-v3.Q8_0.gguf
     template:
-      chat: Alpaca-InstructOnly2
-      completion: Alpaca-InstructOnly2
+      chat: alpaca-instructonly2
+      completion: alpaca-instructonly2
   description: TheBloke/Chupacabra-7B-v3-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly2.tmpl
+  - filename: alpaca-instructonly2.tmpl
     sha256: 6c7aa423a69d062f5738823f36ca3b5468880bbaea69c2b17098974174267b3f
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly2.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly2.tmpl
   - filename: chupacabra-7b-v3.Q8_0.gguf
     sha256: 8eefae0dbd2ba7c56839926d5706bec9db9a7704784c888ae30ae9034c081fec
     uri: 

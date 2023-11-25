@@ -4,14 +4,14 @@
     parameters:
       model: euryale-1.3-l2-70b.Q2_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Euryale-1.3-L2-70B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: euryale-1.3-l2-70b.Q2_K.gguf
     sha256: 7f5f69da57f14357ec00eaf8bef20b6c3bdc7706580e5bb11520f4395af200d7
     uri: 
@@ -36,14 +36,14 @@
     parameters:
       model: euryale-1.3-l2-70b.Q3_K_L.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Euryale-1.3-L2-70B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: euryale-1.3-l2-70b.Q3_K_L.gguf
     sha256: 3e57810ada4d39ce033883cb7feda7e38871013406ca5bf898859a35179e2374
     uri: 
@@ -68,14 +68,14 @@
     parameters:
       model: euryale-1.3-l2-70b.Q3_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Euryale-1.3-L2-70B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: euryale-1.3-l2-70b.Q3_K_M.gguf
     sha256: 549cbce778b6ff36f1f0f6f06525e770e8cddc66d90c199f65d6dcff9e98c573
     uri: 
@@ -100,14 +100,14 @@
     parameters:
       model: euryale-1.3-l2-70b.Q3_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Euryale-1.3-L2-70B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: euryale-1.3-l2-70b.Q3_K_S.gguf
     sha256: b650e99cd5c12ab9cfac98da68bf38b5bc5885fd4e070ec28c011ac60ac9c67e
     uri: 
@@ -132,14 +132,14 @@
     parameters:
       model: euryale-1.3-l2-70b.Q4_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Euryale-1.3-L2-70B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: euryale-1.3-l2-70b.Q4_0.gguf
     sha256: cdd212d8eb9f090465e2572729746862de97d9a23ab913a132592d282a2e10a8
     uri: 
@@ -164,14 +164,14 @@
     parameters:
       model: euryale-1.3-l2-70b.Q4_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Euryale-1.3-L2-70B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: euryale-1.3-l2-70b.Q4_K_M.gguf
     sha256: cb572995fd2ecd7a46ba2320ee29499bf7945fbfe27a15d7a9d1107e19c140a0
     uri: 
@@ -196,14 +196,14 @@
     parameters:
       model: euryale-1.3-l2-70b.Q4_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Euryale-1.3-L2-70B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: euryale-1.3-l2-70b.Q4_K_S.gguf
     sha256: dc8ccf50cfbbfbfac45396155876b2cc91c63c2860dfac6f9943bb62202016a4
     uri: 
@@ -228,14 +228,14 @@
     parameters:
       model: euryale-1.3-l2-70b.Q5_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Euryale-1.3-L2-70B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: euryale-1.3-l2-70b.Q5_0.gguf
     sha256: e73f3f838c48f7c055bcebbdeb20b106e019048219e96250dbe9812c32958f4d
     uri: 
@@ -260,14 +260,14 @@
     parameters:
       model: euryale-1.3-l2-70b.Q5_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Euryale-1.3-L2-70B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: euryale-1.3-l2-70b.Q5_K_M.gguf
     sha256: 8f74aa8dc856e74754a5eaa96b185268f798ecb145e4612d7e68f76f648e6251
     uri: 
@@ -292,14 +292,14 @@
     parameters:
       model: euryale-1.3-l2-70b.Q5_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Euryale-1.3-L2-70B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: euryale-1.3-l2-70b.Q5_K_S.gguf
     sha256: d6306855aed5211bb81353cfe1475064cca372fd4cf97b7eae7c1fa50c90c6dd
     uri: 
@@ -324,14 +324,14 @@
     parameters:
       model: euryale-1.3-l2-70b.Q2_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Euryale-1.3-L2-70B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: euryale-1.3-l2-70b.Q2_K.gguf
     sha256: 7f5f69da57f14357ec00eaf8bef20b6c3bdc7706580e5bb11520f4395af200d7
     uri: 
@@ -356,14 +356,14 @@
     parameters:
       model: euryale-1.3-l2-70b.Q3_K_L.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Euryale-1.3-L2-70B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: euryale-1.3-l2-70b.Q3_K_L.gguf
     sha256: 3e57810ada4d39ce033883cb7feda7e38871013406ca5bf898859a35179e2374
     uri: 
@@ -388,14 +388,14 @@
     parameters:
       model: euryale-1.3-l2-70b.Q3_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Euryale-1.3-L2-70B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: euryale-1.3-l2-70b.Q3_K_M.gguf
     sha256: 549cbce778b6ff36f1f0f6f06525e770e8cddc66d90c199f65d6dcff9e98c573
     uri: 
@@ -420,14 +420,14 @@
     parameters:
       model: euryale-1.3-l2-70b.Q3_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Euryale-1.3-L2-70B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: euryale-1.3-l2-70b.Q3_K_S.gguf
     sha256: b650e99cd5c12ab9cfac98da68bf38b5bc5885fd4e070ec28c011ac60ac9c67e
     uri: 
@@ -452,14 +452,14 @@
     parameters:
       model: euryale-1.3-l2-70b.Q4_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Euryale-1.3-L2-70B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: euryale-1.3-l2-70b.Q4_0.gguf
     sha256: cdd212d8eb9f090465e2572729746862de97d9a23ab913a132592d282a2e10a8
     uri: 
@@ -484,14 +484,14 @@
     parameters:
       model: euryale-1.3-l2-70b.Q4_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Euryale-1.3-L2-70B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: euryale-1.3-l2-70b.Q4_K_M.gguf
     sha256: cb572995fd2ecd7a46ba2320ee29499bf7945fbfe27a15d7a9d1107e19c140a0
     uri: 
@@ -516,14 +516,14 @@
     parameters:
       model: euryale-1.3-l2-70b.Q4_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Euryale-1.3-L2-70B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: euryale-1.3-l2-70b.Q4_K_S.gguf
     sha256: dc8ccf50cfbbfbfac45396155876b2cc91c63c2860dfac6f9943bb62202016a4
     uri: 
@@ -548,14 +548,14 @@
     parameters:
       model: euryale-1.3-l2-70b.Q5_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Euryale-1.3-L2-70B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: euryale-1.3-l2-70b.Q5_0.gguf
     sha256: e73f3f838c48f7c055bcebbdeb20b106e019048219e96250dbe9812c32958f4d
     uri: 
@@ -580,14 +580,14 @@
     parameters:
       model: euryale-1.3-l2-70b.Q5_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Euryale-1.3-L2-70B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: euryale-1.3-l2-70b.Q5_K_M.gguf
     sha256: 8f74aa8dc856e74754a5eaa96b185268f798ecb145e4612d7e68f76f648e6251
     uri: 
@@ -612,14 +612,14 @@
     parameters:
       model: euryale-1.3-l2-70b.Q5_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Euryale-1.3-L2-70B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: euryale-1.3-l2-70b.Q5_K_S.gguf
     sha256: d6306855aed5211bb81353cfe1475064cca372fd4cf97b7eae7c1fa50c90c6dd
     uri: 

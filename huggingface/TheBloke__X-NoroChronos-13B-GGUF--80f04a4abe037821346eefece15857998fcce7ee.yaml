@@ -4,14 +4,14 @@
     parameters:
       model: x-norochronos-13b.Q2_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q2_K.gguf
     sha256: b4f7bcee47bee8d5402ab9295236290a8fe7a33ba39428644c008297a515f738
     uri: 
@@ -37,14 +37,14 @@
     parameters:
       model: x-norochronos-13b.Q3_K_L.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q3_K_L.gguf
     sha256: 8f722e610d9b0da3096ed22bb6e6d4743ba343f4ea13b00284177b564e9ce3f4
     uri: 
@@ -70,14 +70,14 @@
     parameters:
       model: x-norochronos-13b.Q3_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q3_K_M.gguf
     sha256: 3a6ce78d9ef615fbf6b07e846ab8a8b35e0041057ba10ff4788864ccbea2d41d
     uri: 
@@ -103,14 +103,14 @@
     parameters:
       model: x-norochronos-13b.Q3_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q3_K_S.gguf
     sha256: e7e7aae94f5a917f1371fd9680ce30475e563c7df7173ba67d3a31340c1cdc40
     uri: 
@@ -136,14 +136,14 @@
     parameters:
       model: x-norochronos-13b.Q4_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q4_0.gguf
     sha256: 5b542477c1e45a285f6a853d1dbf2b5ba48427bc86b3a92933c732ccfb0ec9c5
     uri: 
@@ -169,14 +169,14 @@
     parameters:
       model: x-norochronos-13b.Q4_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q4_K_M.gguf
     sha256: d488b4a1c22f0f1c2e63df9c983e10080d6a9f758304b079ee826b216a347620
     uri: 
@@ -202,14 +202,14 @@
     parameters:
       model: x-norochronos-13b.Q4_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q4_K_S.gguf
     sha256: 337dfd871094c6e6c46a75872d89bf93b1c19836e4809dd466b5d1e14f93bc8a
     uri: 
@@ -235,14 +235,14 @@
     parameters:
       model: x-norochronos-13b.Q5_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q5_0.gguf
     sha256: a2786619dd6a4a7cb0f41ad0fe9cd864525500fa391581a18cd9e141fd8198b1
     uri: 
@@ -268,14 +268,14 @@
     parameters:
       model: x-norochronos-13b.Q5_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q5_K_M.gguf
     sha256: 981e386aa682ae1c99205a0038fde66822d3f451aec0d5c4745bdf36fe697388
     uri: 
@@ -301,14 +301,14 @@
     parameters:
       model: x-norochronos-13b.Q5_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q5_K_S.gguf
     sha256: 736b15f51a6e52971e8245f59b6596ef5944faecef6175a2a86585a5d9cfbc15
     uri: 
@@ -334,14 +334,14 @@
     parameters:
       model: x-norochronos-13b.Q6_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q6_K.gguf
     sha256: 9d281f7206b19922e81983648434feaa7552e2d3233d4babd2b41569d02a9b1d
     uri: 
@@ -367,14 +367,14 @@
     parameters:
       model: x-norochronos-13b.Q8_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q8_0.gguf
     sha256: 1ec5cb088cb552e9c317d1cf0ad447c8b017e7f12be3deccad1f3808bb71a033
     uri: 
@@ -400,14 +400,14 @@
     parameters:
       model: x-norochronos-13b.Q2_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q2_K.gguf
     sha256: b4f7bcee47bee8d5402ab9295236290a8fe7a33ba39428644c008297a515f738
     uri: 
@@ -433,14 +433,14 @@
     parameters:
       model: x-norochronos-13b.Q3_K_L.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q3_K_L.gguf
     sha256: 8f722e610d9b0da3096ed22bb6e6d4743ba343f4ea13b00284177b564e9ce3f4
     uri: 
@@ -466,14 +466,14 @@
     parameters:
       model: x-norochronos-13b.Q3_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q3_K_M.gguf
     sha256: 3a6ce78d9ef615fbf6b07e846ab8a8b35e0041057ba10ff4788864ccbea2d41d
     uri: 
@@ -499,14 +499,14 @@
     parameters:
       model: x-norochronos-13b.Q3_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q3_K_S.gguf
     sha256: e7e7aae94f5a917f1371fd9680ce30475e563c7df7173ba67d3a31340c1cdc40
     uri: 
@@ -532,14 +532,14 @@
     parameters:
       model: x-norochronos-13b.Q4_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q4_0.gguf
     sha256: 5b542477c1e45a285f6a853d1dbf2b5ba48427bc86b3a92933c732ccfb0ec9c5
     uri: 
@@ -565,14 +565,14 @@
     parameters:
       model: x-norochronos-13b.Q4_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q4_K_M.gguf
     sha256: d488b4a1c22f0f1c2e63df9c983e10080d6a9f758304b079ee826b216a347620
     uri: 
@@ -598,14 +598,14 @@
     parameters:
       model: x-norochronos-13b.Q4_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q4_K_S.gguf
     sha256: 337dfd871094c6e6c46a75872d89bf93b1c19836e4809dd466b5d1e14f93bc8a
     uri: 
@@ -631,14 +631,14 @@
     parameters:
       model: x-norochronos-13b.Q5_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q5_0.gguf
     sha256: a2786619dd6a4a7cb0f41ad0fe9cd864525500fa391581a18cd9e141fd8198b1
     uri: 
@@ -664,14 +664,14 @@
     parameters:
       model: x-norochronos-13b.Q5_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q5_K_M.gguf
     sha256: 981e386aa682ae1c99205a0038fde66822d3f451aec0d5c4745bdf36fe697388
     uri: 
@@ -697,14 +697,14 @@
     parameters:
       model: x-norochronos-13b.Q5_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q5_K_S.gguf
     sha256: 736b15f51a6e52971e8245f59b6596ef5944faecef6175a2a86585a5d9cfbc15
     uri: 
@@ -730,14 +730,14 @@
     parameters:
       model: x-norochronos-13b.Q6_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q6_K.gguf
     sha256: 9d281f7206b19922e81983648434feaa7552e2d3233d4babd2b41569d02a9b1d
     uri: 
@@ -763,14 +763,14 @@
     parameters:
       model: x-norochronos-13b.Q8_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/X-NoroChronos-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: x-norochronos-13b.Q8_0.gguf
     sha256: 1ec5cb088cb552e9c317d1cf0ad447c8b017e7f12be3deccad1f3808bb71a033
     uri: 

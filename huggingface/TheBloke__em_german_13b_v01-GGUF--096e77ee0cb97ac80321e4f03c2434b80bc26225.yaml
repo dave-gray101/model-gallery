@@ -4,14 +4,14 @@
     parameters:
       model: em_german_13b_v01.Q2_K.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llama configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q2_K.gguf
     sha256: 5974978d8db3c65dbb69bf02d7b3d1f6ce6f85b4a8accdd7d3435ac053b012a7
     uri: 
@@ -43,14 +43,14 @@
     parameters:
       model: em_german_13b_v01.Q3_K_L.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llama configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q3_K_L.gguf
     sha256: 6413a77a9419b5726276a36042bc695c76509987d6a85933a3507820c3224d0d
     uri: 
@@ -82,14 +82,14 @@
     parameters:
       model: em_german_13b_v01.Q3_K_M.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llama configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q3_K_M.gguf
     sha256: e04307d6883da70285a567a1da9423fd19f4237135005129120906ec1e47291b
     uri: 
@@ -121,14 +121,14 @@
     parameters:
       model: em_german_13b_v01.Q3_K_S.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llama configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q3_K_S.gguf
     sha256: 250e251a6b49e29181baced56e6296f44fa19b75f4f81ece0325aa942a05b7e9
     uri: 
@@ -160,14 +160,14 @@
     parameters:
       model: em_german_13b_v01.Q4_0.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llama configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q4_0.gguf
     sha256: b247b52d76c89f9113adc20871348e7714a8860925f69562d0f2eeab662411ed
     uri: 
@@ -199,14 +199,14 @@
     parameters:
       model: em_german_13b_v01.Q4_K_M.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llama configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q4_K_M.gguf
     sha256: a323442338cbb5d5c4bfce97b2b71a4e463cd381387e22257a97c635a2f10bbc
     uri: 
@@ -238,14 +238,14 @@
     parameters:
       model: em_german_13b_v01.Q4_K_S.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llama configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q4_K_S.gguf
     sha256: 5a1d25e347db29db53bbec6cc6f23ccf0605fc22cc0048492b4150ef3c4626d6
     uri: 
@@ -277,14 +277,14 @@
     parameters:
       model: em_german_13b_v01.Q5_0.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llama configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q5_0.gguf
     sha256: 5001cc35c3f5770d51b2973a869e1fc04ce1f424c0667dd85356b5625a0119b9
     uri: 
@@ -316,14 +316,14 @@
     parameters:
       model: em_german_13b_v01.Q5_K_M.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llama configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q5_K_M.gguf
     sha256: a5b1f3e35f6d0aec12e8af268ba6d9e7e0c694317a935e8e15c9007ad67552ce
     uri: 
@@ -355,14 +355,14 @@
     parameters:
       model: em_german_13b_v01.Q5_K_S.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llama configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q5_K_S.gguf
     sha256: 2044c40ca352e1608702ff7eb5dbcb1eae6e751569f96f32110e5154757c0e25
     uri: 
@@ -394,14 +394,14 @@
     parameters:
       model: em_german_13b_v01.Q6_K.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llama configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q6_K.gguf
     sha256: bdc315fa4dcacac6a804eb22631bcd62cf33a7b61c9861c4215b2636750c336a
     uri: 
@@ -433,14 +433,14 @@
     parameters:
       model: em_german_13b_v01.Q8_0.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llama configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q8_0.gguf
     sha256: c748ca0abccdadf375dba16285ed43adb5761a48677c8509a709ac6106350eb6
     uri: 
@@ -472,14 +472,14 @@
     parameters:
       model: em_german_13b_v01.Q2_K.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q2_K.gguf
     sha256: 5974978d8db3c65dbb69bf02d7b3d1f6ce6f85b4a8accdd7d3435ac053b012a7
     uri: 
@@ -511,14 +511,14 @@
     parameters:
       model: em_german_13b_v01.Q3_K_L.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q3_K_L.gguf
     sha256: 6413a77a9419b5726276a36042bc695c76509987d6a85933a3507820c3224d0d
     uri: 
@@ -550,14 +550,14 @@
     parameters:
       model: em_german_13b_v01.Q3_K_M.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q3_K_M.gguf
     sha256: e04307d6883da70285a567a1da9423fd19f4237135005129120906ec1e47291b
     uri: 
@@ -589,14 +589,14 @@
     parameters:
       model: em_german_13b_v01.Q3_K_S.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q3_K_S.gguf
     sha256: 250e251a6b49e29181baced56e6296f44fa19b75f4f81ece0325aa942a05b7e9
     uri: 
@@ -628,14 +628,14 @@
     parameters:
       model: em_german_13b_v01.Q4_0.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q4_0.gguf
     sha256: b247b52d76c89f9113adc20871348e7714a8860925f69562d0f2eeab662411ed
     uri: 
@@ -667,14 +667,14 @@
     parameters:
       model: em_german_13b_v01.Q4_K_M.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q4_K_M.gguf
     sha256: a323442338cbb5d5c4bfce97b2b71a4e463cd381387e22257a97c635a2f10bbc
     uri: 
@@ -706,14 +706,14 @@
     parameters:
       model: em_german_13b_v01.Q4_K_S.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q4_K_S.gguf
     sha256: 5a1d25e347db29db53bbec6cc6f23ccf0605fc22cc0048492b4150ef3c4626d6
     uri: 
@@ -745,14 +745,14 @@
     parameters:
       model: em_german_13b_v01.Q5_0.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q5_0.gguf
     sha256: 5001cc35c3f5770d51b2973a869e1fc04ce1f424c0667dd85356b5625a0119b9
     uri: 
@@ -784,14 +784,14 @@
     parameters:
       model: em_german_13b_v01.Q5_K_M.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q5_K_M.gguf
     sha256: a5b1f3e35f6d0aec12e8af268ba6d9e7e0c694317a935e8e15c9007ad67552ce
     uri: 
@@ -823,14 +823,14 @@
     parameters:
       model: em_german_13b_v01.Q5_K_S.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q5_K_S.gguf
     sha256: 2044c40ca352e1608702ff7eb5dbcb1eae6e751569f96f32110e5154757c0e25
     uri: 
@@ -862,14 +862,14 @@
     parameters:
       model: em_german_13b_v01.Q6_K.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q6_K.gguf
     sha256: bdc315fa4dcacac6a804eb22631bcd62cf33a7b61c9861c4215b2636750c336a
     uri: 
@@ -901,14 +901,14 @@
     parameters:
       model: em_german_13b_v01.Q8_0.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q8_0.gguf
     sha256: c748ca0abccdadf375dba16285ed43adb5761a48677c8509a709ac6106350eb6
     uri: 
@@ -940,14 +940,14 @@
     parameters:
       model: em_german_13b_v01.Q2_K.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q2_K.gguf
     sha256: 5974978d8db3c65dbb69bf02d7b3d1f6ce6f85b4a8accdd7d3435ac053b012a7
     uri: 
@@ -979,14 +979,14 @@
     parameters:
       model: em_german_13b_v01.Q3_K_L.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q3_K_L.gguf
     sha256: 6413a77a9419b5726276a36042bc695c76509987d6a85933a3507820c3224d0d
     uri: 
@@ -1018,14 +1018,14 @@
     parameters:
       model: em_german_13b_v01.Q3_K_M.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q3_K_M.gguf
     sha256: e04307d6883da70285a567a1da9423fd19f4237135005129120906ec1e47291b
     uri: 
@@ -1057,14 +1057,14 @@
     parameters:
       model: em_german_13b_v01.Q3_K_S.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q3_K_S.gguf
     sha256: 250e251a6b49e29181baced56e6296f44fa19b75f4f81ece0325aa942a05b7e9
     uri: 
@@ -1096,14 +1096,14 @@
     parameters:
       model: em_german_13b_v01.Q4_0.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q4_0.gguf
     sha256: b247b52d76c89f9113adc20871348e7714a8860925f69562d0f2eeab662411ed
     uri: 
@@ -1135,14 +1135,14 @@
     parameters:
       model: em_german_13b_v01.Q4_K_M.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q4_K_M.gguf
     sha256: a323442338cbb5d5c4bfce97b2b71a4e463cd381387e22257a97c635a2f10bbc
     uri: 
@@ -1174,14 +1174,14 @@
     parameters:
       model: em_german_13b_v01.Q4_K_S.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q4_K_S.gguf
     sha256: 5a1d25e347db29db53bbec6cc6f23ccf0605fc22cc0048492b4150ef3c4626d6
     uri: 
@@ -1213,14 +1213,14 @@
     parameters:
       model: em_german_13b_v01.Q5_0.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q5_0.gguf
     sha256: 5001cc35c3f5770d51b2973a869e1fc04ce1f424c0667dd85356b5625a0119b9
     uri: 
@@ -1252,14 +1252,14 @@
     parameters:
       model: em_german_13b_v01.Q5_K_M.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q5_K_M.gguf
     sha256: a5b1f3e35f6d0aec12e8af268ba6d9e7e0c694317a935e8e15c9007ad67552ce
     uri: 
@@ -1291,14 +1291,14 @@
     parameters:
       model: em_german_13b_v01.Q5_K_S.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q5_K_S.gguf
     sha256: 2044c40ca352e1608702ff7eb5dbcb1eae6e751569f96f32110e5154757c0e25
     uri: 
@@ -1330,14 +1330,14 @@
     parameters:
       model: em_german_13b_v01.Q6_K.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q6_K.gguf
     sha256: bdc315fa4dcacac6a804eb22631bcd62cf33a7b61c9861c4215b2636750c336a
     uri: 
@@ -1369,14 +1369,14 @@
     parameters:
       model: em_german_13b_v01.Q8_0.gguf
     template:
-      chat: EmGerman
-      completion: EmGerman
+      chat: emgerman
+      completion: emgerman
   description: TheBloke/em_german_13b_v01-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: EmGerman.tmpl
+  - filename: emgerman.tmpl
     sha256: 3f6345fb69e3fbf4fe1f7df18b3f9adc5c31b47b924361a421f5bfab3f589260
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/EmGerman.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/emgerman.tmpl
   - filename: em_german_13b_v01.Q8_0.gguf
     sha256: c748ca0abccdadf375dba16285ed43adb5761a48677c8509a709ac6106350eb6
     uri: 

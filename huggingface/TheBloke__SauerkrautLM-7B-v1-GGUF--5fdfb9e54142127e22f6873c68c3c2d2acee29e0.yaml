@@ -4,14 +4,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q2_K.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llama configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q2_K.gguf
     sha256: 0a19c0ead13b3af63bbaa0bd9f13ff7687a85fea6c2cb76c95d13ddb72fb7261
     uri: 
@@ -38,14 +38,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q3_K_L.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llama configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q3_K_L.gguf
     sha256: 930e7195032050a80b4570aafc25193f75a33ae017b179c2ac399b2a404c0cee
     uri: 
@@ -72,14 +72,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q3_K_M.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llama configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q3_K_M.gguf
     sha256: dbe84fec2d59d932c66d5891f39481f24465f24d59785567c355fed25d37104d
     uri: 
@@ -106,14 +106,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q3_K_S.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llama configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q3_K_S.gguf
     sha256: bf9e8d37e0e1d0ff6694916ef5bcd212eadc027d34098ebbcf4625fe5545a36d
     uri: 
@@ -140,14 +140,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q4_0.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llama configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q4_0.gguf
     sha256: 15b9f52fc5943f9711a999df2825242a41e19173f9fb317250f8010fa8654f5e
     uri: 
@@ -174,14 +174,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q4_K_M.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llama configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q4_K_M.gguf
     sha256: 346010f8bb1a1d529a17354edd08ef72ffc303961f130341032d1855834ed333
     uri: 
@@ -208,14 +208,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q4_K_S.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llama configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q4_K_S.gguf
     sha256: 12f12e4bcde0cca6c72423e232cfd97524e16d9383cd139335304d430fafeadc
     uri: 
@@ -242,14 +242,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q5_0.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llama configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q5_0.gguf
     sha256: 4d9577dad9d3aaf4b00056faacc50b60bb98ae51fb918a2b31856f4cc376afc7
     uri: 
@@ -276,14 +276,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q5_K_M.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llama configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q5_K_M.gguf
     sha256: 7dc314425a74c500e8e04e4f5c324e87d64933eedf428ca717c133c2d8f68598
     uri: 
@@ -310,14 +310,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q5_K_S.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llama configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q5_K_S.gguf
     sha256: 631d5624710637c3ae6f18efbc4d8240f3e13a33867ce7a18d1920dcdf376198
     uri: 
@@ -344,14 +344,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q6_K.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llama configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q6_K.gguf
     sha256: 24cbbac89d2dc420ab05c1c6fe0e10c0dd9ef85f20430b2113f877e4b9f43ba6
     uri: 
@@ -378,14 +378,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q8_0.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llama configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q8_0.gguf
     sha256: 1488133b2bf8d0239dcac86f47ffe7e840653238480d796fdcceb4b0379fc576
     uri: 
@@ -412,14 +412,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q2_K.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q2_K.gguf
     sha256: 0a19c0ead13b3af63bbaa0bd9f13ff7687a85fea6c2cb76c95d13ddb72fb7261
     uri: 
@@ -446,14 +446,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q3_K_L.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q3_K_L.gguf
     sha256: 930e7195032050a80b4570aafc25193f75a33ae017b179c2ac399b2a404c0cee
     uri: 
@@ -480,14 +480,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q3_K_M.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q3_K_M.gguf
     sha256: dbe84fec2d59d932c66d5891f39481f24465f24d59785567c355fed25d37104d
     uri: 
@@ -514,14 +514,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q3_K_S.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q3_K_S.gguf
     sha256: bf9e8d37e0e1d0ff6694916ef5bcd212eadc027d34098ebbcf4625fe5545a36d
     uri: 
@@ -548,14 +548,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q4_0.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q4_0.gguf
     sha256: 15b9f52fc5943f9711a999df2825242a41e19173f9fb317250f8010fa8654f5e
     uri: 
@@ -582,14 +582,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q4_K_M.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q4_K_M.gguf
     sha256: 346010f8bb1a1d529a17354edd08ef72ffc303961f130341032d1855834ed333
     uri: 
@@ -616,14 +616,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q4_K_S.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q4_K_S.gguf
     sha256: 12f12e4bcde0cca6c72423e232cfd97524e16d9383cd139335304d430fafeadc
     uri: 
@@ -650,14 +650,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q5_0.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q5_0.gguf
     sha256: 4d9577dad9d3aaf4b00056faacc50b60bb98ae51fb918a2b31856f4cc376afc7
     uri: 
@@ -684,14 +684,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q5_K_M.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q5_K_M.gguf
     sha256: 7dc314425a74c500e8e04e4f5c324e87d64933eedf428ca717c133c2d8f68598
     uri: 
@@ -718,14 +718,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q5_K_S.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q5_K_S.gguf
     sha256: 631d5624710637c3ae6f18efbc4d8240f3e13a33867ce7a18d1920dcdf376198
     uri: 
@@ -752,14 +752,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q6_K.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q6_K.gguf
     sha256: 24cbbac89d2dc420ab05c1c6fe0e10c0dd9ef85f20430b2113f877e4b9f43ba6
     uri: 
@@ -786,14 +786,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q8_0.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q8_0.gguf
     sha256: 1488133b2bf8d0239dcac86f47ffe7e840653238480d796fdcceb4b0379fc576
     uri: 
@@ -820,14 +820,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q2_K.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q2_K.gguf
     sha256: 0a19c0ead13b3af63bbaa0bd9f13ff7687a85fea6c2cb76c95d13ddb72fb7261
     uri: 
@@ -854,14 +854,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q3_K_L.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q3_K_L.gguf
     sha256: 930e7195032050a80b4570aafc25193f75a33ae017b179c2ac399b2a404c0cee
     uri: 
@@ -888,14 +888,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q3_K_M.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q3_K_M.gguf
     sha256: dbe84fec2d59d932c66d5891f39481f24465f24d59785567c355fed25d37104d
     uri: 
@@ -922,14 +922,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q3_K_S.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q3_K_S.gguf
     sha256: bf9e8d37e0e1d0ff6694916ef5bcd212eadc027d34098ebbcf4625fe5545a36d
     uri: 
@@ -956,14 +956,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q4_0.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q4_0.gguf
     sha256: 15b9f52fc5943f9711a999df2825242a41e19173f9fb317250f8010fa8654f5e
     uri: 
@@ -990,14 +990,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q4_K_M.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q4_K_M.gguf
     sha256: 346010f8bb1a1d529a17354edd08ef72ffc303961f130341032d1855834ed333
     uri: 
@@ -1024,14 +1024,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q4_K_S.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q4_K_S.gguf
     sha256: 12f12e4bcde0cca6c72423e232cfd97524e16d9383cd139335304d430fafeadc
     uri: 
@@ -1058,14 +1058,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q5_0.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q5_0.gguf
     sha256: 4d9577dad9d3aaf4b00056faacc50b60bb98ae51fb918a2b31856f4cc376afc7
     uri: 
@@ -1092,14 +1092,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q5_K_M.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q5_K_M.gguf
     sha256: 7dc314425a74c500e8e04e4f5c324e87d64933eedf428ca717c133c2d8f68598
     uri: 
@@ -1126,14 +1126,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q5_K_S.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q5_K_S.gguf
     sha256: 631d5624710637c3ae6f18efbc4d8240f3e13a33867ce7a18d1920dcdf376198
     uri: 
@@ -1160,14 +1160,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q6_K.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q6_K.gguf
     sha256: 24cbbac89d2dc420ab05c1c6fe0e10c0dd9ef85f20430b2113f877e4b9f43ba6
     uri: 
@@ -1194,14 +1194,14 @@
     parameters:
       model: sauerkrautlm-7b-v1.Q8_0.gguf
     template:
-      chat: Sauerkraut
-      completion: Sauerkraut
+      chat: sauerkraut
+      completion: sauerkraut
   description: TheBloke/SauerkrautLM-7B-v1-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Sauerkraut.tmpl
+  - filename: sauerkraut.tmpl
     sha256: de2c9e0bc5e74ea7316d1d00941fac0c0d862b504fdb837cd4d35df7fe9d84c9
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Sauerkraut.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sauerkraut.tmpl
   - filename: sauerkrautlm-7b-v1.Q8_0.gguf
     sha256: 1488133b2bf8d0239dcac86f47ffe7e840653238480d796fdcceb4b0379fc576
     uri: 

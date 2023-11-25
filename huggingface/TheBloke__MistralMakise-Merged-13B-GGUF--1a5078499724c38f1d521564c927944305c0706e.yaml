@@ -4,14 +4,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q2_K.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llama configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q2_K.gguf
     sha256: 5f08ead436104fa18a775ac9028570a5367de3cf4a22c4b9f77438e6b979af12
     uri: 
@@ -35,14 +35,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q3_K_L.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llama configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q3_K_L.gguf
     sha256: 6650aba81f0c02368860f215d2c44435c60d33a372b0f62a4a69848e87270c68
     uri: 
@@ -66,14 +66,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q3_K_M.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llama configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q3_K_M.gguf
     sha256: 07b6d74be76f0f2d711e2621334791b25d6f592bec5c41749df074f0a57551bc
     uri: 
@@ -97,14 +97,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q3_K_S.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llama configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q3_K_S.gguf
     sha256: d5898f83a36ed1a2e51fc1ba30aa450ba156e6cf240a27ea2200b4dc537d6cb7
     uri: 
@@ -128,14 +128,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q4_0.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llama configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q4_0.gguf
     sha256: 873b9fe7ed6f7f98af7547a6a27090094898f166a0afe0e651d9a2d0a7593cc2
     uri: 
@@ -159,14 +159,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q4_K_M.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llama configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q4_K_M.gguf
     sha256: fb74744ad327e407e37c66c1663700124c682062b97a0ad8c7ce9fa86f21e41e
     uri: 
@@ -190,14 +190,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q4_K_S.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llama configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q4_K_S.gguf
     sha256: c28534f22481d797d7e33165865d61319e06d26822495e221742f2509b13a51c
     uri: 
@@ -221,14 +221,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q5_0.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llama configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q5_0.gguf
     sha256: 1afd536a0607750d91da4c2e38a5e0fc51d12984214fe49f0310433da08eded3
     uri: 
@@ -252,14 +252,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q5_K_M.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llama configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q5_K_M.gguf
     sha256: 63c9c0ee3895b5ebde764a55941fe1e2c1d53daba715342770bc85906ae4b0fd
     uri: 
@@ -283,14 +283,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q5_K_S.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llama configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q5_K_S.gguf
     sha256: 5fef82c411ec180c9608465416af2a3ce4ac5ce0849f392c7eddd1eaf388277e
     uri: 
@@ -314,14 +314,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q6_K.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llama configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q6_K.gguf
     sha256: 035bac86ea3f5a5fa91607a36a1e139eb4c33b28613420e9d6d39e9ab79a1e15
     uri: 
@@ -345,14 +345,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q8_0.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llama configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q8_0.gguf
     sha256: 5631f9cd02a613c84129b94ffbb0295845a7a0326377e04902ff4495e09b0f22
     uri: 
@@ -376,14 +376,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q2_K.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q2_K.gguf
     sha256: 5f08ead436104fa18a775ac9028570a5367de3cf4a22c4b9f77438e6b979af12
     uri: 
@@ -407,14 +407,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q3_K_L.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q3_K_L.gguf
     sha256: 6650aba81f0c02368860f215d2c44435c60d33a372b0f62a4a69848e87270c68
     uri: 
@@ -438,14 +438,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q3_K_M.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q3_K_M.gguf
     sha256: 07b6d74be76f0f2d711e2621334791b25d6f592bec5c41749df074f0a57551bc
     uri: 
@@ -469,14 +469,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q3_K_S.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q3_K_S.gguf
     sha256: d5898f83a36ed1a2e51fc1ba30aa450ba156e6cf240a27ea2200b4dc537d6cb7
     uri: 
@@ -500,14 +500,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q4_0.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q4_0.gguf
     sha256: 873b9fe7ed6f7f98af7547a6a27090094898f166a0afe0e651d9a2d0a7593cc2
     uri: 
@@ -531,14 +531,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q4_K_M.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q4_K_M.gguf
     sha256: fb74744ad327e407e37c66c1663700124c682062b97a0ad8c7ce9fa86f21e41e
     uri: 
@@ -562,14 +562,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q4_K_S.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q4_K_S.gguf
     sha256: c28534f22481d797d7e33165865d61319e06d26822495e221742f2509b13a51c
     uri: 
@@ -593,14 +593,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q5_0.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q5_0.gguf
     sha256: 1afd536a0607750d91da4c2e38a5e0fc51d12984214fe49f0310433da08eded3
     uri: 
@@ -624,14 +624,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q5_K_M.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q5_K_M.gguf
     sha256: 63c9c0ee3895b5ebde764a55941fe1e2c1d53daba715342770bc85906ae4b0fd
     uri: 
@@ -655,14 +655,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q5_K_S.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q5_K_S.gguf
     sha256: 5fef82c411ec180c9608465416af2a3ce4ac5ce0849f392c7eddd1eaf388277e
     uri: 
@@ -686,14 +686,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q6_K.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q6_K.gguf
     sha256: 035bac86ea3f5a5fa91607a36a1e139eb4c33b28613420e9d6d39e9ab79a1e15
     uri: 
@@ -717,14 +717,14 @@
     parameters:
       model: mistralmakise-merged-13b.Q8_0.gguf
     template:
-      chat: SillyTavern
-      completion: SillyTavern
+      chat: sillytavern
+      completion: sillytavern
   description: TheBloke/MistralMakise-Merged-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: SillyTavern.tmpl
+  - filename: sillytavern.tmpl
     sha256: ef07fede5c43989d79f2c34a24c6382e99db5f4694325fe8a4084fe10a198760
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/SillyTavern.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/sillytavern.tmpl
   - filename: mistralmakise-merged-13b.Q8_0.gguf
     sha256: 5631f9cd02a613c84129b94ffbb0295845a7a0326377e04902ff4495e09b0f22
     uri: 

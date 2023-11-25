@@ -4,14 +4,14 @@
     parameters:
       model: uni-tianyan-70b.Q2_K.gguf
     template:
-      chat: TBC
-      completion: TBC
+      chat: tbc
+      completion: tbc
   description: TheBloke/Uni-TianYan-70B-GGUF - llama configuration
   files:
-  - filename: TBC.tmpl
+  - filename: tbc.tmpl
     sha256: d6fb57ef3b4387c01851732ae9cf8470af21b0bc0044683fc096e859b8eb5a76
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TBC.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/tbc.tmpl
   - filename: uni-tianyan-70b.Q2_K.gguf
     sha256: ee7c1e41d7e9acbd19d83ddf23a2089fdf876a0c1062193dde7ea419e0c49c74
     uri: 
@@ -37,14 +37,14 @@
     parameters:
       model: uni-tianyan-70b.Q3_K_L.gguf
     template:
-      chat: TBC
-      completion: TBC
+      chat: tbc
+      completion: tbc
   description: TheBloke/Uni-TianYan-70B-GGUF - llama configuration
   files:
-  - filename: TBC.tmpl
+  - filename: tbc.tmpl
     sha256: d6fb57ef3b4387c01851732ae9cf8470af21b0bc0044683fc096e859b8eb5a76
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TBC.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/tbc.tmpl
   - filename: uni-tianyan-70b.Q3_K_L.gguf
     sha256: 45f759cb3ca76b588ee561913579810f2f90079fe309a50a25db52b696737f55
     uri: 
@@ -70,14 +70,14 @@
     parameters:
       model: uni-tianyan-70b.Q3_K_M.gguf
     template:
-      chat: TBC
-      completion: TBC
+      chat: tbc
+      completion: tbc
   description: TheBloke/Uni-TianYan-70B-GGUF - llama configuration
   files:
-  - filename: TBC.tmpl
+  - filename: tbc.tmpl
     sha256: d6fb57ef3b4387c01851732ae9cf8470af21b0bc0044683fc096e859b8eb5a76
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TBC.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/tbc.tmpl
   - filename: uni-tianyan-70b.Q3_K_M.gguf
     sha256: 8395a4deca400051a4c89b2d81c54d70adba9f92503e7d62a476954b1d484b46
     uri: 
@@ -103,14 +103,14 @@
     parameters:
       model: uni-tianyan-70b.Q3_K_S.gguf
     template:
-      chat: TBC
-      completion: TBC
+      chat: tbc
+      completion: tbc
   description: TheBloke/Uni-TianYan-70B-GGUF - llama configuration
   files:
-  - filename: TBC.tmpl
+  - filename: tbc.tmpl
     sha256: d6fb57ef3b4387c01851732ae9cf8470af21b0bc0044683fc096e859b8eb5a76
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TBC.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/tbc.tmpl
   - filename: uni-tianyan-70b.Q3_K_S.gguf
     sha256: fb25f2248fd92583da5d0cfd27419e0a7be58e74359c1204069b6458bdcee0f9
     uri: 
@@ -136,14 +136,14 @@
     parameters:
       model: uni-tianyan-70b.Q4_0.gguf
     template:
-      chat: TBC
-      completion: TBC
+      chat: tbc
+      completion: tbc
   description: TheBloke/Uni-TianYan-70B-GGUF - llama configuration
   files:
-  - filename: TBC.tmpl
+  - filename: tbc.tmpl
     sha256: d6fb57ef3b4387c01851732ae9cf8470af21b0bc0044683fc096e859b8eb5a76
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TBC.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/tbc.tmpl
   - filename: uni-tianyan-70b.Q4_0.gguf
     sha256: 31de687fd41529cb0016717dec6e041a0da6599a85aec061927da6a58e8da119
     uri: 
@@ -169,14 +169,14 @@
     parameters:
       model: uni-tianyan-70b.Q4_K_M.gguf
     template:
-      chat: TBC
-      completion: TBC
+      chat: tbc
+      completion: tbc
   description: TheBloke/Uni-TianYan-70B-GGUF - llama configuration
   files:
-  - filename: TBC.tmpl
+  - filename: tbc.tmpl
     sha256: d6fb57ef3b4387c01851732ae9cf8470af21b0bc0044683fc096e859b8eb5a76
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TBC.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/tbc.tmpl
   - filename: uni-tianyan-70b.Q4_K_M.gguf
     sha256: a2abde5aeb397600e48643cd41412672f1f09a280c1c3afe07897842c920f4c6
     uri: 
@@ -202,14 +202,14 @@
     parameters:
       model: uni-tianyan-70b.Q4_K_S.gguf
     template:
-      chat: TBC
-      completion: TBC
+      chat: tbc
+      completion: tbc
   description: TheBloke/Uni-TianYan-70B-GGUF - llama configuration
   files:
-  - filename: TBC.tmpl
+  - filename: tbc.tmpl
     sha256: d6fb57ef3b4387c01851732ae9cf8470af21b0bc0044683fc096e859b8eb5a76
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TBC.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/tbc.tmpl
   - filename: uni-tianyan-70b.Q4_K_S.gguf
     sha256: 76268213761173e351537046e2a82ccb622abd28a93cdd7caa841bb448b3fb65
     uri: 
@@ -235,14 +235,14 @@
     parameters:
       model: uni-tianyan-70b.Q5_0.gguf
     template:
-      chat: TBC
-      completion: TBC
+      chat: tbc
+      completion: tbc
   description: TheBloke/Uni-TianYan-70B-GGUF - llama configuration
   files:
-  - filename: TBC.tmpl
+  - filename: tbc.tmpl
     sha256: d6fb57ef3b4387c01851732ae9cf8470af21b0bc0044683fc096e859b8eb5a76
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TBC.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/tbc.tmpl
   - filename: uni-tianyan-70b.Q5_0.gguf
     sha256: de6b54ef441d9b82b5496e48e2b967d9e02a22fd6d8fb4dbd6b172a2f0dea4b6
     uri: 
@@ -268,14 +268,14 @@
     parameters:
       model: uni-tianyan-70b.Q5_K_M.gguf
     template:
-      chat: TBC
-      completion: TBC
+      chat: tbc
+      completion: tbc
   description: TheBloke/Uni-TianYan-70B-GGUF - llama configuration
   files:
-  - filename: TBC.tmpl
+  - filename: tbc.tmpl
     sha256: d6fb57ef3b4387c01851732ae9cf8470af21b0bc0044683fc096e859b8eb5a76
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TBC.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/tbc.tmpl
   - filename: uni-tianyan-70b.Q5_K_M.gguf
     sha256: e6f74920b3fab25f1fb9189edd0f59b6415088500803287c43bc54f95ab6ec45
     uri: 
@@ -301,14 +301,14 @@
     parameters:
       model: uni-tianyan-70b.Q5_K_S.gguf
     template:
-      chat: TBC
-      completion: TBC
+      chat: tbc
+      completion: tbc
   description: TheBloke/Uni-TianYan-70B-GGUF - llama configuration
   files:
-  - filename: TBC.tmpl
+  - filename: tbc.tmpl
     sha256: d6fb57ef3b4387c01851732ae9cf8470af21b0bc0044683fc096e859b8eb5a76
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TBC.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/tbc.tmpl
   - filename: uni-tianyan-70b.Q5_K_S.gguf
     sha256: 3390a3d902ac015a75543c66bdbf349bf27f471e0ba653a348aa821bc1f5702e
     uri: 
@@ -334,14 +334,14 @@
     parameters:
       model: uni-tianyan-70b.Q2_K.gguf
     template:
-      chat: TBC
-      completion: TBC
+      chat: tbc
+      completion: tbc
   description: TheBloke/Uni-TianYan-70B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: TBC.tmpl
+  - filename: tbc.tmpl
     sha256: d6fb57ef3b4387c01851732ae9cf8470af21b0bc0044683fc096e859b8eb5a76
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TBC.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/tbc.tmpl
   - filename: uni-tianyan-70b.Q2_K.gguf
     sha256: ee7c1e41d7e9acbd19d83ddf23a2089fdf876a0c1062193dde7ea419e0c49c74
     uri: 
@@ -367,14 +367,14 @@
     parameters:
       model: uni-tianyan-70b.Q3_K_L.gguf
     template:
-      chat: TBC
-      completion: TBC
+      chat: tbc
+      completion: tbc
   description: TheBloke/Uni-TianYan-70B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: TBC.tmpl
+  - filename: tbc.tmpl
     sha256: d6fb57ef3b4387c01851732ae9cf8470af21b0bc0044683fc096e859b8eb5a76
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TBC.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/tbc.tmpl
   - filename: uni-tianyan-70b.Q3_K_L.gguf
     sha256: 45f759cb3ca76b588ee561913579810f2f90079fe309a50a25db52b696737f55
     uri: 
@@ -400,14 +400,14 @@
     parameters:
       model: uni-tianyan-70b.Q3_K_M.gguf
     template:
-      chat: TBC
-      completion: TBC
+      chat: tbc
+      completion: tbc
   description: TheBloke/Uni-TianYan-70B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: TBC.tmpl
+  - filename: tbc.tmpl
     sha256: d6fb57ef3b4387c01851732ae9cf8470af21b0bc0044683fc096e859b8eb5a76
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TBC.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/tbc.tmpl
   - filename: uni-tianyan-70b.Q3_K_M.gguf
     sha256: 8395a4deca400051a4c89b2d81c54d70adba9f92503e7d62a476954b1d484b46
     uri: 
@@ -433,14 +433,14 @@
     parameters:
       model: uni-tianyan-70b.Q3_K_S.gguf
     template:
-      chat: TBC
-      completion: TBC
+      chat: tbc
+      completion: tbc
   description: TheBloke/Uni-TianYan-70B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: TBC.tmpl
+  - filename: tbc.tmpl
     sha256: d6fb57ef3b4387c01851732ae9cf8470af21b0bc0044683fc096e859b8eb5a76
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TBC.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/tbc.tmpl
   - filename: uni-tianyan-70b.Q3_K_S.gguf
     sha256: fb25f2248fd92583da5d0cfd27419e0a7be58e74359c1204069b6458bdcee0f9
     uri: 
@@ -466,14 +466,14 @@
     parameters:
       model: uni-tianyan-70b.Q4_0.gguf
     template:
-      chat: TBC
-      completion: TBC
+      chat: tbc
+      completion: tbc
   description: TheBloke/Uni-TianYan-70B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: TBC.tmpl
+  - filename: tbc.tmpl
     sha256: d6fb57ef3b4387c01851732ae9cf8470af21b0bc0044683fc096e859b8eb5a76
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TBC.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/tbc.tmpl
   - filename: uni-tianyan-70b.Q4_0.gguf
     sha256: 31de687fd41529cb0016717dec6e041a0da6599a85aec061927da6a58e8da119
     uri: 
@@ -499,14 +499,14 @@
     parameters:
       model: uni-tianyan-70b.Q4_K_M.gguf
     template:
-      chat: TBC
-      completion: TBC
+      chat: tbc
+      completion: tbc
   description: TheBloke/Uni-TianYan-70B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: TBC.tmpl
+  - filename: tbc.tmpl
     sha256: d6fb57ef3b4387c01851732ae9cf8470af21b0bc0044683fc096e859b8eb5a76
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TBC.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/tbc.tmpl
   - filename: uni-tianyan-70b.Q4_K_M.gguf
     sha256: a2abde5aeb397600e48643cd41412672f1f09a280c1c3afe07897842c920f4c6
     uri: 
@@ -532,14 +532,14 @@
     parameters:
       model: uni-tianyan-70b.Q4_K_S.gguf
     template:
-      chat: TBC
-      completion: TBC
+      chat: tbc
+      completion: tbc
   description: TheBloke/Uni-TianYan-70B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: TBC.tmpl
+  - filename: tbc.tmpl
     sha256: d6fb57ef3b4387c01851732ae9cf8470af21b0bc0044683fc096e859b8eb5a76
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TBC.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/tbc.tmpl
   - filename: uni-tianyan-70b.Q4_K_S.gguf
     sha256: 76268213761173e351537046e2a82ccb622abd28a93cdd7caa841bb448b3fb65
     uri: 
@@ -565,14 +565,14 @@
     parameters:
       model: uni-tianyan-70b.Q5_0.gguf
     template:
-      chat: TBC
-      completion: TBC
+      chat: tbc
+      completion: tbc
   description: TheBloke/Uni-TianYan-70B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: TBC.tmpl
+  - filename: tbc.tmpl
     sha256: d6fb57ef3b4387c01851732ae9cf8470af21b0bc0044683fc096e859b8eb5a76
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TBC.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/tbc.tmpl
   - filename: uni-tianyan-70b.Q5_0.gguf
     sha256: de6b54ef441d9b82b5496e48e2b967d9e02a22fd6d8fb4dbd6b172a2f0dea4b6
     uri: 
@@ -598,14 +598,14 @@
     parameters:
       model: uni-tianyan-70b.Q5_K_M.gguf
     template:
-      chat: TBC
-      completion: TBC
+      chat: tbc
+      completion: tbc
   description: TheBloke/Uni-TianYan-70B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: TBC.tmpl
+  - filename: tbc.tmpl
     sha256: d6fb57ef3b4387c01851732ae9cf8470af21b0bc0044683fc096e859b8eb5a76
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TBC.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/tbc.tmpl
   - filename: uni-tianyan-70b.Q5_K_M.gguf
     sha256: e6f74920b3fab25f1fb9189edd0f59b6415088500803287c43bc54f95ab6ec45
     uri: 
@@ -631,14 +631,14 @@
     parameters:
       model: uni-tianyan-70b.Q5_K_S.gguf
     template:
-      chat: TBC
-      completion: TBC
+      chat: tbc
+      completion: tbc
   description: TheBloke/Uni-TianYan-70B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: TBC.tmpl
+  - filename: tbc.tmpl
     sha256: d6fb57ef3b4387c01851732ae9cf8470af21b0bc0044683fc096e859b8eb5a76
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/TBC.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/tbc.tmpl
   - filename: uni-tianyan-70b.Q5_K_S.gguf
     sha256: 3390a3d902ac015a75543c66bdbf349bf27f471e0ba653a348aa821bc1f5702e
     uri: 

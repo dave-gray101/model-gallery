@@ -4,14 +4,14 @@
     parameters:
       model: openbuddy-llama2-70b-v13.2.Q2_K.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-llama2-70B-v13.2-GGUF - llama configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-llama2-70b-v13.2.Q2_K.gguf
     sha256: a553f2cb3fae7018365f3cb830b305532bad85941c1aaea74711641981fd32bf
     uri: 
@@ -35,14 +35,14 @@
     parameters:
       model: openbuddy-llama2-70b-v13.2.Q3_K_L.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-llama2-70B-v13.2-GGUF - llama configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-llama2-70b-v13.2.Q3_K_L.gguf
     sha256: 06dd9357c98f757e57963361ac2e64528f3163af80aa2007259ba48097c4ad20
     uri: 
@@ -67,14 +67,14 @@
     parameters:
       model: openbuddy-llama2-70b-v13.2.Q3_K_M.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-llama2-70B-v13.2-GGUF - llama configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-llama2-70b-v13.2.Q3_K_M.gguf
     sha256: d9337fb34a783e81a67dbd2ea757b06ace8066952f603e3dcbda63acb6e96254
     uri: 
@@ -99,14 +99,14 @@
     parameters:
       model: openbuddy-llama2-70b-v13.2.Q3_K_S.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-llama2-70B-v13.2-GGUF - llama configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-llama2-70b-v13.2.Q3_K_S.gguf
     sha256: 3d0bf13c975710e4f9f2cb6b5928f62e7d679f54a0e8a3b5bfa2353f56a45690
     uri: 
@@ -131,14 +131,14 @@
     parameters:
       model: openbuddy-llama2-70b-v13.2.Q4_0.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-llama2-70B-v13.2-GGUF - llama configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-llama2-70b-v13.2.Q4_0.gguf
     sha256: 9f33886f6445da8d35316face8cdb136a0487398b0c24940c6b232d93a6fe252
     uri: 
@@ -162,14 +162,14 @@
     parameters:
       model: openbuddy-llama2-70b-v13.2.Q4_K_M.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-llama2-70B-v13.2-GGUF - llama configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-llama2-70b-v13.2.Q4_K_M.gguf
     sha256: ecfc748e2fa16b99286801cb2fc91b0d7ead180322972182f0eb8b120c9b9d83
     uri: 
@@ -194,14 +194,14 @@
     parameters:
       model: openbuddy-llama2-70b-v13.2.Q4_K_S.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-llama2-70B-v13.2-GGUF - llama configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-llama2-70b-v13.2.Q4_K_S.gguf
     sha256: 1352eb1bbd149934143c88e8084824f86bb24c6b0c0024927aabfa0cae9c9082
     uri: 
@@ -226,14 +226,14 @@
     parameters:
       model: openbuddy-llama2-70b-v13.2.Q5_0.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-llama2-70B-v13.2-GGUF - llama configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-llama2-70b-v13.2.Q5_0.gguf
     sha256: 7b27cf8a7bc0e47803ce337ed1c4fa3cd876304e95116b7107f0a49b1901e08a
     uri: 
@@ -257,14 +257,14 @@
     parameters:
       model: openbuddy-llama2-70b-v13.2.Q5_K_M.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-llama2-70B-v13.2-GGUF - llama configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-llama2-70b-v13.2.Q5_K_M.gguf
     sha256: 4892f09dc1d37a66b131f33a4e007892c7d1fb5301521c6049303d8fc9a56d6f
     uri: 
@@ -289,14 +289,14 @@
     parameters:
       model: openbuddy-llama2-70b-v13.2.Q5_K_S.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-llama2-70B-v13.2-GGUF - llama configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-llama2-70b-v13.2.Q5_K_S.gguf
     sha256: 8d82161d564306314a1cedfa7d377495973c8b0986e03f8df993b8c9a08b8d41
     uri: 
@@ -321,15 +321,15 @@
     parameters:
       model: openbuddy-llama2-70b-v13.2.Q2_K.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-llama2-70B-v13.2-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-llama2-70b-v13.2.Q2_K.gguf
     sha256: a553f2cb3fae7018365f3cb830b305532bad85941c1aaea74711641981fd32bf
     uri: 
@@ -353,15 +353,15 @@
     parameters:
       model: openbuddy-llama2-70b-v13.2.Q3_K_L.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-llama2-70B-v13.2-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-llama2-70b-v13.2.Q3_K_L.gguf
     sha256: 06dd9357c98f757e57963361ac2e64528f3163af80aa2007259ba48097c4ad20
     uri: 
@@ -386,15 +386,15 @@
     parameters:
       model: openbuddy-llama2-70b-v13.2.Q3_K_M.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-llama2-70B-v13.2-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-llama2-70b-v13.2.Q3_K_M.gguf
     sha256: d9337fb34a783e81a67dbd2ea757b06ace8066952f603e3dcbda63acb6e96254
     uri: 
@@ -419,15 +419,15 @@
     parameters:
       model: openbuddy-llama2-70b-v13.2.Q3_K_S.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-llama2-70B-v13.2-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-llama2-70b-v13.2.Q3_K_S.gguf
     sha256: 3d0bf13c975710e4f9f2cb6b5928f62e7d679f54a0e8a3b5bfa2353f56a45690
     uri: 
@@ -452,15 +452,15 @@
     parameters:
       model: openbuddy-llama2-70b-v13.2.Q4_0.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-llama2-70B-v13.2-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-llama2-70b-v13.2.Q4_0.gguf
     sha256: 9f33886f6445da8d35316face8cdb136a0487398b0c24940c6b232d93a6fe252
     uri: 
@@ -484,15 +484,15 @@
     parameters:
       model: openbuddy-llama2-70b-v13.2.Q4_K_M.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-llama2-70B-v13.2-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-llama2-70b-v13.2.Q4_K_M.gguf
     sha256: ecfc748e2fa16b99286801cb2fc91b0d7ead180322972182f0eb8b120c9b9d83
     uri: 
@@ -517,15 +517,15 @@
     parameters:
       model: openbuddy-llama2-70b-v13.2.Q4_K_S.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-llama2-70B-v13.2-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-llama2-70b-v13.2.Q4_K_S.gguf
     sha256: 1352eb1bbd149934143c88e8084824f86bb24c6b0c0024927aabfa0cae9c9082
     uri: 
@@ -550,15 +550,15 @@
     parameters:
       model: openbuddy-llama2-70b-v13.2.Q5_0.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-llama2-70B-v13.2-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-llama2-70b-v13.2.Q5_0.gguf
     sha256: 7b27cf8a7bc0e47803ce337ed1c4fa3cd876304e95116b7107f0a49b1901e08a
     uri: 
@@ -582,15 +582,15 @@
     parameters:
       model: openbuddy-llama2-70b-v13.2.Q5_K_M.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-llama2-70B-v13.2-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-llama2-70b-v13.2.Q5_K_M.gguf
     sha256: 4892f09dc1d37a66b131f33a4e007892c7d1fb5301521c6049303d8fc9a56d6f
     uri: 
@@ -615,15 +615,15 @@
     parameters:
       model: openbuddy-llama2-70b-v13.2.Q5_K_S.gguf
     template:
-      chat: OpenBuddy
-      completion: OpenBuddy
+      chat: openbuddy
+      completion: openbuddy
   description: TheBloke/openbuddy-llama2-70B-v13.2-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenBuddy.tmpl
+  - filename: openbuddy.tmpl
     sha256: fc91a4ef1aa7d8cc35731bb0aab77aad3cb589b85a8c25180d095d1f0a726f82
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenBuddy.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openbuddy.tmpl
   - filename: openbuddy-llama2-70b-v13.2.Q5_K_S.gguf
     sha256: 8d82161d564306314a1cedfa7d377495973c8b0986e03f8df993b8c9a08b8d41
     uri: 

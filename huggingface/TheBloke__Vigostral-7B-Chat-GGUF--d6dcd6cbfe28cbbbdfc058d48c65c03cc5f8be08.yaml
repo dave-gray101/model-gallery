@@ -8,14 +8,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - mistral configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q2_K.gguf
     sha256: 1f23db6792bf3c420bdb3b1c8f92acd6ebb449de361716cd62c7a52070d3fa1f
     uri: 
@@ -47,14 +47,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - mistral configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q3_K_L.gguf
     sha256: 40f2d33eaeeeafd0af368e367eccb989349f49e3e2e3452aa215a97b01f1a96e
     uri: 
@@ -86,14 +86,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - mistral configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q3_K_M.gguf
     sha256: 27f7ec04ae2623c0b512170ca03a307b268f62f4e40cad39ac1356f2af810187
     uri: 
@@ -125,14 +125,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - mistral configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q3_K_S.gguf
     sha256: 0d637e7ae9ad40cad849a712afb68663419f1e4f061815360ee591be483cf2f2
     uri: 
@@ -164,14 +164,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - mistral configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q4_0.gguf
     sha256: 2bf9ff06eafcf8a160f637c96748f870962940139f034253c8fca6426a569f6c
     uri: 
@@ -203,14 +203,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - mistral configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q4_K_M.gguf
     sha256: 4ee9cbdbd04feab13ed1f1ecbfac705fb622426e58ecb606ec0b98a117087821
     uri: 
@@ -242,14 +242,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - mistral configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q4_K_S.gguf
     sha256: a1aafeed02de63f742acd842a63a2c681752eb93b6196532169dc0985a126b3f
     uri: 
@@ -281,14 +281,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - mistral configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q5_0.gguf
     sha256: e1a956de5b76f76476fb6d6c5cd8120ebf597e8966f4a7bb74d694184b6f134f
     uri: 
@@ -320,14 +320,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - mistral configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q5_K_M.gguf
     sha256: 9f096e8b9bc0400dfe7ccbdde54424045e4595e15d1b368766f0fcc6ecd041dd
     uri: 
@@ -359,14 +359,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - mistral configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q5_K_S.gguf
     sha256: 716bbb8e9069e647aac20b341608e6574dca0e7eb8a378b31feefe2c95e0c24e
     uri: 
@@ -398,14 +398,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - mistral configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q6_K.gguf
     sha256: 5875bf82a1a2fa9c8fce388a60293e19f0265087bd5ffe5ae1b2a1ef2ff7d439
     uri: 
@@ -437,14 +437,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - mistral configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q8_0.gguf
     sha256: f0efb3f642e0f49a6c658082bb03185d807caffcf7aebb796a7a163a8a362bbc
     uri: 
@@ -472,14 +472,14 @@
     parameters:
       model: vigostral-7b-chat.Q2_K.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q2_K.gguf
     sha256: 1f23db6792bf3c420bdb3b1c8f92acd6ebb449de361716cd62c7a52070d3fa1f
     uri: 
@@ -507,14 +507,14 @@
     parameters:
       model: vigostral-7b-chat.Q3_K_L.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q3_K_L.gguf
     sha256: 40f2d33eaeeeafd0af368e367eccb989349f49e3e2e3452aa215a97b01f1a96e
     uri: 
@@ -542,14 +542,14 @@
     parameters:
       model: vigostral-7b-chat.Q3_K_M.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q3_K_M.gguf
     sha256: 27f7ec04ae2623c0b512170ca03a307b268f62f4e40cad39ac1356f2af810187
     uri: 
@@ -577,14 +577,14 @@
     parameters:
       model: vigostral-7b-chat.Q3_K_S.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q3_K_S.gguf
     sha256: 0d637e7ae9ad40cad849a712afb68663419f1e4f061815360ee591be483cf2f2
     uri: 
@@ -612,14 +612,14 @@
     parameters:
       model: vigostral-7b-chat.Q4_0.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q4_0.gguf
     sha256: 2bf9ff06eafcf8a160f637c96748f870962940139f034253c8fca6426a569f6c
     uri: 
@@ -647,14 +647,14 @@
     parameters:
       model: vigostral-7b-chat.Q4_K_M.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q4_K_M.gguf
     sha256: 4ee9cbdbd04feab13ed1f1ecbfac705fb622426e58ecb606ec0b98a117087821
     uri: 
@@ -682,14 +682,14 @@
     parameters:
       model: vigostral-7b-chat.Q4_K_S.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q4_K_S.gguf
     sha256: a1aafeed02de63f742acd842a63a2c681752eb93b6196532169dc0985a126b3f
     uri: 
@@ -717,14 +717,14 @@
     parameters:
       model: vigostral-7b-chat.Q5_0.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q5_0.gguf
     sha256: e1a956de5b76f76476fb6d6c5cd8120ebf597e8966f4a7bb74d694184b6f134f
     uri: 
@@ -752,14 +752,14 @@
     parameters:
       model: vigostral-7b-chat.Q5_K_M.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q5_K_M.gguf
     sha256: 9f096e8b9bc0400dfe7ccbdde54424045e4595e15d1b368766f0fcc6ecd041dd
     uri: 
@@ -787,14 +787,14 @@
     parameters:
       model: vigostral-7b-chat.Q5_K_S.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q5_K_S.gguf
     sha256: 716bbb8e9069e647aac20b341608e6574dca0e7eb8a378b31feefe2c95e0c24e
     uri: 
@@ -822,14 +822,14 @@
     parameters:
       model: vigostral-7b-chat.Q6_K.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q6_K.gguf
     sha256: 5875bf82a1a2fa9c8fce388a60293e19f0265087bd5ffe5ae1b2a1ef2ff7d439
     uri: 
@@ -857,14 +857,14 @@
     parameters:
       model: vigostral-7b-chat.Q8_0.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q8_0.gguf
     sha256: f0efb3f642e0f49a6c658082bb03185d807caffcf7aebb796a7a163a8a362bbc
     uri: 
@@ -892,14 +892,14 @@
     parameters:
       model: vigostral-7b-chat.Q2_K.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q2_K.gguf
     sha256: 1f23db6792bf3c420bdb3b1c8f92acd6ebb449de361716cd62c7a52070d3fa1f
     uri: 
@@ -927,14 +927,14 @@
     parameters:
       model: vigostral-7b-chat.Q3_K_L.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q3_K_L.gguf
     sha256: 40f2d33eaeeeafd0af368e367eccb989349f49e3e2e3452aa215a97b01f1a96e
     uri: 
@@ -962,14 +962,14 @@
     parameters:
       model: vigostral-7b-chat.Q3_K_M.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q3_K_M.gguf
     sha256: 27f7ec04ae2623c0b512170ca03a307b268f62f4e40cad39ac1356f2af810187
     uri: 
@@ -997,14 +997,14 @@
     parameters:
       model: vigostral-7b-chat.Q3_K_S.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q3_K_S.gguf
     sha256: 0d637e7ae9ad40cad849a712afb68663419f1e4f061815360ee591be483cf2f2
     uri: 
@@ -1032,14 +1032,14 @@
     parameters:
       model: vigostral-7b-chat.Q4_0.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q4_0.gguf
     sha256: 2bf9ff06eafcf8a160f637c96748f870962940139f034253c8fca6426a569f6c
     uri: 
@@ -1067,14 +1067,14 @@
     parameters:
       model: vigostral-7b-chat.Q4_K_M.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q4_K_M.gguf
     sha256: 4ee9cbdbd04feab13ed1f1ecbfac705fb622426e58ecb606ec0b98a117087821
     uri: 
@@ -1102,14 +1102,14 @@
     parameters:
       model: vigostral-7b-chat.Q4_K_S.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q4_K_S.gguf
     sha256: a1aafeed02de63f742acd842a63a2c681752eb93b6196532169dc0985a126b3f
     uri: 
@@ -1137,14 +1137,14 @@
     parameters:
       model: vigostral-7b-chat.Q5_0.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q5_0.gguf
     sha256: e1a956de5b76f76476fb6d6c5cd8120ebf597e8966f4a7bb74d694184b6f134f
     uri: 
@@ -1172,14 +1172,14 @@
     parameters:
       model: vigostral-7b-chat.Q5_K_M.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q5_K_M.gguf
     sha256: 9f096e8b9bc0400dfe7ccbdde54424045e4595e15d1b368766f0fcc6ecd041dd
     uri: 
@@ -1207,14 +1207,14 @@
     parameters:
       model: vigostral-7b-chat.Q5_K_S.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q5_K_S.gguf
     sha256: 716bbb8e9069e647aac20b341608e6574dca0e7eb8a378b31feefe2c95e0c24e
     uri: 
@@ -1242,14 +1242,14 @@
     parameters:
       model: vigostral-7b-chat.Q6_K.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q6_K.gguf
     sha256: 5875bf82a1a2fa9c8fce388a60293e19f0265087bd5ffe5ae1b2a1ef2ff7d439
     uri: 
@@ -1277,14 +1277,14 @@
     parameters:
       model: vigostral-7b-chat.Q8_0.gguf
     template:
-      chat: Vigogne-Llama-2-Chat
-      completion: Vigogne-Llama-2-Chat
+      chat: vigogne-llama-2-chat
+      completion: vigogne-llama-2-chat
   description: TheBloke/Vigostral-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Llama-2-Chat.tmpl
+  - filename: vigogne-llama-2-chat.tmpl
     sha256: 0b7003c9e98a939c3ea50a2dd82b00a5c5280645fe8327f73f760723cd4287aa
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-llama-2-chat.tmpl
   - filename: vigostral-7b-chat.Q8_0.gguf
     sha256: f0efb3f642e0f49a6c658082bb03185d807caffcf7aebb796a7a163a8a362bbc
     uri: 

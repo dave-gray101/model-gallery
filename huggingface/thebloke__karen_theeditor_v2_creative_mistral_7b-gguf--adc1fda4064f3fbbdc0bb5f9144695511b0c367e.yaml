@@ -4,14 +4,14 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q2_K.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q2_K.gguf
     sha256: b14df6e3347e8107f26f2f0b4894da9a9364f60c29ac9ba877350ea2859050d1
     uri: 
@@ -40,14 +40,14 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q3_K_L.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q3_K_L.gguf
     sha256: 2a2e623d20911fccfa993b0f244dbc199b5b3e86d3c2ce31d4999f6efc886783
     uri: 
@@ -76,14 +76,14 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q3_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q3_K_M.gguf
     sha256: d7e90d6b153d026fd177b6d34d1af226504e43cf62c18e2dc0047a60bcc7f658
     uri: 
@@ -112,14 +112,14 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q3_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q3_K_S.gguf
     sha256: 55a6956b3677723d3fa4b822fa3da66b597b0bfff016f5852c1dece60e90939c
     uri: 
@@ -148,14 +148,14 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q4_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q4_0.gguf
     sha256: 059d9aa6e5f66e871fd6e5a783c28d6c6956374805a85f069ae6014f647ad3e5
     uri: 
@@ -184,14 +184,14 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q4_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q4_K_M.gguf
     sha256: 2120f460369b9d53f50c3305d1bc638c7607a290c6911dceb5f06ee03c2ac674
     uri: 
@@ -220,14 +220,14 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q4_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q4_K_S.gguf
     sha256: 7001628c9b22c6a4502a14f6d3ee444646f0790eb7bfd9df2bc20c35e1ab7337
     uri: 
@@ -256,14 +256,14 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q5_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q5_0.gguf
     sha256: a7a7fab024782e68843c046836e05e9acc132449a9e93a190272218f15fe4ca7
     uri: 
@@ -292,14 +292,14 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q5_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q5_K_M.gguf
     sha256: 654a9fea3a0c5fe8dc14580d090ce036c6df6ad8694f3d0f202968501e3df263
     uri: 
@@ -328,14 +328,14 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q5_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q5_K_S.gguf
     sha256: 42244e8f8dd1facb7b0e9ab718384f302eccc0c5ebf776f84946ad0006f88556
     uri: 
@@ -364,14 +364,14 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q6_K.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q6_K.gguf
     sha256: b1bfea2ab25017af815fbe64a5066459b3db5c9b3a67887ef363bd53cfb4b203
     uri: 
@@ -400,14 +400,14 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q8_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q8_0.gguf
     sha256: 3c0c411e01128ea58f94323e17d09f5b69457feaf30943227414ee39c8d4408f
     uri: 
@@ -440,14 +440,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q2_K.gguf
     sha256: b14df6e3347e8107f26f2f0b4894da9a9364f60c29ac9ba877350ea2859050d1
     uri: 
@@ -480,14 +480,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q3_K_L.gguf
     sha256: 2a2e623d20911fccfa993b0f244dbc199b5b3e86d3c2ce31d4999f6efc886783
     uri: 
@@ -520,14 +520,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q3_K_M.gguf
     sha256: d7e90d6b153d026fd177b6d34d1af226504e43cf62c18e2dc0047a60bcc7f658
     uri: 
@@ -560,14 +560,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q3_K_S.gguf
     sha256: 55a6956b3677723d3fa4b822fa3da66b597b0bfff016f5852c1dece60e90939c
     uri: 
@@ -600,14 +600,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q4_0.gguf
     sha256: 059d9aa6e5f66e871fd6e5a783c28d6c6956374805a85f069ae6014f647ad3e5
     uri: 
@@ -640,14 +640,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q4_K_M.gguf
     sha256: 2120f460369b9d53f50c3305d1bc638c7607a290c6911dceb5f06ee03c2ac674
     uri: 
@@ -680,14 +680,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q4_K_S.gguf
     sha256: 7001628c9b22c6a4502a14f6d3ee444646f0790eb7bfd9df2bc20c35e1ab7337
     uri: 
@@ -720,14 +720,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q5_0.gguf
     sha256: a7a7fab024782e68843c046836e05e9acc132449a9e93a190272218f15fe4ca7
     uri: 
@@ -760,14 +760,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q5_K_M.gguf
     sha256: 654a9fea3a0c5fe8dc14580d090ce036c6df6ad8694f3d0f202968501e3df263
     uri: 
@@ -800,14 +800,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q5_K_S.gguf
     sha256: 42244e8f8dd1facb7b0e9ab718384f302eccc0c5ebf776f84946ad0006f88556
     uri: 
@@ -840,14 +840,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q6_K.gguf
     sha256: b1bfea2ab25017af815fbe64a5066459b3db5c9b3a67887ef363bd53cfb4b203
     uri: 
@@ -880,14 +880,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q8_0.gguf
     sha256: 3c0c411e01128ea58f94323e17d09f5b69457feaf30943227414ee39c8d4408f
     uri: 
@@ -916,15 +916,15 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q2_K.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q2_K.gguf
     sha256: b14df6e3347e8107f26f2f0b4894da9a9364f60c29ac9ba877350ea2859050d1
     uri: 
@@ -953,15 +953,15 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q3_K_L.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q3_K_L.gguf
     sha256: 2a2e623d20911fccfa993b0f244dbc199b5b3e86d3c2ce31d4999f6efc886783
     uri: 
@@ -990,15 +990,15 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q3_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q3_K_M.gguf
     sha256: d7e90d6b153d026fd177b6d34d1af226504e43cf62c18e2dc0047a60bcc7f658
     uri: 
@@ -1027,15 +1027,15 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q3_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q3_K_S.gguf
     sha256: 55a6956b3677723d3fa4b822fa3da66b597b0bfff016f5852c1dece60e90939c
     uri: 
@@ -1064,15 +1064,15 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q4_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q4_0.gguf
     sha256: 059d9aa6e5f66e871fd6e5a783c28d6c6956374805a85f069ae6014f647ad3e5
     uri: 
@@ -1101,15 +1101,15 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q4_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q4_K_M.gguf
     sha256: 2120f460369b9d53f50c3305d1bc638c7607a290c6911dceb5f06ee03c2ac674
     uri: 
@@ -1138,15 +1138,15 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q4_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q4_K_S.gguf
     sha256: 7001628c9b22c6a4502a14f6d3ee444646f0790eb7bfd9df2bc20c35e1ab7337
     uri: 
@@ -1175,15 +1175,15 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q5_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q5_0.gguf
     sha256: a7a7fab024782e68843c046836e05e9acc132449a9e93a190272218f15fe4ca7
     uri: 
@@ -1212,15 +1212,15 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q5_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q5_K_M.gguf
     sha256: 654a9fea3a0c5fe8dc14580d090ce036c6df6ad8694f3d0f202968501e3df263
     uri: 
@@ -1249,15 +1249,15 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q5_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q5_K_S.gguf
     sha256: 42244e8f8dd1facb7b0e9ab718384f302eccc0c5ebf776f84946ad0006f88556
     uri: 
@@ -1286,15 +1286,15 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q6_K.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q6_K.gguf
     sha256: b1bfea2ab25017af815fbe64a5066459b3db5c9b3a67887ef363bd53cfb4b203
     uri: 
@@ -1323,15 +1323,15 @@
     parameters:
       model: karen_theeditor_v2_creative_mistral_7b.Q8_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Karen_TheEditor_V2_CREATIVE_Mistral_7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: karen_theeditor_v2_creative_mistral_7b.Q8_0.gguf
     sha256: 3c0c411e01128ea58f94323e17d09f5b69457feaf30943227414ee39c8d4408f
     uri: 

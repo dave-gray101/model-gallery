@@ -4,14 +4,14 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q2_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q2_K.gguf
     sha256: 1cfef5e260e5791f5d2f4b004f98c35cdf2be36e776348f9be2155825b44709c
     uri: 
@@ -37,14 +37,14 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q3_K_L.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q3_K_L.gguf
     sha256: 45a040e7a6f6a407b83cb3d74a87798179b45d40de390e9c17357891199caa17
     uri: 
@@ -70,14 +70,14 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q3_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q3_K_M.gguf
     sha256: 881a47ce57bfee1dc8d95c8487f9b0b01ebe1400fa839f38b545cfa8d36f85ac
     uri: 
@@ -103,14 +103,14 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q3_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q3_K_S.gguf
     sha256: 4c5e7253298ed7701d40173a501dc49e004782b4130a4bc3ceed01ba22574446
     uri: 
@@ -136,14 +136,14 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q4_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q4_0.gguf
     sha256: 80622c6b60b18c79a7a8cb89afd95a21de7d025b9a15618d1af89fe1087f46bb
     uri: 
@@ -169,14 +169,14 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q4_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q4_K_M.gguf
     sha256: 4d96a345be75fc520417cbcc17cd896a9f822825887cb31a96f6561fca630256
     uri: 
@@ -202,14 +202,14 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q4_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q4_K_S.gguf
     sha256: 9076ac12f1be68254fa2e067d59dba74ab0e1f0e5509578695ca18d96525186a
     uri: 
@@ -235,14 +235,14 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q5_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q5_0.gguf
     sha256: e25d11df4b4723618ab7e023adb217f01c5db4d575d1c690415a4988a441acb5
     uri: 
@@ -268,14 +268,14 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q5_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q5_K_M.gguf
     sha256: 412de88dcc98ecf06ed87b8bad0e2f4f1d1a3ce690cc5443c8aa0728b5939443
     uri: 
@@ -301,14 +301,14 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q5_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q5_K_S.gguf
     sha256: 938e8c16020adf4869e5acc3f98109a522c72ea61a5c2b7acd89bd96d1ab1945
     uri: 
@@ -334,14 +334,14 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q6_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q6_K.gguf
     sha256: c228b8ab145d7a771975dd8af97732275ac8a681d935a11ae96ebc24fbb95cc6
     uri: 
@@ -367,14 +367,14 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q8_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q8_0.gguf
     sha256: e7d8afc1d4dacaad09022283a55a725d245cc4dd4983f337677b2696fb9d23cc
     uri: 
@@ -400,15 +400,15 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q2_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q2_K.gguf
     sha256: 1cfef5e260e5791f5d2f4b004f98c35cdf2be36e776348f9be2155825b44709c
     uri: 
@@ -434,15 +434,15 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q3_K_L.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q3_K_L.gguf
     sha256: 45a040e7a6f6a407b83cb3d74a87798179b45d40de390e9c17357891199caa17
     uri: 
@@ -468,15 +468,15 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q3_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q3_K_M.gguf
     sha256: 881a47ce57bfee1dc8d95c8487f9b0b01ebe1400fa839f38b545cfa8d36f85ac
     uri: 
@@ -502,15 +502,15 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q3_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q3_K_S.gguf
     sha256: 4c5e7253298ed7701d40173a501dc49e004782b4130a4bc3ceed01ba22574446
     uri: 
@@ -536,15 +536,15 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q4_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q4_0.gguf
     sha256: 80622c6b60b18c79a7a8cb89afd95a21de7d025b9a15618d1af89fe1087f46bb
     uri: 
@@ -570,15 +570,15 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q4_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q4_K_M.gguf
     sha256: 4d96a345be75fc520417cbcc17cd896a9f822825887cb31a96f6561fca630256
     uri: 
@@ -604,15 +604,15 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q4_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q4_K_S.gguf
     sha256: 9076ac12f1be68254fa2e067d59dba74ab0e1f0e5509578695ca18d96525186a
     uri: 
@@ -638,15 +638,15 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q5_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q5_0.gguf
     sha256: e25d11df4b4723618ab7e023adb217f01c5db4d575d1c690415a4988a441acb5
     uri: 
@@ -672,15 +672,15 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q5_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q5_K_M.gguf
     sha256: 412de88dcc98ecf06ed87b8bad0e2f4f1d1a3ce690cc5443c8aa0728b5939443
     uri: 
@@ -706,15 +706,15 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q5_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q5_K_S.gguf
     sha256: 938e8c16020adf4869e5acc3f98109a522c72ea61a5c2b7acd89bd96d1ab1945
     uri: 
@@ -740,15 +740,15 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q6_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q6_K.gguf
     sha256: c228b8ab145d7a771975dd8af97732275ac8a681d935a11ae96ebc24fbb95cc6
     uri: 
@@ -774,15 +774,15 @@
     parameters:
       model: llama-2-7b-chat-codeCherryPop.Q8_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/llama2-7b-chat-codeCherryPop-qLoRA-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: llama-2-7b-chat-codeCherryPop.Q8_0.gguf
     sha256: e7d8afc1d4dacaad09022283a55a725d245cc4dd4983f337677b2696fb9d23cc
     uri: 

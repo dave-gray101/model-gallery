@@ -4,14 +4,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q2_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q2_K.gguf
     sha256: dea31dd3295ed1243a7bb4d976db81fce0bcdc155eb1501b10e376e51e91cdec
     uri: 
@@ -35,14 +35,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q3_K_L.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q3_K_L.gguf
     sha256: f4bda073e7c9437b0ec7dadde4bae78913ae59824c372992981e9a89df11a74e
     uri: 
@@ -66,14 +66,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q3_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q3_K_M.gguf
     sha256: beefa0490be657e4a4cfae70e01b88b2b020c1d00f757fddd796ae8b9047ccb2
     uri: 
@@ -97,14 +97,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q3_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q3_K_S.gguf
     sha256: fc8f84a5d737454d295bd38280b6819c1b5198f03366dcced99759a951710cfc
     uri: 
@@ -128,14 +128,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q4_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q4_0.gguf
     sha256: e35f7e9ebd2006032647c4671458a4b8f5050e227a9a209e1d443dfbbb1574da
     uri: 
@@ -159,14 +159,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q4_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q4_K_M.gguf
     sha256: 17ee1c00ea23e14898321a16f557a8ed1f928c8867e8a204fc17e6fea573a26e
     uri: 
@@ -190,14 +190,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q4_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q4_K_S.gguf
     sha256: 834f164471270e717055eac6c108932e96ee89e3651c765c3b093da23b7f607d
     uri: 
@@ -221,14 +221,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q5_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q5_0.gguf
     sha256: 37ecc7574284ea486d290160cfb36ee41818ae981db0042e9dff0290997b655f
     uri: 
@@ -252,14 +252,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q5_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q5_K_M.gguf
     sha256: b7cb400ed26ec03b431bb8dc0a3803c76a4b41c68e46c089feef2804c16e2210
     uri: 
@@ -283,14 +283,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q5_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q5_K_S.gguf
     sha256: ea99b97672991874797048be3d38e7fb98014c7937492c0d22d48733e035be4c
     uri: 
@@ -314,14 +314,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q6_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q6_K.gguf
     sha256: fba10ff42ef26079fc43dc76cb8af4d21a1cabcddf9d74851e87d915b111cd66
     uri: 
@@ -345,14 +345,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q8_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q8_0.gguf
     sha256: 4664004f2d68926b6f2ec39b3800e0fa82f5ed6ca18c5e6ed2c8eca203fd5289
     uri: 
@@ -376,14 +376,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q2_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q2_K.gguf
     sha256: dea31dd3295ed1243a7bb4d976db81fce0bcdc155eb1501b10e376e51e91cdec
     uri: 
@@ -407,14 +407,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q3_K_L.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q3_K_L.gguf
     sha256: f4bda073e7c9437b0ec7dadde4bae78913ae59824c372992981e9a89df11a74e
     uri: 
@@ -438,14 +438,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q3_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q3_K_M.gguf
     sha256: beefa0490be657e4a4cfae70e01b88b2b020c1d00f757fddd796ae8b9047ccb2
     uri: 
@@ -469,14 +469,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q3_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q3_K_S.gguf
     sha256: fc8f84a5d737454d295bd38280b6819c1b5198f03366dcced99759a951710cfc
     uri: 
@@ -500,14 +500,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q4_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q4_0.gguf
     sha256: e35f7e9ebd2006032647c4671458a4b8f5050e227a9a209e1d443dfbbb1574da
     uri: 
@@ -531,14 +531,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q4_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q4_K_M.gguf
     sha256: 17ee1c00ea23e14898321a16f557a8ed1f928c8867e8a204fc17e6fea573a26e
     uri: 
@@ -562,14 +562,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q4_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q4_K_S.gguf
     sha256: 834f164471270e717055eac6c108932e96ee89e3651c765c3b093da23b7f607d
     uri: 
@@ -593,14 +593,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q5_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q5_0.gguf
     sha256: 37ecc7574284ea486d290160cfb36ee41818ae981db0042e9dff0290997b655f
     uri: 
@@ -624,14 +624,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q5_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q5_K_M.gguf
     sha256: b7cb400ed26ec03b431bb8dc0a3803c76a4b41c68e46c089feef2804c16e2210
     uri: 
@@ -655,14 +655,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q5_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q5_K_S.gguf
     sha256: ea99b97672991874797048be3d38e7fb98014c7937492c0d22d48733e035be4c
     uri: 
@@ -686,14 +686,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q6_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q6_K.gguf
     sha256: fba10ff42ef26079fc43dc76cb8af4d21a1cabcddf9d74851e87d915b111cd66
     uri: 
@@ -717,14 +717,14 @@
     parameters:
       model: hermes-llongma-2-13b-8k.Q8_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Hermes-LLongMA-2-13B-8K-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: hermes-llongma-2-13b-8k.Q8_0.gguf
     sha256: 4664004f2d68926b6f2ec39b3800e0fa82f5ed6ca18c5e6ed2c8eca203fd5289
     uri: 

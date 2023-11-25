@@ -8,14 +8,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q2_K.gguf
     sha256: cafde69902930099a306469a2ac8ed57a52a90b67183c81331f0f53fe1774c8a
     uri: 
@@ -51,14 +51,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q3_K_L.gguf
     sha256: a4b16650da3713d26f251dacaf5d2895978f5143c2c2158f310fed777b15783d
     uri: 
@@ -94,14 +94,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q3_K_M.gguf
     sha256: 199c9018d4f1665449fdeab2724973feb1953c9aab8b6287329ac599a28dbad8
     uri: 
@@ -137,14 +137,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q3_K_S.gguf
     sha256: ded078479ad973d5e334b0c87a13aa1f780818f8e13593a76c80aefc4001101c
     uri: 
@@ -180,14 +180,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q4_0.gguf
     sha256: 1150591e8591b498d45b6452786d4a4271bb3044de6bdd054aee9ede21d03b00
     uri: 
@@ -223,14 +223,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q4_K_M.gguf
     sha256: 336011b45dd6813436b00251d880c5240b92c5c244469c30417178cf687e3b58
     uri: 
@@ -266,14 +266,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q4_K_S.gguf
     sha256: 181dfa871e0e45d74cdb1c66a66353035af1a515fab3c6802964e070d01ce2e9
     uri: 
@@ -309,14 +309,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q5_0.gguf
     sha256: 187bdd8884c6df119f2f01006c94ec63fe9a2ad179a0d6ee1b327dbe84fa9843
     uri: 
@@ -352,14 +352,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q5_K_M.gguf
     sha256: 06cf98f39da3f7b16e7b2f0113af4b983e91125a8359fdff1d21562d666eb637
     uri: 
@@ -395,14 +395,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q5_K_S.gguf
     sha256: 2825f3f416b282f659482581c350735160d1a8798ef2bc4b85314401e093ca31
     uri: 
@@ -438,14 +438,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q6_K.gguf
     sha256: 6a38c529ddb6df75248aa3e9d34834aadd17770ee0edcc42ef661a207355c723
     uri: 
@@ -481,14 +481,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q8_0.gguf
     sha256: a6fa8502bffaf33ea62a448485adf1a14cde706efd133e8d7971241558fcf817
     uri: 
@@ -520,15 +520,15 @@
     parameters:
       model: openhermes-2.5-mistral-7b-16k.Q2_K.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q2_K.gguf
     sha256: cafde69902930099a306469a2ac8ed57a52a90b67183c81331f0f53fe1774c8a
     uri: 
@@ -560,15 +560,15 @@
     parameters:
       model: openhermes-2.5-mistral-7b-16k.Q3_K_L.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q3_K_L.gguf
     sha256: a4b16650da3713d26f251dacaf5d2895978f5143c2c2158f310fed777b15783d
     uri: 
@@ -600,15 +600,15 @@
     parameters:
       model: openhermes-2.5-mistral-7b-16k.Q3_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q3_K_M.gguf
     sha256: 199c9018d4f1665449fdeab2724973feb1953c9aab8b6287329ac599a28dbad8
     uri: 
@@ -640,15 +640,15 @@
     parameters:
       model: openhermes-2.5-mistral-7b-16k.Q3_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q3_K_S.gguf
     sha256: ded078479ad973d5e334b0c87a13aa1f780818f8e13593a76c80aefc4001101c
     uri: 
@@ -680,15 +680,15 @@
     parameters:
       model: openhermes-2.5-mistral-7b-16k.Q4_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q4_0.gguf
     sha256: 1150591e8591b498d45b6452786d4a4271bb3044de6bdd054aee9ede21d03b00
     uri: 
@@ -720,15 +720,15 @@
     parameters:
       model: openhermes-2.5-mistral-7b-16k.Q4_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q4_K_M.gguf
     sha256: 336011b45dd6813436b00251d880c5240b92c5c244469c30417178cf687e3b58
     uri: 
@@ -760,15 +760,15 @@
     parameters:
       model: openhermes-2.5-mistral-7b-16k.Q4_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q4_K_S.gguf
     sha256: 181dfa871e0e45d74cdb1c66a66353035af1a515fab3c6802964e070d01ce2e9
     uri: 
@@ -800,15 +800,15 @@
     parameters:
       model: openhermes-2.5-mistral-7b-16k.Q5_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q5_0.gguf
     sha256: 187bdd8884c6df119f2f01006c94ec63fe9a2ad179a0d6ee1b327dbe84fa9843
     uri: 
@@ -840,15 +840,15 @@
     parameters:
       model: openhermes-2.5-mistral-7b-16k.Q5_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q5_K_M.gguf
     sha256: 06cf98f39da3f7b16e7b2f0113af4b983e91125a8359fdff1d21562d666eb637
     uri: 
@@ -880,15 +880,15 @@
     parameters:
       model: openhermes-2.5-mistral-7b-16k.Q5_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q5_K_S.gguf
     sha256: 2825f3f416b282f659482581c350735160d1a8798ef2bc4b85314401e093ca31
     uri: 
@@ -920,15 +920,15 @@
     parameters:
       model: openhermes-2.5-mistral-7b-16k.Q6_K.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q6_K.gguf
     sha256: 6a38c529ddb6df75248aa3e9d34834aadd17770ee0edcc42ef661a207355c723
     uri: 
@@ -960,15 +960,15 @@
     parameters:
       model: openhermes-2.5-mistral-7b-16k.Q8_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/OpenHermes-2.5-Mistral-7B-16k-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: openhermes-2.5-mistral-7b-16k.Q8_0.gguf
     sha256: a6fa8502bffaf33ea62a448485adf1a14cde706efd133e8d7971241558fcf817
     uri: 

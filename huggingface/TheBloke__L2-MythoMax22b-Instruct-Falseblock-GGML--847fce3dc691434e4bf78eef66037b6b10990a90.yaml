@@ -4,14 +4,14 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q2_K.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q2_K.bin
     sha256: 82d00cc9365f6eb1f31e88258199ef200bfe25ffa413c12cc5bbdbb7283698d9
     uri: 
@@ -36,14 +36,14 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q3_K_L.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q3_K_L.bin
     sha256: 07aa91b0f1f32d9184746067364331a39015afd50f62e36213aa1f32e22f3d4e
     uri: 
@@ -68,14 +68,14 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q3_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q3_K_M.bin
     sha256: aa849d908865bcbee4d0329109af0f07ae357bdefb284efff74f1b1998ec89d3
     uri: 
@@ -100,14 +100,14 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q3_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q3_K_S.bin
     sha256: f7702dcbedbd1b4fb3710657d321625de3d47e29ef227ebfe00b9fdf7760519d
     uri: 
@@ -132,14 +132,14 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q4_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q4_0.bin
     sha256: 681d184560cfad33ca8dfda5881f45e67ee811fa46d96575e6a687c1ae64285c
     uri: 
@@ -164,14 +164,14 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q4_1.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q4_1.bin
     sha256: e01cfac8557ca61f5546bd8a313f8fef838854e1e0aa5b758bd037f7219b05c4
     uri: 
@@ -196,14 +196,14 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q4_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q4_K_M.bin
     sha256: 915c47576375fd4d31af940fe653f12ce0da99f23e76a9f13457de43261b908c
     uri: 
@@ -228,14 +228,14 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q4_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q4_K_S.bin
     sha256: 2b034e6f3eb9a80664f596cf85c292cafb5eee63109692c1a316867da8d71ed1
     uri: 
@@ -260,14 +260,14 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q5_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q5_0.bin
     sha256: 5ad44520f5c801f33de6e9c930a375ee4807f3f3e8ef089fbb662cd1a8e6cc7f
     uri: 
@@ -292,14 +292,14 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q5_1.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q5_1.bin
     sha256: 90e04801413ec2c63e4c54e72d79813984aff59bf7e3207a991e59e7bb9367aa
     uri: 
@@ -324,14 +324,14 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q5_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q5_K_M.bin
     sha256: 6efd9de6d117fdfa3b7374ffd393ff32380856ae1552f5bf9ecf69552f170d95
     uri: 
@@ -356,14 +356,14 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q5_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q5_K_S.bin
     sha256: ba79f59a16ecc1fb9686ce73b49008956fb1fc33e06c7f80ed6567f6d8c06dd2
     uri: 
@@ -388,14 +388,14 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q6_K.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q6_K.bin
     sha256: cb9b6258341a682cd5e383c4b2516dedf92d9efb622fef51cc3aec992f4998f2
     uri: 
@@ -420,14 +420,14 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q8_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q8_0.bin
     sha256: a26abbcb71b78b88672c891c676583b167ea803b1caca86afdcc9306dbba0e3a
     uri: 
@@ -452,15 +452,15 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q2_K.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q2_K.bin
     sha256: 82d00cc9365f6eb1f31e88258199ef200bfe25ffa413c12cc5bbdbb7283698d9
     uri: 
@@ -485,15 +485,15 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q3_K_L.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q3_K_L.bin
     sha256: 07aa91b0f1f32d9184746067364331a39015afd50f62e36213aa1f32e22f3d4e
     uri: 
@@ -518,15 +518,15 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q3_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q3_K_M.bin
     sha256: aa849d908865bcbee4d0329109af0f07ae357bdefb284efff74f1b1998ec89d3
     uri: 
@@ -551,15 +551,15 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q3_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q3_K_S.bin
     sha256: f7702dcbedbd1b4fb3710657d321625de3d47e29ef227ebfe00b9fdf7760519d
     uri: 
@@ -584,15 +584,15 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q4_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q4_0.bin
     sha256: 681d184560cfad33ca8dfda5881f45e67ee811fa46d96575e6a687c1ae64285c
     uri: 
@@ -617,15 +617,15 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q4_1.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q4_1.bin
     sha256: e01cfac8557ca61f5546bd8a313f8fef838854e1e0aa5b758bd037f7219b05c4
     uri: 
@@ -650,15 +650,15 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q4_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q4_K_M.bin
     sha256: 915c47576375fd4d31af940fe653f12ce0da99f23e76a9f13457de43261b908c
     uri: 
@@ -683,15 +683,15 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q4_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q4_K_S.bin
     sha256: 2b034e6f3eb9a80664f596cf85c292cafb5eee63109692c1a316867da8d71ed1
     uri: 
@@ -716,15 +716,15 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q5_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q5_0.bin
     sha256: 5ad44520f5c801f33de6e9c930a375ee4807f3f3e8ef089fbb662cd1a8e6cc7f
     uri: 
@@ -749,15 +749,15 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q5_1.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q5_1.bin
     sha256: 90e04801413ec2c63e4c54e72d79813984aff59bf7e3207a991e59e7bb9367aa
     uri: 
@@ -782,15 +782,15 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q5_K_M.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q5_K_M.bin
     sha256: 6efd9de6d117fdfa3b7374ffd393ff32380856ae1552f5bf9ecf69552f170d95
     uri: 
@@ -815,15 +815,15 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q5_K_S.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q5_K_S.bin
     sha256: ba79f59a16ecc1fb9686ce73b49008956fb1fc33e06c7f80ed6567f6d8c06dd2
     uri: 
@@ -848,15 +848,15 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q6_K.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q6_K.bin
     sha256: cb9b6258341a682cd5e383c4b2516dedf92d9efb622fef51cc3aec992f4998f2
     uri: 
@@ -881,15 +881,15 @@
     parameters:
       model: l2-mythomax22b-instruct-Falseblock.ggmlv3.q8_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/L2-MythoMax22b-Instruct-Falseblock-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: l2-mythomax22b-instruct-Falseblock.ggmlv3.q8_0.bin
     sha256: a26abbcb71b78b88672c891c676583b167ea803b1caca86afdcc9306dbba0e3a
     uri: 

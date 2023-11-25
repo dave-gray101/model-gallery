@@ -4,14 +4,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q2_K.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q2_K.gguf
     sha256: 5c2cdfe4fff28f82921a77e0939bb26e6c6ad0f700c858c290750bc0d1a8875b
     uri: 
@@ -44,14 +44,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q3_K_L.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q3_K_L.gguf
     sha256: 417211b09e3928ee48f52bc3aad42f76dabbd7cafcfeb92e4b3b5d3a0575e335
     uri: 
@@ -84,14 +84,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q3_K_M.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q3_K_M.gguf
     sha256: c3f095bb5c6c8f4f48b7f574ecf74b2c0e5175c06bac5af7b7b28c89d1b12158
     uri: 
@@ -124,14 +124,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q3_K_S.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q3_K_S.gguf
     sha256: bda3532de2652daf3675b8f160df996f6c00e88a58adef17df2c091622cb07a8
     uri: 
@@ -164,14 +164,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q4_0.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q4_0.gguf
     sha256: c50c88f86a0feb03b295d2e26caa7109ede315c6d714b485a794dbc132661e79
     uri: 
@@ -204,14 +204,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q4_K_M.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q4_K_M.gguf
     sha256: d78ae0e15915616923a6d112d0ceffaab526e580897074f513929124319b565b
     uri: 
@@ -244,14 +244,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q4_K_S.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q4_K_S.gguf
     sha256: 9af8ec54b3c34e6a38bf424c5af9faccec3f5bcaa03824cb22ff677e4a60397b
     uri: 
@@ -284,14 +284,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q5_0.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q5_0.gguf
     sha256: e0484d4154fd22461cb7571f0255e23cb49563df0171ac8c700f0dbb23ec11c8
     uri: 
@@ -324,14 +324,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q5_K_M.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q5_K_M.gguf
     sha256: d8d4eb9d36605329508d29febff1214c878a607f9f609616ffc59db5f7aa0dd8
     uri: 
@@ -364,14 +364,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q5_K_S.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q5_K_S.gguf
     sha256: f0115eb90999c569c44cd4108179db0783842773b8d9ec2c8474bb3ce012ee22
     uri: 
@@ -404,14 +404,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q6_K.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q6_K.gguf
     sha256: d2b7e4fd2b7fae98dc44465d1218c94c4aae540a56ca5b1926985e4b98d3f43a
     uri: 
@@ -444,14 +444,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q8_0.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q8_0.gguf
     sha256: 39b22fe759a4063eb1a7cf9ace96e37e1c74504aa9d39d42bd268aca43f8e6b0
     uri: 
@@ -484,15 +484,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q2_K.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q2_K.gguf
     sha256: 5c2cdfe4fff28f82921a77e0939bb26e6c6ad0f700c858c290750bc0d1a8875b
     uri: 
@@ -525,15 +525,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q3_K_L.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q3_K_L.gguf
     sha256: 417211b09e3928ee48f52bc3aad42f76dabbd7cafcfeb92e4b3b5d3a0575e335
     uri: 
@@ -566,15 +566,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q3_K_M.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q3_K_M.gguf
     sha256: c3f095bb5c6c8f4f48b7f574ecf74b2c0e5175c06bac5af7b7b28c89d1b12158
     uri: 
@@ -607,15 +607,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q3_K_S.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q3_K_S.gguf
     sha256: bda3532de2652daf3675b8f160df996f6c00e88a58adef17df2c091622cb07a8
     uri: 
@@ -648,15 +648,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q4_0.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q4_0.gguf
     sha256: c50c88f86a0feb03b295d2e26caa7109ede315c6d714b485a794dbc132661e79
     uri: 
@@ -689,15 +689,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q4_K_M.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q4_K_M.gguf
     sha256: d78ae0e15915616923a6d112d0ceffaab526e580897074f513929124319b565b
     uri: 
@@ -730,15 +730,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q4_K_S.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q4_K_S.gguf
     sha256: 9af8ec54b3c34e6a38bf424c5af9faccec3f5bcaa03824cb22ff677e4a60397b
     uri: 
@@ -771,15 +771,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q5_0.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q5_0.gguf
     sha256: e0484d4154fd22461cb7571f0255e23cb49563df0171ac8c700f0dbb23ec11c8
     uri: 
@@ -812,15 +812,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q5_K_M.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q5_K_M.gguf
     sha256: d8d4eb9d36605329508d29febff1214c878a607f9f609616ffc59db5f7aa0dd8
     uri: 
@@ -853,15 +853,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q5_K_S.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q5_K_S.gguf
     sha256: f0115eb90999c569c44cd4108179db0783842773b8d9ec2c8474bb3ce012ee22
     uri: 
@@ -894,15 +894,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q6_K.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q6_K.gguf
     sha256: d2b7e4fd2b7fae98dc44465d1218c94c4aae540a56ca5b1926985e4b98d3f43a
     uri: 
@@ -935,15 +935,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q8_0.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q8_0.gguf
     sha256: 39b22fe759a4063eb1a7cf9ace96e37e1c74504aa9d39d42bd268aca43f8e6b0
     uri: 
@@ -976,15 +976,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q2_K.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q2_K.gguf
     sha256: 5c2cdfe4fff28f82921a77e0939bb26e6c6ad0f700c858c290750bc0d1a8875b
     uri: 
@@ -1017,15 +1017,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q3_K_L.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q3_K_L.gguf
     sha256: 417211b09e3928ee48f52bc3aad42f76dabbd7cafcfeb92e4b3b5d3a0575e335
     uri: 
@@ -1058,15 +1058,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q3_K_M.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q3_K_M.gguf
     sha256: c3f095bb5c6c8f4f48b7f574ecf74b2c0e5175c06bac5af7b7b28c89d1b12158
     uri: 
@@ -1099,15 +1099,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q3_K_S.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q3_K_S.gguf
     sha256: bda3532de2652daf3675b8f160df996f6c00e88a58adef17df2c091622cb07a8
     uri: 
@@ -1140,15 +1140,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q4_0.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q4_0.gguf
     sha256: c50c88f86a0feb03b295d2e26caa7109ede315c6d714b485a794dbc132661e79
     uri: 
@@ -1181,15 +1181,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q4_K_M.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q4_K_M.gguf
     sha256: d78ae0e15915616923a6d112d0ceffaab526e580897074f513929124319b565b
     uri: 
@@ -1222,15 +1222,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q4_K_S.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q4_K_S.gguf
     sha256: 9af8ec54b3c34e6a38bf424c5af9faccec3f5bcaa03824cb22ff677e4a60397b
     uri: 
@@ -1263,15 +1263,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q5_0.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q5_0.gguf
     sha256: e0484d4154fd22461cb7571f0255e23cb49563df0171ac8c700f0dbb23ec11c8
     uri: 
@@ -1304,15 +1304,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q5_K_M.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q5_K_M.gguf
     sha256: d8d4eb9d36605329508d29febff1214c878a607f9f609616ffc59db5f7aa0dd8
     uri: 
@@ -1345,15 +1345,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q5_K_S.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q5_K_S.gguf
     sha256: f0115eb90999c569c44cd4108179db0783842773b8d9ec2c8474bb3ce012ee22
     uri: 
@@ -1386,15 +1386,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q6_K.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q6_K.gguf
     sha256: d2b7e4fd2b7fae98dc44465d1218c94c4aae540a56ca5b1926985e4b98d3f43a
     uri: 
@@ -1427,15 +1427,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.Q8_0.gguf
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.Q8_0.gguf
     sha256: 39b22fe759a4063eb1a7cf9ace96e37e1c74504aa9d39d42bd268aca43f8e6b0
     uri: 

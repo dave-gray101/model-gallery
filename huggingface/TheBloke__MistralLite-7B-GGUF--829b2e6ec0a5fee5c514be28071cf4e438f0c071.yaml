@@ -8,14 +8,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - mistral configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q2_K.gguf
     sha256: ef41059513deb91131615e39f006874e6d918b82f02a490254733605e14801ea
     uri: 
@@ -44,14 +44,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - mistral configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q3_K_L.gguf
     sha256: e27ac7f872556158cc76ed249c8f251e983b8aeac30bb3a7d3217f628f4473c7
     uri: 
@@ -80,14 +80,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - mistral configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q3_K_M.gguf
     sha256: 19a2afe0a5e9172564d33d0855101eab82b93a59b201003776bfc356c11d0b26
     uri: 
@@ -116,14 +116,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - mistral configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q3_K_S.gguf
     sha256: 2e7d69552105f3fb4ab63cdf63b7bc34d011566103741b3cec213f186f2cbe6c
     uri: 
@@ -152,14 +152,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - mistral configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q4_0.gguf
     sha256: 4719da782c664c54fdebceaa17069b16f333ecf96a6fd0c72961b91034bf4192
     uri: 
@@ -188,14 +188,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - mistral configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q4_K_M.gguf
     sha256: 14789fe0f3a1e9c7b1b92ef4d82d90e7d312f6fdda43b524067569c0795203d8
     uri: 
@@ -224,14 +224,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - mistral configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q4_K_S.gguf
     sha256: 75853a91cc0d217460e416b87a17dd2e13e9b6062f5c98dc0ac54bfec816a436
     uri: 
@@ -260,14 +260,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - mistral configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q5_0.gguf
     sha256: d63343b01556439787a8255ff5c8eec92ad225c34089ea380a2663ee06491619
     uri: 
@@ -296,14 +296,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - mistral configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q5_K_M.gguf
     sha256: d06d149c24eea0446ea7aad596aca396fe7f3302441e9375d5bbd3fd9ba8ebea
     uri: 
@@ -332,14 +332,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - mistral configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q5_K_S.gguf
     sha256: 134b006051f324bc3d56b60a18d6c838a34a6979c119637bccd17c9494a00046
     uri: 
@@ -368,14 +368,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - mistral configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q6_K.gguf
     sha256: df4652da0691e10c8d127c83ca0ab6552acb258905c39da8182f259d4cc72862
     uri: 
@@ -404,14 +404,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - mistral configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q8_0.gguf
     sha256: 5c1e8bb0847a4372fe51e419c575b3623c495d91fa54a56fdeb258f874a0f058
     uri: 
@@ -436,14 +436,14 @@
     parameters:
       model: mistrallite.Q2_K.gguf
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q2_K.gguf
     sha256: ef41059513deb91131615e39f006874e6d918b82f02a490254733605e14801ea
     uri: 
@@ -468,14 +468,14 @@
     parameters:
       model: mistrallite.Q3_K_L.gguf
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q3_K_L.gguf
     sha256: e27ac7f872556158cc76ed249c8f251e983b8aeac30bb3a7d3217f628f4473c7
     uri: 
@@ -500,14 +500,14 @@
     parameters:
       model: mistrallite.Q3_K_M.gguf
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q3_K_M.gguf
     sha256: 19a2afe0a5e9172564d33d0855101eab82b93a59b201003776bfc356c11d0b26
     uri: 
@@ -532,14 +532,14 @@
     parameters:
       model: mistrallite.Q3_K_S.gguf
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q3_K_S.gguf
     sha256: 2e7d69552105f3fb4ab63cdf63b7bc34d011566103741b3cec213f186f2cbe6c
     uri: 
@@ -564,14 +564,14 @@
     parameters:
       model: mistrallite.Q4_0.gguf
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q4_0.gguf
     sha256: 4719da782c664c54fdebceaa17069b16f333ecf96a6fd0c72961b91034bf4192
     uri: 
@@ -596,14 +596,14 @@
     parameters:
       model: mistrallite.Q4_K_M.gguf
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q4_K_M.gguf
     sha256: 14789fe0f3a1e9c7b1b92ef4d82d90e7d312f6fdda43b524067569c0795203d8
     uri: 
@@ -628,14 +628,14 @@
     parameters:
       model: mistrallite.Q4_K_S.gguf
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q4_K_S.gguf
     sha256: 75853a91cc0d217460e416b87a17dd2e13e9b6062f5c98dc0ac54bfec816a436
     uri: 
@@ -660,14 +660,14 @@
     parameters:
       model: mistrallite.Q5_0.gguf
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q5_0.gguf
     sha256: d63343b01556439787a8255ff5c8eec92ad225c34089ea380a2663ee06491619
     uri: 
@@ -692,14 +692,14 @@
     parameters:
       model: mistrallite.Q5_K_M.gguf
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q5_K_M.gguf
     sha256: d06d149c24eea0446ea7aad596aca396fe7f3302441e9375d5bbd3fd9ba8ebea
     uri: 
@@ -724,14 +724,14 @@
     parameters:
       model: mistrallite.Q5_K_S.gguf
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q5_K_S.gguf
     sha256: 134b006051f324bc3d56b60a18d6c838a34a6979c119637bccd17c9494a00046
     uri: 
@@ -756,14 +756,14 @@
     parameters:
       model: mistrallite.Q6_K.gguf
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q6_K.gguf
     sha256: df4652da0691e10c8d127c83ca0ab6552acb258905c39da8182f259d4cc72862
     uri: 
@@ -788,14 +788,14 @@
     parameters:
       model: mistrallite.Q8_0.gguf
     template:
-      chat: Amazon
-      completion: Amazon
+      chat: amazon
+      completion: amazon
   description: TheBloke/MistralLite-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Amazon.tmpl
+  - filename: amazon.tmpl
     sha256: b838fa728bb398d29b24f7fc83fbdb7873e260b537dec17f98083cbc2fd7ae2c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Amazon.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/amazon.tmpl
   - filename: mistrallite.Q8_0.gguf
     sha256: 5c1e8bb0847a4372fe51e419c575b3623c495d91fa54a56fdeb258f874a0f058
     uri: 

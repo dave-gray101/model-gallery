@@ -4,14 +4,14 @@
     parameters:
       model: openorca-platypus2-13b.Q2_K.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q2_K.gguf
     sha256: 36db5a3ee6b4a5be116e81cf3d6a0c518544610d772f35ab75521603e1361835
     uri: 
@@ -43,14 +43,14 @@
     parameters:
       model: openorca-platypus2-13b.Q3_K_L.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q3_K_L.gguf
     sha256: afd09632c52624baec8750e5cdd8fca4ca92aec731249b10d27c713e1ab3e8d9
     uri: 
@@ -82,14 +82,14 @@
     parameters:
       model: openorca-platypus2-13b.Q3_K_M.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q3_K_M.gguf
     sha256: 2cb7d43f5c21915381cc9734726700bf3b18e6a7e9287f52082e9c0f17d62579
     uri: 
@@ -121,14 +121,14 @@
     parameters:
       model: openorca-platypus2-13b.Q3_K_S.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q3_K_S.gguf
     sha256: 35a6e321f34985f72bd561e1fbc986dab3fd1be6daa1e37efc4e2b9b0f54e997
     uri: 
@@ -160,14 +160,14 @@
     parameters:
       model: openorca-platypus2-13b.Q4_0.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q4_0.gguf
     sha256: 5bfba5fac13df15ade81ff5c21aa75b60bf951f279f044444a47ede74559fcc5
     uri: 
@@ -199,14 +199,14 @@
     parameters:
       model: openorca-platypus2-13b.Q4_K_M.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q4_K_M.gguf
     sha256: 57702d0d9eba2b5142820924643f8a3f08f12d8983059f4df891f1e266819b3a
     uri: 
@@ -238,14 +238,14 @@
     parameters:
       model: openorca-platypus2-13b.Q4_K_S.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q4_K_S.gguf
     sha256: 617c1ac4eac3c9fad3d057cb2aa911782d7c1b70f65a8e4a2c32dc4465ac18ba
     uri: 
@@ -277,14 +277,14 @@
     parameters:
       model: openorca-platypus2-13b.Q5_0.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q5_0.gguf
     sha256: 0031992372b37c9f41acc8809db21521d5b1691140c8fe85faae33fde89af49f
     uri: 
@@ -316,14 +316,14 @@
     parameters:
       model: openorca-platypus2-13b.Q5_K_M.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q5_K_M.gguf
     sha256: 9c9cdfc3092b5d3d448e1d29685819c4beb11e3f7c49f999fc8a6c462b0c2616
     uri: 
@@ -355,14 +355,14 @@
     parameters:
       model: openorca-platypus2-13b.Q5_K_S.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q5_K_S.gguf
     sha256: ff463ed8c555e9ae3d2c355116c7107b628af55bd8531528eee01723dd70acd6
     uri: 
@@ -394,14 +394,14 @@
     parameters:
       model: openorca-platypus2-13b.Q6_K.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q6_K.gguf
     sha256: 5c70b17ad37343b85eaa2e7209b1e0eed9269687c23fd14dc49d95d3e494bb38
     uri: 
@@ -433,14 +433,14 @@
     parameters:
       model: openorca-platypus2-13b.Q8_0.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q8_0.gguf
     sha256: d0e8d7a57227829d775df12a84eccf112ee688b72d9a89110cd603b6bbb41da3
     uri: 
@@ -472,14 +472,14 @@
     parameters:
       model: openorca-platypus2-13b.Q2_K.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q2_K.gguf
     sha256: 36db5a3ee6b4a5be116e81cf3d6a0c518544610d772f35ab75521603e1361835
     uri: 
@@ -511,14 +511,14 @@
     parameters:
       model: openorca-platypus2-13b.Q3_K_L.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q3_K_L.gguf
     sha256: afd09632c52624baec8750e5cdd8fca4ca92aec731249b10d27c713e1ab3e8d9
     uri: 
@@ -550,14 +550,14 @@
     parameters:
       model: openorca-platypus2-13b.Q3_K_M.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q3_K_M.gguf
     sha256: 2cb7d43f5c21915381cc9734726700bf3b18e6a7e9287f52082e9c0f17d62579
     uri: 
@@ -589,14 +589,14 @@
     parameters:
       model: openorca-platypus2-13b.Q3_K_S.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q3_K_S.gguf
     sha256: 35a6e321f34985f72bd561e1fbc986dab3fd1be6daa1e37efc4e2b9b0f54e997
     uri: 
@@ -628,14 +628,14 @@
     parameters:
       model: openorca-platypus2-13b.Q4_0.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q4_0.gguf
     sha256: 5bfba5fac13df15ade81ff5c21aa75b60bf951f279f044444a47ede74559fcc5
     uri: 
@@ -667,14 +667,14 @@
     parameters:
       model: openorca-platypus2-13b.Q4_K_M.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q4_K_M.gguf
     sha256: 57702d0d9eba2b5142820924643f8a3f08f12d8983059f4df891f1e266819b3a
     uri: 
@@ -706,14 +706,14 @@
     parameters:
       model: openorca-platypus2-13b.Q4_K_S.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q4_K_S.gguf
     sha256: 617c1ac4eac3c9fad3d057cb2aa911782d7c1b70f65a8e4a2c32dc4465ac18ba
     uri: 
@@ -745,14 +745,14 @@
     parameters:
       model: openorca-platypus2-13b.Q5_0.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q5_0.gguf
     sha256: 0031992372b37c9f41acc8809db21521d5b1691140c8fe85faae33fde89af49f
     uri: 
@@ -784,14 +784,14 @@
     parameters:
       model: openorca-platypus2-13b.Q5_K_M.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q5_K_M.gguf
     sha256: 9c9cdfc3092b5d3d448e1d29685819c4beb11e3f7c49f999fc8a6c462b0c2616
     uri: 
@@ -823,14 +823,14 @@
     parameters:
       model: openorca-platypus2-13b.Q5_K_S.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q5_K_S.gguf
     sha256: ff463ed8c555e9ae3d2c355116c7107b628af55bd8531528eee01723dd70acd6
     uri: 
@@ -862,14 +862,14 @@
     parameters:
       model: openorca-platypus2-13b.Q6_K.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q6_K.gguf
     sha256: 5c70b17ad37343b85eaa2e7209b1e0eed9269687c23fd14dc49d95d3e494bb38
     uri: 
@@ -901,14 +901,14 @@
     parameters:
       model: openorca-platypus2-13b.Q8_0.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q8_0.gguf
     sha256: d0e8d7a57227829d775df12a84eccf112ee688b72d9a89110cd603b6bbb41da3
     uri: 
@@ -940,14 +940,14 @@
     parameters:
       model: openorca-platypus2-13b.Q2_K.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q2_K.gguf
     sha256: 36db5a3ee6b4a5be116e81cf3d6a0c518544610d772f35ab75521603e1361835
     uri: 
@@ -979,14 +979,14 @@
     parameters:
       model: openorca-platypus2-13b.Q3_K_L.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q3_K_L.gguf
     sha256: afd09632c52624baec8750e5cdd8fca4ca92aec731249b10d27c713e1ab3e8d9
     uri: 
@@ -1018,14 +1018,14 @@
     parameters:
       model: openorca-platypus2-13b.Q3_K_M.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q3_K_M.gguf
     sha256: 2cb7d43f5c21915381cc9734726700bf3b18e6a7e9287f52082e9c0f17d62579
     uri: 
@@ -1057,14 +1057,14 @@
     parameters:
       model: openorca-platypus2-13b.Q3_K_S.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q3_K_S.gguf
     sha256: 35a6e321f34985f72bd561e1fbc986dab3fd1be6daa1e37efc4e2b9b0f54e997
     uri: 
@@ -1096,14 +1096,14 @@
     parameters:
       model: openorca-platypus2-13b.Q4_0.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q4_0.gguf
     sha256: 5bfba5fac13df15ade81ff5c21aa75b60bf951f279f044444a47ede74559fcc5
     uri: 
@@ -1135,14 +1135,14 @@
     parameters:
       model: openorca-platypus2-13b.Q4_K_M.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q4_K_M.gguf
     sha256: 57702d0d9eba2b5142820924643f8a3f08f12d8983059f4df891f1e266819b3a
     uri: 
@@ -1174,14 +1174,14 @@
     parameters:
       model: openorca-platypus2-13b.Q4_K_S.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q4_K_S.gguf
     sha256: 617c1ac4eac3c9fad3d057cb2aa911782d7c1b70f65a8e4a2c32dc4465ac18ba
     uri: 
@@ -1213,14 +1213,14 @@
     parameters:
       model: openorca-platypus2-13b.Q5_0.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q5_0.gguf
     sha256: 0031992372b37c9f41acc8809db21521d5b1691140c8fe85faae33fde89af49f
     uri: 
@@ -1252,14 +1252,14 @@
     parameters:
       model: openorca-platypus2-13b.Q5_K_M.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q5_K_M.gguf
     sha256: 9c9cdfc3092b5d3d448e1d29685819c4beb11e3f7c49f999fc8a6c462b0c2616
     uri: 
@@ -1291,14 +1291,14 @@
     parameters:
       model: openorca-platypus2-13b.Q5_K_S.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q5_K_S.gguf
     sha256: ff463ed8c555e9ae3d2c355116c7107b628af55bd8531528eee01723dd70acd6
     uri: 
@@ -1330,14 +1330,14 @@
     parameters:
       model: openorca-platypus2-13b.Q6_K.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q6_K.gguf
     sha256: 5c70b17ad37343b85eaa2e7209b1e0eed9269687c23fd14dc49d95d3e494bb38
     uri: 
@@ -1369,14 +1369,14 @@
     parameters:
       model: openorca-platypus2-13b.Q8_0.gguf
     template:
-      chat: Alpaca-InstructOnly
-      completion: Alpaca-InstructOnly
+      chat: alpaca-instructonly
+      completion: alpaca-instructonly
   description: TheBloke/OpenOrca-Platypus2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-InstructOnly.tmpl
+  - filename: alpaca-instructonly.tmpl
     sha256: 4b4fd7f11087f785465f2526887d609474bd9ffb7a61f2972918a246250b50bb
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-InstructOnly.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-instructonly.tmpl
   - filename: openorca-platypus2-13b.Q8_0.gguf
     sha256: d0e8d7a57227829d775df12a84eccf112ee688b72d9a89110cd603b6bbb41da3
     uri: 

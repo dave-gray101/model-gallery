@@ -4,15 +4,15 @@
     parameters:
       model: stablecode-instruct-alpha-3b.ggmlv1.q4_0.bin
     template:
-      chat: StableCode
-      completion: StableCode
+      chat: stablecode
+      completion: stablecode
   description: TheBloke/stablecode-instruct-alpha-3b-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: StableCode.tmpl
+  - filename: stablecode.tmpl
     sha256: a0ae07ade5ad06109b90d3fab6e5d07a5760048b8286004150134a99eb17d6e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/StableCode.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/stablecode.tmpl
   - filename: stablecode-instruct-alpha-3b.ggmlv1.q4_0.bin
     sha256: 7143e0148e5c0101fb66ce6e233182c10db4a52b438cae557a7d368f98eb29a1
     uri: 
@@ -39,15 +39,15 @@
     parameters:
       model: stablecode-instruct-alpha-3b.ggmlv1.q4_1.bin
     template:
-      chat: StableCode
-      completion: StableCode
+      chat: stablecode
+      completion: stablecode
   description: TheBloke/stablecode-instruct-alpha-3b-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: StableCode.tmpl
+  - filename: stablecode.tmpl
     sha256: a0ae07ade5ad06109b90d3fab6e5d07a5760048b8286004150134a99eb17d6e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/StableCode.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/stablecode.tmpl
   - filename: stablecode-instruct-alpha-3b.ggmlv1.q4_1.bin
     sha256: 232dfca5ab94d34474b75b4877dff40ec3ddf739268ced812d7a68ae345c6a0a
     uri: 
@@ -74,15 +74,15 @@
     parameters:
       model: stablecode-instruct-alpha-3b.ggmlv1.q5_0.bin
     template:
-      chat: StableCode
-      completion: StableCode
+      chat: stablecode
+      completion: stablecode
   description: TheBloke/stablecode-instruct-alpha-3b-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: StableCode.tmpl
+  - filename: stablecode.tmpl
     sha256: a0ae07ade5ad06109b90d3fab6e5d07a5760048b8286004150134a99eb17d6e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/StableCode.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/stablecode.tmpl
   - filename: stablecode-instruct-alpha-3b.ggmlv1.q5_0.bin
     sha256: 10796d26af4f34649b99b1c683cc63d6fdf806afac7a654bbd90ecce0f1df718
     uri: 
@@ -109,15 +109,15 @@
     parameters:
       model: stablecode-instruct-alpha-3b.ggmlv1.q5_1.bin
     template:
-      chat: StableCode
-      completion: StableCode
+      chat: stablecode
+      completion: stablecode
   description: TheBloke/stablecode-instruct-alpha-3b-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: StableCode.tmpl
+  - filename: stablecode.tmpl
     sha256: a0ae07ade5ad06109b90d3fab6e5d07a5760048b8286004150134a99eb17d6e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/StableCode.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/stablecode.tmpl
   - filename: stablecode-instruct-alpha-3b.ggmlv1.q5_1.bin
     sha256: 769ad8eb3ff4a60a8af6848153e91b012af2dc8bc4726fccc4cdaf1b99d5a4ae
     uri: 
@@ -144,15 +144,15 @@
     parameters:
       model: stablecode-instruct-alpha-3b.ggmlv1.q8_0.bin
     template:
-      chat: StableCode
-      completion: StableCode
+      chat: stablecode
+      completion: stablecode
   description: TheBloke/stablecode-instruct-alpha-3b-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: StableCode.tmpl
+  - filename: stablecode.tmpl
     sha256: a0ae07ade5ad06109b90d3fab6e5d07a5760048b8286004150134a99eb17d6e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/StableCode.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/stablecode.tmpl
   - filename: stablecode-instruct-alpha-3b.ggmlv1.q8_0.bin
     sha256: 8809b0c7bed2e85bf4437cf9693d663eddcc530ad404d249698d2c555dcbf74c
     uri: 

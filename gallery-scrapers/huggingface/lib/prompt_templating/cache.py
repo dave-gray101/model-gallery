@@ -28,7 +28,9 @@ class PromptTemplateCache:
             outputFile.writelines(template)
 
     def get_prompt_path(self, promptTemplateResult: AutomaticPromptTemplateResult) -> Optional[Path]:
-        if promptTemplateResult.templateName.lower() in self.bannedPromptNames:
+        # For cross platform filename safety reasons, force lowercasing at this point
+        promptTemplateResult.templateName = promptTemplateResult.templateName.lower()
+        if promptTemplateResult.templateName in self.bannedPromptNames:
             promptTemplateResult.templateName = clean_model_id(promptTemplateResult.modelInfo)
         promptTemplatePath = self.templateRoot / f"{promptTemplateResult.templateName}.tmpl"      
         if promptTemplatePath.exists():

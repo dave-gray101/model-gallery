@@ -4,14 +4,14 @@
     parameters:
       model: stablebeluga-7b.Q2_K.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q2_K.gguf
     sha256: 936a2d8d48b6e28099cfb74e90383615c365a0fb32c9f19998da970d8854dd6f
     uri: 
@@ -44,14 +44,14 @@
     parameters:
       model: stablebeluga-7b.Q3_K_L.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q3_K_L.gguf
     sha256: 4ceee8eb05a659aa5231dd83f2870546db064994679664c66ffe2ddbd844079b
     uri: 
@@ -84,14 +84,14 @@
     parameters:
       model: stablebeluga-7b.Q3_K_M.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q3_K_M.gguf
     sha256: d9a810a9eeb1b8a96fc9edffed59016f2cd89b1358aeb3712f773a51675c1d93
     uri: 
@@ -124,14 +124,14 @@
     parameters:
       model: stablebeluga-7b.Q3_K_S.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q3_K_S.gguf
     sha256: 9282f4f750a6b2d0828e49f843f54afe1da8d797a59976f96d83f6a4156186c1
     uri: 
@@ -164,14 +164,14 @@
     parameters:
       model: stablebeluga-7b.Q4_0.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q4_0.gguf
     sha256: 884fc7f400fbd4963b12466978dd5ac37b5c5c6874cbd0990702666f0fac166f
     uri: 
@@ -204,14 +204,14 @@
     parameters:
       model: stablebeluga-7b.Q4_K_M.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q4_K_M.gguf
     sha256: a46fb4d1396b70ff3d248def41a537525822dada7dad834512e54719457a25bc
     uri: 
@@ -244,14 +244,14 @@
     parameters:
       model: stablebeluga-7b.Q4_K_S.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q4_K_S.gguf
     sha256: b40c9f372e57a4c01a60a3dd8c2ae3d7d1fb47520b73004f15edf2b573935172
     uri: 
@@ -284,14 +284,14 @@
     parameters:
       model: stablebeluga-7b.Q5_0.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q5_0.gguf
     sha256: 0a4a044c3a3c1f4e8fb762e6992b9fb965408e6c20e7d2288b0b729a1128131c
     uri: 
@@ -324,14 +324,14 @@
     parameters:
       model: stablebeluga-7b.Q5_K_M.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q5_K_M.gguf
     sha256: e9fd3e6cd2019bcb2e780fec37ac76f289289f054d65d0e27d43a1cab80ed5d7
     uri: 
@@ -364,14 +364,14 @@
     parameters:
       model: stablebeluga-7b.Q5_K_S.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q5_K_S.gguf
     sha256: b8918a2b21a8734ae2e8c6a19952f64b6e3dd02aba6ab19da701a6be8713b0ae
     uri: 
@@ -404,14 +404,14 @@
     parameters:
       model: stablebeluga-7b.Q6_K.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q6_K.gguf
     sha256: 257b613fa290944bdf4322b70603243dbbd9136a917f50f8273be86404110390
     uri: 
@@ -444,14 +444,14 @@
     parameters:
       model: stablebeluga-7b.Q8_0.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q8_0.gguf
     sha256: d6d68fc10277e25c628973b23ae266ad53489b881e2e43521459dbf9e49e8c01
     uri: 
@@ -484,14 +484,14 @@
     parameters:
       model: stablebeluga-7b.Q2_K.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q2_K.gguf
     sha256: 936a2d8d48b6e28099cfb74e90383615c365a0fb32c9f19998da970d8854dd6f
     uri: 
@@ -524,14 +524,14 @@
     parameters:
       model: stablebeluga-7b.Q3_K_L.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q3_K_L.gguf
     sha256: 4ceee8eb05a659aa5231dd83f2870546db064994679664c66ffe2ddbd844079b
     uri: 
@@ -564,14 +564,14 @@
     parameters:
       model: stablebeluga-7b.Q3_K_M.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q3_K_M.gguf
     sha256: d9a810a9eeb1b8a96fc9edffed59016f2cd89b1358aeb3712f773a51675c1d93
     uri: 
@@ -604,14 +604,14 @@
     parameters:
       model: stablebeluga-7b.Q3_K_S.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q3_K_S.gguf
     sha256: 9282f4f750a6b2d0828e49f843f54afe1da8d797a59976f96d83f6a4156186c1
     uri: 
@@ -644,14 +644,14 @@
     parameters:
       model: stablebeluga-7b.Q4_0.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q4_0.gguf
     sha256: 884fc7f400fbd4963b12466978dd5ac37b5c5c6874cbd0990702666f0fac166f
     uri: 
@@ -684,14 +684,14 @@
     parameters:
       model: stablebeluga-7b.Q4_K_M.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q4_K_M.gguf
     sha256: a46fb4d1396b70ff3d248def41a537525822dada7dad834512e54719457a25bc
     uri: 
@@ -724,14 +724,14 @@
     parameters:
       model: stablebeluga-7b.Q4_K_S.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q4_K_S.gguf
     sha256: b40c9f372e57a4c01a60a3dd8c2ae3d7d1fb47520b73004f15edf2b573935172
     uri: 
@@ -764,14 +764,14 @@
     parameters:
       model: stablebeluga-7b.Q5_0.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q5_0.gguf
     sha256: 0a4a044c3a3c1f4e8fb762e6992b9fb965408e6c20e7d2288b0b729a1128131c
     uri: 
@@ -804,14 +804,14 @@
     parameters:
       model: stablebeluga-7b.Q5_K_M.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q5_K_M.gguf
     sha256: e9fd3e6cd2019bcb2e780fec37ac76f289289f054d65d0e27d43a1cab80ed5d7
     uri: 
@@ -844,14 +844,14 @@
     parameters:
       model: stablebeluga-7b.Q5_K_S.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q5_K_S.gguf
     sha256: b8918a2b21a8734ae2e8c6a19952f64b6e3dd02aba6ab19da701a6be8713b0ae
     uri: 
@@ -884,14 +884,14 @@
     parameters:
       model: stablebeluga-7b.Q6_K.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q6_K.gguf
     sha256: 257b613fa290944bdf4322b70603243dbbd9136a917f50f8273be86404110390
     uri: 
@@ -924,14 +924,14 @@
     parameters:
       model: stablebeluga-7b.Q8_0.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q8_0.gguf
     sha256: d6d68fc10277e25c628973b23ae266ad53489b881e2e43521459dbf9e49e8c01
     uri: 
@@ -964,14 +964,14 @@
     parameters:
       model: stablebeluga-7b.Q2_K.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q2_K.gguf
     sha256: 936a2d8d48b6e28099cfb74e90383615c365a0fb32c9f19998da970d8854dd6f
     uri: 
@@ -1004,14 +1004,14 @@
     parameters:
       model: stablebeluga-7b.Q3_K_L.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q3_K_L.gguf
     sha256: 4ceee8eb05a659aa5231dd83f2870546db064994679664c66ffe2ddbd844079b
     uri: 
@@ -1044,14 +1044,14 @@
     parameters:
       model: stablebeluga-7b.Q3_K_M.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q3_K_M.gguf
     sha256: d9a810a9eeb1b8a96fc9edffed59016f2cd89b1358aeb3712f773a51675c1d93
     uri: 
@@ -1084,14 +1084,14 @@
     parameters:
       model: stablebeluga-7b.Q3_K_S.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q3_K_S.gguf
     sha256: 9282f4f750a6b2d0828e49f843f54afe1da8d797a59976f96d83f6a4156186c1
     uri: 
@@ -1124,14 +1124,14 @@
     parameters:
       model: stablebeluga-7b.Q4_0.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q4_0.gguf
     sha256: 884fc7f400fbd4963b12466978dd5ac37b5c5c6874cbd0990702666f0fac166f
     uri: 
@@ -1164,14 +1164,14 @@
     parameters:
       model: stablebeluga-7b.Q4_K_M.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q4_K_M.gguf
     sha256: a46fb4d1396b70ff3d248def41a537525822dada7dad834512e54719457a25bc
     uri: 
@@ -1204,14 +1204,14 @@
     parameters:
       model: stablebeluga-7b.Q4_K_S.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q4_K_S.gguf
     sha256: b40c9f372e57a4c01a60a3dd8c2ae3d7d1fb47520b73004f15edf2b573935172
     uri: 
@@ -1244,14 +1244,14 @@
     parameters:
       model: stablebeluga-7b.Q5_0.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q5_0.gguf
     sha256: 0a4a044c3a3c1f4e8fb762e6992b9fb965408e6c20e7d2288b0b729a1128131c
     uri: 
@@ -1284,14 +1284,14 @@
     parameters:
       model: stablebeluga-7b.Q5_K_M.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q5_K_M.gguf
     sha256: e9fd3e6cd2019bcb2e780fec37ac76f289289f054d65d0e27d43a1cab80ed5d7
     uri: 
@@ -1324,14 +1324,14 @@
     parameters:
       model: stablebeluga-7b.Q5_K_S.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q5_K_S.gguf
     sha256: b8918a2b21a8734ae2e8c6a19952f64b6e3dd02aba6ab19da701a6be8713b0ae
     uri: 
@@ -1364,14 +1364,14 @@
     parameters:
       model: stablebeluga-7b.Q6_K.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q6_K.gguf
     sha256: 257b613fa290944bdf4322b70603243dbbd9136a917f50f8273be86404110390
     uri: 
@@ -1404,14 +1404,14 @@
     parameters:
       model: stablebeluga-7b.Q8_0.gguf
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/StableBeluga-7B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: stablebeluga-7b.Q8_0.gguf
     sha256: d6d68fc10277e25c628973b23ae266ad53489b881e2e43521459dbf9e49e8c01
     uri: 

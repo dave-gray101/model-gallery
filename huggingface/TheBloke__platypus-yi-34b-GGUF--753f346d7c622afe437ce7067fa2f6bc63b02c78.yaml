@@ -4,14 +4,14 @@
     parameters:
       model: platypus-yi-34b.Q2_K.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q2_K.gguf
     sha256: 8568fb24af70996598c209f37e9fb4982beef3b0cf6622ebbadeb91971c8f809
     uri: 
@@ -36,14 +36,14 @@
     parameters:
       model: platypus-yi-34b.Q3_K_L.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q3_K_L.gguf
     sha256: 4dd72bbcfb1d8ffda03dd801716bae9f6099cf7791a22aaf256598037c1577ee
     uri: 
@@ -68,14 +68,14 @@
     parameters:
       model: platypus-yi-34b.Q3_K_M.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q3_K_M.gguf
     sha256: c55638a696ad0c997ba4a27285bf0d784e07ad70af36b152ec06f63bceb6f6ec
     uri: 
@@ -100,14 +100,14 @@
     parameters:
       model: platypus-yi-34b.Q3_K_S.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q3_K_S.gguf
     sha256: 5da9c8e298c56beb2f9d63d5ad33186702915719e61cab02e1b69716dc96475e
     uri: 
@@ -132,14 +132,14 @@
     parameters:
       model: platypus-yi-34b.Q4_0.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q4_0.gguf
     sha256: 8a44ffd02c2ba5ee5c4ceb0bf5344e1e52c4d80ed74dc32ed28b9aa014338385
     uri: 
@@ -164,14 +164,14 @@
     parameters:
       model: platypus-yi-34b.Q4_K_M.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q4_K_M.gguf
     sha256: cf239745f238d94497828c50cf3d13b1faa5d63108a0755abd0f572f3bd33669
     uri: 
@@ -196,14 +196,14 @@
     parameters:
       model: platypus-yi-34b.Q4_K_S.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q4_K_S.gguf
     sha256: b8d9aad1413862e385a576a96a59c251ba7b462a8c5d3b820be07e0c877b8c94
     uri: 
@@ -228,14 +228,14 @@
     parameters:
       model: platypus-yi-34b.Q5_0.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q5_0.gguf
     sha256: 0b222242c8fff788ad3b0cbaad98804df1f898d3682c4b5aff174899571e82f2
     uri: 
@@ -260,14 +260,14 @@
     parameters:
       model: platypus-yi-34b.Q5_K_M.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q5_K_M.gguf
     sha256: c78095c6e48a22cd862b72cd2b888b11bf4d06d4d3469d0965d861855e3bdf6d
     uri: 
@@ -292,14 +292,14 @@
     parameters:
       model: platypus-yi-34b.Q5_K_S.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q5_K_S.gguf
     sha256: 4ecb9ca495f60ba13a40d6ac14a30d7284798c19bd41482d5e4231ecc6df4ec0
     uri: 
@@ -324,14 +324,14 @@
     parameters:
       model: platypus-yi-34b.Q6_K.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q6_K.gguf
     sha256: 6a2476c386f03a5716f180218e9b36582ad0ca1d34ac87e9ade3c29b10d55725
     uri: 
@@ -356,14 +356,14 @@
     parameters:
       model: platypus-yi-34b.Q8_0.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q8_0.gguf
     sha256: f8d7aacee7d731e4864cf76bd54c4f11ab2d69b5730467cf63255c67a5e42122
     uri: 
@@ -388,14 +388,14 @@
     parameters:
       model: platypus-yi-34b.Q2_K.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q2_K.gguf
     sha256: 8568fb24af70996598c209f37e9fb4982beef3b0cf6622ebbadeb91971c8f809
     uri: 
@@ -420,14 +420,14 @@
     parameters:
       model: platypus-yi-34b.Q3_K_L.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q3_K_L.gguf
     sha256: 4dd72bbcfb1d8ffda03dd801716bae9f6099cf7791a22aaf256598037c1577ee
     uri: 
@@ -452,14 +452,14 @@
     parameters:
       model: platypus-yi-34b.Q3_K_M.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q3_K_M.gguf
     sha256: c55638a696ad0c997ba4a27285bf0d784e07ad70af36b152ec06f63bceb6f6ec
     uri: 
@@ -484,14 +484,14 @@
     parameters:
       model: platypus-yi-34b.Q3_K_S.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q3_K_S.gguf
     sha256: 5da9c8e298c56beb2f9d63d5ad33186702915719e61cab02e1b69716dc96475e
     uri: 
@@ -516,14 +516,14 @@
     parameters:
       model: platypus-yi-34b.Q4_0.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q4_0.gguf
     sha256: 8a44ffd02c2ba5ee5c4ceb0bf5344e1e52c4d80ed74dc32ed28b9aa014338385
     uri: 
@@ -548,14 +548,14 @@
     parameters:
       model: platypus-yi-34b.Q4_K_M.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q4_K_M.gguf
     sha256: cf239745f238d94497828c50cf3d13b1faa5d63108a0755abd0f572f3bd33669
     uri: 
@@ -580,14 +580,14 @@
     parameters:
       model: platypus-yi-34b.Q4_K_S.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q4_K_S.gguf
     sha256: b8d9aad1413862e385a576a96a59c251ba7b462a8c5d3b820be07e0c877b8c94
     uri: 
@@ -612,14 +612,14 @@
     parameters:
       model: platypus-yi-34b.Q5_0.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q5_0.gguf
     sha256: 0b222242c8fff788ad3b0cbaad98804df1f898d3682c4b5aff174899571e82f2
     uri: 
@@ -644,14 +644,14 @@
     parameters:
       model: platypus-yi-34b.Q5_K_M.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q5_K_M.gguf
     sha256: c78095c6e48a22cd862b72cd2b888b11bf4d06d4d3469d0965d861855e3bdf6d
     uri: 
@@ -676,14 +676,14 @@
     parameters:
       model: platypus-yi-34b.Q5_K_S.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q5_K_S.gguf
     sha256: 4ecb9ca495f60ba13a40d6ac14a30d7284798c19bd41482d5e4231ecc6df4ec0
     uri: 
@@ -708,14 +708,14 @@
     parameters:
       model: platypus-yi-34b.Q6_K.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q6_K.gguf
     sha256: 6a2476c386f03a5716f180218e9b36582ad0ca1d34ac87e9ade3c29b10d55725
     uri: 
@@ -740,14 +740,14 @@
     parameters:
       model: platypus-yi-34b.Q8_0.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/platypus-yi-34b-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: platypus-yi-34b.Q8_0.gguf
     sha256: f8d7aacee7d731e4864cf76bd54c4f11ab2d69b5730467cf63255c67a5e42122
     uri: 

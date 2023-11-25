@@ -4,14 +4,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q2_K.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q2_K.bin
     sha256: bbcd7b2ef84b658d7b686e9fe5c6ea5c47d118208d087a3636a14d49e298597a
     uri: 
@@ -37,14 +37,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q3_K_L.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q3_K_L.bin
     sha256: 6b08fac69a68c6cd607cad9784b49994d7ca1c144a374ca70c1689b19f313891
     uri: 
@@ -70,14 +70,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q3_K_M.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q3_K_M.bin
     sha256: c10fc8a4824e1895cf0fee2dfed95b36ce74ec22547e9fe3e629c2f3b18b3c78
     uri: 
@@ -103,14 +103,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q3_K_S.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q3_K_S.bin
     sha256: 29c9e64e9b0324fddbfa2087d728cba90be6380ea149576a247b8fe8ed996edf
     uri: 
@@ -136,14 +136,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q4_0.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q4_0.bin
     sha256: 06e19017f9281bce83c4529e7383d9d3d30d20c96eedef7fccc3a79ad28c6884
     uri: 
@@ -169,14 +169,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q4_1.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q4_1.bin
     sha256: 24560c5dcd6710644001ae0925f2864f881c6ac1fb7b72f5b1397825628482f7
     uri: 
@@ -202,14 +202,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q4_K_M.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q4_K_M.bin
     sha256: 30e4670f8029b1599d2f62a196cf8c8d9cd6e80cde965bb80ddc78923dd5bd79
     uri: 
@@ -235,14 +235,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q4_K_S.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q4_K_S.bin
     sha256: a8277e88fa2a5e3d0092f6bf92594247bb8237418b7cb5abbbc40bc61b882b75
     uri: 
@@ -268,14 +268,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q5_0.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q5_0.bin
     sha256: 19a50ebd6212ed651bda64a7c529be1734c30a1bae26cab32f33e3ee00483ff7
     uri: 
@@ -301,14 +301,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q5_1.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q5_1.bin
     sha256: 606b44677964a38196a327a70acf57f49e02dde571e31aaa17b96e57d25e9d55
     uri: 
@@ -334,14 +334,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q5_K_M.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q5_K_M.bin
     sha256: cd79c89b7886bb70384dfd6a7ab734412cfec9146cdb0e0822674071232b21b2
     uri: 
@@ -367,14 +367,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q5_K_S.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q5_K_S.bin
     sha256: 841d05576731e3777d66645f4f2c4331cc477c1866d2e39cde180b3127262504
     uri: 
@@ -400,14 +400,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q6_K.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q6_K.bin
     sha256: 8afbd0bbd62e9ababe9cb06a0fc27bcb447474c042f7e092e1550f4cc14d03e3
     uri: 
@@ -433,14 +433,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q8_0.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llama configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q8_0.bin
     sha256: b508aa9423046af6eb7519657d1d0a13ecbd87c7c631004edf79686cbc8247cd
     uri: 
@@ -466,14 +466,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q2_K.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q2_K.bin
     sha256: bbcd7b2ef84b658d7b686e9fe5c6ea5c47d118208d087a3636a14d49e298597a
     uri: 
@@ -499,14 +499,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q3_K_L.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q3_K_L.bin
     sha256: 6b08fac69a68c6cd607cad9784b49994d7ca1c144a374ca70c1689b19f313891
     uri: 
@@ -532,14 +532,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q3_K_M.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q3_K_M.bin
     sha256: c10fc8a4824e1895cf0fee2dfed95b36ce74ec22547e9fe3e629c2f3b18b3c78
     uri: 
@@ -565,14 +565,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q3_K_S.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q3_K_S.bin
     sha256: 29c9e64e9b0324fddbfa2087d728cba90be6380ea149576a247b8fe8ed996edf
     uri: 
@@ -598,14 +598,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q4_0.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q4_0.bin
     sha256: 06e19017f9281bce83c4529e7383d9d3d30d20c96eedef7fccc3a79ad28c6884
     uri: 
@@ -631,14 +631,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q4_1.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q4_1.bin
     sha256: 24560c5dcd6710644001ae0925f2864f881c6ac1fb7b72f5b1397825628482f7
     uri: 
@@ -664,14 +664,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q4_K_M.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q4_K_M.bin
     sha256: 30e4670f8029b1599d2f62a196cf8c8d9cd6e80cde965bb80ddc78923dd5bd79
     uri: 
@@ -697,14 +697,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q4_K_S.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q4_K_S.bin
     sha256: a8277e88fa2a5e3d0092f6bf92594247bb8237418b7cb5abbbc40bc61b882b75
     uri: 
@@ -730,14 +730,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q5_0.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q5_0.bin
     sha256: 19a50ebd6212ed651bda64a7c529be1734c30a1bae26cab32f33e3ee00483ff7
     uri: 
@@ -763,14 +763,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q5_1.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q5_1.bin
     sha256: 606b44677964a38196a327a70acf57f49e02dde571e31aaa17b96e57d25e9d55
     uri: 
@@ -796,14 +796,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q5_K_M.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q5_K_M.bin
     sha256: cd79c89b7886bb70384dfd6a7ab734412cfec9146cdb0e0822674071232b21b2
     uri: 
@@ -829,14 +829,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q5_K_S.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q5_K_S.bin
     sha256: 841d05576731e3777d66645f4f2c4331cc477c1866d2e39cde180b3127262504
     uri: 
@@ -862,14 +862,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q6_K.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q6_K.bin
     sha256: 8afbd0bbd62e9ababe9cb06a0fc27bcb447474c042f7e092e1550f4cc14d03e3
     uri: 
@@ -895,14 +895,14 @@
     parameters:
       model: wizardmath-13b-v1.0.ggmlv3.q8_0.bin
     template:
-      chat: Alpaca-CoT
-      completion: Alpaca-CoT
+      chat: alpaca-cot
+      completion: alpaca-cot
   description: TheBloke/WizardMath-13B-V1.0-GGML - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-CoT.tmpl
+  - filename: alpaca-cot.tmpl
     sha256: 1945709c9cf3537da2045a5570ecf9e89fac530b04b4ac20b421a25bc904596e
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-CoT.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-cot.tmpl
   - filename: wizardmath-13b-v1.0.ggmlv3.q8_0.bin
     sha256: b508aa9423046af6eb7519657d1d0a13ecbd87c7c631004edf79686cbc8247cd
     uri: 

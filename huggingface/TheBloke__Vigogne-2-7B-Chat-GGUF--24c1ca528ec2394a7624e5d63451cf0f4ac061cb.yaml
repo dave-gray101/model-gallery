@@ -4,14 +4,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q2_K.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llama configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q2_K.gguf
     sha256: dd6a585888951de371ff6263641c36f65e3a1a8a583b228eccbf6768e4d66fd5
     uri: 
@@ -39,14 +39,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q3_K_L.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llama configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q3_K_L.gguf
     sha256: b6c0f1fb3e1a46c417cf6d2ea0db6e155c79287263476cde75ce2ec967d43d48
     uri: 
@@ -74,14 +74,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q3_K_M.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llama configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q3_K_M.gguf
     sha256: b4564d72e4edb86e06f4b78dcdf14b403773e821a016ea2ae6b6a3d37abd3b24
     uri: 
@@ -109,14 +109,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q3_K_S.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llama configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q3_K_S.gguf
     sha256: d851487d25f82924c15b18c276bd8ec91cdaa6f70c8f2531a782694a51d73056
     uri: 
@@ -144,14 +144,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q4_0.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llama configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q4_0.gguf
     sha256: 6521ac5b6a11061c6d7d76a79295fbbf16cc6b136d01a4b892ca5aba785e8e1c
     uri: 
@@ -179,14 +179,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q4_K_M.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llama configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q4_K_M.gguf
     sha256: 634622793bfccc106ebe1d379f828b72e7770fbf28974e9537645a881fb8caf0
     uri: 
@@ -214,14 +214,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q4_K_S.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llama configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q4_K_S.gguf
     sha256: 04a698ca68df0d8b7aee382eeb1fcc0420a761a03db0712bb239936a875bf561
     uri: 
@@ -249,14 +249,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q5_0.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llama configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q5_0.gguf
     sha256: 5e4bca061e3722a246435148651c7bcf4e5af85fc6d7772045153c087f64d138
     uri: 
@@ -284,14 +284,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q5_K_M.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llama configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q5_K_M.gguf
     sha256: cc82cc846e9e175a7a7662e9de6459a279b6166d0dba471938dd4a3819ed559f
     uri: 
@@ -319,14 +319,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q5_K_S.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llama configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q5_K_S.gguf
     sha256: 1d6e3832dd179d3b58065117b683885cabb0b5b68691e0442458e89e8db4a37e
     uri: 
@@ -354,14 +354,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q6_K.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llama configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q6_K.gguf
     sha256: 988fab7cdee60bc875389d2ef22bc040419677d8c260fc2fcd1ea6384ca53e9f
     uri: 
@@ -389,14 +389,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q8_0.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llama configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q8_0.gguf
     sha256: f71d806e7d2fa51417bb28251182d35028add574c34adccff228433331ea3771
     uri: 
@@ -424,14 +424,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q2_K.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q2_K.gguf
     sha256: dd6a585888951de371ff6263641c36f65e3a1a8a583b228eccbf6768e4d66fd5
     uri: 
@@ -459,14 +459,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q3_K_L.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q3_K_L.gguf
     sha256: b6c0f1fb3e1a46c417cf6d2ea0db6e155c79287263476cde75ce2ec967d43d48
     uri: 
@@ -494,14 +494,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q3_K_M.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q3_K_M.gguf
     sha256: b4564d72e4edb86e06f4b78dcdf14b403773e821a016ea2ae6b6a3d37abd3b24
     uri: 
@@ -529,14 +529,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q3_K_S.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q3_K_S.gguf
     sha256: d851487d25f82924c15b18c276bd8ec91cdaa6f70c8f2531a782694a51d73056
     uri: 
@@ -564,14 +564,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q4_0.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q4_0.gguf
     sha256: 6521ac5b6a11061c6d7d76a79295fbbf16cc6b136d01a4b892ca5aba785e8e1c
     uri: 
@@ -599,14 +599,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q4_K_M.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q4_K_M.gguf
     sha256: 634622793bfccc106ebe1d379f828b72e7770fbf28974e9537645a881fb8caf0
     uri: 
@@ -634,14 +634,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q4_K_S.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q4_K_S.gguf
     sha256: 04a698ca68df0d8b7aee382eeb1fcc0420a761a03db0712bb239936a875bf561
     uri: 
@@ -669,14 +669,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q5_0.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q5_0.gguf
     sha256: 5e4bca061e3722a246435148651c7bcf4e5af85fc6d7772045153c087f64d138
     uri: 
@@ -704,14 +704,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q5_K_M.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q5_K_M.gguf
     sha256: cc82cc846e9e175a7a7662e9de6459a279b6166d0dba471938dd4a3819ed559f
     uri: 
@@ -739,14 +739,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q5_K_S.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q5_K_S.gguf
     sha256: 1d6e3832dd179d3b58065117b683885cabb0b5b68691e0442458e89e8db4a37e
     uri: 
@@ -774,14 +774,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q6_K.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q6_K.gguf
     sha256: 988fab7cdee60bc875389d2ef22bc040419677d8c260fc2fcd1ea6384ca53e9f
     uri: 
@@ -809,14 +809,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q8_0.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q8_0.gguf
     sha256: f71d806e7d2fa51417bb28251182d35028add574c34adccff228433331ea3771
     uri: 
@@ -844,14 +844,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q2_K.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q2_K.gguf
     sha256: dd6a585888951de371ff6263641c36f65e3a1a8a583b228eccbf6768e4d66fd5
     uri: 
@@ -879,14 +879,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q3_K_L.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q3_K_L.gguf
     sha256: b6c0f1fb3e1a46c417cf6d2ea0db6e155c79287263476cde75ce2ec967d43d48
     uri: 
@@ -914,14 +914,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q3_K_M.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q3_K_M.gguf
     sha256: b4564d72e4edb86e06f4b78dcdf14b403773e821a016ea2ae6b6a3d37abd3b24
     uri: 
@@ -949,14 +949,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q3_K_S.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q3_K_S.gguf
     sha256: d851487d25f82924c15b18c276bd8ec91cdaa6f70c8f2531a782694a51d73056
     uri: 
@@ -984,14 +984,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q4_0.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q4_0.gguf
     sha256: 6521ac5b6a11061c6d7d76a79295fbbf16cc6b136d01a4b892ca5aba785e8e1c
     uri: 
@@ -1019,14 +1019,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q4_K_M.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q4_K_M.gguf
     sha256: 634622793bfccc106ebe1d379f828b72e7770fbf28974e9537645a881fb8caf0
     uri: 
@@ -1054,14 +1054,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q4_K_S.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q4_K_S.gguf
     sha256: 04a698ca68df0d8b7aee382eeb1fcc0420a761a03db0712bb239936a875bf561
     uri: 
@@ -1089,14 +1089,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q5_0.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q5_0.gguf
     sha256: 5e4bca061e3722a246435148651c7bcf4e5af85fc6d7772045153c087f64d138
     uri: 
@@ -1124,14 +1124,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q5_K_M.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q5_K_M.gguf
     sha256: cc82cc846e9e175a7a7662e9de6459a279b6166d0dba471938dd4a3819ed559f
     uri: 
@@ -1159,14 +1159,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q5_K_S.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q5_K_S.gguf
     sha256: 1d6e3832dd179d3b58065117b683885cabb0b5b68691e0442458e89e8db4a37e
     uri: 
@@ -1194,14 +1194,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q6_K.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q6_K.gguf
     sha256: 988fab7cdee60bc875389d2ef22bc040419677d8c260fc2fcd1ea6384ca53e9f
     uri: 
@@ -1229,14 +1229,14 @@
     parameters:
       model: vigogne-2-7b-chat.Q8_0.gguf
     template:
-      chat: Vigogne-Chat
-      completion: Vigogne-Chat
+      chat: vigogne-chat
+      completion: vigogne-chat
   description: TheBloke/Vigogne-2-7B-Chat-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vigogne-Chat.tmpl
+  - filename: vigogne-chat.tmpl
     sha256: 36531293aa2631677b2d93909cad60ebc3f0da2bbc8456aa9600c5f98aa8af41
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vigogne-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vigogne-chat.tmpl
   - filename: vigogne-2-7b-chat.Q8_0.gguf
     sha256: f71d806e7d2fa51417bb28251182d35028add574c34adccff228433331ea3771
     uri: 

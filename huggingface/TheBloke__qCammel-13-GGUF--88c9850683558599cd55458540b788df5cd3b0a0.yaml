@@ -4,14 +4,14 @@
     parameters:
       model: qcammel-13.Q2_K.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q2_K.gguf
     sha256: 1053c2f63fc0d2d0de8a88209b011a4564f79077f0d6636a24bb2ea19aec85d0
     uri: 
@@ -43,14 +43,14 @@
     parameters:
       model: qcammel-13.Q3_K_L.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q3_K_L.gguf
     sha256: 35b14f68fffd141db639696378348c74228f9033be90ff1c237573ab29f98347
     uri: 
@@ -82,14 +82,14 @@
     parameters:
       model: qcammel-13.Q3_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q3_K_M.gguf
     sha256: 5ba67d9852a525974c3910d7fb94ca0d6612e1d20f97831ad4deaa289abf8d9d
     uri: 
@@ -121,14 +121,14 @@
     parameters:
       model: qcammel-13.Q3_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q3_K_S.gguf
     sha256: 8937f9a370a3a1787c1dd7319b142cfa7cd602827dd3070567ef6781c4da3303
     uri: 
@@ -160,14 +160,14 @@
     parameters:
       model: qcammel-13.Q4_0.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q4_0.gguf
     sha256: e8467f436e3bfaa96b8cc8a6ff3b21559219e69c1e5cdfa5fb0ca3da5264ec71
     uri: 
@@ -199,14 +199,14 @@
     parameters:
       model: qcammel-13.Q4_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q4_K_M.gguf
     sha256: 536c995e353e4b75f81694a092bb24f64229d43300dd6ccf4c75533c4685d7d0
     uri: 
@@ -238,14 +238,14 @@
     parameters:
       model: qcammel-13.Q4_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q4_K_S.gguf
     sha256: 7e94e46702920a58b8cd60f53e0fe18665b83381570c1266e1a99522eb095db9
     uri: 
@@ -277,14 +277,14 @@
     parameters:
       model: qcammel-13.Q5_0.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q5_0.gguf
     sha256: 2d486c6d31ff7a29a73b4655e66dbf78a9317f7eb893cd592f1603a34df10c2a
     uri: 
@@ -316,14 +316,14 @@
     parameters:
       model: qcammel-13.Q5_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q5_K_M.gguf
     sha256: 7329b36bda404b8bf6721f37b6d8adeb697424e31ac1bcb1f8ed9147621e7468
     uri: 
@@ -355,14 +355,14 @@
     parameters:
       model: qcammel-13.Q5_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q5_K_S.gguf
     sha256: 5c78ac764427894198738b18264b5657e82842794254d6fc0961ac43441c7905
     uri: 
@@ -394,14 +394,14 @@
     parameters:
       model: qcammel-13.Q6_K.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q6_K.gguf
     sha256: cdb191be2429808844d9abab87a198efe8f9f5ff2662491a14874391f4bcdc57
     uri: 
@@ -433,14 +433,14 @@
     parameters:
       model: qcammel-13.Q8_0.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q8_0.gguf
     sha256: d77225cdd0b1dc084ebd35d891d39273b9900eac6742f4dde8a8e4cf7ebdf4ac
     uri: 
@@ -472,14 +472,14 @@
     parameters:
       model: qcammel-13.Q2_K.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q2_K.gguf
     sha256: 1053c2f63fc0d2d0de8a88209b011a4564f79077f0d6636a24bb2ea19aec85d0
     uri: 
@@ -511,14 +511,14 @@
     parameters:
       model: qcammel-13.Q3_K_L.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q3_K_L.gguf
     sha256: 35b14f68fffd141db639696378348c74228f9033be90ff1c237573ab29f98347
     uri: 
@@ -550,14 +550,14 @@
     parameters:
       model: qcammel-13.Q3_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q3_K_M.gguf
     sha256: 5ba67d9852a525974c3910d7fb94ca0d6612e1d20f97831ad4deaa289abf8d9d
     uri: 
@@ -589,14 +589,14 @@
     parameters:
       model: qcammel-13.Q3_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q3_K_S.gguf
     sha256: 8937f9a370a3a1787c1dd7319b142cfa7cd602827dd3070567ef6781c4da3303
     uri: 
@@ -628,14 +628,14 @@
     parameters:
       model: qcammel-13.Q4_0.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q4_0.gguf
     sha256: e8467f436e3bfaa96b8cc8a6ff3b21559219e69c1e5cdfa5fb0ca3da5264ec71
     uri: 
@@ -667,14 +667,14 @@
     parameters:
       model: qcammel-13.Q4_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q4_K_M.gguf
     sha256: 536c995e353e4b75f81694a092bb24f64229d43300dd6ccf4c75533c4685d7d0
     uri: 
@@ -706,14 +706,14 @@
     parameters:
       model: qcammel-13.Q4_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q4_K_S.gguf
     sha256: 7e94e46702920a58b8cd60f53e0fe18665b83381570c1266e1a99522eb095db9
     uri: 
@@ -745,14 +745,14 @@
     parameters:
       model: qcammel-13.Q5_0.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q5_0.gguf
     sha256: 2d486c6d31ff7a29a73b4655e66dbf78a9317f7eb893cd592f1603a34df10c2a
     uri: 
@@ -784,14 +784,14 @@
     parameters:
       model: qcammel-13.Q5_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q5_K_M.gguf
     sha256: 7329b36bda404b8bf6721f37b6d8adeb697424e31ac1bcb1f8ed9147621e7468
     uri: 
@@ -823,14 +823,14 @@
     parameters:
       model: qcammel-13.Q5_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q5_K_S.gguf
     sha256: 5c78ac764427894198738b18264b5657e82842794254d6fc0961ac43441c7905
     uri: 
@@ -862,14 +862,14 @@
     parameters:
       model: qcammel-13.Q6_K.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q6_K.gguf
     sha256: cdb191be2429808844d9abab87a198efe8f9f5ff2662491a14874391f4bcdc57
     uri: 
@@ -901,14 +901,14 @@
     parameters:
       model: qcammel-13.Q8_0.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q8_0.gguf
     sha256: d77225cdd0b1dc084ebd35d891d39273b9900eac6742f4dde8a8e4cf7ebdf4ac
     uri: 
@@ -940,14 +940,14 @@
     parameters:
       model: qcammel-13.Q2_K.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q2_K.gguf
     sha256: 1053c2f63fc0d2d0de8a88209b011a4564f79077f0d6636a24bb2ea19aec85d0
     uri: 
@@ -979,14 +979,14 @@
     parameters:
       model: qcammel-13.Q3_K_L.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q3_K_L.gguf
     sha256: 35b14f68fffd141db639696378348c74228f9033be90ff1c237573ab29f98347
     uri: 
@@ -1018,14 +1018,14 @@
     parameters:
       model: qcammel-13.Q3_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q3_K_M.gguf
     sha256: 5ba67d9852a525974c3910d7fb94ca0d6612e1d20f97831ad4deaa289abf8d9d
     uri: 
@@ -1057,14 +1057,14 @@
     parameters:
       model: qcammel-13.Q3_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q3_K_S.gguf
     sha256: 8937f9a370a3a1787c1dd7319b142cfa7cd602827dd3070567ef6781c4da3303
     uri: 
@@ -1096,14 +1096,14 @@
     parameters:
       model: qcammel-13.Q4_0.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q4_0.gguf
     sha256: e8467f436e3bfaa96b8cc8a6ff3b21559219e69c1e5cdfa5fb0ca3da5264ec71
     uri: 
@@ -1135,14 +1135,14 @@
     parameters:
       model: qcammel-13.Q4_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q4_K_M.gguf
     sha256: 536c995e353e4b75f81694a092bb24f64229d43300dd6ccf4c75533c4685d7d0
     uri: 
@@ -1174,14 +1174,14 @@
     parameters:
       model: qcammel-13.Q4_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q4_K_S.gguf
     sha256: 7e94e46702920a58b8cd60f53e0fe18665b83381570c1266e1a99522eb095db9
     uri: 
@@ -1213,14 +1213,14 @@
     parameters:
       model: qcammel-13.Q5_0.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q5_0.gguf
     sha256: 2d486c6d31ff7a29a73b4655e66dbf78a9317f7eb893cd592f1603a34df10c2a
     uri: 
@@ -1252,14 +1252,14 @@
     parameters:
       model: qcammel-13.Q5_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q5_K_M.gguf
     sha256: 7329b36bda404b8bf6721f37b6d8adeb697424e31ac1bcb1f8ed9147621e7468
     uri: 
@@ -1291,14 +1291,14 @@
     parameters:
       model: qcammel-13.Q5_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q5_K_S.gguf
     sha256: 5c78ac764427894198738b18264b5657e82842794254d6fc0961ac43441c7905
     uri: 
@@ -1330,14 +1330,14 @@
     parameters:
       model: qcammel-13.Q6_K.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q6_K.gguf
     sha256: cdb191be2429808844d9abab87a198efe8f9f5ff2662491a14874391f4bcdc57
     uri: 
@@ -1369,14 +1369,14 @@
     parameters:
       model: qcammel-13.Q8_0.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/qCammel-13-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: qcammel-13.Q8_0.gguf
     sha256: d77225cdd0b1dc084ebd35d891d39273b9900eac6742f4dde8a8e4cf7ebdf4ac
     uri: 

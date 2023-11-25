@@ -8,14 +8,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q2_K.gguf
     sha256: 392c184e1cd4854d51f9beeed33ab7f312e6fcc24fe15ce48ea913471489db9e
     uri: 
@@ -45,14 +45,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q3_K_L.gguf
     sha256: bb7d3553cb52179c398482246f2ed027b3afbcfc0bfb66f0217e67352fc0ed8e
     uri: 
@@ -82,14 +82,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q3_K_M.gguf
     sha256: c61914eece3ab8af2b2d1e8334afe76f73adbdcda73889f618ef6f9add268b41
     uri: 
@@ -119,14 +119,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q3_K_S.gguf
     sha256: 64c6a19a18f9b6b796826627a92275178fd684e8b92ad5c02e6b817048822415
     uri: 
@@ -156,14 +156,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q4_0.gguf
     sha256: 2e1df5c866bb14595def00335f013dafd2061ff59db1e8e078fea84b56af9903
     uri: 
@@ -193,14 +193,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q4_K_M.gguf
     sha256: 9db3c4766817578dbc61da21419bc4f52ef9f7e8fd3793ce0bcd639896ba3cf0
     uri: 
@@ -230,14 +230,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q4_K_S.gguf
     sha256: 7222aa6a401c17bf44aa8c85154c4ac26b671b34f2edd5b7e5b76a6e5a55776a
     uri: 
@@ -267,14 +267,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q5_0.gguf
     sha256: cb6b3c1fb6a72ef1f0ad3c0cd1fff0f586243843667e3790dfc4d514b332eaae
     uri: 
@@ -304,14 +304,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q5_K_M.gguf
     sha256: 03fdf171fa3bb17fdeb909760aca258e900088f6dacc8e95eff13619f9aad86a
     uri: 
@@ -341,14 +341,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q5_K_S.gguf
     sha256: 13ec51bf0741ec621fe2948294c472fa91ced2af2230b5b5892ed7e4ce590ad9
     uri: 
@@ -378,14 +378,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q6_K.gguf
     sha256: 877baf9523fe226f2ea00344e637f346f2faa9b86c2aa8741eec81b4d15d9c6e
     uri: 
@@ -415,14 +415,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q8_0.gguf
     sha256: 80a6c1fee7bcddebd19eb9409cb141cd1d192745237b9216fb37c7b713b9455c
     uri: 
@@ -448,14 +448,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q2_K.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q2_K.gguf
     sha256: 392c184e1cd4854d51f9beeed33ab7f312e6fcc24fe15ce48ea913471489db9e
     uri: 
@@ -481,14 +481,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q3_K_L.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q3_K_L.gguf
     sha256: bb7d3553cb52179c398482246f2ed027b3afbcfc0bfb66f0217e67352fc0ed8e
     uri: 
@@ -514,14 +514,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q3_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q3_K_M.gguf
     sha256: c61914eece3ab8af2b2d1e8334afe76f73adbdcda73889f618ef6f9add268b41
     uri: 
@@ -547,14 +547,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q3_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q3_K_S.gguf
     sha256: 64c6a19a18f9b6b796826627a92275178fd684e8b92ad5c02e6b817048822415
     uri: 
@@ -580,14 +580,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q4_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q4_0.gguf
     sha256: 2e1df5c866bb14595def00335f013dafd2061ff59db1e8e078fea84b56af9903
     uri: 
@@ -613,14 +613,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q4_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q4_K_M.gguf
     sha256: 9db3c4766817578dbc61da21419bc4f52ef9f7e8fd3793ce0bcd639896ba3cf0
     uri: 
@@ -646,14 +646,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q4_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q4_K_S.gguf
     sha256: 7222aa6a401c17bf44aa8c85154c4ac26b671b34f2edd5b7e5b76a6e5a55776a
     uri: 
@@ -679,14 +679,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q5_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q5_0.gguf
     sha256: cb6b3c1fb6a72ef1f0ad3c0cd1fff0f586243843667e3790dfc4d514b332eaae
     uri: 
@@ -712,14 +712,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q5_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q5_K_M.gguf
     sha256: 03fdf171fa3bb17fdeb909760aca258e900088f6dacc8e95eff13619f9aad86a
     uri: 
@@ -745,14 +745,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q5_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q5_K_S.gguf
     sha256: 13ec51bf0741ec621fe2948294c472fa91ced2af2230b5b5892ed7e4ce590ad9
     uri: 
@@ -778,14 +778,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q6_K.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q6_K.gguf
     sha256: 877baf9523fe226f2ea00344e637f346f2faa9b86c2aa8741eec81b4d15d9c6e
     uri: 
@@ -811,14 +811,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q8_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q8_0.gguf
     sha256: 80a6c1fee7bcddebd19eb9409cb141cd1d192745237b9216fb37c7b713b9455c
     uri: 
@@ -844,14 +844,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q2_K.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q2_K.gguf
     sha256: 392c184e1cd4854d51f9beeed33ab7f312e6fcc24fe15ce48ea913471489db9e
     uri: 
@@ -877,14 +877,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q3_K_L.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q3_K_L.gguf
     sha256: bb7d3553cb52179c398482246f2ed027b3afbcfc0bfb66f0217e67352fc0ed8e
     uri: 
@@ -910,14 +910,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q3_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q3_K_M.gguf
     sha256: c61914eece3ab8af2b2d1e8334afe76f73adbdcda73889f618ef6f9add268b41
     uri: 
@@ -943,14 +943,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q3_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q3_K_S.gguf
     sha256: 64c6a19a18f9b6b796826627a92275178fd684e8b92ad5c02e6b817048822415
     uri: 
@@ -976,14 +976,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q4_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q4_0.gguf
     sha256: 2e1df5c866bb14595def00335f013dafd2061ff59db1e8e078fea84b56af9903
     uri: 
@@ -1009,14 +1009,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q4_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q4_K_M.gguf
     sha256: 9db3c4766817578dbc61da21419bc4f52ef9f7e8fd3793ce0bcd639896ba3cf0
     uri: 
@@ -1042,14 +1042,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q4_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q4_K_S.gguf
     sha256: 7222aa6a401c17bf44aa8c85154c4ac26b671b34f2edd5b7e5b76a6e5a55776a
     uri: 
@@ -1075,14 +1075,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q5_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q5_0.gguf
     sha256: cb6b3c1fb6a72ef1f0ad3c0cd1fff0f586243843667e3790dfc4d514b332eaae
     uri: 
@@ -1108,14 +1108,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q5_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q5_K_M.gguf
     sha256: 03fdf171fa3bb17fdeb909760aca258e900088f6dacc8e95eff13619f9aad86a
     uri: 
@@ -1141,14 +1141,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q5_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q5_K_S.gguf
     sha256: 13ec51bf0741ec621fe2948294c472fa91ced2af2230b5b5892ed7e4ce590ad9
     uri: 
@@ -1174,14 +1174,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q6_K.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q6_K.gguf
     sha256: 877baf9523fe226f2ea00344e637f346f2faa9b86c2aa8741eec81b4d15d9c6e
     uri: 
@@ -1207,14 +1207,14 @@
     parameters:
       model: synatra-7b-v0.3-base.Q8_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/Synatra-7B-v0.3-base-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: synatra-7b-v0.3-base.Q8_0.gguf
     sha256: 80a6c1fee7bcddebd19eb9409cb141cd1d192745237b9216fb37c7b713b9455c
     uri: 

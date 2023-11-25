@@ -4,14 +4,14 @@
     parameters:
       model: Manticore-13B.Q2_K.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q2_K.gguf
     sha256: b3120838051a061b6d35890ae1a47662be1eb6061eccf5ee5b1852c17a1b197a
     uri: 
@@ -47,14 +47,14 @@
     parameters:
       model: Manticore-13B.Q3_K_L.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q3_K_L.gguf
     sha256: 53b6523dfa9f332934b295a15e98bcef8d5b2cdc7cb6d84b5a24f9ab364c3635
     uri: 
@@ -90,14 +90,14 @@
     parameters:
       model: Manticore-13B.Q3_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q3_K_M.gguf
     sha256: 350dfb31b9b7f622c1831dcbde8b637f6b99baec1d1a1ddb54bf522b5f956512
     uri: 
@@ -133,14 +133,14 @@
     parameters:
       model: Manticore-13B.Q3_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q3_K_S.gguf
     sha256: ce5962b056fe170da98c4add330efe9d4fcd408c2169b1898d53c542ae9227d5
     uri: 
@@ -176,14 +176,14 @@
     parameters:
       model: Manticore-13B.Q4_0.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q4_0.gguf
     sha256: 4534ceaaacaefb471544b86211f5157e3849f80ee1c130860806869553fd298f
     uri: 
@@ -219,14 +219,14 @@
     parameters:
       model: Manticore-13B.Q4_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q4_K_M.gguf
     sha256: 61c4f66e878329cd1a9b5f58949d76e276c976bfeee16b40aef9889a2c8bb319
     uri: 
@@ -262,14 +262,14 @@
     parameters:
       model: Manticore-13B.Q4_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q4_K_S.gguf
     sha256: 14b109896cdb0064b278f3d98f386eef1ac54aca76703ef2f5ecc85adb0ff2ee
     uri: 
@@ -305,14 +305,14 @@
     parameters:
       model: Manticore-13B.Q5_0.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q5_0.gguf
     sha256: af060af9882fa53d8c882eee45229ce5809c1acecba3d02f9477d9bb973eab9d
     uri: 
@@ -348,14 +348,14 @@
     parameters:
       model: Manticore-13B.Q5_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q5_K_M.gguf
     sha256: b77895f6b14927232dea135d8443d002983a9ce917c9d97cab45d75e3502b522
     uri: 
@@ -391,14 +391,14 @@
     parameters:
       model: Manticore-13B.Q5_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q5_K_S.gguf
     sha256: 11961a90f4bf37566e11d6bca917731988d4fb29cbfb090d1ca0f510fbcd16bc
     uri: 
@@ -434,14 +434,14 @@
     parameters:
       model: Manticore-13B.Q6_K.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q6_K.gguf
     sha256: d4faf135734470fe196b41fc9a271509295530bc0437caf2888ff127712874df
     uri: 
@@ -477,14 +477,14 @@
     parameters:
       model: Manticore-13B.Q8_0.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q8_0.gguf
     sha256: 85e78953f7415bcd2eca148354d2b96d0fbfd978c8e6c93002e826c2b47854c9
     uri: 
@@ -520,14 +520,14 @@
     parameters:
       model: Manticore-13B.Q2_K.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q2_K.gguf
     sha256: b3120838051a061b6d35890ae1a47662be1eb6061eccf5ee5b1852c17a1b197a
     uri: 
@@ -563,14 +563,14 @@
     parameters:
       model: Manticore-13B.Q3_K_L.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q3_K_L.gguf
     sha256: 53b6523dfa9f332934b295a15e98bcef8d5b2cdc7cb6d84b5a24f9ab364c3635
     uri: 
@@ -606,14 +606,14 @@
     parameters:
       model: Manticore-13B.Q3_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q3_K_M.gguf
     sha256: 350dfb31b9b7f622c1831dcbde8b637f6b99baec1d1a1ddb54bf522b5f956512
     uri: 
@@ -649,14 +649,14 @@
     parameters:
       model: Manticore-13B.Q3_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q3_K_S.gguf
     sha256: ce5962b056fe170da98c4add330efe9d4fcd408c2169b1898d53c542ae9227d5
     uri: 
@@ -692,14 +692,14 @@
     parameters:
       model: Manticore-13B.Q4_0.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q4_0.gguf
     sha256: 4534ceaaacaefb471544b86211f5157e3849f80ee1c130860806869553fd298f
     uri: 
@@ -735,14 +735,14 @@
     parameters:
       model: Manticore-13B.Q4_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q4_K_M.gguf
     sha256: 61c4f66e878329cd1a9b5f58949d76e276c976bfeee16b40aef9889a2c8bb319
     uri: 
@@ -778,14 +778,14 @@
     parameters:
       model: Manticore-13B.Q4_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q4_K_S.gguf
     sha256: 14b109896cdb0064b278f3d98f386eef1ac54aca76703ef2f5ecc85adb0ff2ee
     uri: 
@@ -821,14 +821,14 @@
     parameters:
       model: Manticore-13B.Q5_0.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q5_0.gguf
     sha256: af060af9882fa53d8c882eee45229ce5809c1acecba3d02f9477d9bb973eab9d
     uri: 
@@ -864,14 +864,14 @@
     parameters:
       model: Manticore-13B.Q5_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q5_K_M.gguf
     sha256: b77895f6b14927232dea135d8443d002983a9ce917c9d97cab45d75e3502b522
     uri: 
@@ -907,14 +907,14 @@
     parameters:
       model: Manticore-13B.Q5_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q5_K_S.gguf
     sha256: 11961a90f4bf37566e11d6bca917731988d4fb29cbfb090d1ca0f510fbcd16bc
     uri: 
@@ -950,14 +950,14 @@
     parameters:
       model: Manticore-13B.Q6_K.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q6_K.gguf
     sha256: d4faf135734470fe196b41fc9a271509295530bc0437caf2888ff127712874df
     uri: 
@@ -993,14 +993,14 @@
     parameters:
       model: Manticore-13B.Q8_0.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q8_0.gguf
     sha256: 85e78953f7415bcd2eca148354d2b96d0fbfd978c8e6c93002e826c2b47854c9
     uri: 
@@ -1036,14 +1036,14 @@
     parameters:
       model: Manticore-13B.Q2_K.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q2_K.gguf
     sha256: b3120838051a061b6d35890ae1a47662be1eb6061eccf5ee5b1852c17a1b197a
     uri: 
@@ -1079,14 +1079,14 @@
     parameters:
       model: Manticore-13B.Q3_K_L.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q3_K_L.gguf
     sha256: 53b6523dfa9f332934b295a15e98bcef8d5b2cdc7cb6d84b5a24f9ab364c3635
     uri: 
@@ -1122,14 +1122,14 @@
     parameters:
       model: Manticore-13B.Q3_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q3_K_M.gguf
     sha256: 350dfb31b9b7f622c1831dcbde8b637f6b99baec1d1a1ddb54bf522b5f956512
     uri: 
@@ -1165,14 +1165,14 @@
     parameters:
       model: Manticore-13B.Q3_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q3_K_S.gguf
     sha256: ce5962b056fe170da98c4add330efe9d4fcd408c2169b1898d53c542ae9227d5
     uri: 
@@ -1208,14 +1208,14 @@
     parameters:
       model: Manticore-13B.Q4_0.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q4_0.gguf
     sha256: 4534ceaaacaefb471544b86211f5157e3849f80ee1c130860806869553fd298f
     uri: 
@@ -1251,14 +1251,14 @@
     parameters:
       model: Manticore-13B.Q4_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q4_K_M.gguf
     sha256: 61c4f66e878329cd1a9b5f58949d76e276c976bfeee16b40aef9889a2c8bb319
     uri: 
@@ -1294,14 +1294,14 @@
     parameters:
       model: Manticore-13B.Q4_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q4_K_S.gguf
     sha256: 14b109896cdb0064b278f3d98f386eef1ac54aca76703ef2f5ecc85adb0ff2ee
     uri: 
@@ -1337,14 +1337,14 @@
     parameters:
       model: Manticore-13B.Q5_0.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q5_0.gguf
     sha256: af060af9882fa53d8c882eee45229ce5809c1acecba3d02f9477d9bb973eab9d
     uri: 
@@ -1380,14 +1380,14 @@
     parameters:
       model: Manticore-13B.Q5_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q5_K_M.gguf
     sha256: b77895f6b14927232dea135d8443d002983a9ce917c9d97cab45d75e3502b522
     uri: 
@@ -1423,14 +1423,14 @@
     parameters:
       model: Manticore-13B.Q5_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q5_K_S.gguf
     sha256: 11961a90f4bf37566e11d6bca917731988d4fb29cbfb090d1ca0f510fbcd16bc
     uri: 
@@ -1466,14 +1466,14 @@
     parameters:
       model: Manticore-13B.Q6_K.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q6_K.gguf
     sha256: d4faf135734470fe196b41fc9a271509295530bc0437caf2888ff127712874df
     uri: 
@@ -1509,14 +1509,14 @@
     parameters:
       model: Manticore-13B.Q8_0.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Manticore-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: Manticore-13B.Q8_0.gguf
     sha256: 85e78953f7415bcd2eca148354d2b96d0fbfd978c8e6c93002e826c2b47854c9
     uri: 

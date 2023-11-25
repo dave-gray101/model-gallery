@@ -4,14 +4,14 @@
     parameters:
       model: airoboros-l2-70b-gpt4-1.4.1.Q2_K.gguf
     template:
-      chat: Airoboros
-      completion: Airoboros
+      chat: airoboros
+      completion: airoboros
   description: TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGUF - llama configuration
   files:
-  - filename: Airoboros.tmpl
+  - filename: airoboros.tmpl
     sha256: 0af6346b095d43e8d41a70cb028bc372f9c83d55804a85032af03c345f21dc65
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Airoboros.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/airoboros.tmpl
   - filename: airoboros-l2-70b-gpt4-1.4.1.Q2_K.gguf
     sha256: c5c9496629ccd066085e332bfc65505884b83e6f148710b7c4bd21b56ae28a76
     uri: 
@@ -37,14 +37,14 @@
     parameters:
       model: airoboros-l2-70b-gpt4-1.4.1.Q3_K_L.gguf
     template:
-      chat: Airoboros
-      completion: Airoboros
+      chat: airoboros
+      completion: airoboros
   description: TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGUF - llama configuration
   files:
-  - filename: Airoboros.tmpl
+  - filename: airoboros.tmpl
     sha256: 0af6346b095d43e8d41a70cb028bc372f9c83d55804a85032af03c345f21dc65
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Airoboros.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/airoboros.tmpl
   - filename: airoboros-l2-70b-gpt4-1.4.1.Q3_K_L.gguf
     sha256: 832a7027fdd416222b3950f503999e83ceaa87521f39074f63d1d1e717a41413
     uri: 
@@ -70,14 +70,14 @@
     parameters:
       model: airoboros-l2-70b-gpt4-1.4.1.Q3_K_M.gguf
     template:
-      chat: Airoboros
-      completion: Airoboros
+      chat: airoboros
+      completion: airoboros
   description: TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGUF - llama configuration
   files:
-  - filename: Airoboros.tmpl
+  - filename: airoboros.tmpl
     sha256: 0af6346b095d43e8d41a70cb028bc372f9c83d55804a85032af03c345f21dc65
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Airoboros.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/airoboros.tmpl
   - filename: airoboros-l2-70b-gpt4-1.4.1.Q3_K_M.gguf
     sha256: 643c589d80614547778016fd923465fd13d75ba3120dc6ecf58fdba141e0dd8c
     uri: 
@@ -103,14 +103,14 @@
     parameters:
       model: airoboros-l2-70b-gpt4-1.4.1.Q3_K_S.gguf
     template:
-      chat: Airoboros
-      completion: Airoboros
+      chat: airoboros
+      completion: airoboros
   description: TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGUF - llama configuration
   files:
-  - filename: Airoboros.tmpl
+  - filename: airoboros.tmpl
     sha256: 0af6346b095d43e8d41a70cb028bc372f9c83d55804a85032af03c345f21dc65
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Airoboros.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/airoboros.tmpl
   - filename: airoboros-l2-70b-gpt4-1.4.1.Q3_K_S.gguf
     sha256: ba3a174391bd43fd02025abe89ca87ee4ce190d37e688bd1a3a3f1f79fb8a17b
     uri: 
@@ -136,14 +136,14 @@
     parameters:
       model: airoboros-l2-70b-gpt4-1.4.1.Q4_0.gguf
     template:
-      chat: Airoboros
-      completion: Airoboros
+      chat: airoboros
+      completion: airoboros
   description: TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGUF - llama configuration
   files:
-  - filename: Airoboros.tmpl
+  - filename: airoboros.tmpl
     sha256: 0af6346b095d43e8d41a70cb028bc372f9c83d55804a85032af03c345f21dc65
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Airoboros.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/airoboros.tmpl
   - filename: airoboros-l2-70b-gpt4-1.4.1.Q4_0.gguf
     sha256: c379870f5575cc1765806bd0cf6fb923d0f5bf6f82c5f78b30c911dc290df3e4
     uri: 
@@ -169,14 +169,14 @@
     parameters:
       model: airoboros-l2-70b-gpt4-1.4.1.Q4_K_M.gguf
     template:
-      chat: Airoboros
-      completion: Airoboros
+      chat: airoboros
+      completion: airoboros
   description: TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGUF - llama configuration
   files:
-  - filename: Airoboros.tmpl
+  - filename: airoboros.tmpl
     sha256: 0af6346b095d43e8d41a70cb028bc372f9c83d55804a85032af03c345f21dc65
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Airoboros.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/airoboros.tmpl
   - filename: airoboros-l2-70b-gpt4-1.4.1.Q4_K_M.gguf
     sha256: 4760fe3a3a0f03c8027f386dc1fce4012847ba5fe49422ecfca28f387c97a4e3
     uri: 
@@ -202,14 +202,14 @@
     parameters:
       model: airoboros-l2-70b-gpt4-1.4.1.Q4_K_S.gguf
     template:
-      chat: Airoboros
-      completion: Airoboros
+      chat: airoboros
+      completion: airoboros
   description: TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGUF - llama configuration
   files:
-  - filename: Airoboros.tmpl
+  - filename: airoboros.tmpl
     sha256: 0af6346b095d43e8d41a70cb028bc372f9c83d55804a85032af03c345f21dc65
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Airoboros.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/airoboros.tmpl
   - filename: airoboros-l2-70b-gpt4-1.4.1.Q4_K_S.gguf
     sha256: 9fe2274b331dbb3e5627ef020c282f35607089698f1edcd190557a18dc5e2b29
     uri: 
@@ -235,14 +235,14 @@
     parameters:
       model: airoboros-l2-70b-gpt4-1.4.1.Q5_0.gguf
     template:
-      chat: Airoboros
-      completion: Airoboros
+      chat: airoboros
+      completion: airoboros
   description: TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGUF - llama configuration
   files:
-  - filename: Airoboros.tmpl
+  - filename: airoboros.tmpl
     sha256: 0af6346b095d43e8d41a70cb028bc372f9c83d55804a85032af03c345f21dc65
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Airoboros.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/airoboros.tmpl
   - filename: airoboros-l2-70b-gpt4-1.4.1.Q5_0.gguf
     sha256: 900a027494d20e9a8e17b58f7a21840b98683aefcd0b7aeb30ffccc5353f9b7c
     uri: 
@@ -268,14 +268,14 @@
     parameters:
       model: airoboros-l2-70b-gpt4-1.4.1.Q5_K_M.gguf
     template:
-      chat: Airoboros
-      completion: Airoboros
+      chat: airoboros
+      completion: airoboros
   description: TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGUF - llama configuration
   files:
-  - filename: Airoboros.tmpl
+  - filename: airoboros.tmpl
     sha256: 0af6346b095d43e8d41a70cb028bc372f9c83d55804a85032af03c345f21dc65
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Airoboros.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/airoboros.tmpl
   - filename: airoboros-l2-70b-gpt4-1.4.1.Q5_K_M.gguf
     sha256: acb4ec9f00aea1ef013026e0e0dc5f71773804d0b4bda0cbfa8951399b45097f
     uri: 
@@ -301,14 +301,14 @@
     parameters:
       model: airoboros-l2-70b-gpt4-1.4.1.Q5_K_S.gguf
     template:
-      chat: Airoboros
-      completion: Airoboros
+      chat: airoboros
+      completion: airoboros
   description: TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGUF - llama configuration
   files:
-  - filename: Airoboros.tmpl
+  - filename: airoboros.tmpl
     sha256: 0af6346b095d43e8d41a70cb028bc372f9c83d55804a85032af03c345f21dc65
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Airoboros.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/airoboros.tmpl
   - filename: airoboros-l2-70b-gpt4-1.4.1.Q5_K_S.gguf
     sha256: 63d08aba01ea63638655b1432db8b6a0f116e23d334d3b4860ea276d8786caa6
     uri: 
@@ -334,15 +334,15 @@
     parameters:
       model: airoboros-l2-70b-gpt4-1.4.1.Q2_K.gguf
     template:
-      chat: Airoboros
-      completion: Airoboros
+      chat: airoboros
+      completion: airoboros
   description: TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Airoboros.tmpl
+  - filename: airoboros.tmpl
     sha256: 0af6346b095d43e8d41a70cb028bc372f9c83d55804a85032af03c345f21dc65
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Airoboros.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/airoboros.tmpl
   - filename: airoboros-l2-70b-gpt4-1.4.1.Q2_K.gguf
     sha256: c5c9496629ccd066085e332bfc65505884b83e6f148710b7c4bd21b56ae28a76
     uri: 
@@ -368,15 +368,15 @@
     parameters:
       model: airoboros-l2-70b-gpt4-1.4.1.Q3_K_L.gguf
     template:
-      chat: Airoboros
-      completion: Airoboros
+      chat: airoboros
+      completion: airoboros
   description: TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Airoboros.tmpl
+  - filename: airoboros.tmpl
     sha256: 0af6346b095d43e8d41a70cb028bc372f9c83d55804a85032af03c345f21dc65
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Airoboros.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/airoboros.tmpl
   - filename: airoboros-l2-70b-gpt4-1.4.1.Q3_K_L.gguf
     sha256: 832a7027fdd416222b3950f503999e83ceaa87521f39074f63d1d1e717a41413
     uri: 
@@ -402,15 +402,15 @@
     parameters:
       model: airoboros-l2-70b-gpt4-1.4.1.Q3_K_M.gguf
     template:
-      chat: Airoboros
-      completion: Airoboros
+      chat: airoboros
+      completion: airoboros
   description: TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Airoboros.tmpl
+  - filename: airoboros.tmpl
     sha256: 0af6346b095d43e8d41a70cb028bc372f9c83d55804a85032af03c345f21dc65
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Airoboros.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/airoboros.tmpl
   - filename: airoboros-l2-70b-gpt4-1.4.1.Q3_K_M.gguf
     sha256: 643c589d80614547778016fd923465fd13d75ba3120dc6ecf58fdba141e0dd8c
     uri: 
@@ -436,15 +436,15 @@
     parameters:
       model: airoboros-l2-70b-gpt4-1.4.1.Q3_K_S.gguf
     template:
-      chat: Airoboros
-      completion: Airoboros
+      chat: airoboros
+      completion: airoboros
   description: TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Airoboros.tmpl
+  - filename: airoboros.tmpl
     sha256: 0af6346b095d43e8d41a70cb028bc372f9c83d55804a85032af03c345f21dc65
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Airoboros.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/airoboros.tmpl
   - filename: airoboros-l2-70b-gpt4-1.4.1.Q3_K_S.gguf
     sha256: ba3a174391bd43fd02025abe89ca87ee4ce190d37e688bd1a3a3f1f79fb8a17b
     uri: 
@@ -470,15 +470,15 @@
     parameters:
       model: airoboros-l2-70b-gpt4-1.4.1.Q4_0.gguf
     template:
-      chat: Airoboros
-      completion: Airoboros
+      chat: airoboros
+      completion: airoboros
   description: TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Airoboros.tmpl
+  - filename: airoboros.tmpl
     sha256: 0af6346b095d43e8d41a70cb028bc372f9c83d55804a85032af03c345f21dc65
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Airoboros.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/airoboros.tmpl
   - filename: airoboros-l2-70b-gpt4-1.4.1.Q4_0.gguf
     sha256: c379870f5575cc1765806bd0cf6fb923d0f5bf6f82c5f78b30c911dc290df3e4
     uri: 
@@ -504,15 +504,15 @@
     parameters:
       model: airoboros-l2-70b-gpt4-1.4.1.Q4_K_M.gguf
     template:
-      chat: Airoboros
-      completion: Airoboros
+      chat: airoboros
+      completion: airoboros
   description: TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Airoboros.tmpl
+  - filename: airoboros.tmpl
     sha256: 0af6346b095d43e8d41a70cb028bc372f9c83d55804a85032af03c345f21dc65
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Airoboros.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/airoboros.tmpl
   - filename: airoboros-l2-70b-gpt4-1.4.1.Q4_K_M.gguf
     sha256: 4760fe3a3a0f03c8027f386dc1fce4012847ba5fe49422ecfca28f387c97a4e3
     uri: 
@@ -538,15 +538,15 @@
     parameters:
       model: airoboros-l2-70b-gpt4-1.4.1.Q4_K_S.gguf
     template:
-      chat: Airoboros
-      completion: Airoboros
+      chat: airoboros
+      completion: airoboros
   description: TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Airoboros.tmpl
+  - filename: airoboros.tmpl
     sha256: 0af6346b095d43e8d41a70cb028bc372f9c83d55804a85032af03c345f21dc65
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Airoboros.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/airoboros.tmpl
   - filename: airoboros-l2-70b-gpt4-1.4.1.Q4_K_S.gguf
     sha256: 9fe2274b331dbb3e5627ef020c282f35607089698f1edcd190557a18dc5e2b29
     uri: 
@@ -572,15 +572,15 @@
     parameters:
       model: airoboros-l2-70b-gpt4-1.4.1.Q5_0.gguf
     template:
-      chat: Airoboros
-      completion: Airoboros
+      chat: airoboros
+      completion: airoboros
   description: TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Airoboros.tmpl
+  - filename: airoboros.tmpl
     sha256: 0af6346b095d43e8d41a70cb028bc372f9c83d55804a85032af03c345f21dc65
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Airoboros.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/airoboros.tmpl
   - filename: airoboros-l2-70b-gpt4-1.4.1.Q5_0.gguf
     sha256: 900a027494d20e9a8e17b58f7a21840b98683aefcd0b7aeb30ffccc5353f9b7c
     uri: 
@@ -606,15 +606,15 @@
     parameters:
       model: airoboros-l2-70b-gpt4-1.4.1.Q5_K_M.gguf
     template:
-      chat: Airoboros
-      completion: Airoboros
+      chat: airoboros
+      completion: airoboros
   description: TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Airoboros.tmpl
+  - filename: airoboros.tmpl
     sha256: 0af6346b095d43e8d41a70cb028bc372f9c83d55804a85032af03c345f21dc65
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Airoboros.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/airoboros.tmpl
   - filename: airoboros-l2-70b-gpt4-1.4.1.Q5_K_M.gguf
     sha256: acb4ec9f00aea1ef013026e0e0dc5f71773804d0b4bda0cbfa8951399b45097f
     uri: 
@@ -640,15 +640,15 @@
     parameters:
       model: airoboros-l2-70b-gpt4-1.4.1.Q5_K_S.gguf
     template:
-      chat: Airoboros
-      completion: Airoboros
+      chat: airoboros
+      completion: airoboros
   description: TheBloke/airoboros-l2-70B-gpt4-1.4.1-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Airoboros.tmpl
+  - filename: airoboros.tmpl
     sha256: 0af6346b095d43e8d41a70cb028bc372f9c83d55804a85032af03c345f21dc65
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Airoboros.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/airoboros.tmpl
   - filename: airoboros-l2-70b-gpt4-1.4.1.Q5_K_S.gguf
     sha256: 63d08aba01ea63638655b1432db8b6a0f116e23d334d3b4860ea276d8786caa6
     uri: 

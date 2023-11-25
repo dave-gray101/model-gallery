@@ -4,14 +4,14 @@
     parameters:
       model: xwin-lm-70b-v0.1.Q2_K.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Xwin-LM-70B-V0.1-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: xwin-lm-70b-v0.1.Q2_K.gguf
     sha256: 844a30cfe700431d52d3c7ddf9e9b22c2ca913035cf7bd7a5ed5273a671652d0
     uri: 
@@ -35,14 +35,14 @@
     parameters:
       model: xwin-lm-70b-v0.1.Q3_K_L.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Xwin-LM-70B-V0.1-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: xwin-lm-70b-v0.1.Q3_K_L.gguf
     sha256: fe7a8d52695079d253cbc09ee5f0c59b162e52135d4ba879927e23005fe7e44f
     uri: 
@@ -66,14 +66,14 @@
     parameters:
       model: xwin-lm-70b-v0.1.Q3_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Xwin-LM-70B-V0.1-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: xwin-lm-70b-v0.1.Q3_K_M.gguf
     sha256: 1f0e1ddce70f701e3586f602a53583f557f0785792b924c83ea798cbe9ab587b
     uri: 
@@ -97,14 +97,14 @@
     parameters:
       model: xwin-lm-70b-v0.1.Q3_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Xwin-LM-70B-V0.1-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: xwin-lm-70b-v0.1.Q3_K_S.gguf
     sha256: f768ded0e2ff288b5c9292e630685a51b657915bf1e1d3b9a96880baa63e49e9
     uri: 
@@ -128,14 +128,14 @@
     parameters:
       model: xwin-lm-70b-v0.1.Q4_0.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Xwin-LM-70B-V0.1-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: xwin-lm-70b-v0.1.Q4_0.gguf
     sha256: 8ee20dd2ce312efcd17aeea02b8bbf11f4a56136c29d6f799c65b52e8a154585
     uri: 
@@ -159,14 +159,14 @@
     parameters:
       model: xwin-lm-70b-v0.1.Q4_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Xwin-LM-70B-V0.1-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: xwin-lm-70b-v0.1.Q4_K_M.gguf
     sha256: b4c959f82be180cc00e8f3bc0ab61aac7564403db6255c83a2531b57bfb1b304
     uri: 
@@ -190,14 +190,14 @@
     parameters:
       model: xwin-lm-70b-v0.1.Q4_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Xwin-LM-70B-V0.1-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: xwin-lm-70b-v0.1.Q4_K_S.gguf
     sha256: 102c85d57b8d9828d354112556bf5f3ed2457afa98c2a4c649f1f7337a93cb79
     uri: 
@@ -221,14 +221,14 @@
     parameters:
       model: xwin-lm-70b-v0.1.Q5_0.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Xwin-LM-70B-V0.1-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: xwin-lm-70b-v0.1.Q5_0.gguf
     sha256: d11b4f335a5ea76bcc326fe0ae392922a00b27970e12077532341f982f7fb287
     uri: 
@@ -252,14 +252,14 @@
     parameters:
       model: xwin-lm-70b-v0.1.Q5_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Xwin-LM-70B-V0.1-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: xwin-lm-70b-v0.1.Q5_K_M.gguf
     sha256: 1f800c5c9564a5d5d62970a6f240faed5f2d0a945fa17dce87520df70885d055
     uri: 
@@ -283,14 +283,14 @@
     parameters:
       model: xwin-lm-70b-v0.1.Q5_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Xwin-LM-70B-V0.1-GGUF - llama configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: xwin-lm-70b-v0.1.Q5_K_S.gguf
     sha256: ae99be20f0693043666127bf39262d0f5a8dcd0c32f0486b16297354b03e4d4c
     uri: 
@@ -314,14 +314,14 @@
     parameters:
       model: xwin-lm-70b-v0.1.Q2_K.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Xwin-LM-70B-V0.1-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: xwin-lm-70b-v0.1.Q2_K.gguf
     sha256: 844a30cfe700431d52d3c7ddf9e9b22c2ca913035cf7bd7a5ed5273a671652d0
     uri: 
@@ -345,14 +345,14 @@
     parameters:
       model: xwin-lm-70b-v0.1.Q3_K_L.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Xwin-LM-70B-V0.1-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: xwin-lm-70b-v0.1.Q3_K_L.gguf
     sha256: fe7a8d52695079d253cbc09ee5f0c59b162e52135d4ba879927e23005fe7e44f
     uri: 
@@ -376,14 +376,14 @@
     parameters:
       model: xwin-lm-70b-v0.1.Q3_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Xwin-LM-70B-V0.1-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: xwin-lm-70b-v0.1.Q3_K_M.gguf
     sha256: 1f0e1ddce70f701e3586f602a53583f557f0785792b924c83ea798cbe9ab587b
     uri: 
@@ -407,14 +407,14 @@
     parameters:
       model: xwin-lm-70b-v0.1.Q3_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Xwin-LM-70B-V0.1-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: xwin-lm-70b-v0.1.Q3_K_S.gguf
     sha256: f768ded0e2ff288b5c9292e630685a51b657915bf1e1d3b9a96880baa63e49e9
     uri: 
@@ -438,14 +438,14 @@
     parameters:
       model: xwin-lm-70b-v0.1.Q4_0.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Xwin-LM-70B-V0.1-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: xwin-lm-70b-v0.1.Q4_0.gguf
     sha256: 8ee20dd2ce312efcd17aeea02b8bbf11f4a56136c29d6f799c65b52e8a154585
     uri: 
@@ -469,14 +469,14 @@
     parameters:
       model: xwin-lm-70b-v0.1.Q4_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Xwin-LM-70B-V0.1-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: xwin-lm-70b-v0.1.Q4_K_M.gguf
     sha256: b4c959f82be180cc00e8f3bc0ab61aac7564403db6255c83a2531b57bfb1b304
     uri: 
@@ -500,14 +500,14 @@
     parameters:
       model: xwin-lm-70b-v0.1.Q4_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Xwin-LM-70B-V0.1-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: xwin-lm-70b-v0.1.Q4_K_S.gguf
     sha256: 102c85d57b8d9828d354112556bf5f3ed2457afa98c2a4c649f1f7337a93cb79
     uri: 
@@ -531,14 +531,14 @@
     parameters:
       model: xwin-lm-70b-v0.1.Q5_0.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Xwin-LM-70B-V0.1-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: xwin-lm-70b-v0.1.Q5_0.gguf
     sha256: d11b4f335a5ea76bcc326fe0ae392922a00b27970e12077532341f982f7fb287
     uri: 
@@ -562,14 +562,14 @@
     parameters:
       model: xwin-lm-70b-v0.1.Q5_K_M.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Xwin-LM-70B-V0.1-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: xwin-lm-70b-v0.1.Q5_K_M.gguf
     sha256: 1f800c5c9564a5d5d62970a6f240faed5f2d0a945fa17dce87520df70885d055
     uri: 
@@ -593,14 +593,14 @@
     parameters:
       model: xwin-lm-70b-v0.1.Q5_K_S.gguf
     template:
-      chat: Vicuna
-      completion: Vicuna
+      chat: vicuna
+      completion: vicuna
   description: TheBloke/Xwin-LM-70B-V0.1-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna.tmpl
+  - filename: vicuna.tmpl
     sha256: e4f62a2354991f17f4da27228ce9416adc416db370ee9fbb8f4d114ed014a221
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna.tmpl
   - filename: xwin-lm-70b-v0.1.Q5_K_S.gguf
     sha256: ae99be20f0693043666127bf39262d0f5a8dcd0c32f0486b16297354b03e4d4c
     uri: 

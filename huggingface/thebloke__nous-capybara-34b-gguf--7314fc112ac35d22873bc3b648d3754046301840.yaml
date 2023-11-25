@@ -4,14 +4,14 @@
     parameters:
       model: nous-capybara-34b.Q2_K.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/Nous-Capybara-34B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: nous-capybara-34b.Q2_K.gguf
     sha256: a88dd11bcb0506b895aecdc788ba3e9321634ad3791c91ced464a2314d0ce71b
     uri: 
@@ -41,14 +41,14 @@
     parameters:
       model: nous-capybara-34b.Q3_K_L.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/Nous-Capybara-34B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: nous-capybara-34b.Q3_K_L.gguf
     sha256: 249900cef3b0580b9e9fb45475c1f1053c453bba6bb3174bb16e38f97a77a501
     uri: 
@@ -78,14 +78,14 @@
     parameters:
       model: nous-capybara-34b.Q3_K_M.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/Nous-Capybara-34B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: nous-capybara-34b.Q3_K_M.gguf
     sha256: c1280135ffae6e95afb7e5c84e5488561f8339736b1a8b3c12c7d077211ef711
     uri: 
@@ -115,14 +115,14 @@
     parameters:
       model: nous-capybara-34b.Q3_K_S.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/Nous-Capybara-34B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: nous-capybara-34b.Q3_K_S.gguf
     sha256: b2744d1597a7b8b8a3a7b2bec7c5a7d0d8e5f7cd3bce77fc5dd0fab3e979c390
     uri: 
@@ -152,14 +152,14 @@
     parameters:
       model: nous-capybara-34b.Q4_0.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/Nous-Capybara-34B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: nous-capybara-34b.Q4_0.gguf
     sha256: cf7c2b7f95a8c27766cbd6933a114d51eb00826546ff902719524464889442d5
     uri: 
@@ -189,14 +189,14 @@
     parameters:
       model: nous-capybara-34b.Q4_K_M.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/Nous-Capybara-34B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: nous-capybara-34b.Q4_K_M.gguf
     sha256: 15ce766018678fb2a1fbd431a912b2c981e4c739fe8a2ca850b8cd54875accdb
     uri: 
@@ -226,14 +226,14 @@
     parameters:
       model: nous-capybara-34b.Q4_K_S.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/Nous-Capybara-34B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: nous-capybara-34b.Q4_K_S.gguf
     sha256: 21380a7ffefe895408ce17249ab072313deb969060ffd3348ba1b42b8c7cbfd5
     uri: 
@@ -263,14 +263,14 @@
     parameters:
       model: nous-capybara-34b.Q5_0.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/Nous-Capybara-34B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: nous-capybara-34b.Q5_0.gguf
     sha256: 3529381d124ec0d5cf7d32cd153173e6cfcd88e37f6ee5ed9225ac507371be24
     uri: 
@@ -300,14 +300,14 @@
     parameters:
       model: nous-capybara-34b.Q5_K_M.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/Nous-Capybara-34B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: nous-capybara-34b.Q5_K_M.gguf
     sha256: 5dec2af2b0468ea0ff2bbb7c79fb91b73a7346e0853717c9b7821f006854c9bb
     uri: 
@@ -337,14 +337,14 @@
     parameters:
       model: nous-capybara-34b.Q5_K_S.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/Nous-Capybara-34B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: nous-capybara-34b.Q5_K_S.gguf
     sha256: 71eae70878682d2045429e7b728505d6c4e25886a39bfc56e72519e23b6042e4
     uri: 
@@ -374,14 +374,14 @@
     parameters:
       model: nous-capybara-34b.Q6_K.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/Nous-Capybara-34B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: nous-capybara-34b.Q6_K.gguf
     sha256: 3511ed6971975d3cf0a62953da0caf3154f90a8c0bb86777257981ae0d16beb6
     uri: 
@@ -411,14 +411,14 @@
     parameters:
       model: nous-capybara-34b.Q8_0.gguf
     template:
-      chat: User-Assistant
-      completion: User-Assistant
+      chat: user-assistant
+      completion: user-assistant
   description: TheBloke/Nous-Capybara-34B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: User-Assistant.tmpl
+  - filename: user-assistant.tmpl
     sha256: 59a71b1808c2da03653c7e1f494ee2dbb59ee81bb43f838c991289c6c75e16bd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/User-Assistant.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/user-assistant.tmpl
   - filename: nous-capybara-34b.Q8_0.gguf
     sha256: 32d3ff6f00028eec74b7ee26d9a74b54990e7e32c4cda1dc4ccb616e3c8500c8
     uri: 

@@ -4,15 +4,15 @@
     parameters:
       model: wizardcoder-guanaco-15b-v1.1.ggmlv1.q4_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/WizardCoder-Guanaco-15B-V1.1-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: wizardcoder-guanaco-15b-v1.1.ggmlv1.q4_0.bin
     sha256: 508266b55c5ada4702761d194cd19b399e9b5c6bdff2a056d621e69feee7a48a
     uri: 
@@ -36,15 +36,15 @@
     parameters:
       model: wizardcoder-guanaco-15b-v1.1.ggmlv1.q4_1.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/WizardCoder-Guanaco-15B-V1.1-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: wizardcoder-guanaco-15b-v1.1.ggmlv1.q4_1.bin
     sha256: 6606852a8d73d6cf6894cca3183a54214be6b145ed4408c11204b229c27cfa2f
     uri: 
@@ -68,15 +68,15 @@
     parameters:
       model: wizardcoder-guanaco-15b-v1.1.ggmlv1.q5_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/WizardCoder-Guanaco-15B-V1.1-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: wizardcoder-guanaco-15b-v1.1.ggmlv1.q5_0.bin
     sha256: a00e136b07d4eb376479b78ac66b64c7f3f9e2e5e24020087ccf027c0e89e37b
     uri: 
@@ -100,15 +100,15 @@
     parameters:
       model: wizardcoder-guanaco-15b-v1.1.ggmlv1.q5_1.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/WizardCoder-Guanaco-15B-V1.1-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: wizardcoder-guanaco-15b-v1.1.ggmlv1.q5_1.bin
     sha256: 9c33c8e7d97bf00aff4cfa068ac6190eff5fb8348bb9b0409f918896293a43b9
     uri: 
@@ -132,15 +132,15 @@
     parameters:
       model: wizardcoder-guanaco-15b-v1.1.ggmlv1.q8_0.bin
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/WizardCoder-Guanaco-15B-V1.1-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: wizardcoder-guanaco-15b-v1.1.ggmlv1.q8_0.bin
     sha256: cc35cfac864f3439ea9d32df32b252f11f5a25e99ffe4431f4f278cf0d4d5448
     uri: 

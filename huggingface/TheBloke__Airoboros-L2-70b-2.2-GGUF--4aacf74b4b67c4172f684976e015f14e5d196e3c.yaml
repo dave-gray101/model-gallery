@@ -4,14 +4,14 @@
     parameters:
       model: airoboros-l2-70b-2.2.Q2_K.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Airoboros-L2-70b-2.2-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: airoboros-l2-70b-2.2.Q2_K.gguf
     sha256: d8afa8e41e07c66f99ba24b4200825ca68b07991f5cc285eb22ddcf741f70de2
     uri: 
@@ -36,14 +36,14 @@
     parameters:
       model: airoboros-l2-70b-2.2.Q3_K_L.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Airoboros-L2-70b-2.2-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: airoboros-l2-70b-2.2.Q3_K_L.gguf
     sha256: 34568d287f62630ba61b7b494fd480e72e9a7e453ee5ba5df5abdfc175913ceb
     uri: 
@@ -68,14 +68,14 @@
     parameters:
       model: airoboros-l2-70b-2.2.Q3_K_M.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Airoboros-L2-70b-2.2-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: airoboros-l2-70b-2.2.Q3_K_M.gguf
     sha256: b9e7f8f68d77c31cb6b8d3dfccc5e3a5d733bac0dab405f1c51e0c2d2128da44
     uri: 
@@ -100,14 +100,14 @@
     parameters:
       model: airoboros-l2-70b-2.2.Q3_K_S.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Airoboros-L2-70b-2.2-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: airoboros-l2-70b-2.2.Q3_K_S.gguf
     sha256: aa727d456ba9d7a5050714763135d4552cda7e44e0fba82bbb4e432499634fca
     uri: 
@@ -132,14 +132,14 @@
     parameters:
       model: airoboros-l2-70b-2.2.Q4_0.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Airoboros-L2-70b-2.2-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: airoboros-l2-70b-2.2.Q4_0.gguf
     sha256: b3c1929dd78e1fa52eb353b28e79a430244ae96f5789f205c2c6e6a9a3f86905
     uri: 
@@ -164,14 +164,14 @@
     parameters:
       model: airoboros-l2-70b-2.2.Q4_K_M.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Airoboros-L2-70b-2.2-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: airoboros-l2-70b-2.2.Q4_K_M.gguf
     sha256: df17556e729074ca1a4b7266a6b94c47ce9c3797db6e28f1d139b4f14f3a7e20
     uri: 
@@ -196,14 +196,14 @@
     parameters:
       model: airoboros-l2-70b-2.2.Q4_K_S.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Airoboros-L2-70b-2.2-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: airoboros-l2-70b-2.2.Q4_K_S.gguf
     sha256: 310519ef67791efe405a02130567cdb138c8286e5ded3dfc895ba2dd631b45d1
     uri: 
@@ -228,14 +228,14 @@
     parameters:
       model: airoboros-l2-70b-2.2.Q5_0.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Airoboros-L2-70b-2.2-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: airoboros-l2-70b-2.2.Q5_0.gguf
     sha256: c44aa3d6ef9ef28b62566bc50184aae8bfd4918de5334839e29b2ddde501e2c2
     uri: 
@@ -260,14 +260,14 @@
     parameters:
       model: airoboros-l2-70b-2.2.Q5_K_M.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Airoboros-L2-70b-2.2-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: airoboros-l2-70b-2.2.Q5_K_M.gguf
     sha256: 9aa7e724006f347f8ecd1e0e60596dc230c27a1945d1fdc3ec647adbfa46120e
     uri: 
@@ -292,14 +292,14 @@
     parameters:
       model: airoboros-l2-70b-2.2.Q5_K_S.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Airoboros-L2-70b-2.2-GGUF - llama configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: airoboros-l2-70b-2.2.Q5_K_S.gguf
     sha256: 3a58192efb06daa9a71de06e6ed43cccc59b8ec129e7ee122e9e5a2250cbb217
     uri: 
@@ -324,14 +324,14 @@
     parameters:
       model: airoboros-l2-70b-2.2.Q2_K.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Airoboros-L2-70b-2.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: airoboros-l2-70b-2.2.Q2_K.gguf
     sha256: d8afa8e41e07c66f99ba24b4200825ca68b07991f5cc285eb22ddcf741f70de2
     uri: 
@@ -356,14 +356,14 @@
     parameters:
       model: airoboros-l2-70b-2.2.Q3_K_L.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Airoboros-L2-70b-2.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: airoboros-l2-70b-2.2.Q3_K_L.gguf
     sha256: 34568d287f62630ba61b7b494fd480e72e9a7e453ee5ba5df5abdfc175913ceb
     uri: 
@@ -388,14 +388,14 @@
     parameters:
       model: airoboros-l2-70b-2.2.Q3_K_M.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Airoboros-L2-70b-2.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: airoboros-l2-70b-2.2.Q3_K_M.gguf
     sha256: b9e7f8f68d77c31cb6b8d3dfccc5e3a5d733bac0dab405f1c51e0c2d2128da44
     uri: 
@@ -420,14 +420,14 @@
     parameters:
       model: airoboros-l2-70b-2.2.Q3_K_S.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Airoboros-L2-70b-2.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: airoboros-l2-70b-2.2.Q3_K_S.gguf
     sha256: aa727d456ba9d7a5050714763135d4552cda7e44e0fba82bbb4e432499634fca
     uri: 
@@ -452,14 +452,14 @@
     parameters:
       model: airoboros-l2-70b-2.2.Q4_0.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Airoboros-L2-70b-2.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: airoboros-l2-70b-2.2.Q4_0.gguf
     sha256: b3c1929dd78e1fa52eb353b28e79a430244ae96f5789f205c2c6e6a9a3f86905
     uri: 
@@ -484,14 +484,14 @@
     parameters:
       model: airoboros-l2-70b-2.2.Q4_K_M.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Airoboros-L2-70b-2.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: airoboros-l2-70b-2.2.Q4_K_M.gguf
     sha256: df17556e729074ca1a4b7266a6b94c47ce9c3797db6e28f1d139b4f14f3a7e20
     uri: 
@@ -516,14 +516,14 @@
     parameters:
       model: airoboros-l2-70b-2.2.Q4_K_S.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Airoboros-L2-70b-2.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: airoboros-l2-70b-2.2.Q4_K_S.gguf
     sha256: 310519ef67791efe405a02130567cdb138c8286e5ded3dfc895ba2dd631b45d1
     uri: 
@@ -548,14 +548,14 @@
     parameters:
       model: airoboros-l2-70b-2.2.Q5_0.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Airoboros-L2-70b-2.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: airoboros-l2-70b-2.2.Q5_0.gguf
     sha256: c44aa3d6ef9ef28b62566bc50184aae8bfd4918de5334839e29b2ddde501e2c2
     uri: 
@@ -580,14 +580,14 @@
     parameters:
       model: airoboros-l2-70b-2.2.Q5_K_M.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Airoboros-L2-70b-2.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: airoboros-l2-70b-2.2.Q5_K_M.gguf
     sha256: 9aa7e724006f347f8ecd1e0e60596dc230c27a1945d1fdc3ec647adbfa46120e
     uri: 
@@ -612,14 +612,14 @@
     parameters:
       model: airoboros-l2-70b-2.2.Q5_K_S.gguf
     template:
-      chat: Chat
-      completion: Chat
+      chat: chat
+      completion: chat
   description: TheBloke/Airoboros-L2-70b-2.2-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Chat.tmpl
+  - filename: chat.tmpl
     sha256: 7270864ac04fb7a373fd2c10e377b77b01a35d204b4c3a78c26c312e5421e5dd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chat.tmpl
   - filename: airoboros-l2-70b-2.2.Q5_K_S.gguf
     sha256: 3a58192efb06daa9a71de06e6ed43cccc59b8ec129e7ee122e9e5a2250cbb217
     uri: 

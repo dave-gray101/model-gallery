@@ -4,14 +4,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q2_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q2_K.gguf
     sha256: 66e1081f3dff02f2f94e902dccce44ca27934591d9333121de236e5be8589822
     uri: 
@@ -36,14 +36,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q3_K_L.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q3_K_L.gguf
     sha256: 23eb13ba10c07047d4dfff009d2f98026446ed33d3f804b1439399e00c5896a4
     uri: 
@@ -68,14 +68,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q3_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q3_K_M.gguf
     sha256: d9e0b767facfa2cc10a20c1cd77b702e114422424b86dc49144bf026da7445b7
     uri: 
@@ -100,14 +100,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q3_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q3_K_S.gguf
     sha256: 5bb3cebf45ad1c4d16ae88e459072028c33d41b0a0a8f446751924e3c76a9a19
     uri: 
@@ -132,14 +132,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q4_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q4_0.gguf
     sha256: 07bad18f1b12912b678ce161b820393a4f1caeb8ee6f548b013aadcc22f2a52d
     uri: 
@@ -164,14 +164,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q4_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q4_K_M.gguf
     sha256: 1560955ac87e5def8af2809a6f844c463bac7860f91ac31657b6874cb877b787
     uri: 
@@ -196,14 +196,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q4_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q4_K_S.gguf
     sha256: 2920ecff02ebcc3748ffed9264555f02a22383b9691249dd2768c9e9838d3f0a
     uri: 
@@ -228,14 +228,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q5_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q5_0.gguf
     sha256: 387f72001fc1f8e8a79504fa0513949f4f5700981e57bab9691049f60184b317
     uri: 
@@ -260,14 +260,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q5_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q5_K_M.gguf
     sha256: b7b3d28952f1166c6e609ebdce11e3e22d4e3658971a0eef6aa1092859ff8251
     uri: 
@@ -292,14 +292,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q5_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q5_K_S.gguf
     sha256: 914e41bf19da70c02540c611e0e5d5d1ffd825f7de367c8c564022d32853ef47
     uri: 
@@ -324,14 +324,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q6_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q6_K.gguf
     sha256: 68b38dde78ae74d6645cf7b97483dafdd9505ccf6553556f043605eefdab753b
     uri: 
@@ -356,14 +356,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q8_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llama configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q8_0.gguf
     sha256: e0cbfda809aafce5ec8981e1f25a7eeedb481b557f203a67bc081d88138a20fa
     uri: 
@@ -388,14 +388,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q2_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q2_K.gguf
     sha256: 66e1081f3dff02f2f94e902dccce44ca27934591d9333121de236e5be8589822
     uri: 
@@ -420,14 +420,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q3_K_L.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q3_K_L.gguf
     sha256: 23eb13ba10c07047d4dfff009d2f98026446ed33d3f804b1439399e00c5896a4
     uri: 
@@ -452,14 +452,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q3_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q3_K_M.gguf
     sha256: d9e0b767facfa2cc10a20c1cd77b702e114422424b86dc49144bf026da7445b7
     uri: 
@@ -484,14 +484,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q3_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q3_K_S.gguf
     sha256: 5bb3cebf45ad1c4d16ae88e459072028c33d41b0a0a8f446751924e3c76a9a19
     uri: 
@@ -516,14 +516,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q4_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q4_0.gguf
     sha256: 07bad18f1b12912b678ce161b820393a4f1caeb8ee6f548b013aadcc22f2a52d
     uri: 
@@ -548,14 +548,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q4_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q4_K_M.gguf
     sha256: 1560955ac87e5def8af2809a6f844c463bac7860f91ac31657b6874cb877b787
     uri: 
@@ -580,14 +580,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q4_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q4_K_S.gguf
     sha256: 2920ecff02ebcc3748ffed9264555f02a22383b9691249dd2768c9e9838d3f0a
     uri: 
@@ -612,14 +612,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q5_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q5_0.gguf
     sha256: 387f72001fc1f8e8a79504fa0513949f4f5700981e57bab9691049f60184b317
     uri: 
@@ -644,14 +644,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q5_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q5_K_M.gguf
     sha256: b7b3d28952f1166c6e609ebdce11e3e22d4e3658971a0eef6aa1092859ff8251
     uri: 
@@ -676,14 +676,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q5_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q5_K_S.gguf
     sha256: 914e41bf19da70c02540c611e0e5d5d1ffd825f7de367c8c564022d32853ef47
     uri: 
@@ -708,14 +708,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q6_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q6_K.gguf
     sha256: 68b38dde78ae74d6645cf7b97483dafdd9505ccf6553556f043605eefdab753b
     uri: 
@@ -740,14 +740,14 @@
     parameters:
       model: mythical-destroyer-l2-13b.Q8_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mythical-Destroyer-L2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mythical-destroyer-l2-13b.Q8_0.gguf
     sha256: e0cbfda809aafce5ec8981e1f25a7eeedb481b557f203a67bc081d88138a20fa
     uri: 

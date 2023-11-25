@@ -4,14 +4,14 @@
     parameters:
       model: goliath-120b.Q2_K.gguf
     template:
-      chat: Vicuna-Short
-      completion: Vicuna-Short
+      chat: vicuna-short
+      completion: vicuna-short
   description: TheBloke/goliath-120b-GGUF - llama configuration
   files:
-  - filename: Vicuna-Short.tmpl
+  - filename: vicuna-short.tmpl
     sha256: 4f2e4df7367ee6f177bcb043807911366ca9b4d17bed618d08f34ebb89c50117
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna-Short.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna-short.tmpl
   - filename: goliath-120b.Q2_K.gguf
     sha256: 24b0fd1bc571b349cf0e0a76ac91cce785d939af6177d698e630aff788d2370a
     uri: 
@@ -37,14 +37,14 @@
     parameters:
       model: goliath-120b.Q2_K.gguf
     template:
-      chat: Vicuna-Short
-      completion: Vicuna-Short
+      chat: vicuna-short
+      completion: vicuna-short
   description: TheBloke/goliath-120b-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Vicuna-Short.tmpl
+  - filename: vicuna-short.tmpl
     sha256: 4f2e4df7367ee6f177bcb043807911366ca9b4d17bed618d08f34ebb89c50117
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Vicuna-Short.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/vicuna-short.tmpl
   - filename: goliath-120b.Q2_K.gguf
     sha256: 24b0fd1bc571b349cf0e0a76ac91cce785d939af6177d698e630aff788d2370a
     uri: 

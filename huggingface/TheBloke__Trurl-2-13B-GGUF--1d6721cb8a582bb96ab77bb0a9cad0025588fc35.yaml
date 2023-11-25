@@ -4,14 +4,14 @@
     parameters:
       model: trurl-2-13b.Q2_K.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q2_K.gguf
     sha256: 942a2f0ae4bcf7414588fd255fdb3a09da23c686ec0e0ec0c58456666fb1016a
     uri: 
@@ -43,14 +43,14 @@
     parameters:
       model: trurl-2-13b.Q3_K_L.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q3_K_L.gguf
     sha256: 5ea699a354207b28e14b0bc0d4c715e0760daa49ec3d2385be7031d10b704598
     uri: 
@@ -82,14 +82,14 @@
     parameters:
       model: trurl-2-13b.Q3_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q3_K_M.gguf
     sha256: c934f0b797985b92e34d82960ceeb708a6643730e477f04ae6b52b30ca20a8dd
     uri: 
@@ -121,14 +121,14 @@
     parameters:
       model: trurl-2-13b.Q3_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q3_K_S.gguf
     sha256: 6470e716e6e518e8fdd8ff16e8740bb39725ce4ab099e05f40fbb04eada3a017
     uri: 
@@ -160,14 +160,14 @@
     parameters:
       model: trurl-2-13b.Q4_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q4_0.gguf
     sha256: 28956270da32a263da109da7c1236f6807d235583910bb3801fb17e88aa396d9
     uri: 
@@ -199,14 +199,14 @@
     parameters:
       model: trurl-2-13b.Q4_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q4_K_M.gguf
     sha256: 38eb79b85557c886fe66d7e289bd8ea66f63d9beb12adf1eff0ae4022acd39f1
     uri: 
@@ -238,14 +238,14 @@
     parameters:
       model: trurl-2-13b.Q4_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q4_K_S.gguf
     sha256: 7129e466f59fd64876778af94d9a7b4573ebe7e7280a0522e1c75646db1ad5eb
     uri: 
@@ -277,14 +277,14 @@
     parameters:
       model: trurl-2-13b.Q5_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q5_0.gguf
     sha256: 315e05c4ae6fdfad9adb7d0e481515bd39c095452a7165ad600ae8018c424129
     uri: 
@@ -316,14 +316,14 @@
     parameters:
       model: trurl-2-13b.Q5_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q5_K_M.gguf
     sha256: dd72acee4909fbcf61275ca006efa94306c35432cb2c3e5db57f2b8a4042931f
     uri: 
@@ -355,14 +355,14 @@
     parameters:
       model: trurl-2-13b.Q5_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q5_K_S.gguf
     sha256: 28ca7b43695177da47f119591ff9b7688db1a806afda5d92fe8b7e2d1f2ab5d8
     uri: 
@@ -394,14 +394,14 @@
     parameters:
       model: trurl-2-13b.Q6_K.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q6_K.gguf
     sha256: cca98e8235f788db6e3e86a8d3541244fb418da380b431fd497ffe258cfcfff0
     uri: 
@@ -433,14 +433,14 @@
     parameters:
       model: trurl-2-13b.Q8_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llama configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q8_0.gguf
     sha256: 2f5980c26f3965b31725b04fe9ecbd203e0925bbe008a03d0595e883f2bf8a0d
     uri: 
@@ -472,14 +472,14 @@
     parameters:
       model: trurl-2-13b.Q2_K.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q2_K.gguf
     sha256: 942a2f0ae4bcf7414588fd255fdb3a09da23c686ec0e0ec0c58456666fb1016a
     uri: 
@@ -511,14 +511,14 @@
     parameters:
       model: trurl-2-13b.Q3_K_L.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q3_K_L.gguf
     sha256: 5ea699a354207b28e14b0bc0d4c715e0760daa49ec3d2385be7031d10b704598
     uri: 
@@ -550,14 +550,14 @@
     parameters:
       model: trurl-2-13b.Q3_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q3_K_M.gguf
     sha256: c934f0b797985b92e34d82960ceeb708a6643730e477f04ae6b52b30ca20a8dd
     uri: 
@@ -589,14 +589,14 @@
     parameters:
       model: trurl-2-13b.Q3_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q3_K_S.gguf
     sha256: 6470e716e6e518e8fdd8ff16e8740bb39725ce4ab099e05f40fbb04eada3a017
     uri: 
@@ -628,14 +628,14 @@
     parameters:
       model: trurl-2-13b.Q4_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q4_0.gguf
     sha256: 28956270da32a263da109da7c1236f6807d235583910bb3801fb17e88aa396d9
     uri: 
@@ -667,14 +667,14 @@
     parameters:
       model: trurl-2-13b.Q4_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q4_K_M.gguf
     sha256: 38eb79b85557c886fe66d7e289bd8ea66f63d9beb12adf1eff0ae4022acd39f1
     uri: 
@@ -706,14 +706,14 @@
     parameters:
       model: trurl-2-13b.Q4_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q4_K_S.gguf
     sha256: 7129e466f59fd64876778af94d9a7b4573ebe7e7280a0522e1c75646db1ad5eb
     uri: 
@@ -745,14 +745,14 @@
     parameters:
       model: trurl-2-13b.Q5_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q5_0.gguf
     sha256: 315e05c4ae6fdfad9adb7d0e481515bd39c095452a7165ad600ae8018c424129
     uri: 
@@ -784,14 +784,14 @@
     parameters:
       model: trurl-2-13b.Q5_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q5_K_M.gguf
     sha256: dd72acee4909fbcf61275ca006efa94306c35432cb2c3e5db57f2b8a4042931f
     uri: 
@@ -823,14 +823,14 @@
     parameters:
       model: trurl-2-13b.Q5_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q5_K_S.gguf
     sha256: 28ca7b43695177da47f119591ff9b7688db1a806afda5d92fe8b7e2d1f2ab5d8
     uri: 
@@ -862,14 +862,14 @@
     parameters:
       model: trurl-2-13b.Q6_K.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q6_K.gguf
     sha256: cca98e8235f788db6e3e86a8d3541244fb418da380b431fd497ffe258cfcfff0
     uri: 
@@ -901,14 +901,14 @@
     parameters:
       model: trurl-2-13b.Q8_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q8_0.gguf
     sha256: 2f5980c26f3965b31725b04fe9ecbd203e0925bbe008a03d0595e883f2bf8a0d
     uri: 
@@ -940,14 +940,14 @@
     parameters:
       model: trurl-2-13b.Q2_K.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q2_K.gguf
     sha256: 942a2f0ae4bcf7414588fd255fdb3a09da23c686ec0e0ec0c58456666fb1016a
     uri: 
@@ -979,14 +979,14 @@
     parameters:
       model: trurl-2-13b.Q3_K_L.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q3_K_L.gguf
     sha256: 5ea699a354207b28e14b0bc0d4c715e0760daa49ec3d2385be7031d10b704598
     uri: 
@@ -1018,14 +1018,14 @@
     parameters:
       model: trurl-2-13b.Q3_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q3_K_M.gguf
     sha256: c934f0b797985b92e34d82960ceeb708a6643730e477f04ae6b52b30ca20a8dd
     uri: 
@@ -1057,14 +1057,14 @@
     parameters:
       model: trurl-2-13b.Q3_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q3_K_S.gguf
     sha256: 6470e716e6e518e8fdd8ff16e8740bb39725ce4ab099e05f40fbb04eada3a017
     uri: 
@@ -1096,14 +1096,14 @@
     parameters:
       model: trurl-2-13b.Q4_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q4_0.gguf
     sha256: 28956270da32a263da109da7c1236f6807d235583910bb3801fb17e88aa396d9
     uri: 
@@ -1135,14 +1135,14 @@
     parameters:
       model: trurl-2-13b.Q4_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q4_K_M.gguf
     sha256: 38eb79b85557c886fe66d7e289bd8ea66f63d9beb12adf1eff0ae4022acd39f1
     uri: 
@@ -1174,14 +1174,14 @@
     parameters:
       model: trurl-2-13b.Q4_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q4_K_S.gguf
     sha256: 7129e466f59fd64876778af94d9a7b4573ebe7e7280a0522e1c75646db1ad5eb
     uri: 
@@ -1213,14 +1213,14 @@
     parameters:
       model: trurl-2-13b.Q5_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q5_0.gguf
     sha256: 315e05c4ae6fdfad9adb7d0e481515bd39c095452a7165ad600ae8018c424129
     uri: 
@@ -1252,14 +1252,14 @@
     parameters:
       model: trurl-2-13b.Q5_K_M.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q5_K_M.gguf
     sha256: dd72acee4909fbcf61275ca006efa94306c35432cb2c3e5db57f2b8a4042931f
     uri: 
@@ -1291,14 +1291,14 @@
     parameters:
       model: trurl-2-13b.Q5_K_S.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q5_K_S.gguf
     sha256: 28ca7b43695177da47f119591ff9b7688db1a806afda5d92fe8b7e2d1f2ab5d8
     uri: 
@@ -1330,14 +1330,14 @@
     parameters:
       model: trurl-2-13b.Q6_K.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q6_K.gguf
     sha256: cca98e8235f788db6e3e86a8d3541244fb418da380b431fd497ffe258cfcfff0
     uri: 
@@ -1369,14 +1369,14 @@
     parameters:
       model: trurl-2-13b.Q8_0.gguf
     template:
-      chat: Llama-2-Chat
-      completion: Llama-2-Chat
+      chat: llama-2-chat
+      completion: llama-2-chat
   description: TheBloke/Trurl-2-13B-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Llama-2-Chat.tmpl
+  - filename: llama-2-chat.tmpl
     sha256: fa150e302c2642eeab220ab085c885ae3b47f96c62421ba6199455298be466cd
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Llama-2-Chat.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/llama-2-chat.tmpl
   - filename: trurl-2-13b.Q8_0.gguf
     sha256: 2f5980c26f3965b31725b04fe9ecbd203e0925bbe008a03d0595e883f2bf8a0d
     uri: 

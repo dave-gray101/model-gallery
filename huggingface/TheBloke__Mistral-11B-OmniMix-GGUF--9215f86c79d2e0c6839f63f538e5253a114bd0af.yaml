@@ -8,14 +8,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - mistral configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q2_K.gguf
     sha256: 9aaff5d613c10dabffeb5af5c2fa16642372678d03a91aa51ddb6065cc16d7d3
     uri: 
@@ -43,14 +43,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - mistral configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q3_K_L.gguf
     sha256: fb2441aeeb1d75630fdd60db25fc250482b6eb374a2017690daa5eb846071dad
     uri: 
@@ -78,14 +78,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - mistral configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q3_K_M.gguf
     sha256: 00ec76f9028846ebe3491f063e14191264e004577bb2caf72da68c513713c832
     uri: 
@@ -113,14 +113,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - mistral configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q3_K_S.gguf
     sha256: 46e58f3e549c5ffef20358d0dbc41e7633f1243be0bdc98973707226567ca28e
     uri: 
@@ -148,14 +148,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - mistral configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q4_0.gguf
     sha256: 12bbb42cd92a9bf6369ec84b31e240faf30c5265d1e123835f6719ec9f427c54
     uri: 
@@ -183,14 +183,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - mistral configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q4_K_M.gguf
     sha256: 988fe8c8fe2266744f6b24fbc41133ea61f8b4743b80f999da056db4f01df9b1
     uri: 
@@ -218,14 +218,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - mistral configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q4_K_S.gguf
     sha256: fa243ab70f62c267894f852149e92864a19cdc23445f829fc4934d48a50034fb
     uri: 
@@ -253,14 +253,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - mistral configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q5_0.gguf
     sha256: 62fab1372dbb96d8f5a37c3613c914c46d7cfb2ce08b8445b204a34ebf3cf2b9
     uri: 
@@ -288,14 +288,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - mistral configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q5_K_M.gguf
     sha256: 82b5946554746e79ae26bc6a8901baddcac508239aca76cc83026c79c7432288
     uri: 
@@ -323,14 +323,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - mistral configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q5_K_S.gguf
     sha256: 065e42520f06528771d3221ec441d6eba145724a166a26b8080b99c001196285
     uri: 
@@ -358,14 +358,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - mistral configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q6_K.gguf
     sha256: e9233d3686f6d49e9eddd39b496a55484d6ef958f218ee4aa4d28b6a7c772c7f
     uri: 
@@ -393,14 +393,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - mistral configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q8_0.gguf
     sha256: 707c756bb3b074c2d1d5db98967874de62221b3b8d627bbf92e486a1a319fccc
     uri: 
@@ -424,14 +424,14 @@
     parameters:
       model: mistral-11b-omnimix-bf16.Q2_K.gguf
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q2_K.gguf
     sha256: 9aaff5d613c10dabffeb5af5c2fa16642372678d03a91aa51ddb6065cc16d7d3
     uri: 
@@ -455,14 +455,14 @@
     parameters:
       model: mistral-11b-omnimix-bf16.Q3_K_L.gguf
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q3_K_L.gguf
     sha256: fb2441aeeb1d75630fdd60db25fc250482b6eb374a2017690daa5eb846071dad
     uri: 
@@ -486,14 +486,14 @@
     parameters:
       model: mistral-11b-omnimix-bf16.Q3_K_M.gguf
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q3_K_M.gguf
     sha256: 00ec76f9028846ebe3491f063e14191264e004577bb2caf72da68c513713c832
     uri: 
@@ -517,14 +517,14 @@
     parameters:
       model: mistral-11b-omnimix-bf16.Q3_K_S.gguf
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q3_K_S.gguf
     sha256: 46e58f3e549c5ffef20358d0dbc41e7633f1243be0bdc98973707226567ca28e
     uri: 
@@ -548,14 +548,14 @@
     parameters:
       model: mistral-11b-omnimix-bf16.Q4_0.gguf
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q4_0.gguf
     sha256: 12bbb42cd92a9bf6369ec84b31e240faf30c5265d1e123835f6719ec9f427c54
     uri: 
@@ -579,14 +579,14 @@
     parameters:
       model: mistral-11b-omnimix-bf16.Q4_K_M.gguf
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q4_K_M.gguf
     sha256: 988fe8c8fe2266744f6b24fbc41133ea61f8b4743b80f999da056db4f01df9b1
     uri: 
@@ -610,14 +610,14 @@
     parameters:
       model: mistral-11b-omnimix-bf16.Q4_K_S.gguf
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q4_K_S.gguf
     sha256: fa243ab70f62c267894f852149e92864a19cdc23445f829fc4934d48a50034fb
     uri: 
@@ -641,14 +641,14 @@
     parameters:
       model: mistral-11b-omnimix-bf16.Q5_0.gguf
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q5_0.gguf
     sha256: 62fab1372dbb96d8f5a37c3613c914c46d7cfb2ce08b8445b204a34ebf3cf2b9
     uri: 
@@ -672,14 +672,14 @@
     parameters:
       model: mistral-11b-omnimix-bf16.Q5_K_M.gguf
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q5_K_M.gguf
     sha256: 82b5946554746e79ae26bc6a8901baddcac508239aca76cc83026c79c7432288
     uri: 
@@ -703,14 +703,14 @@
     parameters:
       model: mistral-11b-omnimix-bf16.Q5_K_S.gguf
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q5_K_S.gguf
     sha256: 065e42520f06528771d3221ec441d6eba145724a166a26b8080b99c001196285
     uri: 
@@ -734,14 +734,14 @@
     parameters:
       model: mistral-11b-omnimix-bf16.Q6_K.gguf
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q6_K.gguf
     sha256: e9233d3686f6d49e9eddd39b496a55484d6ef958f218ee4aa4d28b6a7c772c7f
     uri: 
@@ -765,14 +765,14 @@
     parameters:
       model: mistral-11b-omnimix-bf16.Q8_0.gguf
     template:
-      chat: Alpaca-S-U-A
-      completion: Alpaca-S-U-A
+      chat: alpaca-s-u-a
+      completion: alpaca-s-u-a
   description: TheBloke/Mistral-11B-OmniMix-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca-S-U-A.tmpl
+  - filename: alpaca-s-u-a.tmpl
     sha256: 557ddca3c192917620a66094785a48d72cafba48a21c66a71853bc93d0b1d7e5
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca-S-U-A.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca-s-u-a.tmpl
   - filename: mistral-11b-omnimix-bf16.Q8_0.gguf
     sha256: 707c756bb3b074c2d1d5db98967874de62221b3b8d627bbf92e486a1a319fccc
     uri: 

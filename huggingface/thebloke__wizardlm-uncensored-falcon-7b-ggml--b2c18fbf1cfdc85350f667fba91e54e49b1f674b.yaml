@@ -4,15 +4,15 @@
     parameters:
       model: wizard-falcon-7b.ggmlv3.fp16.bin
     template:
-      chat: WizardLM
-      completion: WizardLM
+      chat: wizardlm
+      completion: wizardlm
   description: TheBloke/WizardLM-Uncensored-Falcon-7B-GGML - llamaFileFormatFallback
     configuration
   files:
-  - filename: WizardLM.tmpl
+  - filename: wizardlm.tmpl
     sha256: b0240aedb71967232a70769b08568b72efb84c2f18895c58039517dc4e71cae0
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/WizardLM.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/wizardlm.tmpl
   - filename: wizard-falcon-7b.ggmlv3.fp16.bin
     sha256: 33cbccec1832d9b9f33bd277c790c9ba56e3bb74888f248aaf1b483e49a29977
     uri: 

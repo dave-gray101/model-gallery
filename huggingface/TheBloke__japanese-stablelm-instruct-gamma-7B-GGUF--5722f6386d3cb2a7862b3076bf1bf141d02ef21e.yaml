@@ -8,14 +8,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - mistral configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q2_K.gguf
     sha256: d19f20121a2aa836b2dcf554a86be99c290c18c364eb219706da6a2022f9095e
     uri: 
@@ -49,14 +49,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - mistral configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q3_K_L.gguf
     sha256: b857e01bffda9f58c2d687c061a2d17538bf70ea527daf992999892cebba6312
     uri: 
@@ -90,14 +90,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - mistral configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q3_K_M.gguf
     sha256: 36f4ad2ecdd4feaab8536e836eb05c231c6eceb2f433d9d564aca7f519828d4f
     uri: 
@@ -131,14 +131,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - mistral configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q3_K_S.gguf
     sha256: 57e095e3a2416c85df631ecf769a96aec7da5740260b2a31032c4821424367d1
     uri: 
@@ -172,14 +172,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - mistral configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q4_0.gguf
     sha256: fdac3d8cd3d3979ab8fb7e35264fd3b95ac564d6d3befa3833d0a833353060be
     uri: 
@@ -213,14 +213,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - mistral configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q4_K_M.gguf
     sha256: 25d1b7ce83274506130be53bdfae55fc3db5b5b453e741cb3e638a3f23c95248
     uri: 
@@ -254,14 +254,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - mistral configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q4_K_S.gguf
     sha256: d0729e31027f9c381abff4f9f4f9869242b2c7d4b72fa5064af5c83bc04d6926
     uri: 
@@ -295,14 +295,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - mistral configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q5_0.gguf
     sha256: 48b3ff56bfc3dba297e35d7ab2de4140e9038b83e3f975f0810b5a79a8489fe9
     uri: 
@@ -336,14 +336,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - mistral configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q5_K_M.gguf
     sha256: b0c0a450d48250738abe39e9e989fede705a2879f0bd63d2a41330d7213ae5aa
     uri: 
@@ -377,14 +377,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - mistral configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q5_K_S.gguf
     sha256: 136295ebd7a82b68433430906eb28e4a6f6d0ee890a710ae8a66e643de26d3bc
     uri: 
@@ -418,14 +418,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - mistral configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q6_K.gguf
     sha256: ed7c722f8e58fc2dad5f070a8e6abaf54145489ac34f29fd1dc703465131f92e
     uri: 
@@ -459,14 +459,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - mistral configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q8_0.gguf
     sha256: 4d409bbe8b56678ca0434da32c51f30bd0b320d740a6cc487dfcb7c937f3a0a4
     uri: 
@@ -496,14 +496,14 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q2_K.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q2_K.gguf
     sha256: d19f20121a2aa836b2dcf554a86be99c290c18c364eb219706da6a2022f9095e
     uri: 
@@ -533,14 +533,14 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q3_K_L.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q3_K_L.gguf
     sha256: b857e01bffda9f58c2d687c061a2d17538bf70ea527daf992999892cebba6312
     uri: 
@@ -570,14 +570,14 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q3_K_M.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q3_K_M.gguf
     sha256: 36f4ad2ecdd4feaab8536e836eb05c231c6eceb2f433d9d564aca7f519828d4f
     uri: 
@@ -607,14 +607,14 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q3_K_S.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q3_K_S.gguf
     sha256: 57e095e3a2416c85df631ecf769a96aec7da5740260b2a31032c4821424367d1
     uri: 
@@ -644,14 +644,14 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q4_0.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q4_0.gguf
     sha256: fdac3d8cd3d3979ab8fb7e35264fd3b95ac564d6d3befa3833d0a833353060be
     uri: 
@@ -681,14 +681,14 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q4_K_M.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q4_K_M.gguf
     sha256: 25d1b7ce83274506130be53bdfae55fc3db5b5b453e741cb3e638a3f23c95248
     uri: 
@@ -718,14 +718,14 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q4_K_S.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q4_K_S.gguf
     sha256: d0729e31027f9c381abff4f9f4f9869242b2c7d4b72fa5064af5c83bc04d6926
     uri: 
@@ -755,14 +755,14 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q5_0.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q5_0.gguf
     sha256: 48b3ff56bfc3dba297e35d7ab2de4140e9038b83e3f975f0810b5a79a8489fe9
     uri: 
@@ -792,14 +792,14 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q5_K_M.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q5_K_M.gguf
     sha256: b0c0a450d48250738abe39e9e989fede705a2879f0bd63d2a41330d7213ae5aa
     uri: 
@@ -829,14 +829,14 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q5_K_S.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q5_K_S.gguf
     sha256: 136295ebd7a82b68433430906eb28e4a6f6d0ee890a710ae8a66e643de26d3bc
     uri: 
@@ -866,14 +866,14 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q6_K.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q6_K.gguf
     sha256: ed7c722f8e58fc2dad5f070a8e6abaf54145489ac34f29fd1dc703465131f92e
     uri: 
@@ -903,14 +903,14 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q8_0.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFallback configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q8_0.gguf
     sha256: 4d409bbe8b56678ca0434da32c51f30bd0b320d740a6cc487dfcb7c937f3a0a4
     uri: 
@@ -940,15 +940,15 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q2_K.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q2_K.gguf
     sha256: d19f20121a2aa836b2dcf554a86be99c290c18c364eb219706da6a2022f9095e
     uri: 
@@ -978,15 +978,15 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q3_K_L.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q3_K_L.gguf
     sha256: b857e01bffda9f58c2d687c061a2d17538bf70ea527daf992999892cebba6312
     uri: 
@@ -1016,15 +1016,15 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q3_K_M.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q3_K_M.gguf
     sha256: 36f4ad2ecdd4feaab8536e836eb05c231c6eceb2f433d9d564aca7f519828d4f
     uri: 
@@ -1054,15 +1054,15 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q3_K_S.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q3_K_S.gguf
     sha256: 57e095e3a2416c85df631ecf769a96aec7da5740260b2a31032c4821424367d1
     uri: 
@@ -1092,15 +1092,15 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q4_0.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q4_0.gguf
     sha256: fdac3d8cd3d3979ab8fb7e35264fd3b95ac564d6d3befa3833d0a833353060be
     uri: 
@@ -1130,15 +1130,15 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q4_K_M.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q4_K_M.gguf
     sha256: 25d1b7ce83274506130be53bdfae55fc3db5b5b453e741cb3e638a3f23c95248
     uri: 
@@ -1168,15 +1168,15 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q4_K_S.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q4_K_S.gguf
     sha256: d0729e31027f9c381abff4f9f4f9869242b2c7d4b72fa5064af5c83bc04d6926
     uri: 
@@ -1206,15 +1206,15 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q5_0.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q5_0.gguf
     sha256: 48b3ff56bfc3dba297e35d7ab2de4140e9038b83e3f975f0810b5a79a8489fe9
     uri: 
@@ -1244,15 +1244,15 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q5_K_M.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q5_K_M.gguf
     sha256: b0c0a450d48250738abe39e9e989fede705a2879f0bd63d2a41330d7213ae5aa
     uri: 
@@ -1282,15 +1282,15 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q5_K_S.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q5_K_S.gguf
     sha256: 136295ebd7a82b68433430906eb28e4a6f6d0ee890a710ae8a66e643de26d3bc
     uri: 
@@ -1320,15 +1320,15 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q6_K.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q6_K.gguf
     sha256: ed7c722f8e58fc2dad5f070a8e6abaf54145489ac34f29fd1dc703465131f92e
     uri: 
@@ -1358,15 +1358,15 @@
     parameters:
       model: japanese-stablelm-instruct-gamma-7b.Q8_0.gguf
     template:
-      chat: Japanese-StableLM-Instruct
-      completion: Japanese-StableLM-Instruct
+      chat: japanese-stablelm-instruct
+      completion: japanese-stablelm-instruct
   description: TheBloke/japanese-stablelm-instruct-gamma-7B-GGUF - llamaFileFormatFallback
     configuration
   files:
-  - filename: Japanese-StableLM-Instruct.tmpl
+  - filename: japanese-stablelm-instruct.tmpl
     sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Japanese-StableLM-Instruct.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/japanese-stablelm-instruct.tmpl
   - filename: japanese-stablelm-instruct-gamma-7b.Q8_0.gguf
     sha256: 4d409bbe8b56678ca0434da32c51f30bd0b320d740a6cc487dfcb7c937f3a0a4
     uri: 

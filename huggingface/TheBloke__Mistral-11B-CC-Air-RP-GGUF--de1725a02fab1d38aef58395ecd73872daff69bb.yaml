@@ -8,14 +8,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q2_K.gguf
     sha256: 500be69a2cb662e1e29531586dea65ddc85c84439ea28710214afa9163c207cf
     uri: 
@@ -46,14 +46,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q3_K_L.gguf
     sha256: d0ee9c5830101f8842d4f6b0e7d6e34e6adb7088966d553f1db3cf0cca738c1f
     uri: 
@@ -84,14 +84,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q3_K_M.gguf
     sha256: bea7664127094b63bb420ece98ab25f005b5e7aae7fa08a9189a18cf2895e637
     uri: 
@@ -122,14 +122,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q3_K_S.gguf
     sha256: 14035be2b400638f482d39e5b22188cda1ea46bca4aacbc96b3161a2e9a55bd7
     uri: 
@@ -160,14 +160,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q4_0.gguf
     sha256: 592bc5181f85cdb5df1adc3ea81b918020f83de5d046546994de09125cc74e48
     uri: 
@@ -198,14 +198,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q4_K_M.gguf
     sha256: fad5bd5039a75ba8eb6ac01fbe042ccd724d855b9d46b90ea95873ea94ba57c1
     uri: 
@@ -236,14 +236,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q4_K_S.gguf
     sha256: 68c1b58063ea990a07e9a2b4418eaed11138cd6803b33b278996fb393ce6972a
     uri: 
@@ -274,14 +274,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q5_0.gguf
     sha256: a35de348382a2e1720a24de023ab129d3bd51135a829709f9ffbca7f099b47d0
     uri: 
@@ -312,14 +312,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q5_K_M.gguf
     sha256: 0a6d457b851d4eec9f1f13fc4968e6749f4e8ff53aba0b5ab0e8af880c930bf4
     uri: 
@@ -350,14 +350,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q5_K_S.gguf
     sha256: d632e1969bfe004f8440c5c6dff096653858f5248f319ac8118fc001aa9510e1
     uri: 
@@ -388,14 +388,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q6_K.gguf
     sha256: c07beeb76bc3830466a0a89dda9cf480994257d35be1400023659c3caeb16332
     uri: 
@@ -426,14 +426,14 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - mistral configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q8_0.gguf
     sha256: f74e50cf75c9e9a7e450a792b0f2bf03090c02af125b5ba3b7c880b602bc8ed2
     uri: 
@@ -460,14 +460,14 @@
     parameters:
       model: mistral-11b-cc-air-rp.Q2_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q2_K.gguf
     sha256: 500be69a2cb662e1e29531586dea65ddc85c84439ea28710214afa9163c207cf
     uri: 
@@ -494,14 +494,14 @@
     parameters:
       model: mistral-11b-cc-air-rp.Q3_K_L.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q3_K_L.gguf
     sha256: d0ee9c5830101f8842d4f6b0e7d6e34e6adb7088966d553f1db3cf0cca738c1f
     uri: 
@@ -528,14 +528,14 @@
     parameters:
       model: mistral-11b-cc-air-rp.Q3_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q3_K_M.gguf
     sha256: bea7664127094b63bb420ece98ab25f005b5e7aae7fa08a9189a18cf2895e637
     uri: 
@@ -562,14 +562,14 @@
     parameters:
       model: mistral-11b-cc-air-rp.Q3_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q3_K_S.gguf
     sha256: 14035be2b400638f482d39e5b22188cda1ea46bca4aacbc96b3161a2e9a55bd7
     uri: 
@@ -596,14 +596,14 @@
     parameters:
       model: mistral-11b-cc-air-rp.Q4_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q4_0.gguf
     sha256: 592bc5181f85cdb5df1adc3ea81b918020f83de5d046546994de09125cc74e48
     uri: 
@@ -630,14 +630,14 @@
     parameters:
       model: mistral-11b-cc-air-rp.Q4_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q4_K_M.gguf
     sha256: fad5bd5039a75ba8eb6ac01fbe042ccd724d855b9d46b90ea95873ea94ba57c1
     uri: 
@@ -664,14 +664,14 @@
     parameters:
       model: mistral-11b-cc-air-rp.Q4_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q4_K_S.gguf
     sha256: 68c1b58063ea990a07e9a2b4418eaed11138cd6803b33b278996fb393ce6972a
     uri: 
@@ -698,14 +698,14 @@
     parameters:
       model: mistral-11b-cc-air-rp.Q5_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q5_0.gguf
     sha256: a35de348382a2e1720a24de023ab129d3bd51135a829709f9ffbca7f099b47d0
     uri: 
@@ -732,14 +732,14 @@
     parameters:
       model: mistral-11b-cc-air-rp.Q5_K_M.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q5_K_M.gguf
     sha256: 0a6d457b851d4eec9f1f13fc4968e6749f4e8ff53aba0b5ab0e8af880c930bf4
     uri: 
@@ -766,14 +766,14 @@
     parameters:
       model: mistral-11b-cc-air-rp.Q5_K_S.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q5_K_S.gguf
     sha256: d632e1969bfe004f8440c5c6dff096653858f5248f319ac8118fc001aa9510e1
     uri: 
@@ -800,14 +800,14 @@
     parameters:
       model: mistral-11b-cc-air-rp.Q6_K.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q6_K.gguf
     sha256: c07beeb76bc3830466a0a89dda9cf480994257d35be1400023659c3caeb16332
     uri: 
@@ -834,14 +834,14 @@
     parameters:
       model: mistral-11b-cc-air-rp.Q8_0.gguf
     template:
-      chat: Alpaca
-      completion: Alpaca
+      chat: alpaca
+      completion: alpaca
   description: TheBloke/Mistral-11B-CC-Air-RP-GGUF - llamaFileFormatFallback configuration
   files:
-  - filename: Alpaca.tmpl
+  - filename: alpaca.tmpl
     sha256: 764b3921516a52d7c43710fd695ebdddd153677b55b3bd30b4e7d60f41cd271b
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Alpaca.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/alpaca.tmpl
   - filename: mistral-11b-cc-air-rp.Q8_0.gguf
     sha256: f74e50cf75c9e9a7e450a792b0f2bf03090c02af125b5ba3b7c880b602bc8ed2
     uri: 
