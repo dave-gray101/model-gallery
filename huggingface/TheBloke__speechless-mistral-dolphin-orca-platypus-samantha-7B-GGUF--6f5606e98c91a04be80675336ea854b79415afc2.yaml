@@ -4,15 +4,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q2_K.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q2_K.gguf
     sha256: bf0527edbd0b1578b1697a2e7ff8b66fee130f353cf4725899a18dcaab408b36
     uri: 
@@ -20,9 +20,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q2_K.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q2_K.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -46,15 +47,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_L.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_L.gguf
     sha256: e32b0a69f6a1327f9dcbde474346a78e47de3573a1b4afaf7f5a1546d57815e0
     uri: 
@@ -62,9 +63,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_L.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_L.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -88,15 +90,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_M.gguf
     sha256: af9a6cb379fcaf46ea619a2450f58fe61eae988d8fd2142299d6ef93c0fce150
     uri: 
@@ -104,9 +106,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_M.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_M.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -130,15 +133,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_S.gguf
     sha256: d966d3f7964c3097c90d6b3f2590168a06e8d6dcc875ee2e687bb225fc7de5dd
     uri: 
@@ -146,9 +149,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_S.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_S.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -172,15 +176,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_0.gguf
     sha256: 6ed3cbb2ac0a459a704a71b5dcc1993c01164c3184f7fba477d4b9016d0c4adb
     uri: 
@@ -188,9 +192,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_0.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_0.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -214,15 +219,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_M.gguf
     sha256: 659c65cc20b0b9c435f55c3e387c2104a85e3e174174ab281334f4caa765f58f
     uri: 
@@ -230,9 +235,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_M.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_M.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -256,15 +262,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_S.gguf
     sha256: 8f080f22ed7d0b2fa90bde7f56c11c00738eb56e6d178d358f3823a79b308758
     uri: 
@@ -272,9 +278,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_S.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_S.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -298,15 +305,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_0.gguf
     sha256: 7dc0b1032bf76522a7ad716253d5e6a6957948632d97a5833f998090fb58d40d
     uri: 
@@ -314,9 +321,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_0.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_0.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -340,15 +348,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_M.gguf
     sha256: 5932ded65a966478cdf0b4912e73f10f1a9ef99e7714c257c351fa69318589ca
     uri: 
@@ -356,9 +364,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_M.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_M.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -382,15 +391,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_S.gguf
     sha256: e3866436805b104cf732374241405332882a61b60563214b2113caa7dea5fa34
     uri: 
@@ -398,9 +407,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_S.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_S.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -424,15 +434,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q6_K.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q6_K.gguf
     sha256: d66866922b44869841af9ba4d8b89624338ce756461b31bec1afc23a532d1963
     uri: 
@@ -440,9 +450,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q6_K.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q6_K.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -466,15 +477,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q8_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llama configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q8_0.gguf
     sha256: e5a2d055c9e1fd5217b111c74965e697b8cb1b86f7517ba80ccdd3ad1477c88d
     uri: 
@@ -482,9 +493,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q8_0.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q8_0.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -512,15 +524,15 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q2_K.gguf
     sha256: bf0527edbd0b1578b1697a2e7ff8b66fee130f353cf4725899a18dcaab408b36
     uri: 
@@ -528,9 +540,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q2_K.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q2_K.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -558,15 +571,15 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_L.gguf
     sha256: e32b0a69f6a1327f9dcbde474346a78e47de3573a1b4afaf7f5a1546d57815e0
     uri: 
@@ -574,9 +587,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_L.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_L.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -604,15 +618,15 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_M.gguf
     sha256: af9a6cb379fcaf46ea619a2450f58fe61eae988d8fd2142299d6ef93c0fce150
     uri: 
@@ -620,9 +634,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_M.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_M.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -650,15 +665,15 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_S.gguf
     sha256: d966d3f7964c3097c90d6b3f2590168a06e8d6dcc875ee2e687bb225fc7de5dd
     uri: 
@@ -666,9 +681,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_S.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_S.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -696,15 +712,15 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_0.gguf
     sha256: 6ed3cbb2ac0a459a704a71b5dcc1993c01164c3184f7fba477d4b9016d0c4adb
     uri: 
@@ -712,9 +728,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_0.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_0.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -742,15 +759,15 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_M.gguf
     sha256: 659c65cc20b0b9c435f55c3e387c2104a85e3e174174ab281334f4caa765f58f
     uri: 
@@ -758,9 +775,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_M.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_M.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -788,15 +806,15 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_S.gguf
     sha256: 8f080f22ed7d0b2fa90bde7f56c11c00738eb56e6d178d358f3823a79b308758
     uri: 
@@ -804,9 +822,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_S.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_S.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -834,15 +853,15 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_0.gguf
     sha256: 7dc0b1032bf76522a7ad716253d5e6a6957948632d97a5833f998090fb58d40d
     uri: 
@@ -850,9 +869,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_0.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_0.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -880,15 +900,15 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_M.gguf
     sha256: 5932ded65a966478cdf0b4912e73f10f1a9ef99e7714c257c351fa69318589ca
     uri: 
@@ -896,9 +916,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_M.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_M.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -926,15 +947,15 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_S.gguf
     sha256: e3866436805b104cf732374241405332882a61b60563214b2113caa7dea5fa34
     uri: 
@@ -942,9 +963,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_S.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_S.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -972,15 +994,15 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q6_K.gguf
     sha256: d66866922b44869841af9ba4d8b89624338ce756461b31bec1afc23a532d1963
     uri: 
@@ -988,9 +1010,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q6_K.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q6_K.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -1018,15 +1041,15 @@
     stopwords:
     - <|im_end|>
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - mistral configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q8_0.gguf
     sha256: e5a2d055c9e1fd5217b111c74965e697b8cb1b86f7517ba80ccdd3ad1477c88d
     uri: 
@@ -1034,9 +1057,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q8_0.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q8_0.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -1060,15 +1084,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q2_K.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q2_K.gguf
     sha256: bf0527edbd0b1578b1697a2e7ff8b66fee130f353cf4725899a18dcaab408b36
     uri: 
@@ -1076,9 +1100,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q2_K.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q2_K.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -1102,15 +1127,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_L.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_L.gguf
     sha256: e32b0a69f6a1327f9dcbde474346a78e47de3573a1b4afaf7f5a1546d57815e0
     uri: 
@@ -1118,9 +1143,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_L.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_L.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -1144,15 +1170,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_M.gguf
     sha256: af9a6cb379fcaf46ea619a2450f58fe61eae988d8fd2142299d6ef93c0fce150
     uri: 
@@ -1160,9 +1186,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_M.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_M.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -1186,15 +1213,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_S.gguf
     sha256: d966d3f7964c3097c90d6b3f2590168a06e8d6dcc875ee2e687bb225fc7de5dd
     uri: 
@@ -1202,9 +1229,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_S.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_S.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -1228,15 +1256,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_0.gguf
     sha256: 6ed3cbb2ac0a459a704a71b5dcc1993c01164c3184f7fba477d4b9016d0c4adb
     uri: 
@@ -1244,9 +1272,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_0.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_0.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -1270,15 +1299,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_M.gguf
     sha256: 659c65cc20b0b9c435f55c3e387c2104a85e3e174174ab281334f4caa765f58f
     uri: 
@@ -1286,9 +1315,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_M.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_M.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -1312,15 +1342,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_S.gguf
     sha256: 8f080f22ed7d0b2fa90bde7f56c11c00738eb56e6d178d358f3823a79b308758
     uri: 
@@ -1328,9 +1358,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_S.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_S.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -1354,15 +1385,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_0.gguf
     sha256: 7dc0b1032bf76522a7ad716253d5e6a6957948632d97a5833f998090fb58d40d
     uri: 
@@ -1370,9 +1401,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_0.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_0.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -1396,15 +1428,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_M.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_M.gguf
     sha256: 5932ded65a966478cdf0b4912e73f10f1a9ef99e7714c257c351fa69318589ca
     uri: 
@@ -1412,9 +1444,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_M.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_M.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -1438,15 +1471,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_S.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_S.gguf
     sha256: e3866436805b104cf732374241405332882a61b60563214b2113caa7dea5fa34
     uri: 
@@ -1454,9 +1487,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_S.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_S.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -1480,15 +1514,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q6_K.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q6_K.gguf
     sha256: d66866922b44869841af9ba4d8b89624338ce756461b31bec1afc23a532d1963
     uri: 
@@ -1496,9 +1530,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q6_K.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q6_K.gguf
   tags:
   - transformers
+  - gguf
   - mistral
   - llama-2
   - code
@@ -1522,15 +1557,15 @@
     parameters:
       model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q8_0.gguf
     template:
-      chat: ChatML
-      completion: ChatML
+      chat: chatml
+      completion: chatml
   description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
     - llamaFallback configuration
   files:
-  - filename: ChatML.tmpl
+  - filename: chatml.tmpl
     sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/ChatML.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
   - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q8_0.gguf
     sha256: e5a2d055c9e1fd5217b111c74965e697b8cb1b86f7517ba80ccdd3ad1477c88d
     uri: 
@@ -1538,9 +1573,526 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q8_0.gguf
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q8_0.gguf
   tags:
   - transformers
+  - gguf
+  - mistral
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2.1
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:ehartford/samantha-data
+  - arxiv:2310.06825
+  - base_model:uukuguy/speechless-mistral-dolphin-orca-platypus-samantha-7b
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q2_K.gguf
+    template:
+      chat: chatml
+      completion: chatml
+  description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+    - llamaFileFormatFallback configuration
+  files:
+  - filename: chatml.tmpl
+    sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
+  - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q2_K.gguf
+    sha256: bf0527edbd0b1578b1697a2e7ff8b66fee130f353cf4725899a18dcaab408b36
+    uri: 
+      https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF/resolve/main/speechless-mistral-dolphin-orca-platypus-samantha-7b.Q2_K.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q2_K.gguf
+  tags:
+  - transformers
+  - gguf
+  - mistral
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2.1
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:ehartford/samantha-data
+  - arxiv:2310.06825
+  - base_model:uukuguy/speechless-mistral-dolphin-orca-platypus-samantha-7b
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_L.gguf
+    template:
+      chat: chatml
+      completion: chatml
+  description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+    - llamaFileFormatFallback configuration
+  files:
+  - filename: chatml.tmpl
+    sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
+  - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_L.gguf
+    sha256: e32b0a69f6a1327f9dcbde474346a78e47de3573a1b4afaf7f5a1546d57815e0
+    uri: 
+      https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF/resolve/main/speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_L.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_L.gguf
+  tags:
+  - transformers
+  - gguf
+  - mistral
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2.1
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:ehartford/samantha-data
+  - arxiv:2310.06825
+  - base_model:uukuguy/speechless-mistral-dolphin-orca-platypus-samantha-7b
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_M.gguf
+    template:
+      chat: chatml
+      completion: chatml
+  description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+    - llamaFileFormatFallback configuration
+  files:
+  - filename: chatml.tmpl
+    sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
+  - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_M.gguf
+    sha256: af9a6cb379fcaf46ea619a2450f58fe61eae988d8fd2142299d6ef93c0fce150
+    uri: 
+      https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF/resolve/main/speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_M.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_M.gguf
+  tags:
+  - transformers
+  - gguf
+  - mistral
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2.1
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:ehartford/samantha-data
+  - arxiv:2310.06825
+  - base_model:uukuguy/speechless-mistral-dolphin-orca-platypus-samantha-7b
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_S.gguf
+    template:
+      chat: chatml
+      completion: chatml
+  description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+    - llamaFileFormatFallback configuration
+  files:
+  - filename: chatml.tmpl
+    sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
+  - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_S.gguf
+    sha256: d966d3f7964c3097c90d6b3f2590168a06e8d6dcc875ee2e687bb225fc7de5dd
+    uri: 
+      https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF/resolve/main/speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_S.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q3_K_S.gguf
+  tags:
+  - transformers
+  - gguf
+  - mistral
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2.1
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:ehartford/samantha-data
+  - arxiv:2310.06825
+  - base_model:uukuguy/speechless-mistral-dolphin-orca-platypus-samantha-7b
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_0.gguf
+    template:
+      chat: chatml
+      completion: chatml
+  description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+    - llamaFileFormatFallback configuration
+  files:
+  - filename: chatml.tmpl
+    sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
+  - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_0.gguf
+    sha256: 6ed3cbb2ac0a459a704a71b5dcc1993c01164c3184f7fba477d4b9016d0c4adb
+    uri: 
+      https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF/resolve/main/speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_0.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_0.gguf
+  tags:
+  - transformers
+  - gguf
+  - mistral
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2.1
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:ehartford/samantha-data
+  - arxiv:2310.06825
+  - base_model:uukuguy/speechless-mistral-dolphin-orca-platypus-samantha-7b
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_M.gguf
+    template:
+      chat: chatml
+      completion: chatml
+  description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+    - llamaFileFormatFallback configuration
+  files:
+  - filename: chatml.tmpl
+    sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
+  - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_M.gguf
+    sha256: 659c65cc20b0b9c435f55c3e387c2104a85e3e174174ab281334f4caa765f58f
+    uri: 
+      https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF/resolve/main/speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_M.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_M.gguf
+  tags:
+  - transformers
+  - gguf
+  - mistral
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2.1
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:ehartford/samantha-data
+  - arxiv:2310.06825
+  - base_model:uukuguy/speechless-mistral-dolphin-orca-platypus-samantha-7b
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_S.gguf
+    template:
+      chat: chatml
+      completion: chatml
+  description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+    - llamaFileFormatFallback configuration
+  files:
+  - filename: chatml.tmpl
+    sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
+  - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_S.gguf
+    sha256: 8f080f22ed7d0b2fa90bde7f56c11c00738eb56e6d178d358f3823a79b308758
+    uri: 
+      https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF/resolve/main/speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_S.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q4_K_S.gguf
+  tags:
+  - transformers
+  - gguf
+  - mistral
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2.1
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:ehartford/samantha-data
+  - arxiv:2310.06825
+  - base_model:uukuguy/speechless-mistral-dolphin-orca-platypus-samantha-7b
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_0.gguf
+    template:
+      chat: chatml
+      completion: chatml
+  description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+    - llamaFileFormatFallback configuration
+  files:
+  - filename: chatml.tmpl
+    sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
+  - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_0.gguf
+    sha256: 7dc0b1032bf76522a7ad716253d5e6a6957948632d97a5833f998090fb58d40d
+    uri: 
+      https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF/resolve/main/speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_0.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_0.gguf
+  tags:
+  - transformers
+  - gguf
+  - mistral
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2.1
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:ehartford/samantha-data
+  - arxiv:2310.06825
+  - base_model:uukuguy/speechless-mistral-dolphin-orca-platypus-samantha-7b
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_M.gguf
+    template:
+      chat: chatml
+      completion: chatml
+  description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+    - llamaFileFormatFallback configuration
+  files:
+  - filename: chatml.tmpl
+    sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
+  - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_M.gguf
+    sha256: 5932ded65a966478cdf0b4912e73f10f1a9ef99e7714c257c351fa69318589ca
+    uri: 
+      https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF/resolve/main/speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_M.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_M.gguf
+  tags:
+  - transformers
+  - gguf
+  - mistral
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2.1
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:ehartford/samantha-data
+  - arxiv:2310.06825
+  - base_model:uukuguy/speechless-mistral-dolphin-orca-platypus-samantha-7b
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_S.gguf
+    template:
+      chat: chatml
+      completion: chatml
+  description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+    - llamaFileFormatFallback configuration
+  files:
+  - filename: chatml.tmpl
+    sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
+  - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_S.gguf
+    sha256: e3866436805b104cf732374241405332882a61b60563214b2113caa7dea5fa34
+    uri: 
+      https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF/resolve/main/speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_S.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q5_K_S.gguf
+  tags:
+  - transformers
+  - gguf
+  - mistral
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2.1
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:ehartford/samantha-data
+  - arxiv:2310.06825
+  - base_model:uukuguy/speechless-mistral-dolphin-orca-platypus-samantha-7b
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q6_K.gguf
+    template:
+      chat: chatml
+      completion: chatml
+  description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+    - llamaFileFormatFallback configuration
+  files:
+  - filename: chatml.tmpl
+    sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
+  - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q6_K.gguf
+    sha256: d66866922b44869841af9ba4d8b89624338ce756461b31bec1afc23a532d1963
+    uri: 
+      https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF/resolve/main/speechless-mistral-dolphin-orca-platypus-samantha-7b.Q6_K.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q6_K.gguf
+  tags:
+  - transformers
+  - gguf
+  - mistral
+  - llama-2
+  - code
+  - text-generation
+  - en
+  - dataset:jondurbin/airoboros-2.2.1
+  - dataset:Open-Orca/OpenOrca
+  - dataset:garage-bAInd/Open-Platypus
+  - dataset:ehartford/samantha-data
+  - arxiv:2310.06825
+  - base_model:uukuguy/speechless-mistral-dolphin-orca-platypus-samantha-7b
+  - license:llama2
+  - model-index
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q8_0.gguf
+    template:
+      chat: chatml
+      completion: chatml
+  description: TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF
+    - llamaFileFormatFallback configuration
+  files:
+  - filename: chatml.tmpl
+    sha256: 36b71ebc20a1756d6e36455b4f34db4925108ce7a0554f6b279a693f4079ef97
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/chatml.tmpl
+  - filename: speechless-mistral-dolphin-orca-platypus-samantha-7b.Q8_0.gguf
+    sha256: e5a2d055c9e1fd5217b111c74965e697b8cb1b86f7517ba80ccdd3ad1477c88d
+    uri: 
+      https://huggingface.co/TheBloke/speechless-mistral-dolphin-orca-platypus-samantha-7B-GGUF/resolve/main/speechless-mistral-dolphin-orca-platypus-samantha-7b.Q8_0.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__speechless-mistral-dolphin-orca-platypus-samantha-7b-gguf__speechless-mistral-dolphin-orca-platypus-samantha-7b.Q8_0.gguf
+  tags:
+  - transformers
+  - gguf
   - mistral
   - llama-2
   - code

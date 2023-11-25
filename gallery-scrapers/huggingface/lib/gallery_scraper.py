@@ -11,6 +11,7 @@ from deepmerge import always_merger, conservative_merger
 from lib.base_models import GalleryModel, DownloadableFile, ScrapeResult, ScrapeResultStatus, BaseConfigData
 from lib.config_recognizer import ConfigRecognizer
 from lib.prompt_templating import AutoPromptTemplateConfig, PromptTemplateCache
+from lib.utils import clean_model_id
 
 
 class HFGalleryScraper:
@@ -24,7 +25,7 @@ class HFGalleryScraper:
     
     def __call__(self, modelInfo: ModelInfo):                              
         hf_config_path = self.root / self.targetFolder
-        cleaned_model_id = modelInfo.modelId.replace("/", "__")
+        cleaned_model_id = clean_model_id(modelInfo)
 
         # Weird Initializer: This is to grab the global from multiprocessing child process, not where we create the Builder.
         if self.api == None:
@@ -155,7 +156,7 @@ class HFGalleryScraper:
             return ScrapeResult(filename=output_filename, gallery=[], status=ScrapeResultStatus.ERROR, message=str(error))
 
     def __fallbackAutoPromptTemplate(self, modelInfo: ModelInfo, configRecognizer: ConfigRecognizer, modelRepoBaseConfig: BaseConfigData) -> BaseConfigData:
-        print("WARNING: Active Prompt Template Recognition has failed, attempting fallback to existing templates")
+        print(f"WARNING: Active Prompt Template Recognition has failed for {modelInfo.modelId}, attempting fallback to existing templates")
         tempPTDict = {}
         # Fallback: No matching prompt recognizers for this config, but we have holes to fill.
         # This code is not efficient, but checks for file name based matches.

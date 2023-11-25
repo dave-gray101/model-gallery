@@ -4,14 +4,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q2_K.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q2_K.bin
     sha256: 32d10554110f9293301fc70dcea698e2458840e03f5f6219ccaf0f1414de6633
     uri: 
@@ -19,7 +19,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q2_K.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q2_K.bin
   tags:
   - transformers
   - llama
@@ -44,14 +44,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_L.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_L.bin
     sha256: e0557af9527c3b0894db259e291c798e10769156cce1d184dea0351de58a2c80
     uri: 
@@ -59,7 +59,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_L.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_L.bin
   tags:
   - transformers
   - llama
@@ -84,14 +84,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_M.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_M.bin
     sha256: a837f29533cd60585fc295cd0b4f8b0650f5c6ca699f5e36b252fd78a16e4120
     uri: 
@@ -99,7 +99,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_M.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_M.bin
   tags:
   - transformers
   - llama
@@ -124,14 +124,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_S.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_S.bin
     sha256: 2ae252f0b8fc5f0685840394ac44381934c75ac5b0e0a4a4c86301a9ebbc41c2
     uri: 
@@ -139,7 +139,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_S.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_S.bin
   tags:
   - transformers
   - llama
@@ -164,14 +164,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_0.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_0.bin
     sha256: 6cfa301c5070ae2d15d437a201b48a872b6785b7e5fa5fc18e099283e53252f4
     uri: 
@@ -179,7 +179,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_0.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_0.bin
   tags:
   - transformers
   - llama
@@ -204,14 +204,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_1.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_1.bin
     sha256: 29b82a22cfe5c2e522265d4f1e3d4d766aee92fb4a1c5bff6f0ac494c179657f
     uri: 
@@ -219,7 +219,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_1.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_1.bin
   tags:
   - transformers
   - llama
@@ -244,14 +244,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_M.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_M.bin
     sha256: a97f818ff741b02482807b0ec829da0f3fc837e1da427a0f1730cca4bb3b8698
     uri: 
@@ -259,7 +259,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_M.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_M.bin
   tags:
   - transformers
   - llama
@@ -284,14 +284,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_S.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_S.bin
     sha256: d5dfeb594bcfc39e032576227318b4e23757f765eabafafeb7d1eb670b6a201e
     uri: 
@@ -299,7 +299,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_S.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_S.bin
   tags:
   - transformers
   - llama
@@ -324,14 +324,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_0.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_0.bin
     sha256: b5e9fe09271ca71567eafcbd0415d105eff2a2e47082bbd409906c8fddb90b2d
     uri: 
@@ -339,7 +339,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_0.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_0.bin
   tags:
   - transformers
   - llama
@@ -364,14 +364,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_1.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_1.bin
     sha256: 4d554692d79580a51a2bc19bb9ac8729da5b4016bac58be9a84cc0b2cdacaab4
     uri: 
@@ -379,7 +379,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_1.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_1.bin
   tags:
   - transformers
   - llama
@@ -404,14 +404,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_M.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_M.bin
     sha256: d1d500c1e861117a4e3bef6016701e7f22b0ff15af751aff2629fb38bc727120
     uri: 
@@ -419,7 +419,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_M.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_M.bin
   tags:
   - transformers
   - llama
@@ -444,14 +444,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_S.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_S.bin
     sha256: ec4abfa85acdf9e20c689b308afe2bcf83ec75ad51efb54480915192952f77d6
     uri: 
@@ -459,7 +459,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_S.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_S.bin
   tags:
   - transformers
   - llama
@@ -484,14 +484,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q6_K.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q6_K.bin
     sha256: 1e7833edcd72065ac070f1fd54aa819b217834f2843b406e55d6fa31f1f7b9fe
     uri: 
@@ -499,7 +499,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q6_K.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q6_K.bin
   tags:
   - transformers
   - llama
@@ -524,14 +524,14 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q8_0.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llama configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q8_0.bin
     sha256: d1e3ab6b22f1ce76da69f9076a436e995e93b2fc19a6f70981307defd0c1169b
     uri: 
@@ -539,7 +539,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q8_0.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q8_0.bin
   tags:
   - transformers
   - llama
@@ -564,15 +564,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q2_K.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q2_K.bin
     sha256: 32d10554110f9293301fc70dcea698e2458840e03f5f6219ccaf0f1414de6633
     uri: 
@@ -580,7 +580,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q2_K.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q2_K.bin
   tags:
   - transformers
   - llama
@@ -605,15 +605,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_L.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_L.bin
     sha256: e0557af9527c3b0894db259e291c798e10769156cce1d184dea0351de58a2c80
     uri: 
@@ -621,7 +621,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_L.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_L.bin
   tags:
   - transformers
   - llama
@@ -646,15 +646,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_M.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_M.bin
     sha256: a837f29533cd60585fc295cd0b4f8b0650f5c6ca699f5e36b252fd78a16e4120
     uri: 
@@ -662,7 +662,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_M.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_M.bin
   tags:
   - transformers
   - llama
@@ -687,15 +687,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_S.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_S.bin
     sha256: 2ae252f0b8fc5f0685840394ac44381934c75ac5b0e0a4a4c86301a9ebbc41c2
     uri: 
@@ -703,7 +703,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_S.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_S.bin
   tags:
   - transformers
   - llama
@@ -728,15 +728,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_0.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_0.bin
     sha256: 6cfa301c5070ae2d15d437a201b48a872b6785b7e5fa5fc18e099283e53252f4
     uri: 
@@ -744,7 +744,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_0.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_0.bin
   tags:
   - transformers
   - llama
@@ -769,15 +769,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_1.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_1.bin
     sha256: 29b82a22cfe5c2e522265d4f1e3d4d766aee92fb4a1c5bff6f0ac494c179657f
     uri: 
@@ -785,7 +785,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_1.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_1.bin
   tags:
   - transformers
   - llama
@@ -810,15 +810,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_M.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_M.bin
     sha256: a97f818ff741b02482807b0ec829da0f3fc837e1da427a0f1730cca4bb3b8698
     uri: 
@@ -826,7 +826,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_M.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_M.bin
   tags:
   - transformers
   - llama
@@ -851,15 +851,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_S.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_S.bin
     sha256: d5dfeb594bcfc39e032576227318b4e23757f765eabafafeb7d1eb670b6a201e
     uri: 
@@ -867,7 +867,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_S.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_S.bin
   tags:
   - transformers
   - llama
@@ -892,15 +892,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_0.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_0.bin
     sha256: b5e9fe09271ca71567eafcbd0415d105eff2a2e47082bbd409906c8fddb90b2d
     uri: 
@@ -908,7 +908,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_0.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_0.bin
   tags:
   - transformers
   - llama
@@ -933,15 +933,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_1.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_1.bin
     sha256: 4d554692d79580a51a2bc19bb9ac8729da5b4016bac58be9a84cc0b2cdacaab4
     uri: 
@@ -949,7 +949,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_1.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_1.bin
   tags:
   - transformers
   - llama
@@ -974,15 +974,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_M.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_M.bin
     sha256: d1d500c1e861117a4e3bef6016701e7f22b0ff15af751aff2629fb38bc727120
     uri: 
@@ -990,7 +990,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_M.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_M.bin
   tags:
   - transformers
   - llama
@@ -1015,15 +1015,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_S.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_S.bin
     sha256: ec4abfa85acdf9e20c689b308afe2bcf83ec75ad51efb54480915192952f77d6
     uri: 
@@ -1031,7 +1031,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_S.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_S.bin
   tags:
   - transformers
   - llama
@@ -1056,15 +1056,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q6_K.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q6_K.bin
     sha256: 1e7833edcd72065ac070f1fd54aa819b217834f2843b406e55d6fa31f1f7b9fe
     uri: 
@@ -1072,7 +1072,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q6_K.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q6_K.bin
   tags:
   - transformers
   - llama
@@ -1097,15 +1097,15 @@
     parameters:
       model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q8_0.bin
     template:
-      chat: OpenAssistant-System
-      completion: OpenAssistant-System
+      chat: openassistant-system
+      completion: openassistant-system
   description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFallback
     configuration
   files:
-  - filename: OpenAssistant-System.tmpl
+  - filename: openassistant-system.tmpl
     sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/OpenAssistant-System.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
   - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q8_0.bin
     sha256: d1e3ab6b22f1ce76da69f9076a436e995e93b2fc19a6f70981307defd0c1169b
     uri: 
@@ -1113,7 +1113,581 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: llama2
   name: 
-    TheBloke__OpenAssistant-Llama2-13B-Orca-8K-3319-GGML__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q8_0.bin
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q8_0.bin
+  tags:
+  - transformers
+  - llama
+  - sft
+  - text-generation
+  - en
+  - dataset:ehartford/dolphin
+  - dataset:shahules786/orca-chat
+  - dataset:togethercomputer/RedPajama-Data-1T
+  - dataset:atom-in-the-universe/fanfics-10k-50k
+  - arxiv:2306.02707
+  - base_model:OpenAssistant/llama2-13b-orca-8k-3319
+  - license:llama2
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q2_K.bin
+    template:
+      chat: openassistant-system
+      completion: openassistant-system
+  description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: openassistant-system.tmpl
+    sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
+  - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q2_K.bin
+    sha256: 32d10554110f9293301fc70dcea698e2458840e03f5f6219ccaf0f1414de6633
+    uri: 
+      https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML/resolve/main/openassistant-llama2-13b-orca-8k-3319.ggmlv3.q2_K.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q2_K.bin
+  tags:
+  - transformers
+  - llama
+  - sft
+  - text-generation
+  - en
+  - dataset:ehartford/dolphin
+  - dataset:shahules786/orca-chat
+  - dataset:togethercomputer/RedPajama-Data-1T
+  - dataset:atom-in-the-universe/fanfics-10k-50k
+  - arxiv:2306.02707
+  - base_model:OpenAssistant/llama2-13b-orca-8k-3319
+  - license:llama2
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_L.bin
+    template:
+      chat: openassistant-system
+      completion: openassistant-system
+  description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: openassistant-system.tmpl
+    sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
+  - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_L.bin
+    sha256: e0557af9527c3b0894db259e291c798e10769156cce1d184dea0351de58a2c80
+    uri: 
+      https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML/resolve/main/openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_L.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_L.bin
+  tags:
+  - transformers
+  - llama
+  - sft
+  - text-generation
+  - en
+  - dataset:ehartford/dolphin
+  - dataset:shahules786/orca-chat
+  - dataset:togethercomputer/RedPajama-Data-1T
+  - dataset:atom-in-the-universe/fanfics-10k-50k
+  - arxiv:2306.02707
+  - base_model:OpenAssistant/llama2-13b-orca-8k-3319
+  - license:llama2
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_M.bin
+    template:
+      chat: openassistant-system
+      completion: openassistant-system
+  description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: openassistant-system.tmpl
+    sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
+  - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_M.bin
+    sha256: a837f29533cd60585fc295cd0b4f8b0650f5c6ca699f5e36b252fd78a16e4120
+    uri: 
+      https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML/resolve/main/openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_M.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_M.bin
+  tags:
+  - transformers
+  - llama
+  - sft
+  - text-generation
+  - en
+  - dataset:ehartford/dolphin
+  - dataset:shahules786/orca-chat
+  - dataset:togethercomputer/RedPajama-Data-1T
+  - dataset:atom-in-the-universe/fanfics-10k-50k
+  - arxiv:2306.02707
+  - base_model:OpenAssistant/llama2-13b-orca-8k-3319
+  - license:llama2
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_S.bin
+    template:
+      chat: openassistant-system
+      completion: openassistant-system
+  description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: openassistant-system.tmpl
+    sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
+  - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_S.bin
+    sha256: 2ae252f0b8fc5f0685840394ac44381934c75ac5b0e0a4a4c86301a9ebbc41c2
+    uri: 
+      https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML/resolve/main/openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_S.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q3_K_S.bin
+  tags:
+  - transformers
+  - llama
+  - sft
+  - text-generation
+  - en
+  - dataset:ehartford/dolphin
+  - dataset:shahules786/orca-chat
+  - dataset:togethercomputer/RedPajama-Data-1T
+  - dataset:atom-in-the-universe/fanfics-10k-50k
+  - arxiv:2306.02707
+  - base_model:OpenAssistant/llama2-13b-orca-8k-3319
+  - license:llama2
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_0.bin
+    template:
+      chat: openassistant-system
+      completion: openassistant-system
+  description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: openassistant-system.tmpl
+    sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
+  - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_0.bin
+    sha256: 6cfa301c5070ae2d15d437a201b48a872b6785b7e5fa5fc18e099283e53252f4
+    uri: 
+      https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML/resolve/main/openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_0.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_0.bin
+  tags:
+  - transformers
+  - llama
+  - sft
+  - text-generation
+  - en
+  - dataset:ehartford/dolphin
+  - dataset:shahules786/orca-chat
+  - dataset:togethercomputer/RedPajama-Data-1T
+  - dataset:atom-in-the-universe/fanfics-10k-50k
+  - arxiv:2306.02707
+  - base_model:OpenAssistant/llama2-13b-orca-8k-3319
+  - license:llama2
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_1.bin
+    template:
+      chat: openassistant-system
+      completion: openassistant-system
+  description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: openassistant-system.tmpl
+    sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
+  - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_1.bin
+    sha256: 29b82a22cfe5c2e522265d4f1e3d4d766aee92fb4a1c5bff6f0ac494c179657f
+    uri: 
+      https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML/resolve/main/openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_1.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_1.bin
+  tags:
+  - transformers
+  - llama
+  - sft
+  - text-generation
+  - en
+  - dataset:ehartford/dolphin
+  - dataset:shahules786/orca-chat
+  - dataset:togethercomputer/RedPajama-Data-1T
+  - dataset:atom-in-the-universe/fanfics-10k-50k
+  - arxiv:2306.02707
+  - base_model:OpenAssistant/llama2-13b-orca-8k-3319
+  - license:llama2
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_M.bin
+    template:
+      chat: openassistant-system
+      completion: openassistant-system
+  description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: openassistant-system.tmpl
+    sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
+  - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_M.bin
+    sha256: a97f818ff741b02482807b0ec829da0f3fc837e1da427a0f1730cca4bb3b8698
+    uri: 
+      https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML/resolve/main/openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_M.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_M.bin
+  tags:
+  - transformers
+  - llama
+  - sft
+  - text-generation
+  - en
+  - dataset:ehartford/dolphin
+  - dataset:shahules786/orca-chat
+  - dataset:togethercomputer/RedPajama-Data-1T
+  - dataset:atom-in-the-universe/fanfics-10k-50k
+  - arxiv:2306.02707
+  - base_model:OpenAssistant/llama2-13b-orca-8k-3319
+  - license:llama2
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_S.bin
+    template:
+      chat: openassistant-system
+      completion: openassistant-system
+  description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: openassistant-system.tmpl
+    sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
+  - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_S.bin
+    sha256: d5dfeb594bcfc39e032576227318b4e23757f765eabafafeb7d1eb670b6a201e
+    uri: 
+      https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML/resolve/main/openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_S.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q4_K_S.bin
+  tags:
+  - transformers
+  - llama
+  - sft
+  - text-generation
+  - en
+  - dataset:ehartford/dolphin
+  - dataset:shahules786/orca-chat
+  - dataset:togethercomputer/RedPajama-Data-1T
+  - dataset:atom-in-the-universe/fanfics-10k-50k
+  - arxiv:2306.02707
+  - base_model:OpenAssistant/llama2-13b-orca-8k-3319
+  - license:llama2
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_0.bin
+    template:
+      chat: openassistant-system
+      completion: openassistant-system
+  description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: openassistant-system.tmpl
+    sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
+  - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_0.bin
+    sha256: b5e9fe09271ca71567eafcbd0415d105eff2a2e47082bbd409906c8fddb90b2d
+    uri: 
+      https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML/resolve/main/openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_0.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_0.bin
+  tags:
+  - transformers
+  - llama
+  - sft
+  - text-generation
+  - en
+  - dataset:ehartford/dolphin
+  - dataset:shahules786/orca-chat
+  - dataset:togethercomputer/RedPajama-Data-1T
+  - dataset:atom-in-the-universe/fanfics-10k-50k
+  - arxiv:2306.02707
+  - base_model:OpenAssistant/llama2-13b-orca-8k-3319
+  - license:llama2
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_1.bin
+    template:
+      chat: openassistant-system
+      completion: openassistant-system
+  description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: openassistant-system.tmpl
+    sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
+  - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_1.bin
+    sha256: 4d554692d79580a51a2bc19bb9ac8729da5b4016bac58be9a84cc0b2cdacaab4
+    uri: 
+      https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML/resolve/main/openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_1.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_1.bin
+  tags:
+  - transformers
+  - llama
+  - sft
+  - text-generation
+  - en
+  - dataset:ehartford/dolphin
+  - dataset:shahules786/orca-chat
+  - dataset:togethercomputer/RedPajama-Data-1T
+  - dataset:atom-in-the-universe/fanfics-10k-50k
+  - arxiv:2306.02707
+  - base_model:OpenAssistant/llama2-13b-orca-8k-3319
+  - license:llama2
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_M.bin
+    template:
+      chat: openassistant-system
+      completion: openassistant-system
+  description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: openassistant-system.tmpl
+    sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
+  - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_M.bin
+    sha256: d1d500c1e861117a4e3bef6016701e7f22b0ff15af751aff2629fb38bc727120
+    uri: 
+      https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML/resolve/main/openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_M.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_M.bin
+  tags:
+  - transformers
+  - llama
+  - sft
+  - text-generation
+  - en
+  - dataset:ehartford/dolphin
+  - dataset:shahules786/orca-chat
+  - dataset:togethercomputer/RedPajama-Data-1T
+  - dataset:atom-in-the-universe/fanfics-10k-50k
+  - arxiv:2306.02707
+  - base_model:OpenAssistant/llama2-13b-orca-8k-3319
+  - license:llama2
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_S.bin
+    template:
+      chat: openassistant-system
+      completion: openassistant-system
+  description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: openassistant-system.tmpl
+    sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
+  - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_S.bin
+    sha256: ec4abfa85acdf9e20c689b308afe2bcf83ec75ad51efb54480915192952f77d6
+    uri: 
+      https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML/resolve/main/openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_S.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q5_K_S.bin
+  tags:
+  - transformers
+  - llama
+  - sft
+  - text-generation
+  - en
+  - dataset:ehartford/dolphin
+  - dataset:shahules786/orca-chat
+  - dataset:togethercomputer/RedPajama-Data-1T
+  - dataset:atom-in-the-universe/fanfics-10k-50k
+  - arxiv:2306.02707
+  - base_model:OpenAssistant/llama2-13b-orca-8k-3319
+  - license:llama2
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q6_K.bin
+    template:
+      chat: openassistant-system
+      completion: openassistant-system
+  description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: openassistant-system.tmpl
+    sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
+  - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q6_K.bin
+    sha256: 1e7833edcd72065ac070f1fd54aa819b217834f2843b406e55d6fa31f1f7b9fe
+    uri: 
+      https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML/resolve/main/openassistant-llama2-13b-orca-8k-3319.ggmlv3.q6_K.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q6_K.bin
+  tags:
+  - transformers
+  - llama
+  - sft
+  - text-generation
+  - en
+  - dataset:ehartford/dolphin
+  - dataset:shahules786/orca-chat
+  - dataset:togethercomputer/RedPajama-Data-1T
+  - dataset:atom-in-the-universe/fanfics-10k-50k
+  - arxiv:2306.02707
+  - base_model:OpenAssistant/llama2-13b-orca-8k-3319
+  - license:llama2
+  - has_space
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q8_0.bin
+    template:
+      chat: openassistant-system
+      completion: openassistant-system
+  description: TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: openassistant-system.tmpl
+    sha256: 1ae4065c50435864cd8be141b73e29b29b30c8dc5060734bba08e993eacee8be
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/openassistant-system.tmpl
+  - filename: openassistant-llama2-13b-orca-8k-3319.ggmlv3.q8_0.bin
+    sha256: d1e3ab6b22f1ce76da69f9076a436e995e93b2fc19a6f70981307defd0c1169b
+    uri: 
+      https://huggingface.co/TheBloke/OpenAssistant-Llama2-13B-Orca-8K-3319-GGML/resolve/main/openassistant-llama2-13b-orca-8k-3319.ggmlv3.q8_0.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: llama2
+  name: 
+    thebloke__openassistant-llama2-13b-orca-8k-3319-ggml__openassistant-llama2-13b-orca-8k-3319.ggmlv3.q8_0.bin
   tags:
   - transformers
   - llama

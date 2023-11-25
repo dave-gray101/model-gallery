@@ -4,14 +4,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q2_K.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q2_K.bin
     sha256: 370e297e404eb82dcc583897064ad0c80e4a85aa1d527ab62b235ebb3e214ebe
     uri: 
@@ -19,7 +19,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q2_K.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q2_K.bin
   tags:
   - transformers
   - llama
@@ -39,14 +39,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q3_K_L.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q3_K_L.bin
     sha256: 1019fd3449cb24c2391d8cf9d7f874935bd5c32d42b597b15ea52e15c04061b5
     uri: 
@@ -54,7 +54,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q3_K_L.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q3_K_L.bin
   tags:
   - transformers
   - llama
@@ -74,14 +74,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q3_K_M.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q3_K_M.bin
     sha256: a0b1c2613e38e3a55c2574e6bb1f156ad196b0a1890e787a80897ceaa9030f65
     uri: 
@@ -89,7 +89,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q3_K_M.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q3_K_M.bin
   tags:
   - transformers
   - llama
@@ -109,14 +109,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q3_K_S.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q3_K_S.bin
     sha256: 3621f26f618722520c51464f224dd2dc860a8f21865874c2c90acfc1d0798e6f
     uri: 
@@ -124,7 +124,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q3_K_S.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q3_K_S.bin
   tags:
   - transformers
   - llama
@@ -144,14 +144,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q4_0.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q4_0.bin
     sha256: c07396306b50281d4aeceb27641ef631e90c0af9a167a7fba7bef65a77870b58
     uri: 
@@ -159,7 +159,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q4_0.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q4_0.bin
   tags:
   - transformers
   - llama
@@ -179,14 +179,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q4_1.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q4_1.bin
     sha256: 3495d5fbc1b29632c4d9649eef0d029fda40b4c235b3df63cd381d716d9d504d
     uri: 
@@ -194,7 +194,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q4_1.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q4_1.bin
   tags:
   - transformers
   - llama
@@ -214,14 +214,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q4_K_M.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q4_K_M.bin
     sha256: 0ccff297199de18efa1b24654096ba6950a1da3019f307f8a3a6c590f6514216
     uri: 
@@ -229,7 +229,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q4_K_M.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q4_K_M.bin
   tags:
   - transformers
   - llama
@@ -249,14 +249,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q4_K_S.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q4_K_S.bin
     sha256: 281e825015bdc6b60ea42d49047bafdcdfa86a167179c52ae05a35207c6b30b0
     uri: 
@@ -264,7 +264,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q4_K_S.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q4_K_S.bin
   tags:
   - transformers
   - llama
@@ -284,14 +284,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q5_0.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q5_0.bin
     sha256: 4c5edc033b8ee4acc2d472880b1852902de6c680e2285cae51ba8563120fd7be
     uri: 
@@ -299,7 +299,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q5_0.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q5_0.bin
   tags:
   - transformers
   - llama
@@ -319,14 +319,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q5_1.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q5_1.bin
     sha256: 07d73c68945fab4c1f66888df300c144bc2937c5fa48cc0c8aa0df9b999b6f00
     uri: 
@@ -334,7 +334,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q5_1.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q5_1.bin
   tags:
   - transformers
   - llama
@@ -354,14 +354,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q5_K_M.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q5_K_M.bin
     sha256: 00e2f30c83fb9230da3e54de681bfb9514b5b1f73a932fafcd7a01b058515e40
     uri: 
@@ -369,7 +369,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q5_K_M.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q5_K_M.bin
   tags:
   - transformers
   - llama
@@ -389,14 +389,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q5_K_S.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q5_K_S.bin
     sha256: 7591b9e50670b34b4acce1ca07ee548c0ebb4fcf65679ed41825bdd6a6a6b328
     uri: 
@@ -404,7 +404,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q5_K_S.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q5_K_S.bin
   tags:
   - transformers
   - llama
@@ -424,14 +424,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q6_K.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q6_K.bin
     sha256: e60b364452c7a2935d4c0b757c92913c28dee87fd999760ec7ad5912b689ceb9
     uri: 
@@ -439,7 +439,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q6_K.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q6_K.bin
   tags:
   - transformers
   - llama
@@ -459,14 +459,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q8_0.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llama configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q8_0.bin
     sha256: 31ec30510bee5c8a0e145352f3416e4e7cdf3c6eff0c938403c1ab2a7f1f047d
     uri: 
@@ -474,7 +474,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q8_0.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q8_0.bin
   tags:
   - transformers
   - llama
@@ -494,14 +494,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q2_K.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q2_K.bin
     sha256: 370e297e404eb82dcc583897064ad0c80e4a85aa1d527ab62b235ebb3e214ebe
     uri: 
@@ -509,7 +509,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q2_K.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q2_K.bin
   tags:
   - transformers
   - llama
@@ -529,14 +529,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q3_K_L.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q3_K_L.bin
     sha256: 1019fd3449cb24c2391d8cf9d7f874935bd5c32d42b597b15ea52e15c04061b5
     uri: 
@@ -544,7 +544,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q3_K_L.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q3_K_L.bin
   tags:
   - transformers
   - llama
@@ -564,14 +564,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q3_K_M.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q3_K_M.bin
     sha256: a0b1c2613e38e3a55c2574e6bb1f156ad196b0a1890e787a80897ceaa9030f65
     uri: 
@@ -579,7 +579,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q3_K_M.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q3_K_M.bin
   tags:
   - transformers
   - llama
@@ -599,14 +599,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q3_K_S.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q3_K_S.bin
     sha256: 3621f26f618722520c51464f224dd2dc860a8f21865874c2c90acfc1d0798e6f
     uri: 
@@ -614,7 +614,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q3_K_S.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q3_K_S.bin
   tags:
   - transformers
   - llama
@@ -634,14 +634,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q4_0.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q4_0.bin
     sha256: c07396306b50281d4aeceb27641ef631e90c0af9a167a7fba7bef65a77870b58
     uri: 
@@ -649,7 +649,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q4_0.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q4_0.bin
   tags:
   - transformers
   - llama
@@ -669,14 +669,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q4_1.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q4_1.bin
     sha256: 3495d5fbc1b29632c4d9649eef0d029fda40b4c235b3df63cd381d716d9d504d
     uri: 
@@ -684,7 +684,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q4_1.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q4_1.bin
   tags:
   - transformers
   - llama
@@ -704,14 +704,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q4_K_M.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q4_K_M.bin
     sha256: 0ccff297199de18efa1b24654096ba6950a1da3019f307f8a3a6c590f6514216
     uri: 
@@ -719,7 +719,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q4_K_M.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q4_K_M.bin
   tags:
   - transformers
   - llama
@@ -739,14 +739,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q4_K_S.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q4_K_S.bin
     sha256: 281e825015bdc6b60ea42d49047bafdcdfa86a167179c52ae05a35207c6b30b0
     uri: 
@@ -754,7 +754,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q4_K_S.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q4_K_S.bin
   tags:
   - transformers
   - llama
@@ -774,14 +774,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q5_0.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q5_0.bin
     sha256: 4c5edc033b8ee4acc2d472880b1852902de6c680e2285cae51ba8563120fd7be
     uri: 
@@ -789,7 +789,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q5_0.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q5_0.bin
   tags:
   - transformers
   - llama
@@ -809,14 +809,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q5_1.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q5_1.bin
     sha256: 07d73c68945fab4c1f66888df300c144bc2937c5fa48cc0c8aa0df9b999b6f00
     uri: 
@@ -824,7 +824,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q5_1.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q5_1.bin
   tags:
   - transformers
   - llama
@@ -844,14 +844,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q5_K_M.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q5_K_M.bin
     sha256: 00e2f30c83fb9230da3e54de681bfb9514b5b1f73a932fafcd7a01b058515e40
     uri: 
@@ -859,7 +859,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q5_K_M.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q5_K_M.bin
   tags:
   - transformers
   - llama
@@ -879,14 +879,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q5_K_S.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q5_K_S.bin
     sha256: 7591b9e50670b34b4acce1ca07ee548c0ebb4fcf65679ed41825bdd6a6a6b328
     uri: 
@@ -894,7 +894,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q5_K_S.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q5_K_S.bin
   tags:
   - transformers
   - llama
@@ -914,14 +914,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q6_K.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q6_K.bin
     sha256: e60b364452c7a2935d4c0b757c92913c28dee87fd999760ec7ad5912b689ceb9
     uri: 
@@ -929,7 +929,7 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q6_K.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q6_K.bin
   tags:
   - transformers
   - llama
@@ -949,14 +949,14 @@
     parameters:
       model: upstage-llama-30b-instruct-2048.ggmlv3.q8_0.bin
     template:
-      chat: Orca-Hashes
-      completion: Orca-Hashes
+      chat: orca-hashes
+      completion: orca-hashes
   description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFallback configuration
   files:
-  - filename: Orca-Hashes.tmpl
-    sha256: 82c0486de83806b66415395a9e41ef514eb4594c995dd663c92905e215593ec0
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Orca-Hashes.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
   - filename: upstage-llama-30b-instruct-2048.ggmlv3.q8_0.bin
     sha256: 31ec30510bee5c8a0e145352f3416e4e7cdf3c6eff0c938403c1ab2a7f1f047d
     uri: 
@@ -964,7 +964,511 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: other
   name: 
-    TheBloke__upstage-llama-30b-instruct-2048-GGML__upstage-llama-30b-instruct-2048.ggmlv3.q8_0.bin
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q8_0.bin
+  tags:
+  - transformers
+  - llama
+  - upstage
+  - instruct
+  - instruction
+  - text-generation
+  - en
+  - license:other
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: upstage-llama-30b-instruct-2048.ggmlv3.q2_K.bin
+    template:
+      chat: orca-hashes
+      completion: orca-hashes
+  description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
+  - filename: upstage-llama-30b-instruct-2048.ggmlv3.q2_K.bin
+    sha256: 370e297e404eb82dcc583897064ad0c80e4a85aa1d527ab62b235ebb3e214ebe
+    uri: 
+      https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML/resolve/main/upstage-llama-30b-instruct-2048.ggmlv3.q2_K.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: 
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q2_K.bin
+  tags:
+  - transformers
+  - llama
+  - upstage
+  - instruct
+  - instruction
+  - text-generation
+  - en
+  - license:other
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: upstage-llama-30b-instruct-2048.ggmlv3.q3_K_L.bin
+    template:
+      chat: orca-hashes
+      completion: orca-hashes
+  description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
+  - filename: upstage-llama-30b-instruct-2048.ggmlv3.q3_K_L.bin
+    sha256: 1019fd3449cb24c2391d8cf9d7f874935bd5c32d42b597b15ea52e15c04061b5
+    uri: 
+      https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML/resolve/main/upstage-llama-30b-instruct-2048.ggmlv3.q3_K_L.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: 
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q3_K_L.bin
+  tags:
+  - transformers
+  - llama
+  - upstage
+  - instruct
+  - instruction
+  - text-generation
+  - en
+  - license:other
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: upstage-llama-30b-instruct-2048.ggmlv3.q3_K_M.bin
+    template:
+      chat: orca-hashes
+      completion: orca-hashes
+  description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
+  - filename: upstage-llama-30b-instruct-2048.ggmlv3.q3_K_M.bin
+    sha256: a0b1c2613e38e3a55c2574e6bb1f156ad196b0a1890e787a80897ceaa9030f65
+    uri: 
+      https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML/resolve/main/upstage-llama-30b-instruct-2048.ggmlv3.q3_K_M.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: 
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q3_K_M.bin
+  tags:
+  - transformers
+  - llama
+  - upstage
+  - instruct
+  - instruction
+  - text-generation
+  - en
+  - license:other
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: upstage-llama-30b-instruct-2048.ggmlv3.q3_K_S.bin
+    template:
+      chat: orca-hashes
+      completion: orca-hashes
+  description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
+  - filename: upstage-llama-30b-instruct-2048.ggmlv3.q3_K_S.bin
+    sha256: 3621f26f618722520c51464f224dd2dc860a8f21865874c2c90acfc1d0798e6f
+    uri: 
+      https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML/resolve/main/upstage-llama-30b-instruct-2048.ggmlv3.q3_K_S.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: 
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q3_K_S.bin
+  tags:
+  - transformers
+  - llama
+  - upstage
+  - instruct
+  - instruction
+  - text-generation
+  - en
+  - license:other
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: upstage-llama-30b-instruct-2048.ggmlv3.q4_0.bin
+    template:
+      chat: orca-hashes
+      completion: orca-hashes
+  description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
+  - filename: upstage-llama-30b-instruct-2048.ggmlv3.q4_0.bin
+    sha256: c07396306b50281d4aeceb27641ef631e90c0af9a167a7fba7bef65a77870b58
+    uri: 
+      https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML/resolve/main/upstage-llama-30b-instruct-2048.ggmlv3.q4_0.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: 
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q4_0.bin
+  tags:
+  - transformers
+  - llama
+  - upstage
+  - instruct
+  - instruction
+  - text-generation
+  - en
+  - license:other
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: upstage-llama-30b-instruct-2048.ggmlv3.q4_1.bin
+    template:
+      chat: orca-hashes
+      completion: orca-hashes
+  description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
+  - filename: upstage-llama-30b-instruct-2048.ggmlv3.q4_1.bin
+    sha256: 3495d5fbc1b29632c4d9649eef0d029fda40b4c235b3df63cd381d716d9d504d
+    uri: 
+      https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML/resolve/main/upstage-llama-30b-instruct-2048.ggmlv3.q4_1.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: 
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q4_1.bin
+  tags:
+  - transformers
+  - llama
+  - upstage
+  - instruct
+  - instruction
+  - text-generation
+  - en
+  - license:other
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: upstage-llama-30b-instruct-2048.ggmlv3.q4_K_M.bin
+    template:
+      chat: orca-hashes
+      completion: orca-hashes
+  description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
+  - filename: upstage-llama-30b-instruct-2048.ggmlv3.q4_K_M.bin
+    sha256: 0ccff297199de18efa1b24654096ba6950a1da3019f307f8a3a6c590f6514216
+    uri: 
+      https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML/resolve/main/upstage-llama-30b-instruct-2048.ggmlv3.q4_K_M.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: 
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q4_K_M.bin
+  tags:
+  - transformers
+  - llama
+  - upstage
+  - instruct
+  - instruction
+  - text-generation
+  - en
+  - license:other
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: upstage-llama-30b-instruct-2048.ggmlv3.q4_K_S.bin
+    template:
+      chat: orca-hashes
+      completion: orca-hashes
+  description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
+  - filename: upstage-llama-30b-instruct-2048.ggmlv3.q4_K_S.bin
+    sha256: 281e825015bdc6b60ea42d49047bafdcdfa86a167179c52ae05a35207c6b30b0
+    uri: 
+      https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML/resolve/main/upstage-llama-30b-instruct-2048.ggmlv3.q4_K_S.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: 
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q4_K_S.bin
+  tags:
+  - transformers
+  - llama
+  - upstage
+  - instruct
+  - instruction
+  - text-generation
+  - en
+  - license:other
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: upstage-llama-30b-instruct-2048.ggmlv3.q5_0.bin
+    template:
+      chat: orca-hashes
+      completion: orca-hashes
+  description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
+  - filename: upstage-llama-30b-instruct-2048.ggmlv3.q5_0.bin
+    sha256: 4c5edc033b8ee4acc2d472880b1852902de6c680e2285cae51ba8563120fd7be
+    uri: 
+      https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML/resolve/main/upstage-llama-30b-instruct-2048.ggmlv3.q5_0.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: 
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q5_0.bin
+  tags:
+  - transformers
+  - llama
+  - upstage
+  - instruct
+  - instruction
+  - text-generation
+  - en
+  - license:other
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: upstage-llama-30b-instruct-2048.ggmlv3.q5_1.bin
+    template:
+      chat: orca-hashes
+      completion: orca-hashes
+  description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
+  - filename: upstage-llama-30b-instruct-2048.ggmlv3.q5_1.bin
+    sha256: 07d73c68945fab4c1f66888df300c144bc2937c5fa48cc0c8aa0df9b999b6f00
+    uri: 
+      https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML/resolve/main/upstage-llama-30b-instruct-2048.ggmlv3.q5_1.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: 
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q5_1.bin
+  tags:
+  - transformers
+  - llama
+  - upstage
+  - instruct
+  - instruction
+  - text-generation
+  - en
+  - license:other
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: upstage-llama-30b-instruct-2048.ggmlv3.q5_K_M.bin
+    template:
+      chat: orca-hashes
+      completion: orca-hashes
+  description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
+  - filename: upstage-llama-30b-instruct-2048.ggmlv3.q5_K_M.bin
+    sha256: 00e2f30c83fb9230da3e54de681bfb9514b5b1f73a932fafcd7a01b058515e40
+    uri: 
+      https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML/resolve/main/upstage-llama-30b-instruct-2048.ggmlv3.q5_K_M.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: 
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q5_K_M.bin
+  tags:
+  - transformers
+  - llama
+  - upstage
+  - instruct
+  - instruction
+  - text-generation
+  - en
+  - license:other
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: upstage-llama-30b-instruct-2048.ggmlv3.q5_K_S.bin
+    template:
+      chat: orca-hashes
+      completion: orca-hashes
+  description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
+  - filename: upstage-llama-30b-instruct-2048.ggmlv3.q5_K_S.bin
+    sha256: 7591b9e50670b34b4acce1ca07ee548c0ebb4fcf65679ed41825bdd6a6a6b328
+    uri: 
+      https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML/resolve/main/upstage-llama-30b-instruct-2048.ggmlv3.q5_K_S.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: 
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q5_K_S.bin
+  tags:
+  - transformers
+  - llama
+  - upstage
+  - instruct
+  - instruction
+  - text-generation
+  - en
+  - license:other
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: upstage-llama-30b-instruct-2048.ggmlv3.q6_K.bin
+    template:
+      chat: orca-hashes
+      completion: orca-hashes
+  description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
+  - filename: upstage-llama-30b-instruct-2048.ggmlv3.q6_K.bin
+    sha256: e60b364452c7a2935d4c0b757c92913c28dee87fd999760ec7ad5912b689ceb9
+    uri: 
+      https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML/resolve/main/upstage-llama-30b-instruct-2048.ggmlv3.q6_K.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: 
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q6_K.bin
+  tags:
+  - transformers
+  - llama
+  - upstage
+  - instruct
+  - instruction
+  - text-generation
+  - en
+  - license:other
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML
+- config_file:
+    backend: llama-stable
+    context_size: 1024
+    parameters:
+      model: upstage-llama-30b-instruct-2048.ggmlv3.q8_0.bin
+    template:
+      chat: orca-hashes
+      completion: orca-hashes
+  description: TheBloke/upstage-llama-30b-instruct-2048-GGML - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: orca-hashes.tmpl
+    sha256: ab8225ab5dff30dbdf1cd05555acda5dd7917a9d1a8ba0aa6a3d12dc88ea4c27
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/orca-hashes.tmpl
+  - filename: upstage-llama-30b-instruct-2048.ggmlv3.q8_0.bin
+    sha256: 31ec30510bee5c8a0e145352f3416e4e7cdf3c6eff0c938403c1ab2a7f1f047d
+    uri: 
+      https://huggingface.co/TheBloke/upstage-llama-30b-instruct-2048-GGML/resolve/main/upstage-llama-30b-instruct-2048.ggmlv3.q8_0.bin
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: other
+  name: 
+    thebloke__upstage-llama-30b-instruct-2048-ggml__upstage-llama-30b-instruct-2048.ggmlv3.q8_0.bin
   tags:
   - transformers
   - llama

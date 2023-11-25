@@ -7,6 +7,7 @@ import hashlib
 from traceback import print_exc
 
 from lib.base_models import DownloadableFile
+from lib.utils import clean_model_id
 
 from .result import AutomaticPromptTemplateResult
 
@@ -16,7 +17,7 @@ class PromptTemplateCache:
     def __init__(self, templateRoot: Path, downloadRoot: str, bannedPromptNames: Optional[Set[str]]):
         self.templateRoot = templateRoot
         self.downloadRoot = downloadRoot
-        self.bannedPromptNames: Set[str] = bannedPromptNames or {"", "none", "custom"}
+        self.bannedPromptNames: Set[str] = bannedPromptNames or {"", "none", "custom", "unknown"}
         self.downloadableFileCache: Dict[str, DownloadableFile] = {}
 
     def get_prompt_template_directory_path(self) -> Path:
@@ -27,8 +28,10 @@ class PromptTemplateCache:
             outputFile.writelines(template)
 
     def get_prompt_path(self, promptTemplateResult: AutomaticPromptTemplateResult) -> Optional[Path]:
-        if promptTemplateResult.templateName.lower() in self.bannedPromptNames:
-            promptTemplateResult.templateName = promptTemplateResult.modelInfo.modelId.replace("/", "__")
+        # For cross platform filename safety reasons, force lowercasing at this point
+        promptTemplateResult.templateName = promptTemplateResult.templateName.lower()
+        if promptTemplateResult.templateName in self.bannedPromptNames:
+            promptTemplateResult.templateName = clean_model_id(promptTemplateResult.modelInfo)
         promptTemplatePath = self.templateRoot / f"{promptTemplateResult.templateName}.tmpl"      
         if promptTemplatePath.exists():
             # TODO: Consider checking how different it is from the text match, since we already have the text body?

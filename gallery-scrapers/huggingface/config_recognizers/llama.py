@@ -4,7 +4,7 @@ from deepmerge import conservative_merger
 
 from lib.base_models import BaseConfigData, LocalAIEndpoints
 from lib.config_recognizer import ConfigRecognizer, build_fixed_BaseConfigData_handler
-from lib.filter import build_tag_based_model_info_filter
+from lib.filter import build_tag_based_model_info_filter, build_regex_model_info_filter
 
 
 def determine_llama_backend_version(repoFile: RepoFile) -> Optional[str]:
@@ -30,7 +30,7 @@ def llama_recognizer_repo_file(_: ModelInfo, repoFile: RepoFile, baseConfig: Bas
    
 llamaConfigRecognizer = ConfigRecognizer(
     id="llama", 
-    filter=build_tag_based_model_info_filter({"llama", "llama-2"}, '(?i)llama'),
+    filter=build_tag_based_model_info_filter({"llama", "llama-2", "deepseek", }, '(?i)llama'),
     perRepo=build_fixed_BaseConfigData_handler(BaseConfigData(
         config_file= {
             "context_size": 1024
@@ -71,6 +71,19 @@ mistralConfigRecognizer = ConfigRecognizer(
 llamaFallbackConfigRecognizer = ConfigRecognizer(
     id="llamaFallback",
     filter=build_tag_based_model_info_filter({"text-generation"}, '(?i)llama'),
+    perRepo=build_fixed_BaseConfigData_handler(BaseConfigData(
+        config_file= {
+            "context_size": 1024
+        },
+    )), 
+    perFile=llama_recognizer_repo_file, 
+    autoPromptEndpoints={LocalAIEndpoints.CHAT, LocalAIEndpoints.COMPLETION},
+    priority=0
+)
+
+llamaFileFormatFallbackConfigRecognizer = ConfigRecognizer(
+    id="llamaFileFormatFallback",
+    filter=build_regex_model_info_filter(r'.*-(GGML|GGUF)$'),
     perRepo=build_fixed_BaseConfigData_handler(BaseConfigData(
         config_file= {
             "context_size": 1024

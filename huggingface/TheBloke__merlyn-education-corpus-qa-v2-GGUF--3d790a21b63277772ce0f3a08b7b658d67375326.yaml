@@ -4,14 +4,14 @@
     parameters:
       model: merlyn-education-corpus-qa-v2.Q2_K.gguf
     template:
-      chat: Merlyn-Education
-      completion: Merlyn-Education
+      chat: merlyn-education
+      completion: merlyn-education
   description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llama configuration
   files:
-  - filename: Merlyn-Education.tmpl
+  - filename: merlyn-education.tmpl
     sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Merlyn-Education.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
   - filename: merlyn-education-corpus-qa-v2.Q2_K.gguf
     sha256: c03d00258edcc4b47dc382ba2d5fad1516669f34c5a890d5b31c71c00441f723
     uri: 
@@ -19,9 +19,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: apache-2.0
   name: 
-    TheBloke__merlyn-education-corpus-qa-v2-GGUF__merlyn-education-corpus-qa-v2.Q2_K.gguf
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q2_K.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - MerlynMind
   - education
@@ -37,14 +38,14 @@
     parameters:
       model: merlyn-education-corpus-qa-v2.Q3_K_L.gguf
     template:
-      chat: Merlyn-Education
-      completion: Merlyn-Education
+      chat: merlyn-education
+      completion: merlyn-education
   description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llama configuration
   files:
-  - filename: Merlyn-Education.tmpl
+  - filename: merlyn-education.tmpl
     sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Merlyn-Education.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
   - filename: merlyn-education-corpus-qa-v2.Q3_K_L.gguf
     sha256: 8b8b297934c501beaa68abe72a9b451f7b72ed9507e6da510b74d88772a835bc
     uri: 
@@ -52,9 +53,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: apache-2.0
   name: 
-    TheBloke__merlyn-education-corpus-qa-v2-GGUF__merlyn-education-corpus-qa-v2.Q3_K_L.gguf
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q3_K_L.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - MerlynMind
   - education
@@ -70,14 +72,14 @@
     parameters:
       model: merlyn-education-corpus-qa-v2.Q3_K_M.gguf
     template:
-      chat: Merlyn-Education
-      completion: Merlyn-Education
+      chat: merlyn-education
+      completion: merlyn-education
   description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llama configuration
   files:
-  - filename: Merlyn-Education.tmpl
+  - filename: merlyn-education.tmpl
     sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Merlyn-Education.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
   - filename: merlyn-education-corpus-qa-v2.Q3_K_M.gguf
     sha256: 8d475d437d72a57dd264c4837299494378d775f0c29f9a4d6df941583a189ea3
     uri: 
@@ -85,9 +87,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: apache-2.0
   name: 
-    TheBloke__merlyn-education-corpus-qa-v2-GGUF__merlyn-education-corpus-qa-v2.Q3_K_M.gguf
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q3_K_M.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - MerlynMind
   - education
@@ -103,14 +106,14 @@
     parameters:
       model: merlyn-education-corpus-qa-v2.Q3_K_S.gguf
     template:
-      chat: Merlyn-Education
-      completion: Merlyn-Education
+      chat: merlyn-education
+      completion: merlyn-education
   description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llama configuration
   files:
-  - filename: Merlyn-Education.tmpl
+  - filename: merlyn-education.tmpl
     sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Merlyn-Education.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
   - filename: merlyn-education-corpus-qa-v2.Q3_K_S.gguf
     sha256: ae46725f29f0200a65f0a389a697f656f3e591acac3126ad832920d7672caa78
     uri: 
@@ -118,9 +121,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: apache-2.0
   name: 
-    TheBloke__merlyn-education-corpus-qa-v2-GGUF__merlyn-education-corpus-qa-v2.Q3_K_S.gguf
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q3_K_S.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - MerlynMind
   - education
@@ -136,14 +140,14 @@
     parameters:
       model: merlyn-education-corpus-qa-v2.Q4_0.gguf
     template:
-      chat: Merlyn-Education
-      completion: Merlyn-Education
+      chat: merlyn-education
+      completion: merlyn-education
   description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llama configuration
   files:
-  - filename: Merlyn-Education.tmpl
+  - filename: merlyn-education.tmpl
     sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Merlyn-Education.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
   - filename: merlyn-education-corpus-qa-v2.Q4_0.gguf
     sha256: b0c206d059b4e14c3a9beccebb35ab89438c26101be5e4a937fd7f09f00dff6a
     uri: 
@@ -151,9 +155,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: apache-2.0
   name: 
-    TheBloke__merlyn-education-corpus-qa-v2-GGUF__merlyn-education-corpus-qa-v2.Q4_0.gguf
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q4_0.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - MerlynMind
   - education
@@ -169,14 +174,14 @@
     parameters:
       model: merlyn-education-corpus-qa-v2.Q4_K_M.gguf
     template:
-      chat: Merlyn-Education
-      completion: Merlyn-Education
+      chat: merlyn-education
+      completion: merlyn-education
   description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llama configuration
   files:
-  - filename: Merlyn-Education.tmpl
+  - filename: merlyn-education.tmpl
     sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Merlyn-Education.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
   - filename: merlyn-education-corpus-qa-v2.Q4_K_M.gguf
     sha256: d4cc4b49a9cfb9840d0ce181be71c38b953dcfcc0e86a726761c09608fefa90d
     uri: 
@@ -184,9 +189,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: apache-2.0
   name: 
-    TheBloke__merlyn-education-corpus-qa-v2-GGUF__merlyn-education-corpus-qa-v2.Q4_K_M.gguf
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q4_K_M.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - MerlynMind
   - education
@@ -202,14 +208,14 @@
     parameters:
       model: merlyn-education-corpus-qa-v2.Q4_K_S.gguf
     template:
-      chat: Merlyn-Education
-      completion: Merlyn-Education
+      chat: merlyn-education
+      completion: merlyn-education
   description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llama configuration
   files:
-  - filename: Merlyn-Education.tmpl
+  - filename: merlyn-education.tmpl
     sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Merlyn-Education.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
   - filename: merlyn-education-corpus-qa-v2.Q4_K_S.gguf
     sha256: 8829ee2486d99682247b9beb27573f2d98f6d49569ba0595cd2d81c2158b023a
     uri: 
@@ -217,9 +223,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: apache-2.0
   name: 
-    TheBloke__merlyn-education-corpus-qa-v2-GGUF__merlyn-education-corpus-qa-v2.Q4_K_S.gguf
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q4_K_S.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - MerlynMind
   - education
@@ -235,14 +242,14 @@
     parameters:
       model: merlyn-education-corpus-qa-v2.Q5_0.gguf
     template:
-      chat: Merlyn-Education
-      completion: Merlyn-Education
+      chat: merlyn-education
+      completion: merlyn-education
   description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llama configuration
   files:
-  - filename: Merlyn-Education.tmpl
+  - filename: merlyn-education.tmpl
     sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Merlyn-Education.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
   - filename: merlyn-education-corpus-qa-v2.Q5_0.gguf
     sha256: 3f9a2b6ff597ef8c3290b508105fb87b6fec8e935546856bb005c1dc1f5ab3c6
     uri: 
@@ -250,9 +257,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: apache-2.0
   name: 
-    TheBloke__merlyn-education-corpus-qa-v2-GGUF__merlyn-education-corpus-qa-v2.Q5_0.gguf
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q5_0.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - MerlynMind
   - education
@@ -268,14 +276,14 @@
     parameters:
       model: merlyn-education-corpus-qa-v2.Q5_K_M.gguf
     template:
-      chat: Merlyn-Education
-      completion: Merlyn-Education
+      chat: merlyn-education
+      completion: merlyn-education
   description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llama configuration
   files:
-  - filename: Merlyn-Education.tmpl
+  - filename: merlyn-education.tmpl
     sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Merlyn-Education.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
   - filename: merlyn-education-corpus-qa-v2.Q5_K_M.gguf
     sha256: 386ae88a37a3a6083a661e9925b8b4daf81568b79401274d73d0f0ad367794d9
     uri: 
@@ -283,9 +291,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: apache-2.0
   name: 
-    TheBloke__merlyn-education-corpus-qa-v2-GGUF__merlyn-education-corpus-qa-v2.Q5_K_M.gguf
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q5_K_M.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - MerlynMind
   - education
@@ -301,14 +310,14 @@
     parameters:
       model: merlyn-education-corpus-qa-v2.Q5_K_S.gguf
     template:
-      chat: Merlyn-Education
-      completion: Merlyn-Education
+      chat: merlyn-education
+      completion: merlyn-education
   description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llama configuration
   files:
-  - filename: Merlyn-Education.tmpl
+  - filename: merlyn-education.tmpl
     sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Merlyn-Education.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
   - filename: merlyn-education-corpus-qa-v2.Q5_K_S.gguf
     sha256: 7b7a024def3bab837b480f4ff11ddcf24c03d4b449f9d38ec2fec0ba7f877203
     uri: 
@@ -316,9 +325,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: apache-2.0
   name: 
-    TheBloke__merlyn-education-corpus-qa-v2-GGUF__merlyn-education-corpus-qa-v2.Q5_K_S.gguf
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q5_K_S.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - MerlynMind
   - education
@@ -334,14 +344,14 @@
     parameters:
       model: merlyn-education-corpus-qa-v2.Q6_K.gguf
     template:
-      chat: Merlyn-Education
-      completion: Merlyn-Education
+      chat: merlyn-education
+      completion: merlyn-education
   description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llama configuration
   files:
-  - filename: Merlyn-Education.tmpl
+  - filename: merlyn-education.tmpl
     sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Merlyn-Education.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
   - filename: merlyn-education-corpus-qa-v2.Q6_K.gguf
     sha256: 94c905a6ca5ae1a10848f4dbd28fe1c3091f3b834c8fc75afc9586edb441a029
     uri: 
@@ -349,9 +359,10 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: apache-2.0
   name: 
-    TheBloke__merlyn-education-corpus-qa-v2-GGUF__merlyn-education-corpus-qa-v2.Q6_K.gguf
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q6_K.gguf
   tags:
   - transformers
+  - gguf
   - llama
   - MerlynMind
   - education
@@ -367,14 +378,14 @@
     parameters:
       model: merlyn-education-corpus-qa-v2.Q8_0.gguf
     template:
-      chat: Merlyn-Education
-      completion: Merlyn-Education
+      chat: merlyn-education
+      completion: merlyn-education
   description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llama configuration
   files:
-  - filename: Merlyn-Education.tmpl
+  - filename: merlyn-education.tmpl
     sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
     uri: 
-      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/Merlyn-Education.tmpl
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
   - filename: merlyn-education-corpus-qa-v2.Q8_0.gguf
     sha256: c2092049a4f6531676fe7323c06daeddbb640f0d215e40c22863726c7326b689
     uri: 
@@ -382,9 +393,430 @@
   icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
   license: apache-2.0
   name: 
-    TheBloke__merlyn-education-corpus-qa-v2-GGUF__merlyn-education-corpus-qa-v2.Q8_0.gguf
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q8_0.gguf
   tags:
   - transformers
+  - gguf
+  - llama
+  - MerlynMind
+  - education
+  - base_model:MerlynMind/merlyn-education-corpus-qa-v2
+  - license:apache-2.0
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: merlyn-education-corpus-qa-v2.Q2_K.gguf
+    template:
+      chat: merlyn-education
+      completion: merlyn-education
+  description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: merlyn-education.tmpl
+    sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
+  - filename: merlyn-education-corpus-qa-v2.Q2_K.gguf
+    sha256: c03d00258edcc4b47dc382ba2d5fad1516669f34c5a890d5b31c71c00441f723
+    uri: 
+      https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF/resolve/main/merlyn-education-corpus-qa-v2.Q2_K.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: apache-2.0
+  name: 
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q2_K.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - MerlynMind
+  - education
+  - base_model:MerlynMind/merlyn-education-corpus-qa-v2
+  - license:apache-2.0
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: merlyn-education-corpus-qa-v2.Q3_K_L.gguf
+    template:
+      chat: merlyn-education
+      completion: merlyn-education
+  description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: merlyn-education.tmpl
+    sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
+  - filename: merlyn-education-corpus-qa-v2.Q3_K_L.gguf
+    sha256: 8b8b297934c501beaa68abe72a9b451f7b72ed9507e6da510b74d88772a835bc
+    uri: 
+      https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF/resolve/main/merlyn-education-corpus-qa-v2.Q3_K_L.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: apache-2.0
+  name: 
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q3_K_L.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - MerlynMind
+  - education
+  - base_model:MerlynMind/merlyn-education-corpus-qa-v2
+  - license:apache-2.0
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: merlyn-education-corpus-qa-v2.Q3_K_M.gguf
+    template:
+      chat: merlyn-education
+      completion: merlyn-education
+  description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: merlyn-education.tmpl
+    sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
+  - filename: merlyn-education-corpus-qa-v2.Q3_K_M.gguf
+    sha256: 8d475d437d72a57dd264c4837299494378d775f0c29f9a4d6df941583a189ea3
+    uri: 
+      https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF/resolve/main/merlyn-education-corpus-qa-v2.Q3_K_M.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: apache-2.0
+  name: 
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q3_K_M.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - MerlynMind
+  - education
+  - base_model:MerlynMind/merlyn-education-corpus-qa-v2
+  - license:apache-2.0
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: merlyn-education-corpus-qa-v2.Q3_K_S.gguf
+    template:
+      chat: merlyn-education
+      completion: merlyn-education
+  description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: merlyn-education.tmpl
+    sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
+  - filename: merlyn-education-corpus-qa-v2.Q3_K_S.gguf
+    sha256: ae46725f29f0200a65f0a389a697f656f3e591acac3126ad832920d7672caa78
+    uri: 
+      https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF/resolve/main/merlyn-education-corpus-qa-v2.Q3_K_S.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: apache-2.0
+  name: 
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q3_K_S.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - MerlynMind
+  - education
+  - base_model:MerlynMind/merlyn-education-corpus-qa-v2
+  - license:apache-2.0
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: merlyn-education-corpus-qa-v2.Q4_0.gguf
+    template:
+      chat: merlyn-education
+      completion: merlyn-education
+  description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: merlyn-education.tmpl
+    sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
+  - filename: merlyn-education-corpus-qa-v2.Q4_0.gguf
+    sha256: b0c206d059b4e14c3a9beccebb35ab89438c26101be5e4a937fd7f09f00dff6a
+    uri: 
+      https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF/resolve/main/merlyn-education-corpus-qa-v2.Q4_0.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: apache-2.0
+  name: 
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q4_0.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - MerlynMind
+  - education
+  - base_model:MerlynMind/merlyn-education-corpus-qa-v2
+  - license:apache-2.0
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: merlyn-education-corpus-qa-v2.Q4_K_M.gguf
+    template:
+      chat: merlyn-education
+      completion: merlyn-education
+  description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: merlyn-education.tmpl
+    sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
+  - filename: merlyn-education-corpus-qa-v2.Q4_K_M.gguf
+    sha256: d4cc4b49a9cfb9840d0ce181be71c38b953dcfcc0e86a726761c09608fefa90d
+    uri: 
+      https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF/resolve/main/merlyn-education-corpus-qa-v2.Q4_K_M.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: apache-2.0
+  name: 
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q4_K_M.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - MerlynMind
+  - education
+  - base_model:MerlynMind/merlyn-education-corpus-qa-v2
+  - license:apache-2.0
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: merlyn-education-corpus-qa-v2.Q4_K_S.gguf
+    template:
+      chat: merlyn-education
+      completion: merlyn-education
+  description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: merlyn-education.tmpl
+    sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
+  - filename: merlyn-education-corpus-qa-v2.Q4_K_S.gguf
+    sha256: 8829ee2486d99682247b9beb27573f2d98f6d49569ba0595cd2d81c2158b023a
+    uri: 
+      https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF/resolve/main/merlyn-education-corpus-qa-v2.Q4_K_S.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: apache-2.0
+  name: 
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q4_K_S.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - MerlynMind
+  - education
+  - base_model:MerlynMind/merlyn-education-corpus-qa-v2
+  - license:apache-2.0
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: merlyn-education-corpus-qa-v2.Q5_0.gguf
+    template:
+      chat: merlyn-education
+      completion: merlyn-education
+  description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: merlyn-education.tmpl
+    sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
+  - filename: merlyn-education-corpus-qa-v2.Q5_0.gguf
+    sha256: 3f9a2b6ff597ef8c3290b508105fb87b6fec8e935546856bb005c1dc1f5ab3c6
+    uri: 
+      https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF/resolve/main/merlyn-education-corpus-qa-v2.Q5_0.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: apache-2.0
+  name: 
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q5_0.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - MerlynMind
+  - education
+  - base_model:MerlynMind/merlyn-education-corpus-qa-v2
+  - license:apache-2.0
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: merlyn-education-corpus-qa-v2.Q5_K_M.gguf
+    template:
+      chat: merlyn-education
+      completion: merlyn-education
+  description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: merlyn-education.tmpl
+    sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
+  - filename: merlyn-education-corpus-qa-v2.Q5_K_M.gguf
+    sha256: 386ae88a37a3a6083a661e9925b8b4daf81568b79401274d73d0f0ad367794d9
+    uri: 
+      https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF/resolve/main/merlyn-education-corpus-qa-v2.Q5_K_M.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: apache-2.0
+  name: 
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q5_K_M.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - MerlynMind
+  - education
+  - base_model:MerlynMind/merlyn-education-corpus-qa-v2
+  - license:apache-2.0
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: merlyn-education-corpus-qa-v2.Q5_K_S.gguf
+    template:
+      chat: merlyn-education
+      completion: merlyn-education
+  description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: merlyn-education.tmpl
+    sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
+  - filename: merlyn-education-corpus-qa-v2.Q5_K_S.gguf
+    sha256: 7b7a024def3bab837b480f4ff11ddcf24c03d4b449f9d38ec2fec0ba7f877203
+    uri: 
+      https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF/resolve/main/merlyn-education-corpus-qa-v2.Q5_K_S.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: apache-2.0
+  name: 
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q5_K_S.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - MerlynMind
+  - education
+  - base_model:MerlynMind/merlyn-education-corpus-qa-v2
+  - license:apache-2.0
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: merlyn-education-corpus-qa-v2.Q6_K.gguf
+    template:
+      chat: merlyn-education
+      completion: merlyn-education
+  description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: merlyn-education.tmpl
+    sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
+  - filename: merlyn-education-corpus-qa-v2.Q6_K.gguf
+    sha256: 94c905a6ca5ae1a10848f4dbd28fe1c3091f3b834c8fc75afc9586edb441a029
+    uri: 
+      https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF/resolve/main/merlyn-education-corpus-qa-v2.Q6_K.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: apache-2.0
+  name: 
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q6_K.gguf
+  tags:
+  - transformers
+  - gguf
+  - llama
+  - MerlynMind
+  - education
+  - base_model:MerlynMind/merlyn-education-corpus-qa-v2
+  - license:apache-2.0
+  - text-generation-inference
+  - region:us
+  urls:
+  - https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF
+- config_file:
+    backend: llama
+    context_size: 1024
+    parameters:
+      model: merlyn-education-corpus-qa-v2.Q8_0.gguf
+    template:
+      chat: merlyn-education
+      completion: merlyn-education
+  description: TheBloke/merlyn-education-corpus-qa-v2-GGUF - llamaFileFormatFallback
+    configuration
+  files:
+  - filename: merlyn-education.tmpl
+    sha256: ad9636f0d642141e58e9b2fdcc650bf431b0e993336902f4343e9fa50841fe7c
+    uri: 
+      https://raw.githubusercontent.com/dave-gray101/model-gallery/main/prompt-templates/merlyn-education.tmpl
+  - filename: merlyn-education-corpus-qa-v2.Q8_0.gguf
+    sha256: c2092049a4f6531676fe7323c06daeddbb640f0d215e40c22863726c7326b689
+    uri: 
+      https://huggingface.co/TheBloke/merlyn-education-corpus-qa-v2-GGUF/resolve/main/merlyn-education-corpus-qa-v2.Q8_0.gguf
+  icon: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  license: apache-2.0
+  name: 
+    thebloke__merlyn-education-corpus-qa-v2-gguf__merlyn-education-corpus-qa-v2.Q8_0.gguf
+  tags:
+  - transformers
+  - gguf
   - llama
   - MerlynMind
   - education

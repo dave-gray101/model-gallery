@@ -8,6 +8,7 @@ import tabulate
 import os
 import datetime
 import tqdm
+import json
 
 from lib.base_models import ScrapeResult, ScrapeResultStatus
 from lib.config_recognizer import ConfigRecognizer
@@ -15,7 +16,7 @@ from lib.prompt_templating import PromptTemplateCache, AutoPromptTemplateConfig
 from lib.gallery_scraper import HFGalleryScraper
 from lib.utils import purge_folder
 
-from config_recognizers.llama import llamaConfigRecognizer, llama2ChatConfigRecognizer, mistralConfigRecognizer, llamaFallbackConfigRecognizer
+from config_recognizers.llama import llamaConfigRecognizer, llama2ChatConfigRecognizer, mistralConfigRecognizer, llamaFallbackConfigRecognizer, llamaFileFormatFallbackConfigRecognizer
 from config_recognizers.bert import bertCppConfigRecognizer
 from config_recognizers.rwkv import rwkvConfigRecognizer
 
@@ -33,6 +34,7 @@ ALL_CONFIG_RECOGNIZERS: List[ConfigRecognizer] = [
     llamaConfigRecognizer,
     mistralConfigRecognizer,
     llamaFallbackConfigRecognizer,
+    llamaFileFormatFallbackConfigRecognizer,
     bertCppConfigRecognizer,
     rwkvConfigRecognizer
 ]
@@ -94,6 +96,8 @@ if __name__ == "__main__":
     # This may not be the most efficient or effective strategy when all is said and done, but it will be the simplest to reason about in testing
     # Some possibilities include combining all searches to avoid pool creation overhead... or running pools of pools?
     
+    categorizedResults: Dict[ScrapeResultStatus, List[ScrapeResult]] = {}
+    resultTotalCount = 0
 
     for filter in searchFilters:
         print(f"Creating a pool of size {args.count} for {filter}")
@@ -107,34 +111,12 @@ if __name__ == "__main__":
             resultTime = datetime.datetime.now()
 
             # Sort Results by status to produce results data
-            categorizedResults: Dict[ScrapeResultStatus, List[ScrapeResult]] = {}
-            total = 0
+            
             for k in ScrapeResultStatus:
                 categorizedResults[k] = []
             for result in results:
-                total = total + 1
+                resultTotalCount = resultTotalCount + 1
                 categorizedResults[result.status].append(result)
-                
-            summaryResults = [["Status", "Count", "More"]]
-
-            for k in ScrapeResultStatus:
-                summaryResults.append([k._name_, str(len(categorizedResults[k])), f"[{k._name_}]"])
-
-            summaryResults.append(["Total", str(total), ""])
-
-            markdownResults = f"##Summary of Results for {resultTime}\n{tabulate.tabulate(summaryResults, headers="firstrow", tablefmt="github")}"
-
-            # TEMPORARY: moved this above the full dump due to size limits. Better solution to follow?
-            os.environ['GITHUB_STEP_SUMMARY'] = markdownResults
-
-            for k in ScrapeResultStatus:
-                groupTableData = [["Name", "Detail"]]
-                for r in categorizedResults[k]:
-                    groupTableData.append([r.filename, r.message])
-                markdownResults = f"{markdownResults}\n##{k._name_}\n{tabulate.tabulate(groupTableData, headers="firstrow", tablefmt="github")}"
-
-            # os.environ['GITHUB_STEP_SUMMARY'] = markdownResults
-            print(markdownResults)
 
             pool.close()
             pool.join()
@@ -143,3 +125,29 @@ if __name__ == "__main__":
             pool.terminate()
             break
 
+    summaryResults = [["Status", "Count", "More"]]
+
+    for k in ScrapeResultStatus:
+        summaryResults.append([k._name_, str(len(categorizedResults[k])), f"[{k._name_}]"])
+
+    summaryResults.append(["Total", str(resultTotalCount), ""])
+
+    markdownResults = f"##Summary of Results for {resultTime}\n{tabulate.tabulate(summaryResults, headers="firstrow", tablefmt="github")}"
+
+    # TEMPORARY: moved this above the full dump due to size limits. Better solution to follow?
+    os.environ['GITHUB_STEP_SUMMARY'] = markdownResults
+
+    for k in ScrapeResultStatus:
+        groupTableData = [["Name", "Detail"]]
+        for r in categorizedResults[k]:
+            groupTableData.append([r.filename, r.message])
+        markdownResults = f"{markdownResults}\n##{k._name_}\n{tabulate.tabulate(groupTableData, headers="firstrow", tablefmt="github")}"
+
+    # os.environ['GITHUB_STEP_SUMMARY'] = markdownResults
+    print(markdownResults)
+
+    # Emit the JSON index file for future WebUI usage?
+    json_list = list(map(lambda x: x.filename, categorizedResults[ScrapeResultStatus.SUCCESS]))
+
+    with open('huggingface_index.json', 'w') as f:
+        json.dump(json_list, f)
