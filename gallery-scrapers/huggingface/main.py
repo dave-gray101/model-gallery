@@ -46,7 +46,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(
                     prog='HF Gallery Scraper',
                     description='Creates LocalAI Model Galleries for HuggingFace Repos',
-                    epilog='©2023 dave@gray101.com and the go-skynet team.')
+                    epilog='??2023 dave@gray101.com and the go-skynet team.')
     
     parser.add_argument("--root", default=Path.cwd(), type=Path)
     parser.add_argument("--count", default=multiprocessing.cpu_count(), type=int)
@@ -132,7 +132,7 @@ if __name__ == "__main__":
 
     summaryResults.append(["Total", str(resultTotalCount), ""])
 
-    markdownResults = f"##Summary of Results for {resultTime}\n{tabulate.tabulate(summaryResults, headers="firstrow", tablefmt="github")}"
+    markdownResults = f"##Summary of Results for {resultTime}\n{tabulate.tabulate(summaryResults, headers='firstrow', tablefmt='github')}"
 
     # TEMPORARY: moved this above the full dump due to size limits. Better solution to follow?
     os.environ['GITHUB_STEP_SUMMARY'] = markdownResults
@@ -141,7 +141,7 @@ if __name__ == "__main__":
         groupTableData = [["Name", "Detail"]]
         for r in categorizedResults[k]:
             groupTableData.append([r.filename, r.message])
-        markdownResults = f"{markdownResults}\n##{k._name_}\n{tabulate.tabulate(groupTableData, headers="firstrow", tablefmt="github")}"
+        markdownResults = f"{markdownResults}\n##{k._name_}\n{tabulate.tabulate(groupTableData, headers='firstrow', tablefmt='github')}"
 
     # os.environ['GITHUB_STEP_SUMMARY'] = markdownResults
     print(markdownResults)
